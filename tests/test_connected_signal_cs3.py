@@ -744,32 +744,32 @@ class TestDeterministicFallbackManagementVoice(unittest.TestCase):
             "continuation_status": "NOT_CONTINUING",
         }
 
-    def test_continues_word_count_30_to_50(self) -> None:
+    def test_continues_word_count_35_to_55(self) -> None:
         from src.ai_connected_signal_synthesis import _deterministic_interpretation
         gov = dict(self._gov)
         gov["continuation_status"] = "CONTINUES"
         msg = _deterministic_interpretation(gov)
         n = len(msg.split())
-        self.assertGreaterEqual(n, 30, f"word count {n} below 30: {msg!r}")
-        self.assertLessEqual(n, 50, f"word count {n} above 50: {msg!r}")
+        self.assertGreaterEqual(n, 35, f"word count {n} below 35: {msg!r}")
+        self.assertLessEqual(n, 55, f"word count {n} above 55: {msg!r}")
 
-    def test_partial_word_count_30_to_50(self) -> None:
+    def test_partial_word_count_35_to_55(self) -> None:
         from src.ai_connected_signal_synthesis import _deterministic_interpretation
         gov = dict(self._gov)
         gov["continuation_status"] = "PARTIAL"
         msg = _deterministic_interpretation(gov)
         n = len(msg.split())
-        self.assertGreaterEqual(n, 30)
-        self.assertLessEqual(n, 50)
+        self.assertGreaterEqual(n, 35)
+        self.assertLessEqual(n, 55)
 
-    def test_not_continuing_word_count_30_to_50(self) -> None:
+    def test_not_continuing_word_count_35_to_55(self) -> None:
         from src.ai_connected_signal_synthesis import _deterministic_interpretation
         gov = dict(self._gov)
         gov["continuation_status"] = "NOT_CONTINUING"
         msg = _deterministic_interpretation(gov)
         n = len(msg.split())
-        self.assertGreaterEqual(n, 30)
-        self.assertLessEqual(n, 50)
+        self.assertGreaterEqual(n, 35)
+        self.assertLessEqual(n, 55)
 
     def test_continues_does_not_leak_internal_codes(self) -> None:
         from src.ai_connected_signal_synthesis import _deterministic_interpretation
@@ -805,10 +805,10 @@ class TestDeterministicFallbackManagementVoice(unittest.TestCase):
 
 
 class TestHy3SystemPromptForManagementLanguage(unittest.TestCase):
-    def test_system_prompt_has_30_50_word_target(self) -> None:
+    def test_system_prompt_has_35_55_word_target(self) -> None:
         from src.ai_connected_signal_synthesis import _build_system_prompt
         prompt = _build_system_prompt()
-        self.assertIn("30 to 50 words", prompt)
+        self.assertIn("35 to 55 words", prompt)
         self.assertIn("maximum 2 sentences", prompt)
 
     def test_system_prompt_excludes_correlation_terms(self) -> None:

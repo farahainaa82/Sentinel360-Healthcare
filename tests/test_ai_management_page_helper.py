@@ -433,8 +433,10 @@ class TestCardHTML:
     # --- Q&A AI path ------------------------------------------------------------
     def test_qa_path_includes_ai_pill(self):
         html = build_priority_card_html(**self._qa_args())
-        assert "s360-ai-pill" in html
+        # Uses the shared GenAI provenance badge helper so the wording
+        # matches the other Hy3-powered sections exactly.
         assert "AI-ASSISTED" in html
+        assert "Tencent Hy3" in html
 
     def test_qa_path_includes_governance_footer(self):
         html = build_priority_card_html(**self._qa_args())

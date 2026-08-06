@@ -5,6 +5,7 @@ No new assumptions.  No frozen output modification.
 """
 from __future__ import annotations
 
+import calendar
 import json
 import math
 import os
@@ -926,6 +927,25 @@ def build_simulation_state(
     state["forecast_unit"] = forecast["unit"] if forecast else state["baseline_unit"]
     state["forecast_warning"] = forecast["warning"] if forecast else "Monitoring"
 
+    # -----------------------------------------------------------------------
+    # Staffing scenario baseline correction (governed model v2)
+    # For kpi_001, the scenario baseline must be the selected-month forecast,
+    # not the Jan–Jul historical mean.  The required-staff denominator is
+    # retained from governed workforce data.
+    # -----------------------------------------------------------------------
+    if kpi_id == "kpi_001" and baseline is not None and forecast is not None:
+        forecast_pct = forecast["value"]
+        if forecast_pct is not None and baseline.baseline_required_staff is not None:
+            # Derive forecast-consistent available staff
+            forecast_available = (forecast_pct / 100.0) * baseline.baseline_required_staff
+            baseline.baseline_staffing_coverage_pct = forecast_pct
+            baseline.baseline_available_staff = forecast_available
+            baseline.baseline_kpi_value = forecast_pct
+            baseline.baseline_reference_date = f"{GOVERNED_ACTUAL_YEAR}-{forecast_month:02d}-01"
+            # Update state so UI and handoff are consistent
+            state["baseline_value"] = forecast_pct
+            state["baseline_date"] = baseline.baseline_reference_date
+
     # Interventions
     interventions = load_interventions_for_kpi(kpi_id)
     state["interventions"] = interventions
@@ -946,6 +966,14 @@ def build_simulation_state(
     scenario_family = _KPI_TO_SCENARIO_FAMILY.get(kpi_id, "")
 
     for profile in profiles:
+        # Inject selected-month calendar days for staffing duration scaling
+        if kpi_id == "kpi_001":
+            try:
+                days_in_month = calendar.monthrange(GOVERNED_ACTUAL_YEAR, forecast_month)[1]
+            except (ValueError, TypeError):
+                days_in_month = 30
+            profile["assumptions"]["days_in_selected_month"] = days_in_month
+
         result = run_scenario(baseline, kpi_id, profile) if baseline else None
         scenario_results.append(result)
 

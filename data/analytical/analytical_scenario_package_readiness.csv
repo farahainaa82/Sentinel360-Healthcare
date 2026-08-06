@@ -1,4 +1,4 @@
 approval_package_id,package_readiness,readiness_rationale,scenario_validation_index,comparator_status,baseline_status,assumption_status,engine_name,engine_version,run_timestamp
-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260108,Ready with Conditions,Acceptable with Conditions,0.778,Consistent,Valid,Passed with Flags,validation_scorecard,2C-2E-1.0,2026-08-02T17:46:54.782487
-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260116,Ready with Conditions,Acceptable with Conditions,0.778,Consistent,Valid,Passed with Flags,validation_scorecard,2C-2E-1.0,2026-08-02T17:46:54.782487
-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260209,Ready with Conditions,Acceptable with Conditions,0.778,Consistent,Valid,Passed with Flags,validation_scorecard,2C-2E-1.0,2026-08-02T17:46:54.782487
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260108,Ready with Conditions,Acceptable with Conditions,0.778,Consistent,Valid,Passed with Flags,validation_scorecard,2C-2E-1.0,2026-08-06T15:08:34.982927
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260116,Ready with Conditions,Acceptable with Conditions,0.778,Consistent,Valid,Passed with Flags,validation_scorecard,2C-2E-1.0,2026-08-06T15:08:34.982927
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260209,Ready with Conditions,Acceptable with Conditions,0.778,Consistent,Valid,Passed with Flags,validation_scorecard,2C-2E-1.0,2026-08-06T15:08:34.982927

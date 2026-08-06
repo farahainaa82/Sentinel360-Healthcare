@@ -1,0 +1,3 @@
+setting_name,setting_value,setting_description,scenario_family,version
+baseline_source,FORECAST_MONTH,Scenario baseline must use the selected-month forecast rather than the historical actual mean.,Staffing Coverage Adjustment,v2.0
+duration_scaling_enabled,TRUE,Staff interventions are scaled by intervention_duration_days / days_in_selected_month capped at 1.0.,Staffing Coverage Adjustment,v2.0

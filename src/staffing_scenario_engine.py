@@ -80,21 +80,27 @@ class StaffingScenarioEngine:
             add_staff = _to_float_assumption(assumptions.get("additional_staff_count"), 0.0)
             temp_staff = _to_float_assumption(assumptions.get("temporary_staff_count"), 0.0)
             reassign_staff = _to_float_assumption(assumptions.get("staff_reassignment_count"), 0.0)
-            uncovered_red = _to_float_assumption(assumptions.get("uncovered_shift_reduction_pct"), 0.0)
+
+            # Duration scaling (governed model setting)
+            days_in_month = _to_float_assumption(assumptions.get("days_in_selected_month"), 30.0)
+            duration_days = _to_float_assumption(assumptions.get("intervention_duration_days"), 30.0)
+            duration_weight = min(duration_days / days_in_month, 1.0) if days_in_month > 0 else 1.0
 
             # Reject negative staff counts
             if add_staff < 0 or temp_staff < 0 or reassign_staff < 0:
                 execution_status = ScenarioExecutionStatus.BLOCKED_INVALID_ASSUMPTION
                 governance_warning = "Negative staff counts are rejected."
             else:
-                adjusted_avail = base_avail + add_staff + temp_staff + reassign_staff
+                # Effective intervention staff scaled by duration
+                effective_intervention_staff = (add_staff + temp_staff + reassign_staff) * duration_weight
+                adjusted_avail = base_avail + effective_intervention_staff
                 if base_req > 0:
                     adjusted_coverage = (adjusted_avail / base_req) * 100.0
                 else:
                     adjusted_coverage = 0.0
 
-                # Apply logical cap if configured
-                max_coverage = _to_float_assumption(assumptions.get("max_coverage_pct"), 100.0)
+                # Governed ceiling at 100%
+                max_coverage = 100.0
                 if adjusted_coverage > max_coverage:
                     adjusted_coverage = max_coverage
                     governance_warning = f"Staffing coverage capped at {max_coverage}%."

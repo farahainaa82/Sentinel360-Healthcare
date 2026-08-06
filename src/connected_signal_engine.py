@@ -21,10 +21,62 @@ from __future__ import annotations
 
 import json
 import os
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Mapping, Optional
 
 import pandas as pd
 from scipy.stats import spearmanr  # type: ignore[import-untyped]
+
+from src.genai_provenance_badge import (
+    is_hy3_live,
+    render_hy3_badge_html,
+    render_hy3_caption_html,
+)
+
+
+# ---------------------------------------------------------------------------
+# AI message extraction
+# ---------------------------------------------------------------------------
+def _extract_ai_message(ai_interpretation: Any) -> str:
+    """Extract the management-interpretation text from a Connected Signal
+    AI synthesis result without ever rendering the surrounding object.
+
+    The synthesis service may return:
+
+    * ``None``            -- no AI sentence at all.
+    * a plain ``str``     -- deterministic fallback text.
+    * a ``dict``          -- ``{"status": ..., "message": "..."}``.
+    * a dataclass/object  -- with a ``message`` attribute.
+
+    The Connected Signal card must render ONLY the message string, never
+    the surrounding container, the status, the field names, or any
+    Python/JSON representation.  This helper is the single source of
+    truth for that contract.
+
+    Returns the cleaned message string, or an empty string when no
+    message can be safely extracted.
+    """
+    if ai_interpretation is None:
+        return ""
+    # Plain string is the simplest case -- deterministic fallback text
+    # or a legacy cached value.  Return it verbatim.
+    if isinstance(ai_interpretation, str):
+        return ai_interpretation
+    # Dict-shaped result: read only the "message" key.  We deliberately
+    # do NOT fall back to ``str(ai_interpretation)`` because that would
+    # leak the entire {"status": ..., "message": ...} representation
+    # into the UI.
+    if isinstance(ai_interpretation, Mapping):
+        msg = ai_interpretation.get("message")
+        if isinstance(msg, str) and msg.strip():
+            return msg
+        return ""
+    # Dataclass / arbitrary object with a ``message`` attribute.
+    msg = getattr(ai_interpretation, "message", None)
+    if isinstance(msg, str) and msg.strip():
+        return msg
+    # Unknown shape -- refuse to render rather than risk stringifying a
+    # full object dump into the executive card.
+    return ""
 
 
 # ---------------------------------------------------------------------------
@@ -652,7 +704,7 @@ def _actual_period_label(start_value: Any, end_value: Any) -> str:
 def build_connected_signal_card_html(
     result: Dict[str, Any],
     period_badge_html: str,
-    ai_interpretation: Optional[str] = None,
+    ai_interpretation: Optional[Any] = None,
 ) -> str:
     """Build a compact Connected Signal HTML card for the Executive Overview.
 
@@ -662,6 +714,16 @@ def build_connected_signal_card_html(
         NOT_CONTINUING) are NEVER rendered; manager-friendly wording is
         used instead.
       * Small KPI trend icons vs. wide flowchart connector arrows.
+
+    ``ai_interpretation`` may be:
+      * ``None`` -- no management interpretation is rendered.
+      * a plain ``str`` -- treated as deterministic fallback text. No
+        Hy3 badge is shown, since the string did not come from a live
+        Hy3 synthesis call.
+      * a dict / Mapping with a ``"status"`` key. The "AI-ASSISTED ·
+        Tencent Hy3" badge and provenance caption are only rendered
+        when ``status == "OK"``. The visible interpretation text is
+        read from the ``"message"`` key in that case.
     """
     primary = result.get("primary_chain")
     continuation = result.get("forecast_continuation")
@@ -787,16 +849,39 @@ def build_connected_signal_card_html(
         )
 
     # ---- Management Interpretation (Hy3 sentence) ----
+    #
+    # The "AI-ASSISTED · Tencent Hy3" badge and the
+    # "Generated from governed Sentinel360 connected-signal evidence"
+    # caption only render when the underlying synthesis result has
+    # status == "OK" (i.e. it genuinely came from a live Tencent Hy3
+    # call). A plain string is treated as deterministic fallback text
+    # and is never labelled as AI-generated.
+    #
+    # The message is extracted through a single helper, which only ever
+    # returns the inner "message" string.  The surrounding dict /
+    # dataclass / status field is NEVER rendered -- the helper refuses
+    # to fall back to ``str(...)`` to avoid leaking a Python object
+    # dump into the executive card.
     interp_html = ""
-    if ai_interpretation:
+    hy3_live = is_hy3_live(ai_interpretation)
+    interp_text = _extract_ai_message(ai_interpretation)
+
+    if interp_text:
+        # Badge + caption block (only when live Hy3).
+        provenance_block = (
+            render_hy3_badge_html() + render_hy3_caption_html(scope="cs")
+            if hy3_live
+            else ""
+        )
         interp_html = (
             f'<div style="margin-top:10px;padding:6px 0;border-top:1px solid #EDF2F7;">'
             f'<div style="font-size:0.62rem;color:#4A6A99;text-transform:uppercase;'
             f'letter-spacing:0.5px;font-weight:600;">'
             f'Management Interpretation'
             f'</div>'
+            f'{provenance_block}'
             f'<div style="font-size:0.88rem;color:#2D3748;line-height:1.45;margin-top:3px;">'
-            f'{ai_interpretation}'
+            f'{interp_text}'
             f'</div>'
             f'</div>'
         )

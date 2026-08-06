@@ -238,7 +238,7 @@ html, body, [class*="css"]  { font-family: 'Inter', -apple-system, BlinkMacSyste
 /* ---- Scenario comparator cards (3 tinted variants) ---- */
 .s360-sim-scenario-card {
     border: 1px solid #DDE3EC; border-radius: 8px;
-    padding: 12px 14px; background: #ffffff;
+    padding: 12px 14px 8px 14px; background: #ffffff;
     box-shadow: 0 1px 4px rgba(0,0,0,0.03);
     border-left-width: 4px; border-left-style: solid;
     margin-bottom: 8px;
@@ -970,7 +970,6 @@ def _render_scenario_card(
   {intensity_html}
   {capped_html}
   <div class="meta">Status: {status}</div>
-  <div class="meta">Confidence: {confidence}</div>
 </div>
 """,
         unsafe_allow_html=True,
@@ -1384,7 +1383,7 @@ st.markdown(
 <div class="s360-sim-strategy">
     <div class="label">Action Strategy</div>
     <div class="value">{action_strategy}</div>
-    <div class="sub">Governed intervention family for the selected KPI.</div>
+    <div class="sub">Governed intervention family for the selected Department.</div>
 </div>
 """,
     unsafe_allow_html=True,

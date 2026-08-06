@@ -26,6 +26,11 @@ from src.streamlit_executive_page_controller import (
 )
 from src.s360_sidebar_chrome import render_sidebar_chrome
 from src.decision_confidence_demo import get_decision_confidence
+from src.decision_impact_ai_evidence import (
+    build_decision_impact_evidence,
+    build_decision_impact_cache_key,
+)
+from src.ai_decision_impact_synthesis import AIDecisionImpactSynthesisService
 
 # ---------------------------------------------------------------------------
 # Page config
@@ -463,6 +468,43 @@ html, body, [class*="css"] { font-family: 'Inter', sans-serif !important; }
     line-height: 1.4;
     margin-bottom: 8px;
 }
+
+/* ---- AI-Assisted Decision Impact interpretation card ---- */
+.s360-dec-impact-card {
+    background: #F7F9FC;
+    border: 1px solid #DDE3EC;
+    border-radius: 8px;
+    padding: 14px 16px 12px 16px;
+    margin: 4px 0 12px 0;
+    box-shadow: 0 1px 4px rgba(15, 23, 42, 0.03);
+    box-sizing: border-box;
+}
+.s360-dec-impact-card-title {
+    font-size: 13px;
+    font-weight: 700;
+    color: #0B1E3D;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    margin: 0 0 10px 0;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #DDE3EC;
+    line-height: 1.2;
+}
+.s360-dec-impact-subhead {
+    font-size: 11px;
+    font-weight: 700;
+    color: #0B1E3D;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    margin: 8px 0 4px 0;
+    line-height: 1.3;
+}
+.s360-dec-impact-body {
+    font-size: 13px;
+    color: #1A202C;
+    line-height: 1.55;
+    margin: 0 0 6px 0;
+}
 </style>
 """,
     unsafe_allow_html=True,
@@ -482,6 +524,76 @@ def _logo_data_uri(filename: str) -> str:
 # ---------------------------------------------------------------------------
 # Header render
 # ---------------------------------------------------------------------------
+
+# ---------------------------------------------------------------------------
+# AI-Assisted Decision Impact Interpretation
+# ---------------------------------------------------------------------------
+
+_DECISION_IMPACT_CACHE_NS = "s360_decision_impact_cache_v1"
+_DECISION_IMPACT_CONTEXT_NS = "s360_decision_impact_context_v1"
+
+
+def _get_decision_impact(
+    evidence: Dict[str, Any],
+    *,
+    kpi_id: str,
+    department_id: str,
+    forecast_month_label: str,
+) -> Any:
+    """Resolve decision impact through cache → live Hy3 → fallback pipeline."""
+    _ctx_key = (
+        f"{_DECISION_IMPACT_CONTEXT_NS}:kpi={kpi_id}:dept={department_id}"
+        f":month={forecast_month_label}"
+    )
+    _prev_ctx = st.session_state.get(_DECISION_IMPACT_CONTEXT_NS)
+    if _prev_ctx != _ctx_key:
+        st.session_state[_DECISION_IMPACT_CONTEXT_NS] = _ctx_key
+        _ns = _DECISION_IMPACT_CACHE_NS
+        for key in list(st.session_state.keys()):
+            if key.startswith(_ns + ":"):
+                del st.session_state[key]
+
+    cache_key = build_decision_impact_cache_key(evidence)
+    cached = st.session_state.get(cache_key)
+    if cached is not None:
+        return cached
+
+    result = AIDecisionImpactSynthesisService().interpret(evidence)
+    if result.status == "OK":
+        st.session_state[cache_key] = result
+    return result
+
+
+def _render_decision_impact(interp_result: Any) -> None:
+    """Render the AI-Assisted Decision Impact Interpretation section."""
+    from src.genai_provenance_badge import (
+        is_hy3_live,
+        render_hy3_badge_html,
+        render_hy3_caption_html,
+    )
+
+    _card_parts: list[str] = [
+        '<div class="s360-dec-impact-card">',
+        '<div class="s360-dec-impact-card-title">Decision Impact Interpretation</div>',
+    ]
+    if is_hy3_live(interp_result):
+        _card_parts.append(render_hy3_badge_html())
+    _card_parts.append(
+        '<div class="s360-dec-impact-subhead">What does this mean for the decision?</div>'
+        f'<div class="s360-dec-impact-body">{interp_result.what_it_means}</div>'
+        '<div class="s360-dec-impact-subhead">Decision Implication</div>'
+        f'<div class="s360-dec-impact-body">{interp_result.decision_implication}</div>'
+    )
+    if is_hy3_live(interp_result):
+        _card_parts.append(render_hy3_caption_html(scope="decision"))
+    if not interp_result.what_it_means and not interp_result.decision_implication:
+        _card_parts.append(
+            '<div class="s360-dec-impact-body" style="color:#64748B;font-style:italic;">'
+            'No interpretation available.</div>'
+        )
+    _card_parts.append('</div>')
+    st.markdown(''.join(_card_parts), unsafe_allow_html=True)
+
 
 def _render_header() -> None:
     jcorp = _logo_data_uri("jcorp_logo.png")
@@ -1033,6 +1145,35 @@ with impact_cols[1]:
         """,
         unsafe_allow_html=True,
     )
+
+# ---------------------------------------------------------------------------
+# AI-Assisted Decision Impact Interpretation
+# ---------------------------------------------------------------------------
+dec_evidence = build_decision_impact_evidence(
+    hospital_id=hospital_id,
+    department_name=department_name,
+    kpi_id=kpi_id,
+    kpi_name=kpi_name,
+    forecast_month_label=forecast_month_label,
+    do_nothing_forecast=do_nothing_forecast,
+    selected_scenario_value=selected_scenario_value,
+    change_value=change_value,
+    change_pct=change_pct,
+    action_strategy=action_strategy,
+    resource_line=resource_line,
+    selected_action_level=selected_action_level,
+    threshold_cfg=_threshold_cfg,
+    unit=unit,
+)
+
+dec_result = _get_decision_impact(
+    dec_evidence,
+    kpi_id=kpi_id,
+    department_id=department_id,
+    forecast_month_label=forecast_month_label,
+)
+
+_render_decision_impact(dec_result)
 
 if kpi_id == "kpi_004" and waiting_time_direction:
     st.info("Lower waiting time is better.")

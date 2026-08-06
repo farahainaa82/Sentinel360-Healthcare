@@ -47,14 +47,6 @@ _DEFAULT_MAX_TOKENS = 200
 _AI_SCHEMA_VERSION = "ai_cs_v3"
 
 
-_ENGLISH_MONTHS = {
-    1: "January", 2: "February", 3: "March",
-    4: "April", 5: "May", 6: "June",
-    7: "July", 8: "August", 9: "September",
-    10: "October", 11: "November", 12: "December",
-}
-
-
 # Forbidden causal verbs that Hy3 must NOT use.
 _CAUSAL_PHRASES = (
     "caused by",
@@ -97,7 +89,7 @@ def _build_system_prompt() -> str:
         "\n"
         "Task: write a concise English interpretation of a governed "
         "connected-signal pattern in plain management language. "
-        "Target 30 to 50 words, maximum 2 sentences.\n"
+        "Target 35 to 55 words, maximum 2 sentences.\n"
         "\n"
         "The interpretation must cover, in order:\n"
         "  1. What was observed historically (the connected KPI pattern "
@@ -107,28 +99,40 @@ def _build_system_prompt() -> str:
         "  3. What management should infer (e.g. closer monitoring, "
         "review individual KPIs, treat as connected forward risk).\n"
         "\n"
-        "Continuation-aware phrasing (use these phrasings directly when "
-        "applicable, adapted to the supplied month label):\n"
-        "  - CONTINUES: the connected pattern is visible in the forecast.\n"
-        "  - PARTIAL: part of the connected pattern is visible, but the "
-        "full sequence is not consistently present in the forecast.\n"
-        "  - NOT_CONTINUING: the connected pattern is not consistently "
-        "reflected in the forecast; the affected KPIs should be monitored "
-        "individually rather than treated as one connected forward risk.\n"
+        "Continuation-aware phrasing -- use the wording style of the "
+        "example sentences below, adapted to the actual chain labels "
+        "and the supplied forecast month:\n"
+        "  - CONTINUES (sustained connected forward signal): "
+        "\"Historically, <KPI A> moved together with <KPI B>, <KPI C> "
+        "and <KPI D>. The <month> forecast continues to reflect the "
+        "same pattern, indicating a sustained connected operational "
+        "signal that warrants closer management attention.\"\n"
+        "  - PARTIAL (only part of the pattern continues): "
+        "\"Historically, these KPIs moved together in a strong "
+        "pattern. The <month> forecast shows only part of that "
+        "sequence continuing, so management should review the "
+        "affected KPIs individually before treating it as a sustained "
+        "connected risk.\"\n"
+        "  - NOT_CONTINUING (pattern is not continuing forward): "
+        "\"Historically, <KPI A> moved together with <KPI B>, <KPI C> "
+        "and <KPI D>. The <month> forecast does not show the full "
+        "pattern continuing, so management should treat these KPIs as "
+        "separate emerging signals rather than one sustained connected "
+        "risk.\"\n"
         "  - NOT_APPLICABLE or no chain: the dashboard already shows the "
         "no-signal message; do not invent a narrative.\n"
         "\n"
         "Strict governance (non-negotiable):\n"
         "  - Use ONLY the supplied relationship evidence. Do not invent "
         "data, drivers, or interventions.\n"
-        "  - Write 1 to 2 sentences. Target 30 to 50 words; never above "
+        "  - Write 1 to 2 sentences. Preferred 35 to 55 words; never above "
         "60 words.\n"
-        "  - Use cautious language such as 'associated with', 'moving "
-        "together', 'connected pattern', 'may indicate', 'suggests', "
-        "'warrants', 'should be monitored'.\n"
-        "  - NEVER use causal language: 'caused by', 'causes', 'will "
-        "result in', 'because of', 'drives', 'leads to', 'results from', "
-        "'is because'.\n"
+        "  - Use cautious language such as 'moved together', 'appeared "
+        "alongside', 'connected pattern', 'associated pattern', "
+        "'reflects', 'warrants'.\n"
+        "  - NEVER use causal language: 'caused by', 'causes', 'caused', "
+        "'will result in', 'because of', 'drives', 'drove', 'leads to', "
+        "'led to', 'results from', 'resulted in', 'is because'.\n"
         "  - NEVER quote correlation coefficients, p-values, Spearman, "
         "Pearson, or any statistical method name.\n"
         "  - NEVER mention internal identifiers such as 'HOSP-001', "
@@ -146,8 +150,9 @@ def _build_system_prompt() -> str:
         "-- respect that; do not claim causality.\n"
         "\n"
         "Output format:\n"
-        "Plain text. 1 to 2 sentences. No markdown, no JSON, no bullets, "
-        "no line breaks, no methodology notes inside the main text.\n"
+        "Plain text. 1 to 2 sentences. No markdown, no JSON, no dict "
+        "representation, no bullets, no line breaks, no methodology "
+        "notes inside the main text. Output only the management sentence."
     )
 
 
@@ -468,7 +473,7 @@ def _extract_governed_payload(
             try:
                 m = int(fc_month)
                 if 1 <= m <= 12:
-                    selected_month = _ENGLISH_MONTHS[m] + " " + str(int(fc_year))
+                    selected_month = _ENGLISH_MONTHS[m - 1] + " " + str(int(fc_year))
             except (TypeError, ValueError):
                 selected_month = ""
 
@@ -539,8 +544,10 @@ def _deterministic_interpretation(governed: Dict[str, Any]) -> str:
 
     Returns a 1 to 2 sentence management-voice interpretation derived
     from the continuation status, the chain KPI labels, and the
-    selected forecast month. Wording avoids raw internal status codes
-    (CONTINUES / PARTIAL / NOT_CONTINUING) and avoids causal language.
+    selected forecast month. Wording follows the state-specific
+    management templates (CONTINUES / PARTIAL / NOT_CONTINUING /
+    NOT_APPLICABLE) and avoids raw internal status codes, causal
+    language, and the governance footer disclaimer.
     """
     chain = _format_chain_for_prose(governed.get("chain_labels"))
     month = _format_month_for_prose(governed.get("forecast_month"))
@@ -548,26 +555,24 @@ def _deterministic_interpretation(governed: Dict[str, Any]) -> str:
 
     if status == "CONTINUES":
         return (
-            "The historical pattern connecting " + chain + " is also "
-            "visible in the " + month + " forecast, suggesting the "
-            "connected operational signal may persist. Management "
-            "should consider closer monitoring of the affected KPIs."
+            "Historically, " + chain + " moved together, and the " + month
+            + " forecast continues to reflect the same pattern, indicating "
+            "a sustained connected operational signal that warrants closer "
+            "management attention."
         )
     if status == "PARTIAL":
         return (
-            "Some elements of the historical connected pattern between "
-            + chain + " remain visible in the " + month + " forecast, "
-            "but the full sequence is not consistently present. "
-            "Management should review the affected KPIs individually "
-            "before treating this as a sustained connected risk."
+            "Historically, these KPIs moved together in a strong pattern. "
+            "The " + month + " forecast shows only part of that sequence "
+            "continuing, so management should review the affected KPIs "
+            "individually before treating it as a sustained connected risk."
         )
     if status in ("NOT_CONTINUING", "NOT_CONTINUE", "NOT_CONTINUES"):
         return (
-            "Historically, " + chain + " moved together, but the "
-            + month + " forecast does not show the full pattern "
-            "continuing. Management should monitor these indicators "
-            "individually rather than treat them as one connected "
-            "forward risk."
+            "Historically, " + chain + " moved together, but the " + month
+            + " forecast does not show the full pattern continuing, so "
+            "management should treat these KPIs as separate emerging "
+            "signals rather than one sustained connected risk."
         )
     if status == "NOT_APPLICABLE":
         return (
@@ -652,7 +657,9 @@ _ENGLISH_MONTHS = [
 ]
 
 
-def _clean_and_enforce_budget(text: str, *, min_words: int = 30, max_words: int = 50) -> str:
+def _clean_and_enforce_budget(
+    text: str, *, min_words: int = 35, max_words: int = 55
+) -> str:
     """Reduce an LLM message to 1-2 sentences within the 30-50 word budget.
 
     Strips markdown fences, collapses whitespace, keeps up to two

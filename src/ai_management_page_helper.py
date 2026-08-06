@@ -35,7 +35,9 @@ import os
 from typing import Any, Dict, List, Optional, Tuple
 
 from src.ai_management_synthesis import AIManagementSynthesisService
+from src.genai_provenance_badge import render_hy3_badge_html
 from src.management_evidence_pack import ManagementEvidencePack
+from src.runtime_secrets import get_runtime_secret
 
 
 # ---------------------------------------------------------------------------
@@ -132,13 +134,13 @@ def run_ai_synthesis_for_state(
     no ``api_key``, ``authorization``, or other credential fields.
     """
     try:
-        prov = provider if provider is not None else os.getenv(
+        prov = provider if provider is not None else get_runtime_secret(
             "SENTINEL360_AI_PROVIDER", ""
         )
-        mod = model if model is not None else os.getenv(
+        mod = model if model is not None else get_runtime_secret(
             "SENTINEL360_AI_MODEL", ""
         )
-        key = api_key if api_key is not None else os.getenv(
+        key = api_key if api_key is not None else get_runtime_secret(
             "SENTINEL360_AI_API_KEY", ""
         )
         pack = ManagementEvidencePack.from_executive_state(state)
@@ -396,9 +398,11 @@ def build_priority_card_html(
         f'<span class="s360-pm-status-badge {_esc(period_badge_class)}">'
         f'{_esc(period_badge_text)}</span>'
     )
-    ai_pill_html = (
-        '<span class="s360-ai-pill">AI-ASSISTED</span>' if show_ai_pill else ""
-    )
+    # Reuse the shared GenAI provenance badge helper so this card uses
+    # exactly the same "AI-ASSISTED · Tencent Hy3" pill as the other
+    # Hy3-powered sections (Management Interpretation, KPI graph
+    # interpretation, Connected Signal, AI Risk Brief).
+    ai_pill_html = render_hy3_badge_html() if show_ai_pill else ""
     badge_row = (
         f'<div style="margin:6px 0 14px 0; display:flex; gap:8px; '
         f'align-items:center; flex-wrap:wrap;">{badge_html}{ai_pill_html}</div>'

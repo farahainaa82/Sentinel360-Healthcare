@@ -4,6 +4,7 @@ Sentinel360 — Executive Overview High-Fidelity Redesign (Usability Refinement)
 """
 
 import os
+from src.runtime_secrets import get_runtime_secret
 import re
 import sys
 
@@ -12,9 +13,11 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
 import base64
 import json
+import time
 import pandas as pd
 import streamlit as st
 from pathlib import Path
+from typing import Any, Dict, Optional
 
 from src.streamlit_executive_data_loader import (
     FORECAST_HORIZON_END_MONTH,
@@ -40,6 +43,8 @@ from src.streamlit_executive_visualisation_engine import (
 )
 from src import connected_signal_engine
 from src.ai_connected_signal_synthesis import AIConnectedSignalSynthesisService
+from src.ai_kpi_graph_synthesis import AIKPIGraphSynthesisService
+from src.kpi_graph_ai_evidence import build_kpi_graph_evidence
 from src.s360_sidebar_chrome import render_sidebar_chrome
 from src.ai_management_page_helper import (
     build_ai_cache_signature,
@@ -813,16 +818,19 @@ if _is_forecast:
     _ai_result = _ai_cache.get(_ai_signature_str)
     if _ai_result is None:
         # Cache miss — call the AI (defensive; the helper never raises).
+        # Only persist OK results so failed/non-live attempts never permanently
+        # mask live Hy3 once credentials become available.
         with st.spinner("Generating AI-assisted management interpretation..."):
             _ai_result = run_ai_synthesis_for_state(
                 state,
-                provider=os.getenv("SENTINEL360_AI_PROVIDER"),
-                model=os.getenv("SENTINEL360_AI_MODEL"),
-                api_key=os.getenv("SENTINEL360_AI_API_KEY"),
+                provider=get_runtime_secret("SENTINEL360_AI_PROVIDER", None),
+                model=get_runtime_secret("SENTINEL360_AI_MODEL", None),
+                api_key=get_runtime_secret("SENTINEL360_AI_API_KEY", None),
                 timeout=10,
             )
-        _ai_cache[_ai_signature_str] = _ai_result
-        st.session_state["s360_ai_cache_v1"] = _ai_cache
+        if isinstance(_ai_result, dict) and _ai_result.get("status") == "OK":
+            _ai_cache[_ai_signature_str] = _ai_result
+            st.session_state["s360_ai_cache_v1"] = _ai_cache
 
 # Decide which rendering path to use. AI is consulted only for FORECAST
 # periods; the deterministic path is the only path for ACTUAL periods and
@@ -1185,6 +1193,96 @@ for col, card in zip([s1, s2, s3], supporting_cards[:3]):
     col.markdown(card_html, unsafe_allow_html=True)
 
 # ---------------------------------------------------------------------------
+# Cached KPI graph AI interpretation
+# ---------------------------------------------------------------------------
+#
+# Cache policy (KPI-AI v2):
+#   * Cache results keyed by a stable JSON signature of the governed
+#     evidence. The API key is NEVER part of the cache key.
+#   * The cache namespace version is bumped to ``kpi_graph_ai_v2`` so
+#     any results cached by the previous (broken) implementation --
+#     including persistent NOT_CONFIGURED fallbacks -- cannot mask a
+#     now-live Hy3 path.
+#   * Only ``status == "OK"`` results are cached long-term. Non-OK
+#     results are NEVER cached: a stale NOT_CONFIGURED / TIMEOUT /
+#     API_UNAVAILABLE / PROVIDER_ERROR / INVALID_RESPONSE /
+#     GOVERNANCE_FILTERED entry must not be allowed to mask a freshly
+#     reachable live Hy3 path. The service is re-attempted on every
+#     render for non-OK keys so that the moment Hy3 becomes available
+#     the next render picks it up.
+# ---------------------------------------------------------------------------
+_KPI_AI_CACHE_VERSION = "kpi_graph_ai_v2"
+_KPI_AI_CACHE_NAMESPACE = f"s360_kpi_ai_cache_{_KPI_AI_CACHE_VERSION}"
+_KPI_AI_OK_TTL_SECONDS = 60 * 60  # 1 hour for genuine live Hy3 hits
+_KPI_AI_FAIL_TTL_SECONDS = 0  # non-OK results are never cached
+
+
+def _kpi_ai_cache_get(evidence_json: str) -> Optional[dict]:
+    cache = st.session_state.get(_KPI_AI_CACHE_NAMESPACE)
+    if not isinstance(cache, dict):
+        return None
+    entry = cache.get(evidence_json)
+    if not isinstance(entry, dict):
+        return None
+    if entry.get("status") != "OK":
+        # Non-OK results must NEVER be returned from cache.
+        return None
+    ts = entry.get("ts")
+    if not isinstance(ts, (int, float)):
+        return None
+    if (time.time() - ts) > _KPI_AI_OK_TTL_SECONDS:
+        return None
+    return entry.get("result")
+
+
+def _kpi_ai_cache_put(evidence_json: str, result: dict) -> None:
+    if not isinstance(result, dict):
+        return
+    if result.get("status") != "OK":
+        # Explicitly do NOT cache non-OK results.
+        return
+    cache = st.session_state.setdefault(_KPI_AI_CACHE_NAMESPACE, {})
+    cache[evidence_json] = {
+        "ts": time.time(),
+        "result": result,
+        "status": "OK",
+    }
+
+
+def _cached_kpi_graph_interpretation(evidence_json: str) -> dict:
+    """Return AI interpretation for a single KPI graph evidence payload.
+
+    Cache policy:
+      * Long-term cache (1h) when the live Hy3 result has
+        ``status == "OK"``. The cached value is the full dict
+        including status, so the badge / caption logic can run
+        without re-calling Hy3.
+      * Non-OK results are NEVER cached; the service is re-attempted
+        on every render so a now-live Hy3 path is picked up
+        immediately.
+      * The cache namespace version ``kpi_graph_ai_v2`` invalidates
+        any result left over from the previous (broken) implementation
+        that always returned NOT_CONFIGURED.
+    """
+    cached = _kpi_ai_cache_get(evidence_json)
+    if cached is not None:
+        return cached
+    try:
+        evidence = json.loads(evidence_json)
+    except Exception:
+        return {
+            "what_is_changing": "",
+            "why_it_matters": "",
+            "governance_note": "",
+            "status": "INVALID_EVIDENCE",
+        }
+    service = AIKPIGraphSynthesisService()
+    result = service.synthesize(evidence)
+    _kpi_ai_cache_put(evidence_json, result)
+    return result
+
+
+# ---------------------------------------------------------------------------
 # Three chart + interpretation rows (one per primary KPI)
 # ---------------------------------------------------------------------------
 selected_month_number = int(filters["month"])
@@ -1236,7 +1334,18 @@ if cards:
                 )
         with c_right:
             if period_type == "FORECAST":
-                interp = build_forecast_interpretation_card(card)
+                ai_interp = None
+                if not card.get("forecast_unavailable") and card.get("point_forecast") is not None:
+                    evidence = build_kpi_graph_evidence(
+                        card,
+                        filters["hospital_id"],
+                        filters.get("department_name", ""),
+                        filters["year"],
+                        selected_month_number,
+                    )
+                    evidence_json = json.dumps(evidence, sort_keys=True, default=str)
+                    ai_interp = _cached_kpi_graph_interpretation(evidence_json)
+                interp = build_forecast_interpretation_card(card, ai_interpretation=ai_interp)
             else:
                 interp = build_kpi_interpretation_card(card, threshold_cfg)
             st.markdown(interp, unsafe_allow_html=True)
@@ -1285,7 +1394,15 @@ _cs_badge_line = f'{_cs_badge} <span style="font-size:0.7rem;color:#718096;margi
 # every code path -- live Hy3 OK, NOT_CONFIGURED, TIMEOUT,
 # API_UNAVAILABLE, INVALID_RESPONSE, GOVERNANCE_FILTERED, and the
 # no-chain state -- so the card can never be blank.)
-_cs_ai_sentence = ""
+#
+# The full synthesis result (status + message) is cached, NOT just the
+# message string, so the card builder can decide whether to render the
+# "AI-ASSISTED · Tencent Hy3" badge. The badge only ever appears when
+# the cached result has status == "OK" (i.e. it genuinely came from
+# live Tencent Hy3). Deterministic fallback results are cached with
+# their non-OK status and the card builder suppresses the badge for
+# those entries.
+_cs_ai_result: Optional[Dict[str, Any]] = None
 if _cs_result.get("primary_chain"):
     _cs_ai_cache = st.session_state.setdefault("s360_cs_ai_cache_v1", {})
     _cs_chain_ids = _cs_result["primary_chain"].get("chain_kpi_ids", [])
@@ -1296,7 +1413,7 @@ if _cs_result.get("primary_chain"):
     )
     _cs_ai_signature = (
         f"{filters['hospital_id']}|{filters['department_id']}|{filters['year']}|{filters['month']}|"
-        f"{'-'.join(_cs_chain_ids)}|{_cs_continuation}|ai_cs_v3"
+        f"{'-'.join(_cs_chain_ids)}|{_cs_continuation}|ai_cs_v4"
     )
     _cs_ai_cached = _cs_ai_cache.get(_cs_ai_signature)
     if _cs_ai_cached is None:
@@ -1304,28 +1421,47 @@ if _cs_result.get("primary_chain"):
         _cs_ai_res = _cs_ai_service.synthesize(_cs_result)
         # The service returns a non-empty message in every path
         # (live Hy3 OK, deterministic fallback, no-chain sentence).
-        # We always cache + render that message so the card is never
-        # blank.
-        _cs_ai_cached = _cs_ai_res.message if _cs_ai_res.message else (
+        # Cache the full result dict (status + message) so the card
+        # builder can gate the Hy3 badge on status == "OK".
+        _cs_msg = _cs_ai_res.message if _cs_ai_res.message else (
             "No sufficiently strong connected signal detected from the "
             "available actual history."
         )
+        _cs_ai_cached = {
+            "status": _cs_ai_res.status,
+            "message": _cs_msg,
+        }
         _cs_ai_cache[_cs_ai_signature] = _cs_ai_cached
         st.session_state["s360_cs_ai_cache_v1"] = _cs_ai_cache
-    _cs_ai_sentence = _cs_ai_cached
+    # Migrate older cache entries that stored a bare string: treat them
+    # as deterministic fallback (no Hy3 badge).
+    if isinstance(_cs_ai_cached, str):
+        _cs_ai_result = {
+            "status": "FALLBACK_LEGACY_CACHE",
+            "message": _cs_ai_cached,
+        }
+    elif isinstance(_cs_ai_cached, dict):
+        _cs_ai_result = _cs_ai_cached
+    else:
+        _cs_ai_result = None
 else:
     # No supported chain -- there is no AI sentence to render; the
     # card's own footer states the governance boundary.
-    _cs_ai_sentence = ""
+    _cs_ai_result = None
 
 # Build and render card.  The engine's card already contains the
 # appropriate governance footer in both branches (chain-exists vs.
 # no-chain), so no contradictory cross-domain text is rendered below
 # the card (CS-3 spec).
+#
+# The full AI synthesis result (status + message) is passed in so the
+# card builder can gate the "AI-ASSISTED · Tencent Hy3" badge on
+# status == "OK". A bare string would be treated as legacy
+# deterministic fallback (no badge) by the card builder.
 _cs_card = connected_signal_engine.build_connected_signal_card_html(
     _cs_result,
     period_badge_html=_cs_badge_line,
-    ai_interpretation=_cs_ai_sentence or None,
+    ai_interpretation=_cs_ai_result,
 )
 st.markdown(_cs_card, unsafe_allow_html=True)
 

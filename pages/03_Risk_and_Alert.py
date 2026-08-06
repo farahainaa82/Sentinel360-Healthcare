@@ -27,9 +27,25 @@ if _ROOT not in sys.path:
 
 from src.s360_sidebar_chrome import render_sidebar_chrome  # noqa: E402
 
+from src.genai_provenance_badge import (  # noqa: E402
+    is_hy3_live,
+    render_hy3_badge_html,
+    render_hy3_caption_html,
+)
+from src.risk_ai_evidence import build_risk_ai_evidence  # noqa: E402
+from src.ai_risk_assistant import (  # noqa: E402
+    AIRiskAssistantService,
+    SUGGESTED_QUESTIONS,
+    build_cache_key,
+)
+from src.ai_risk_interpretation import (  # noqa: E402
+    AIRiskInterpretationService,
+    build_risk_interpretation_cache_key,
+)
+from src.risk_interpretation_evidence import build_risk_interpretation_evidence  # noqa: E402
+
 from src.risk_alert_controller import (  # noqa: E402
     WARNING_PRIORITY_RANK,
-    build_management_interpretation,
     build_risk_alert_state,
     build_risk_progression,
     build_selected_risk_detail,
@@ -414,11 +430,44 @@ html, body, [class*="css"]  { font-family: 'Inter', -apple-system, BlinkMacSyste
     letter-spacing: 0.4px; margin-top: 1px;
 }
 
+/* Highest-warning card (red -- highest severity) */
+.s360-risk-summary-card.critical-warnings {
+    background: #FDECEA;
+    border-left: 4px solid #B71C1C;
+    box-shadow: 0 1px 4px rgba(183, 28, 28, 0.10);
+}
+.s360-risk-summary-card.critical-warnings .label { color: #7F1D1D; }
+.s360-risk-summary-card.critical-warnings .value { color: #B71C1C; }
+.s360-risk-summary-card.critical-warnings .helper { color: #7F1D1D; }
+
 /* ---- Management interpretation card ---- */
-.s360-risk-interpretation {
-    background: #F0F7FF; border: 1px solid #DDE3EC; border-left: 4px solid #0288D1;
-    border-radius: 6px; padding: 12px 14px; margin-top: 4px;
-    font-size: 0.85rem; color: #1A2B47; line-height: 1.55;
+.s360-risk-interp-card {
+    background: #F7F9FC;
+    border: 1px solid #DDE3EC;
+    border-radius: 10px;
+    padding: 16px 20px 14px 20px;
+    margin: 4px 0 12px 0;
+    box-shadow: 0 1px 4px rgba(15, 23, 42, 0.04);
+    box-sizing: border-box;
+}
+.s360-risk-interp-card-title {
+    font-size: 14px; font-weight: 800; color: #0B1E3D;
+    text-transform: uppercase; letter-spacing: 0.7px;
+    margin: 0 0 12px 0;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #DDE3EC;
+    line-height: 1.2;
+}
+.s360-risk-interp-subhead {
+    font-size: 11px; font-weight: 700; color: #0B1E3D;
+    text-transform: uppercase; letter-spacing: 0.6px;
+    margin: 10px 0 4px 0;
+    line-height: 1.3;
+}
+.s360-risk-interp-body {
+    font-size: 13px; color: #1A202C;
+    line-height: 1.55;
+    margin: 0 0 8px 0;
 }
 
 /* ---- Suggested Preventive Action card ---- */
@@ -552,7 +601,7 @@ def _render_summary_cards(summary: dict, internal_rows: list) -> None:
          "high-warnings"),
         ("HIGHEST WARNING LEVEL", highest_warning,
          "Most severe warning present in the Priority Risk Table",
-         "dept-risks text-value"),
+         "critical-warnings text-value"),
     ]
     html = '<div class="s360-risk-summary-grid">'
     for label, value, hint, variant in cards:
@@ -565,6 +614,302 @@ def _render_summary_cards(summary: dict, internal_rows: list) -> None:
         )
     html += '</div>'
     st.markdown(html, unsafe_allow_html=True)
+
+
+# ---------------------------------------------------------------------------
+# AI Risk Assistant (AI-6)
+# ---------------------------------------------------------------------------
+_AI_RISK_CACHE_NS = "s360_risk_ai_cache_v1"
+_AI_RISK_CONV_NS = "s360_risk_ai_conversation_v1"
+_AI_RISK_CONTEXT_NS = "s360_risk_ai_context_v1"
+
+# Short visible chip labels for the suggested questions. The full text in
+# SUGGESTED_QUESTIONS is the governed prompt actually sent to the assistant;
+# the chip label below is purely the cosmetic, compact on-screen text.
+_RISK_AI_CHIP_LABELS: Dict[str, str] = {
+    "What is the biggest risk this month?": "Biggest risk this month?",
+    "Why is it a risk?": "Why is it a risk?",
+    "Which KPIs have escalating risk?": "Escalating KPIs?",
+    "Which KPI is starting to build risk?": "Emerging risk?",
+    "What should management watch first?": "What to watch first?",
+}
+
+def _render_ai_risk_assistant(
+    state: Dict[str, Any],
+    *,
+    hospital_label: str,
+    department_code: Optional[str],
+    year: int,
+    month: int,
+    department_label: Optional[str] = None,
+) -> None:
+    """Render the AI Risk Brief section below the four summary cards.
+
+    Uses the governed evidence pack from ``build_risk_ai_evidence`` and the
+    shared ``AIRiskAssistantService`` to answer management questions. Only
+    live Hy3 results (status == "OK") get the badge and provenance caption.
+
+    Visual presentation is intentionally compact: a single executive header,
+    inline pill-style question chips, and an input/Ask row on the same line.
+    """
+    # Build the governed evidence pack (no new calculations)
+    evidence = build_risk_ai_evidence(
+        state,
+        hospital_label=hospital_label,
+        department_code=department_code,
+        year=year,
+        month=month,
+    )
+
+    # Detect context changes and reset conversation + cache naturally
+    _ctx_key = (
+        f"{_AI_RISK_CONTEXT_NS}:hospital={hospital_label}"
+        f":dept={department_code}:year={year}:month={month}"
+    )
+    _prev_ctx = st.session_state.get(_AI_RISK_CONTEXT_NS)
+    if _prev_ctx != _ctx_key:
+        st.session_state[_AI_RISK_CONTEXT_NS] = _ctx_key
+        # Wipe previous conversation when context changes
+        st.session_state.pop(f"{_AI_RISK_CONV_NS}:history", None)
+
+    # ---- Compact chip + ask-row styling + panel container (scoped) ----
+    st.markdown(
+        "<style>"
+        "/* Executive AI Risk Brief container (highlighted panel) */"
+        ".s360-risk-ai-panel {"
+        "margin:18px 0 22px 0;"
+        "padding:18px 20px 14px 20px;"
+        "background:#EEF4FB;"
+        "border:1px solid #B7CCE5;"
+        "border-left:4px solid #2F5EA8;"
+        "border-radius:10px;"
+        "box-shadow:0 2px 6px rgba(47, 94, 168, 0.10);"
+        "}"
+        ".s360-risk-ai-panel-header {"
+        "display:flex;align-items:flex-start;justify-content:space-between;"
+        "gap:14px;margin:0 0 10px 0;"
+        "}"
+        ".s360-risk-ai-panel-title {"
+        "font-size:14px;font-weight:700;color:#0B1E3D;"
+        "letter-spacing:0.4px;line-height:1.2;"
+        "}"
+        ".s360-risk-ai-panel-subtitle {"
+        "font-size:11px;color:#56708A;margin-top:4px;line-height:1.35;"
+        "}"
+        "/* Compact pill-shaped question chips */"
+        ".s360-risk-ai-chips .stButton > button {"
+        "padding:4px 12px;height:auto;min-height:0;line-height:1.35;"
+        "font-size:11px;font-weight:500;color:#1A202C;letter-spacing:0;"
+        "background:#FFFFFF;border:1px solid #C8D5E8;border-radius:999px;"
+        "white-space:nowrap;margin:0;box-shadow:none;"
+        "}"
+        ".s360-risk-ai-chips .stButton > button:hover {"
+        "background:#DDE9F7;border-color:#1E3A8A;color:#0B1E3D;"
+        "}"
+        ".s360-risk-ai-chips .stButton > button:focus {"
+        "outline:none;box-shadow:0 0 0 1px #1E3A8A inset;"
+        "}"
+        ".s360-risk-ai-chips .stButton {margin:0;}"
+        "/* Compact follow-up input */"
+        ".s360-risk-ai-askrow .stTextInput input {"
+        "font-size:12px;padding:6px 10px;height:32px;min-height:0;"
+        "background:#FFFFFF;"
+        "}"
+        "/* Compact Ask button matching the panel accent */"
+        ".s360-risk-ai-askrow .stButton > button {"
+        "padding:4px 14px;height:32px;min-height:0;line-height:1.2;"
+        "font-size:11px;font-weight:600;color:#FFFFFF;letter-spacing:0.3px;"
+        "background:linear-gradient(135deg,#1E3A8A 0%, #4A6A99 100%);"
+        "border:1px solid #1E3A8A;border-radius:6px;white-space:nowrap;"
+        "}"
+        ".s360-risk-ai-askrow .stButton > button:hover {"
+        "background:linear-gradient(135deg,#163075 0%, #1E3A8A 100%);"
+        "border-color:#163075;color:#FFFFFF;"
+        "}"
+        "</style>",
+        unsafe_allow_html=True,
+    )
+
+    # ---- Open the highlighted AI Risk Brief panel ----
+    st.markdown(
+        '<div class="s360-risk-ai-panel">',
+        unsafe_allow_html=True,
+    )
+
+    # ---- Section header (✦ AI RISK BRIEF · Powered by Tencent Hy3) ----
+    # Reuse the page's existing calendar.month_abbr mapping (the same one used
+    # at line ~1449 for the same purpose) instead of a private local dict.
+    _month_label = (
+        calendar.month_abbr[month] if 1 <= int(month) <= 12 else str(month)
+    )
+    _dept_text = (
+        (department_label or department_code or "all departments")
+    ).strip() or "all departments"
+    st.markdown(
+        '<div class="s360-risk-ai-panel-header">'
+        '<div style="min-width:0;">'
+        '<div class="s360-risk-ai-panel-title">'
+        '&#10022; AI RISK BRIEF'
+        '</div>'
+        '<div class="s360-risk-ai-panel-subtitle">'
+        f'Ask Sentinel360 about the risks detected for '
+        f'{_month_label} {year} &middot; {_dept_text}'
+        '</div>'
+        '</div>'
+        # Reuse the same GenAI provenance badge helper used by the
+        # Management Interpretation card so the visual convention is
+        # consistent across the page.
+        '<div style="flex:0 0 auto;padding-top:2px;">'
+        + render_hy3_badge_html() +
+        '</div>'
+        '</div>',
+        unsafe_allow_html=True,
+    )
+
+    # ---- Previous answer (if any) ----
+    _history_key = f"{_AI_RISK_CONV_NS}:history"
+    history = st.session_state.get(_history_key, [])
+    if history:
+        last = history[-1]
+        ai_result = last.get("result")
+        _render_ai_answer(ai_result)
+
+    # ---- Suggested question chips (compact pill style) ----
+    st.markdown(
+        '<div class="s360-risk-ai-chips" '
+        'style="display:flex;flex-wrap:wrap;gap:6px 6px;margin:10px 0 6px 0;">',
+        unsafe_allow_html=True,
+    )
+    _chip_cols = st.columns(len(SUGGESTED_QUESTIONS), gap="small")
+    for i, question in enumerate(SUGGESTED_QUESTIONS):
+        # Cosmetic short label only -- the governed prompt remains the full
+        # question text from SUGGESTED_QUESTIONS (used as cache key + LLM input).
+        _chip_label = _RISK_AI_CHIP_LABELS.get(question, question)
+        with _chip_cols[i]:
+            if st.button(_chip_label, key=f"risk_ai_chip_{i}"):
+                _handle_risk_question(question, evidence)
+    st.markdown("</div>", unsafe_allow_html=True)
+
+    # ---- Free-text follow-up (input + Ask on one row) ----
+    st.markdown('<div class="s360-risk-ai-askrow">', unsafe_allow_html=True)
+    _ask_cols = st.columns([6, 1], gap="small")
+    with _ask_cols[0]:
+        _follow_up = st.text_input(
+            "",
+            placeholder="Ask about this month's risks...",
+            key="risk_ai_follow_up_input",
+            label_visibility="collapsed",
+        )
+    with _ask_cols[1]:
+        if st.button("Ask \u2192", key="risk_ai_follow_up_ask") and _follow_up.strip():
+            _handle_risk_question(_follow_up.strip(), evidence)
+    st.markdown("</div>", unsafe_allow_html=True)
+
+    # ---- Close the highlighted AI Risk Brief panel ----
+    st.markdown("</div>", unsafe_allow_html=True)
+
+
+def _handle_risk_question(
+    question: str,
+    evidence: Dict[str, Any],
+) -> None:
+    """Resolve a question through the cache → live Hy3 → fallback pipeline.
+
+    Cache key is deterministic and never contains the API key.
+    Only status == "OK" responses are cached.
+    """
+    cache_key = build_cache_key(evidence, question)
+    cache_ns = f"{_AI_RISK_CACHE_NS}:{cache_key}"
+
+    # --- Check cache ---
+    cached = st.session_state.get(cache_ns)
+    if cached is not None and isinstance(cached, dict):
+        result = cached
+    else:
+        # Build previous context for follow-up resolution
+        history = st.session_state.get(f"{_AI_RISK_CONV_NS}:history", [])
+        prev_ctx = history[-1] if history else None
+        previous_context = None
+        if prev_ctx and prev_ctx.get("referenced_kpi"):
+            previous_context = {
+                "question": prev_ctx.get("question"),
+                "answer": prev_ctx.get("answer"),
+                "referenced_kpi": prev_ctx.get("referenced_kpi"),
+            }
+
+        service = AIRiskAssistantService()
+        result_obj = service.ask(question, evidence, previous_context=previous_context)
+        result = {
+            "status": result_obj.status,
+            "message": result_obj.message,
+        }
+
+        # --- Cache only OK responses ---
+        if is_hy3_live(result):
+            st.session_state[cache_ns] = result
+
+    # --- Extract the referenced KPI for follow-up context ---
+    referenced_kpi = _extract_referenced_kpi(result["message"], evidence)
+
+    # --- Store turn in conversation history ---
+    history_key = f"{_AI_RISK_CONV_NS}:history"
+    history = st.session_state.get(history_key, [])
+    history.append({
+        "question": question,
+        "answer": result["message"],
+        "referenced_kpi": referenced_kpi,
+        "result": result,
+    })
+    st.session_state[history_key] = history
+
+    # Trigger a rerun to show the answer inline
+    st.rerun()
+
+
+def _render_ai_answer(ai_result: Optional[Dict[str, Any]]) -> None:
+    """Render the AI answer with provenance badge only when Hy3 is live."""
+    if ai_result is None:
+        return
+    message = str(ai_result.get("message", "")).strip()
+    if not message:
+        return
+
+    st.markdown(
+        '<div style="margin:8px 0 12px 0;padding:10px 14px;'
+        'background:#ffffff;border:1px solid #DDE3EC;border-radius:6px;">',
+        unsafe_allow_html=True,
+    )
+
+    # Provenance badge only for live Hy3
+    if is_hy3_live(ai_result):
+        st.markdown(render_hy3_badge_html(), unsafe_allow_html=True)
+        st.markdown(render_hy3_caption_html(scope="risk"), unsafe_allow_html=True)
+
+    st.markdown(
+        f'<div style="font-size:13px;color:#1A202C;line-height:1.5;">'
+        f'{message}</div>',
+        unsafe_allow_html=True,
+    )
+    st.markdown("</div>", unsafe_allow_html=True)
+
+
+def _extract_referenced_kpi(
+    message: str, evidence: Dict[str, Any]
+) -> Optional[str]:
+    """Return the first KPI name from the evidence that appears in the message."""
+    for risk in evidence.get("priority_risks", []):
+        name = risk.get("kpi_name", "")
+        if name and name in message:
+            return name
+    for risk in evidence.get("emerging_risks", []):
+        name = risk.get("kpi_name", "")
+        if name and name in message:
+            return name
+    for risk in evidence.get("escalating_risks", []):
+        name = risk.get("kpi_name", "")
+        if name and name in message:
+            return name
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -1003,24 +1348,100 @@ def _render_progression(strip: list) -> None:
 
 
 # ---------------------------------------------------------------------------
-# Management interpretation
+# Management interpretation (AI-Assisted — Hy3 single-KPI interpretation)
 # ---------------------------------------------------------------------------
-def _render_interpretation(interpretation: dict) -> None:
-    st.markdown(
-        '<div class="s360-risk-section-label">Management Interpretation</div>',
-        unsafe_allow_html=True,
+
+_RISK_INTERP_CACHE_NS = "s360_risk_interp_cache_v1"
+_RISK_INTERP_CONTEXT_NS = "s360_risk_interp_context_v1"
+
+
+def _get_risk_interpretation(
+    evidence: Dict[str, Any],
+    *,
+    kpi_id: str,
+    department_code: Optional[str],
+    year: int,
+    month: int,
+) -> Any:
+    """Resolve interpretation through cache → live Hy3 → fallback pipeline.
+
+    Cache policy mirrors the AI Risk Assistant (AI-6):
+      * Only status == "OK" responses are cached.
+      * Non-OK (FALLBACK, EMPTY_EVIDENCE, etc.) are never cached.
+      * Cache key is deterministic (evidence hash) and contains no API key.
+      * Context resets wipe the cache when KPI / dept / year / month change.
+    """
+    _ctx_key = (
+        f"{_RISK_INTERP_CONTEXT_NS}:kpi={kpi_id}:dept={department_code}"
+        f":year={year}:month={month}"
     )
-    combined = interpretation.get("combined", "")
-    if combined:
-        st.markdown(
-            f'<div class="s360-risk-interpretation">{combined}</div>',
-            unsafe_allow_html=True,
+    _prev_ctx = st.session_state.get(_RISK_INTERP_CONTEXT_NS)
+    if _prev_ctx != _ctx_key:
+        st.session_state[_RISK_INTERP_CONTEXT_NS] = _ctx_key
+        # Clear any stale cached entries for this namespace
+        _ns = _RISK_INTERP_CACHE_NS
+        for key in list(st.session_state.keys()):
+            if key.startswith(_ns + ":"):
+                del st.session_state[key]
+
+    cache_key = build_risk_interpretation_cache_key(evidence)
+    cached = st.session_state.get(cache_key)
+    if cached is not None:
+        return cached
+
+    result = AIRiskInterpretationService().interpret(evidence)
+    if result.status == "OK":
+        st.session_state[cache_key] = result
+    return result
+
+
+def _render_interpretation(
+    interp_result: Any,
+    selected_row: Optional[Dict[str, Any]] = None,
+) -> None:
+    """Render the AI-Assisted Management Interpretation section.
+
+    Shows the structured two-field format (WHAT IS CHANGING / WHY DOES IT
+    MATTER) with the Hy3 badge and provenance caption only when status
+    is ``OK``.  Falls back to deterministic governed text otherwise.
+    """
+    from src.genai_provenance_badge import (
+        is_hy3_live,
+        render_hy3_badge_html,
+        render_hy3_caption_html,
+    )
+
+    # Build the entire card as a single HTML block. Streamlit wraps each
+    # ``st.markdown(unsafe_allow_html=True)`` call in its own block element
+    # so multiple calls cannot share an outer container; the only reliable
+    # way to keep all Management Interpretation elements inside one visual
+    # card is to render the full string in a single call.
+    _card_parts: List[str] = [
+        '<div class="s360-risk-interp-card">',
+        '<div class="s360-risk-interp-card-title">Management Interpretation</div>',
+    ]
+    if is_hy3_live(interp_result):
+        _card_parts.append(render_hy3_badge_html())
+    _card_parts.append(
+        '<div class="s360-risk-interp-subhead">WHAT IS CHANGING?</div>'
+        '<div class="s360-risk-interp-body">'
+        f'{interp_result.what_is_changing}</div>'
+        '<div class="s360-risk-interp-subhead">WHY DOES IT MATTER?</div>'
+        '<div class="s360-risk-interp-body">'
+        f'{interp_result.why_it_matters}</div>'
+    )
+    if is_hy3_live(interp_result):
+        _card_parts.append(render_hy3_caption_html(scope="risk"))
+    if (
+        not interp_result.what_is_changing
+        and not interp_result.why_it_matters
+    ):
+        _card_parts.append(
+            '<div class="s360-no-traceback-note">'
+            'No interpretation available.</div>'
         )
-    else:
-        st.markdown(
-            '<div class="s360-no-traceback-note">No interpretation available.</div>',
-            unsafe_allow_html=True,
-        )
+    _card_parts.append('</div>')
+    st.markdown(''.join(_card_parts), unsafe_allow_html=True)
 
 
 # ---------------------------------------------------------------------------
@@ -1199,6 +1620,18 @@ def main() -> None:
     internal_rows = state["internal_rows"]
 
     _render_summary_cards(summary, internal_rows)
+
+    # AI Risk Assistant (AI-6) — governed evidence, conversational
+    # interpretation. Does NOT replace the four summary cards.
+    _render_ai_risk_assistant(
+        state,
+        hospital_label="HOSP-001",
+        department_code=department,
+        department_label=dict(dept_options).get(department, department),
+        year=year,
+        month=month,
+    )
+
     _render_priority_table(display_table)
 
     # --- Selected risk selector ---
@@ -1222,23 +1655,12 @@ def main() -> None:
     threshold_cfg = load_kpi_threshold_config()
     _render_detail_panels(detail, selected_dict, threshold_cfg)
 
-    # --- Actual + Forecast Trend chart (preserved production chart) ---
-    st.markdown(
-        '<div class="s360-risk-section-label">Actual + Forecast Trend</div>',
-        unsafe_allow_html=True,
-    )
-    st.markdown('<div class="s360-risk-chart-panel">', unsafe_allow_html=True)
-    try:
-        render_selected_risk_chart(
-            selected_row=selected_dict,
-            monthly_actual=monthly_actual,
-            forecast_df=forecast_df,
-            review_year=year,
-            review_month=month,
-        )
-    except Exception as exc:
-        st.error(f"Trend chart could not be rendered: {exc}")
-    st.markdown('</div>', unsafe_allow_html=True)
+    # (The standalone "Actual + Forecast Trend" chart panel was intentionally
+    # removed from the Risk & Alert page in this UI polish pass; the underlying
+    # actual / forecast dataframes are still loaded above because they remain
+    # consumed by ``build_risk_progression`` and the AI-interpretation evidence
+    # builder below. The ``render_selected_risk_chart`` helper itself is also
+    # preserved untouched in case other pages reuse it.)
 
     # --- Risk progression ---
     strip = build_risk_progression(
@@ -1249,13 +1671,21 @@ def main() -> None:
     )
     _render_progression(strip)
 
-    # --- Management interpretation ---
-    interpretation = build_management_interpretation(
+    # --- Management interpretation (AI-Assisted Hy3) ---
+    interp_evidence = build_risk_interpretation_evidence(
         selected_row=selected_dict,
         monthly_actual=monthly_actual,
         review_year=year,
+        review_month=month,
     )
-    _render_interpretation(interpretation)
+    interp_result = _get_risk_interpretation(
+        interp_evidence,
+        kpi_id=selected_dict.get("kpi_id", ""),
+        department_code=selected_dict.get("department_code"),
+        year=year,
+        month=month,
+    )
+    _render_interpretation(interp_result, selected_row=selected_dict)
 
     # --- Suggested action ---
     action = build_suggested_action_card(selected_dict)
