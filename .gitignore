@@ -24,7 +24,6 @@ env/
 *.log
 
 # Scratch / temporary Python files
-_*.py
 debug_*.py
 
 # Debug and test text outputs
@@ -84,3 +83,5 @@ Executive_Overview_UI_Reference_v2_HomeStyle.py
 *.log.err
 outputs/decision_intelligence/_tmp_2d9/
 outputs/decision_intelligence/execution_lock.txt
+
+/_*.py
