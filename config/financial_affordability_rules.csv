@@ -1,0 +1,7 @@
+rule_id,condition_field,condition_operator,condition_value,affordability_classification,configuration_version,approval_status,governance_note
+AFF-001,budget_available,equals,Yes,Within Known Budget,v1.0-draft,Draft Analytical Configuration,Budget data available and sufficient
+AFF-002,budget_available,equals,No,Requires Budget Reallocation,v1.0-draft,Draft Analytical Configuration,Budget data available but insufficient
+AFF-003,budget_available,equals,Unknown,Budget Availability Unknown,v1.0-draft,Draft Analytical Configuration,No budget data available
+AFF-004,cost_completeness,equals,Insufficient Financial Inputs,Not Assessable,v1.0-draft,Draft Analytical Configuration,Cannot assess affordability without cost
+AFF-005,scenario_cost,less_than,500,Within Budget with Conditions,v1.0-draft,Draft Analytical Configuration,Low cost scenario with conditions
+AFF-006,scenario_cost,greater_than,5000,Requires Budget Reallocation,v1.0-draft,Draft Analytical Configuration,High cost scenario likely requires reallocation

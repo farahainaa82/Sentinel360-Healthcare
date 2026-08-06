@@ -1,0 +1,8 @@
+verification_item,result,expected,actual,status
+Backup file exists,True,True,True,PASS
+Backup path,config/archive/kpi_threshold_config_pre_2b1b_promotion.csv,config/archive/kpi_threshold_config_pre_2b1b_promotion.csv,config/archive/kpi_threshold_config_pre_2b1b_promotion.csv,PASS
+Backup row count,6,6,6,PASS
+Backup schema matches original,True,True,True,PASS
+Backup checksum matches pre-promotion checksum,True,da2bd8b93c7737a772f741de146a457aee21e3431e1e4e61d1e32ce979fde54f,da2bd8b93c7737a772f741de146a457aee21e3431e1e4e61d1e32ce979fde54f,PASS
+Backup content integrity,Intact,Intact,Intact,PASS
+Backup timestamp,Before promotion,Before promotion,Before promotion,PASS

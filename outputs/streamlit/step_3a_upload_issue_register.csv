@@ -1,0 +1,15 @@
+issue_id,issue_category,severity,description,status,blocking
+ISS-3A-001,File Format,Error,Unsupported file extension txt,Rejected,Blocking
+ISS-3A-002,Empty File,Error,Zero-byte file uploaded,Rejected,Blocking
+ISS-3A-003,Corrupted File,Error,Excel workbook unreadable,Rejected,Blocking
+ISS-3A-004,Missing Column,Error,Required column staff_id missing in Staff Roster,Rejected,Blocking
+ISS-3A-005,Data Type,Error,Non-numeric value in beds_total column,Rejected,Blocking
+ISS-3A-006,Duplicate Record,Error,Duplicate primary key encounter_id,Rejected,Blocking
+ISS-3A-007,Value Range,Error,Negative beds_total detected,Rejected,Blocking
+ISS-3A-008,Value Range,Error,beds_occupied exceeds beds_total,Rejected,Blocking
+ISS-3A-009,Value Range,Error,Negative avg_wait_min detected,Rejected,Blocking
+ISS-3A-010,Missing Value,Warning,5 missing values in satisfaction_score,Accepted with Warnings,Non-Blocking
+ISS-3A-011,Date Range,Warning,Future dates beyond 30 days detected,Accepted with Warnings,Non-Blocking
+ISS-3A-012,Unexpected Column,Warning,Unmapped column extra_notes present,Accepted with Warnings,Non-Blocking
+ISS-3A-013,Governance Warning,Warning,Uploaded KPI Configuration will not overwrite frozen config,Accepted with Warnings,Non-Blocking
+ISS-3A-014,Referential Integrity,Informational,Staff Roster reference not available check not assessable,Not Assessable,Non-Blocking

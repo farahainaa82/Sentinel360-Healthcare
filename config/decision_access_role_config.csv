@@ -1,0 +1,27 @@
+configuration_id,role_name,access_level,access_description,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+ACCROL-001,Hospital COO / General Manager,View Summary,View executive summary,1,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-002,Hospital COO / General Manager,View Detailed Evidence,View detailed evidence,2,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-003,Hospital COO / General Manager,View Financial Evidence,View financial evidence,3,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-004,Hospital COO / General Manager,View Lineage,View lineage trace,4,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-005,Hospital COO / General Manager,View Audit History,View audit history,5,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-006,Hospital COO / General Manager,Record Management Action,Record management action,6,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-007,Hospital COO / General Manager,Record Approval,Record approval,7,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-008,Medical Director,View Summary,View executive summary,8,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-009,Medical Director,View Detailed Evidence,View detailed evidence,9,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-010,Medical Director,View Lineage,View lineage trace,10,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-011,Department Head,View Summary,View executive summary,11,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-012,Department Head,View Detailed Evidence,View detailed evidence,12,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-013,Operations Manager,View Summary,View executive summary,13,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-014,Operations Manager,View Monitoring Record,View monitoring records,14,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-015,Finance,View Financial Evidence,View financial evidence,15,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-016,Finance,View Lineage,View lineage trace,16,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-017,Data Owner,View Detailed Evidence,View detailed evidence,17,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-018,Data Owner,Add Evidence,Add evidence records,18,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-019,Analytics Team,View Detailed Evidence,View detailed evidence,19,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-020,Analytics Team,View Lineage,View lineage trace,20,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-021,Clinical Lead,View Summary,View executive summary,21,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-022,Stakeholder Owner,View Summary,View executive summary,22,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-023,Stakeholder Owner,Request Validation,Request stakeholder validation,23,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-024,Governance / Audit Reviewer,View Audit History,View audit history,24,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-025,Governance / Audit Reviewer,View Lineage,View lineage trace,25,True,1.0,Draft Analytical Configuration,True,Governed access role
+ACCROL-026,System Administrator,Administer Configuration,Administer system configuration,26,True,1.0,Draft Analytical Configuration,True,Governed access role

@@ -1,0 +1,7 @@
+config_id,config_name,check_type,threshold_value,allowed_values,action_if_failed,description
+COMP-001,Comparator Assumption Distinctness,boolean,TRUE,,flag,Conservative/Expected/Higher Intensity must have distinct assumption values
+COMP-002,Comparator Value Spread Minimum,numeric,0.0,,flag,Primary KPI values across comparators must not be identical
+COMP-003,Comparator Confidence Spread,boolean,TRUE,,flag,Confidence levels should vary across comparators if assumptions differ
+COMP-004,Comparator Direction Consistency,boolean,TRUE,,flag,Direction of change should be consistent or explainably different
+COMP-005,Comparator Relationship Validity,categorical,,Superior;Equivalent;Inferior;Non-Dominated;Incomparable,flag,Comparator relationship must be a known classification
+COMP-006,Comparator Evidence Presence,boolean,TRUE,,flag,Comparator analysis must cite evidence basis

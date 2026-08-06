@@ -1,0 +1,3 @@
+kpi_id,formula,records_checked,matches,mismatches,max_absolute_difference,verification_status
+kpi_005,complaint_valid_record_count / encounter_record_count * 1000,3367,3367,0,0.0,Passed
+kpi_006,survey_score_weighted_sum / survey_valid_score_record_count,3367,3367,0,0.0,Passed

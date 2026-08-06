@@ -1,0 +1,3 @@
+validation_id,check,expected,actual,status,detail
+VA-CF-001,pending_confirmation_count_present,True,,PASS,pending_confirmation_count column not present
+VA-CF-002,required_confirmation_count_non_negative,0,,PASS,required_confirmation_count column not present

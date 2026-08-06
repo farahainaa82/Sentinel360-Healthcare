@@ -1,0 +1,2 @@
+check_name,status,message,details
+unavailable_not_high_confidence,Passed,Unavailable records with High confidence = 0 (expected 0),"{""count"": 0}"

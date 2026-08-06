@@ -1,0 +1,7 @@
+audit_id,event_type,event_status,kpi_id,trend_run_id,configuration_version,event_time,details
+TAUD-B79BF58DD153,closure_check,Success,,TREND-79BED8FC382A,v1.0-draft,2026-07-27 16:38:29.632792,Phase 2A closure snapshot found
+TAUD-1ECD1188703D,kpi_validation,Success,,TREND-79BED8FC382A,v1.0-draft,2026-07-27 16:38:29.633332,"KPIs validated: {'kpi_004', 'kpi_001', 'kpi_003', 'kpi_002', 'kpi_005', 'kpi_006'}"
+TAUD-9310531FD158,period_comparison,Success,,TREND-79BED8FC382A,v1.0-draft,2026-07-27 16:40:32.746775,Generated 140160 period comparisons
+TAUD-67D3F4DD8EA4,rolling_statistics,Success,,TREND-79BED8FC382A,v1.0-draft,2026-07-27 16:41:23.304934,Generated 34191 rolling statistics
+TAUD-4BFB75F83AED,signals,Success,,TREND-79BED8FC382A,v1.0-draft,2026-07-27 16:41:24.844695,Generated 44631 statistical signals
+TAUD-427CDE01A892,sustained_movement,Success,,TREND-79BED8FC382A,v1.0-draft,2026-07-27 16:41:24.981257,Generated 2085 sustained movements

@@ -1,0 +1,4 @@
+check_name,status,message
+calculated_has_evidence,Passed,Calculated records without Complete evidence = 0
+unavailable_evidence_status_valid,Passed,Unavailable records with invalid evidence status = 0
+evidence_dataset_reconciles,Passed,Evidence dataset has 36500 rows.

@@ -1,0 +1,9 @@
+configuration_id,export_type,export_appendix,required_flag,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+EXP-001,One-Page Executive Brief,Executive Summary,True,1,True,1.0,Draft Analytical Configuration,True,Export contract type
+EXP-002,Detailed Management Brief,Full Brief,True,2,True,1.0,Draft Analytical Configuration,True,Export contract type
+EXP-003,Scenario Comparison Appendix,Scenario Details,True,3,True,1.0,Draft Analytical Configuration,True,Export contract type
+EXP-004,Financial Comparison Appendix,Financial Details,True,4,True,1.0,Draft Analytical Configuration,True,Export contract type
+EXP-005,Evidence Summary Appendix,Evidence Details,True,5,True,1.0,Draft Analytical Configuration,True,Export contract type
+EXP-006,Lineage and Audit Appendix,Audit Details,True,6,True,1.0,Draft Analytical Configuration,True,Export contract type
+EXP-007,Monitoring Appendix,Monitoring Details,True,7,True,1.0,Draft Analytical Configuration,True,Export contract type
+EXP-008,Validation Requirements Appendix,Validation Details,True,8,True,1.0,Draft Analytical Configuration,True,Export contract type

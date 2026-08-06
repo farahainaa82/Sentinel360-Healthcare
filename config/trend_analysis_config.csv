@@ -1,0 +1,11 @@
+rule_id,rule_name,period_type,comparison_type,minimum_valid_observations,rolling_window,allowed_missing_observations,minimum_coverage_percentage,calculation_method,approval_status,version,effective_date,notes
+T-001,Previous Available Day,Daily,Previous Available Day,2,,0,0,current_minus_previous,Draft,v1.0-draft,2026-07-27,Compare current calculated value with most recent previous calculated value
+T-002,Previous Calendar Day,Daily,Previous Calendar Day,2,,0,0,current_minus_previous_calendar,Draft,v1.0-draft,2026-07-27,Compare current with immediate prior calendar day regardless of availability
+T-003,Previous Week,Daily,Previous Week,4,,2,50,current_minus_same_day_prior_week,Draft,v1.0-draft,2026-07-27,Compare current with value 7 calendar days prior
+T-004,Previous Month,Daily,Previous Month,4,,5,50,current_minus_same_day_prior_month,Draft,v1.0-draft,2026-07-27,Compare current with value ~30 calendar days prior
+T-005,Same Period Previous Month,Daily,Same Period Previous Month,4,,5,50,current_minus_same_day_prior_month_exact,Draft,v1.0-draft,2026-07-27,Compare current with same calendar date in previous month
+T-006,Rolling 7-Day Average,Daily,Rolling 7-Day Average,4,7,3,50,rolling_mean,Draft,v1.0-draft,2026-07-27,Mean over rolling 7-day window
+T-007,Rolling 14-Day Average,Daily,Rolling 14-Day Average,7,14,7,50,rolling_mean,Draft,v1.0-draft,2026-07-27,Mean over rolling 14-day window
+T-008,Rolling 30-Day Average,Daily,Rolling 30-Day Average,15,30,15,50,rolling_mean,Draft,v1.0-draft,2026-07-27,Mean over rolling 30-day window
+T-009,Rolling 3-Month Average,Monthly,Rolling 3-Month Average,2,3,1,50,rolling_mean_monthly,Draft,v1.0-draft,2026-07-27,Mean over rolling 3-month window
+T-010,Baseline Period Average,Daily,Baseline Period Average,8,,0,0,mean_of_valid_baseline,Draft,v1.0-draft,2026-07-27,Mean of valid historical observations up to current date

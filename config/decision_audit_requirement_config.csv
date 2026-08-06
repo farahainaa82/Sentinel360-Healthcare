@@ -1,0 +1,25 @@
+configuration_id,audit_event_type,actor_role_required,evidence_required,reason_required,timestamp_required,approval_reference_required,management_comment_required,before_after_snapshot_required,source_version_required,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+AUDREQ-001,Decision Package Opened,Hospital COO / General Manager,True,False,True,False,False,False,False,1,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-002,Decision Package Reviewed,Hospital COO / General Manager,True,True,True,False,True,True,True,2,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-003,Scenario Comparison Viewed,Analytics Team,True,False,True,False,False,False,True,3,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-004,Assumption Validation Requested,Analytics Team,True,True,True,False,True,False,True,4,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-005,Baseline Validation Requested,Data Owner,True,True,True,False,True,False,True,5,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-006,Financial Input Validation Requested,Finance,True,True,True,False,True,False,True,6,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-007,Benefit Validation Requested,Finance,True,True,True,False,True,False,True,7,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-008,Budget Information Requested,Finance,True,True,True,False,True,False,True,8,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-009,Additional Scenario Requested,Analytics Team,True,True,True,False,True,False,True,9,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-010,Stakeholder Review Requested,Stakeholder Owner,True,True,True,False,True,False,True,10,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-011,Limited-Trial Consideration Initiated,Hospital COO / General Manager,True,True,True,True,True,True,True,11,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-012,Monitoring Route Confirmed,Operations Manager,True,False,True,False,False,False,True,12,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-013,Decision Deferred,Hospital COO / General Manager,True,True,True,True,True,True,True,13,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-014,Decision Use Rejected,Hospital COO / General Manager,True,True,True,True,True,True,True,14,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-015,Management Action Selected,Hospital COO / General Manager,True,True,True,True,True,True,True,15,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-016,Management Approval Recorded,Hospital COO / General Manager,True,True,True,True,True,True,True,16,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-017,Management Rejection Recorded,Hospital COO / General Manager,True,True,True,True,True,True,True,17,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-018,Prerequisite Completed,Responsible Role,True,True,True,False,True,False,True,18,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-019,Blocking Condition Resolved,Responsible Role,True,True,True,False,True,False,True,19,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-020,Evidence Added,Data Owner,True,True,True,False,True,False,True,20,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-021,Evidence Rejected,Governance / Audit Reviewer,True,True,True,False,True,False,True,21,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-022,Lineage Corrected,Data Owner,True,True,True,False,True,False,True,22,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-023,Package Version Updated,Analytics Team,True,False,True,False,False,False,True,23,True,1.0,Draft Analytical Configuration,True,Governed audit requirement
+AUDREQ-024,Export Generated,Analytics Team,True,False,True,False,False,False,True,24,True,1.0,Draft Analytical Configuration,True,Governed audit requirement

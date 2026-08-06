@@ -1,0 +1,13 @@
+criteria_id,criteria_name,criteria_description,data_source,version,active_flag
+CRIT-PRIMARY-KPI,Primary KPI Directional Impact,Direction and magnitude of primary KPI change,analytical_scenario_runs,v1.0,True
+CRIT-SUPPORTING-KPI,Supporting KPI Impact,Direction and availability of supporting KPI effects,analytical_scenario_kpi_impacts,v1.0,True
+CRIT-CONFIDENCE,Scenario Confidence,Final confidence level after all adjustments,analytical_scenario_confidence,v1.0,True
+CRIT-CONTRADICTION,Contradiction Severity,Highest contradiction severity across baseline and scenario,analytical_scenario_runs,v1.0,True
+CRIT-BASELINE-COMPLETENESS,Baseline Data Completeness,Percentage of required baseline data available,analytical_scenario_baselines,v1.0,True
+CRIT-ASSUMPTION-EXTREMITY,Assumption Extremity,How extreme the assumptions are relative to baseline,analytical_scenario_runs,v1.0,True
+CRIT-ADVERSE-EFFECTS,Adverse Effect Count,Number of KPIs showing adverse change,analytical_scenario_kpi_impacts,v1.0,True
+CRIT-DISPLACEMENT,Risk Displacement,Whether risk may be displaced to other KPIs or departments,analytical_scenario_runs,v1.0,True
+CRIT-COMPLEXITY,Operational Complexity,Number of assumptions and interventions required,analytical_scenario_runs,v1.0,True
+CRIT-REVERSIBILITY,Reversibility,Whether the intervention can be easily reversed,scenario_catalogue,v1.0,True
+CRIT-MONITORING,Monitoring Burden,Number of KPIs requiring ongoing monitoring,analytical_scenario_runs,v1.0,True
+CRIT-GOVERNANCE,Governance Burden,Number of governance checks and warnings,analytical_scenario_governance,v1.0,True

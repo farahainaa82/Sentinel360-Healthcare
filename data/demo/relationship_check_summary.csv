@@ -1,0 +1,32 @@
+child_dataset,child_field,parent_dataset,parent_field,populated_child_values,valid_reference_count,orphan_reference_count,null_reference_count,relationship_status,notes,relationship_id
+,hospital_id,,hospital_id,8,8,0,0,Passed,,REL-001
+,hospital_id,,hospital_id,180,180,0,0,Passed,,REL-002
+,department_id,,department_id,180,180,0,0,Passed,,REL-003
+,role_id,,role_id,180,180,0,0,Passed,,REL-004
+,hospital_id,,hospital_id,41495,41495,0,0,Passed,,REL-005
+,department_id,,department_id,41495,41495,0,0,Passed,,REL-006
+,staff_id,,staff_id,41495,41495,0,0,Passed,,REL-007
+,role_id,,role_id,41495,41495,0,0,Passed,,REL-008
+,hospital_id,,hospital_id,41495,41495,0,0,Passed,,REL-009
+,department_id,,department_id,41495,41495,0,0,Passed,,REL-010
+,staff_id,,staff_id,41495,41495,0,0,Passed,,REL-011
+,role_id,,role_id,41495,41495,0,0,Passed,,REL-012
+,roster_id,,roster_id,41495,41495,0,0,Passed,,REL-013
+,replacement_staff_id,,staff_id,0,0,0,41495,Passed with Optional Nulls,,REL-014
+,hospital_id,,hospital_id,78840,78840,0,0,Passed,,REL-015
+,department_id,,department_id,78840,78840,0,0,Passed,,REL-016
+,role_id,,role_id,78840,78840,0,0,Passed,,REL-017
+,hospital_id,,hospital_id,93958,93958,0,0,Passed,,REL-018
+,department_id,,department_id,93958,93958,0,0,Passed,,REL-019
+,hospital_id,,hospital_id,1095,1095,0,0,Passed,,REL-020
+,department_id,,department_id,1095,1095,0,0,Passed,,REL-021
+,hospital_id,,hospital_id,1095,1095,0,0,Passed,,REL-022
+,department_id,,department_id,1095,1095,0,0,Passed,,REL-023
+,hospital_id,,hospital_id,1465,1465,0,0,Passed,,REL-024
+,department_id,,department_id,1465,1465,0,0,Passed,,REL-025
+,encounter_id,,encounter_id,606,606,0,859,Passed with Optional Nulls,,REL-026
+,hospital_id,,hospital_id,5244,5244,0,0,Passed,,REL-027
+,department_id,,department_id,5244,5244,0,0,Passed,,REL-028
+,encounter_id,,encounter_id,0,0,0,5244,Passed with Optional Nulls,,REL-029
+,hospital_id,,hospital_id,8760,8760,0,0,Passed,,REL-030
+,department_id,,department_id,8760,8760,0,0,Passed,,REL-031

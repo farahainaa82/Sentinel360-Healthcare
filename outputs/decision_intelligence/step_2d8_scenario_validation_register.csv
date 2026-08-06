@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-SC-001,ready_review_scenario_present,True,True,PASS,
+VA-SC-002,non_quantitative_no_fabricated,False,False,PASS,
+VA-SC-003,scenario_confidence_range,0,0,PASS,

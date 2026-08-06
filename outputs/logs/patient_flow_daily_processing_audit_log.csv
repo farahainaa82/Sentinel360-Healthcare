@@ -1,0 +1,20 @@
+processing_run_id,event,detail,timestamp
+PROC-PFD-52B503B5DA53,Input Manifests Verified,All prior manifests passed,2026-07-26T10:36:58.391544
+PROC-PFD-52B503B5DA53,processed_patient_encounters Loaded,93958 rows,2026-07-26T10:36:58.830414
+PROC-PFD-52B503B5DA53,processed_patient_queue Loaded,1095 rows,2026-07-26T10:36:58.836956
+PROC-PFD-52B503B5DA53,processed_bed_capacity Loaded,1095 rows,2026-07-26T10:36:58.844637
+PROC-PFD-52B503B5DA53,processed_service_schedule Loaded,8760 rows,2026-07-26T10:36:58.879165
+PROC-PFD-52B503B5DA53,Input Checksums Confirmed,All match,2026-07-26T10:36:58.900447
+PROC-PFD-52B503B5DA53,Input Schemas Validated,All passed,2026-07-26T10:36:58.900763
+PROC-PFD-52B503B5DA53,Daily Spine Created,2920 rows,2026-07-26T10:36:58.975967
+PROC-PFD-52B503B5DA53,Encounter Aggregation Completed,1095 daily groups,2026-07-26T10:36:59.044110
+PROC-PFD-52B503B5DA53,Queue Aggregation Completed,1095 daily groups,2026-07-26T10:36:59.265816
+PROC-PFD-52B503B5DA53,Bed Aggregation Completed,1095 daily groups,2026-07-26T10:36:59.511465
+PROC-PFD-52B503B5DA53,Service Aggregation Completed,2920 daily groups,2026-07-26T10:36:59.545292
+PROC-PFD-52B503B5DA53,Daily Components Combined,2920 rows,2026-07-26T10:36:59.559476
+PROC-PFD-52B503B5DA53,Daily Identifiers Created,2920 IDs,2026-07-26T10:36:59.562617
+PROC-PFD-52B503B5DA53,Daily Grain Validated,Unique: 2920 rows,2026-07-26T10:36:59.563086
+PROC-PFD-52B503B5DA53,Processed Schema Validated,Passed,2026-07-26T10:36:59.565366
+PROC-PFD-52B503B5DA53,Lineage Generated,6205 records,2026-07-26T10:39:24.357142
+PROC-PFD-52B503B5DA53,Output Exported,2920 rows to processed_patient_flow_daily.csv,2026-07-26T10:39:24.384921
+PROC-PFD-52B503B5DA53,Input Checksums Confirmed,All match,2026-07-26T10:39:24.408073

@@ -1,0 +1,7 @@
+dataset_name,row_count,column_count,kpi_ids
+analytical_patient_flow_kpi_daily,5840,26,"kpi_003,kpi_004"
+analytical_patient_flow_kpi_evidence,4380,9,
+analytical_patient_flow_kpi_exclusions,3650,9,
+analytical_patient_flow_kpi_lineage,5840,8,
+analytical_patient_flow_kpi_issues,0,0,
+analytical_patient_flow_kpi_audit,1,9,

@@ -1,0 +1,31 @@
+forecast_year,forecast_month,kpi_id,confidence_level,decision_posture,decision_implication,evidence_action,source_type,active_flag
+2025,8,kpi_001,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,8,kpi_002,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,8,kpi_003,HIGH,PROCEED WITH REVIEW,Evidence is sufficiently consistent to support management consideration,Proceed through normal management review and approval,DEMO_GOVERNANCE,TRUE
+2025,8,kpi_004,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,8,kpi_005,LOW,VALIDATE FIRST,Current evidence is not strong enough for high-confidence commitment,Validate additional evidence before management approval,DEMO_GOVERNANCE,TRUE
+2025,8,kpi_006,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,9,kpi_001,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,9,kpi_002,HIGH,PROCEED WITH REVIEW,Evidence is sufficiently consistent to support management consideration,Proceed through normal management review and approval,DEMO_GOVERNANCE,TRUE
+2025,9,kpi_003,HIGH,PROCEED WITH REVIEW,Evidence is sufficiently consistent to support management consideration,Proceed through normal management review and approval,DEMO_GOVERNANCE,TRUE
+2025,9,kpi_004,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,9,kpi_005,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,9,kpi_006,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,10,kpi_001,HIGH,PROCEED WITH REVIEW,Evidence is sufficiently consistent to support management consideration,Proceed through normal management review and approval,DEMO_GOVERNANCE,TRUE
+2025,10,kpi_002,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,10,kpi_003,HIGH,PROCEED WITH REVIEW,Evidence is sufficiently consistent to support management consideration,Proceed through normal management review and approval,DEMO_GOVERNANCE,TRUE
+2025,10,kpi_004,HIGH,PROCEED WITH REVIEW,Evidence is sufficiently consistent to support management consideration,Proceed through normal management review and approval,DEMO_GOVERNANCE,TRUE
+2025,10,kpi_005,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,10,kpi_006,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,11,kpi_001,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,11,kpi_002,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,11,kpi_003,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,11,kpi_004,HIGH,PROCEED WITH REVIEW,Evidence is sufficiently consistent to support management consideration,Proceed through normal management review and approval,DEMO_GOVERNANCE,TRUE
+2025,11,kpi_005,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,11,kpi_006,LOW,VALIDATE FIRST,Current evidence is not strong enough for high-confidence commitment,Validate additional evidence before management approval,DEMO_GOVERNANCE,TRUE
+2025,12,kpi_001,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,12,kpi_002,LOW,VALIDATE FIRST,Current evidence is not strong enough for high-confidence commitment,Validate additional evidence before management approval,DEMO_GOVERNANCE,TRUE
+2025,12,kpi_003,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,12,kpi_004,MODERATE,REVIEW ASSUMPTIONS,Evidence supports the proposed action but some uncertainty remains,Review key assumptions and supporting evidence before commitment,DEMO_GOVERNANCE,TRUE
+2025,12,kpi_005,LOW,VALIDATE FIRST,Current evidence is not strong enough for high-confidence commitment,Validate additional evidence before management approval,DEMO_GOVERNANCE,TRUE
+2025,12,kpi_006,LOW,VALIDATE FIRST,Current evidence is not strong enough for high-confidence commitment,Validate additional evidence before management approval,DEMO_GOVERNANCE,TRUE

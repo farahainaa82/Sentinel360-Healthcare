@@ -1,0 +1,15 @@
+{
+  "run_id": "RELCF-20260728043649",
+  "processed_at": "2026-07-28T04:36:49.589063",
+  "step": "2B-4",
+  "step_name": "Relationship and Contributing-Factor Analysis",
+  "status": "COMPLETE",
+  "pairwise_records": 135,
+  "lag_records": 120,
+  "stability_records": 13,
+  "cf_records": 135,
+  "hypothesis_records": 0,
+  "network_edges": 15,
+  "issue_records": 68,
+  "upstream_immutability": "FAIL"
+}

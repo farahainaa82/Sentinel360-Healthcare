@@ -1,0 +1,23 @@
+integration_run_id,check_id,check_category,dataset_name,check_name,expected_result,actual_result,status,severity,affected_record_count,evidence_reference,checked_datetime
+INT-PFD-8B3D878D871C,a603e9cf-ed37-40c2-b5a3-c43a966472b6,Reconciliation,processed_patient_flow_daily,encounter_encounter_count,match,0,Passed,Information,0,,2026-07-26 11:26:45.846394
+INT-PFD-8B3D878D871C,751adaad-4ae1-496a-b9e9-eb37c5fab52a,Reconciliation,processed_patient_flow_daily,encounter_completed_encounter_count,match,0,Passed,Information,0,,2026-07-26 11:26:45.846616
+INT-PFD-8B3D878D871C,e8bdfe35-4e7f-4008-8ca8-2ebaf397baa7,Reconciliation,processed_patient_flow_daily,encounter_cancelled_encounter_count,match,0,Passed,Information,0,,2026-07-26 11:26:45.846815
+INT-PFD-8B3D878D871C,1ec92fad-4672-499b-9532-b13d529c4832,Reconciliation,processed_patient_flow_daily,encounter_left_before_service_count,match,0,Passed,Information,0,,2026-07-26 11:26:45.847010
+INT-PFD-8B3D878D871C,48aa1229-c6e0-4523-980f-d3d1742813c4,Reconciliation,processed_patient_flow_daily,encounter_official_wait_eligible_encounter_count,match,0,Passed,Information,0,,2026-07-26 11:26:45.847190
+INT-PFD-8B3D878D871C,b76bab13-6feb-4b70-ab56-a0a8ddc6f6d5,Reconciliation,processed_patient_flow_daily,encounter_wait_minutes,match,0,Passed,Information,0,,2026-07-26 11:26:45.896093
+INT-PFD-8B3D878D871C,2eb62121-d1f5-49f3-a7d3-d7f45182ff7b,Reconciliation,processed_patient_flow_daily,queue_queue_arrivals_count,match,0,Passed,Information,0,,2026-07-26 11:26:45.956636
+INT-PFD-8B3D878D871C,34cfc2be-51d1-4b4b-ac73-621d1a9fc09e,Reconciliation,processed_patient_flow_daily,queue_queue_served_count,match,0,Passed,Information,0,,2026-07-26 11:26:46.012125
+INT-PFD-8B3D878D871C,ecc14b7e-5b0d-4097-97b1-177b779068d3,Reconciliation,processed_patient_flow_daily,queue_queue_waiting_patient_count,match,0,Passed,Information,0,,2026-07-26 11:26:46.066749
+INT-PFD-8B3D878D871C,409fd8a2-f28c-4abc-844c-d5bd51bdf8bd,Reconciliation,processed_patient_flow_daily,queue_queue_average_wait_minutes,match,0,Passed,Information,0,,2026-07-26 11:26:46.122106
+INT-PFD-8B3D878D871C,689fbde2-faa9-4416-b526-2784289892dd,Reconciliation,processed_patient_flow_daily,bed_licensed_beds,match,0,Passed,Information,0,,2026-07-26 11:26:46.180115
+INT-PFD-8B3D878D871C,e501b754-9912-4197-bea7-4cbb16b4cbce,Reconciliation,processed_patient_flow_daily,bed_staffed_beds,match,0,Passed,Information,0,,2026-07-26 11:26:46.237945
+INT-PFD-8B3D878D871C,14526475-8449-4100-bbc6-b8d744e1ba1d,Reconciliation,processed_patient_flow_daily,bed_operational_beds,match,0,Passed,Information,0,,2026-07-26 11:26:46.293832
+INT-PFD-8B3D878D871C,7dca04e6-24f5-44b9-be44-419e24e99037,Reconciliation,processed_patient_flow_daily,bed_occupied_beds,match,0,Passed,Information,0,,2026-07-26 11:26:46.349903
+INT-PFD-8B3D878D871C,05e73062-e198-4301-8457-e5cf6e42f139,Reconciliation,processed_patient_flow_daily,bed_unavailable_beds,match,0,Passed,Information,0,,2026-07-26 11:26:46.400479
+INT-PFD-8B3D878D871C,c2c9f05a-e7f3-4ca0-b5f9-61d43c56fe0e,Reconciliation,processed_patient_flow_daily,bed_reserved_beds,match,0,Passed,Information,0,,2026-07-26 11:26:46.451240
+INT-PFD-8B3D878D871C,17304558-0289-4fd5-bd90-4c3673626e02,Reconciliation,processed_patient_flow_daily,bed_beds_above_operational_capacity,match,0,Passed,Information,0,,2026-07-26 11:26:46.504010
+INT-PFD-8B3D878D871C,9730ba2f-fc25-444e-aba2-5ba90c0c2ac1,Reconciliation,processed_patient_flow_daily,bed_overcapacity_flag,match,0,Passed,Information,0,,2026-07-26 11:26:46.558875
+INT-PFD-8B3D878D871C,f5fbf8cc-5bba-46a1-8b0f-bd95ede9c192,Reconciliation,processed_patient_flow_daily,service_planned_service_session_count,match,0,Passed,Information,0,,2026-07-26 11:26:46.587545
+INT-PFD-8B3D878D871C,df4852a6-123f-474d-97f8-ec7e4a3ee260,Reconciliation,processed_patient_flow_daily,service_cancelled_service_session_count,match,0,Passed,Information,0,,2026-07-26 11:26:46.587806
+INT-PFD-8B3D878D871C,f40b4918-4270-407e-bfd8-53f4462c2d6c,Reconciliation,processed_patient_flow_daily,service_reduced_service_session_count,match,0,Passed,Information,0,,2026-07-26 11:26:46.587986
+INT-PFD-8B3D878D871C,356b0141-291c-43ba-873d-56fda7e3662e,Reconciliation,processed_patient_flow_daily,service_extended_service_session_count,match,0,Passed,Information,0,,2026-07-26 11:26:46.588152

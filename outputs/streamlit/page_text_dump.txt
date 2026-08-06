@@ -1,0 +1,128 @@
+app
+
+Data Upload and Validation
+
+Executive Overview
+
+Deploy
+EXECUTIVE OVERVIEW
+
+Hospital Operational Performance & Decision Support
+
+Hospital
+
+Department
+
+Year
+
+Month
+
+ 
+
+Reset
+
+ROUTINE MONITORING — STABLE OPERATIONS
+
+No material operational breach is identified for All Departments on 2026-01-01 00:00:00. All monitored KPIs are within acceptable thresholds. Continue routine monitoring.
+
+Primary KPI Highlights
+Staffing Level
+—
+Status: Monitoring
+Staff Absenteeism Rate
+—
+Status: Monitoring
+Bed Occupancy Rate
+—
+Status: Monitoring
+Supporting KPI Snapshot
+Average Patient Waiting Time
+—
+Status: Monitoring
+Patient Complaint Rate
+No Data
+Unit: Data Not Available | Status: Awaiting Complaint Data
+Patient Satisfaction Score
+—
+Status: Monitoring
+
+Annual actual data not available for Staffing Level
+
+ACTUAL Staffing Level
+Actual monthly average: — (Unknown)
+Thresholds not configured
+Operational meaning: Operational status unknown.
+Management implication: Staffing levels adequate. Continue routine monitoring.
+
+Annual actual data not available for Staff Absenteeism Rate
+
+ACTUAL Staff Absenteeism Rate
+Actual monthly average: — (Unknown)
+Thresholds not configured
+Operational meaning: Operational status unknown.
+Management implication: Absenteeism within acceptable range. Continue routine monitoring.
+
+Annual actual data not available for Bed Occupancy Rate
+
+ACTUAL Bed Occupancy Rate
+Actual monthly average: — (Unknown)
+Thresholds not configured
+Operational meaning: Operational status unknown.
+Management implication: Bed occupancy within acceptable range. Continue routine monitoring.
+
+Workforce, service, and patient-experience signals appear together in the selected period. Causality is not confirmed.
+
+Forecast Capability
+Status: Not Yet Available
+The forecast configurations are draft, disabled, and pending method selection. No governed forecast values have been generated. Current dashboard coverage: January-July 2026 actual monthly performance. Required next step: approve the forecast method, configure the forecast engine, validate accuracy, and generate governed outputs.
+MANAGEMENT REVIEW REQUIRED
+ACTUAL PERIOD
+Based on recorded monthly operational performance.
+
+No material operational breach. Continue routine monitoring.
+
+ACTION FOR REVIEW
+
+Primary permitted action: No material operational breach. Continue routine monitoring.
+
+Readiness: Routine
+
+Financial Impact
+
+Estimated impact: Not Yet Quantified
+
+Financial readiness: Requires Intervention Scenario
+
+Missing inputs:
+
+Net financial impact not quantified.
+Intervention cost not available.
+Estimated benefit not available.
+
+Next required step: Validate financial assumptions before management comparison.
+
+keyboard_arrow_right
+
+Action Details
+
+SCENARIO COMPARISON
+
+Scenario comparison requires scenario-specific financial linkage.
+
+No quantified scenario financials were found for the selected package.
+
+Next step: link each scenario to its financial estimate using scenario_id and decision_package_id
+
+Supporting Detail
+
+What Needs Attention
+
+Evidence and Assumptions
+
+Next Management Steps
+
+No specific attention items identified for this period.
+
+Governance Model: Sentinel360 Integrated GovernanceData Source: Analytical Six-KPI Daily + Risk AlertConfidence: ProvisionalApproval: Phase 3B Executive OverviewDecision support only; causality is not confirmed.Authorised management review required for final action.
+
+This is a governed dashboard. All thresholds, actions, and narratives are provisional and subject to review.

@@ -1,0 +1,16 @@
+priority_group,page_id,page_name,justification,owner,reviewer,dependency,expected_duration,governance_note
+Priority 1,PAGE-01,Data Upload and Validation,Required before any data can enter the system,Kadir,Farah,None,1 sprint,Core data entry point
+Priority 1,PAGE-02,Executive Overview,Primary executive view; required for all demonstrations,Kadir,Farah,PAGE-08,1 sprint,Executive summary must be stable first
+Priority 1,PAGE-03,KPI Dashboard,Core operational view; demonstrates KPI thresholds and trends,Kadir,Farah,None,1 sprint,Operational priority
+Priority 1,PAGE-04,Risk and Alerts,High visibility for risk management; demonstrates early-warning value,Kadir,Farah,PAGE-03,1 sprint,Risk view depends on KPI data
+Priority 1,PAGE-08,Integrated Decision,Central decision view; all other pages drill to this,Kadir,Farah,All Priority 1 pages,2 sprints,Most complex page; integrate all data
+Priority 2,PAGE-05,Recommendation Summary,Supports decision-making with structured options,Kadir,Farah,PAGE-08,1 sprint,Depends on integrated decision
+Priority 2,PAGE-06,Scenario Lab,Enables scenario comparison and what-if analysis,Kadir,Farah,PAGE-08,2 sprints,Complex interactive controls
+Priority 2,PAGE-07,Financial Impact,Financial analysis with uncertainty ranges,Kadir,Farah,PAGE-08,1 sprint,Depends on integrated decision
+Priority 2,PAGE-09,Management Review and Actions,Management controls for review and routing,Kadir,Farah,PAGE-08,1 sprint,Depends on integrated decision
+Priority 3,PAGE-10,Reports and Export,Export functionality for all datasets,Kadir,Farah,All pages,1 sprint,Depends on all page datasets
+Priority 3,PAGE-11,Audit and Traceability,Evidence and lineage tracking,Kadir,Farah,All pages,1 sprint,Depends on all page datasets
+Priority 4,PAGE-12,Configuration and Governance,Admin settings and governance rules,Kadir,Farah,None,1 sprint,Lowest priority; admin only
+Deferred,NONE,Authentication and User Management,Not required for initial demonstration,Kadir,Farah,None,Future,Deferred until core demo stable
+Deferred,NONE,Automated Scheduling,Not required for initial demonstration,Kadir,Farah,None,Future,Deferred until core demo stable
+Deferred,NONE,Real-time Data Streaming,Not required for initial demonstration,Kadir,Farah,None,Future,Deferred until core demo stable

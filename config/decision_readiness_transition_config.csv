@@ -1,0 +1,13 @@
+configuration_id,transition_rule_id,current_state,eligible_next_state,transition_requirements,transition_not_executed_flag,active_flag,version,governance_note
+CFG-TRANS-001,TRANS-001,Requires Assumption Validation,Ready with Conditions,Required assumptions validated,True,True,1.0,Rule only; not executed
+CFG-TRANS-002,TRANS-002,Requires Baseline Validation,Ready with Conditions,Baseline validation passes,True,True,1.0,Rule only; not executed
+CFG-TRANS-003,TRANS-003,Requires Financial Input,Ready with Conditions,Mandatory financial inputs provided and validated,True,True,1.0,Rule only; not executed
+CFG-TRANS-004,TRANS-004,Requires Budget Data,Ready with Conditions,Authoritative budget data supplied,True,True,1.0,Rule only; not executed
+CFG-TRANS-005,TRANS-005,Ready with Conditions,Ready for Integrated Management Review,All blocking conditions resolved and confirmations completed,True,True,1.0,Rule only; not executed
+CFG-TRANS-006,TRANS-006,Monitoring Only,Ready with Conditions,Escalation trigger met and valid intervention package available,True,True,1.0,Rule only; not executed
+CFG-TRANS-007,TRANS-007,Non-Quantitative,Ready with Conditions,Sufficient governed quantitative data become available,True,True,1.0,Rule only; not executed
+CFG-TRANS-008,TRANS-008,Requires Evidence Completion,Ready with Conditions,Required evidence references provided,True,True,1.0,Rule only; not executed
+CFG-TRANS-009,TRANS-009,Requires Lineage Completion,Ready with Conditions,Source-to-decision lineage completed,True,True,1.0,Rule only; not executed
+CFG-TRANS-010,TRANS-010,Requires Stakeholder Validation,Ready with Conditions,Stakeholder confirmation received,True,True,1.0,Rule only; not executed
+CFG-TRANS-011,TRANS-011,Requires Benefit Validation,Ready with Conditions,Benefit eligibility resolved,True,True,1.0,Rule only; not executed
+CFG-TRANS-012,TRANS-012,Requires Additional Scenario Analysis,Ready with Conditions,Additional modelling completed,True,True,1.0,Rule only; not executed

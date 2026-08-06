@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-WO-001,no_prohibited_terms,0,0,PASS,
+VA-WO-002,no_unsupported_causal_language,0,0,PASS,
+VA-WO-003,allowed_terms_config_loaded,True,True,PASS,Allowed terms configuration validated

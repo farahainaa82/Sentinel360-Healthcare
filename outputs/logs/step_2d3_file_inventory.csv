@@ -1,0 +1,78 @@
+file_category,step_reference,file_path,required_flag,exists_flag,file_size_bytes,checksum,acceptance_status,notes,checked_datetime
+Implementation,2A,src/demo_generation_config.py,True,True,18191,002eb70ea6fa37e0da38ab35aeb7d83fdc71595e2c10eafa69f432d2a1568ec8,Present,,2026-07-26T20:27:04.796744
+Implementation,2A,src/demo_data_generator.py,True,True,50771,3f0aac3c22ccf072fba0e525b95f0859ab40d09d8e39722f5fec7f4031de1e0d,Present,,2026-07-26T20:27:04.810735
+Implementation,2B,src/export_demo_data.py,True,True,10721,7dc632435a45b7b6222e5f28c1579dd202821a316769bd74697f36c78a2c5a6f,Present,,2026-07-26T20:27:04.823837
+Implementation,2B,src/profile_demo_data.py,True,True,29138,6d4c0af62692e0433d5385c2186c271b6316c50122ba744d909eeeda8768a4a5,Present,,2026-07-26T20:27:04.836709
+Implementation,2C,src/data_validation_engine.py,True,True,64935,568c010c039eba3c78552b26f1e617f738704b29b42d7cb4720ca244ff901483,Present,,2026-07-26T20:27:04.849434
+Implementation,,src/run_data_validation.py,True,True,10220,84e389e537746d1298d695ab0139a23d41aab3cf7fc2ad92079ddf31d130f73a,Present,,2026-07-26T20:27:04.862289
+Implementation,2C,src/validation_config_loader.py,True,True,30277,0be395fa9c6f3eff3b4f1cf632f35531e00c491f1c870c91dac1c5ab95f612bf,Present,,2026-07-26T20:27:04.880664
+Implementation,2C,src/validation_models.py,True,True,12583,2ae7155e987eef78a27a8607669148409d66890254944983d0739e87fb210727,Present,,2026-07-26T20:27:04.898062
+Implementation,,src/processing_models.py,True,True,9655,ff692fd9a5e89d22150cdfba93091e5e6b20e0a786a791067d4267bcadacf0bb,Present,,2026-07-26T20:27:04.915091
+Implementation,,src/processed_schema_registry.py,True,True,61108,b680a2cc5f8063ab86e20478bfd5e66f734d09867b170114cf9a1637d6b60adf,Present,,2026-07-26T20:27:04.931014
+Implementation,,src/processing_config_loader.py,True,True,7168,ba83a94feb05b8fe72397040f008febcb33143ea742e836260911dc561f6b1fe,Present,,2026-07-26T20:27:04.944054
+Implementation,,src/processing_contracts.py,True,True,8858,ae331d616f8a785d9d5ca87efd8b9f9c1446db42b7ef11084a46b61411bd42e6,Present,,2026-07-26T20:27:04.954390
+Implementation,2D-2,src/workforce_transformer.py,True,True,48049,dec2cf45ba1731e5342db8634e6e95da692ab3854b7e57866f7c69990ac3476e,Present,,2026-07-26T20:27:04.998926
+Implementation,2D-2,src/workforce_daily_builder.py,True,True,13118,07af458cba938395fdbe145502550ff6316e3514c727edb7e501531c089a45dc,Present,,2026-07-26T20:27:05.053214
+Implementation,,src/run_workforce_processing.py,True,True,16977,b5f6099484df1ecfe17390550b7625ed0e7b68ebf7f53cac22014b107597c981,Present,,2026-07-26T20:27:05.099973
+Implementation,2D-3A,src/patient_encounter_transformer.py,True,True,32365,7b6c878bf7de77c2cff1f8b7aae1ade086871d9e55e045af35da8a2518b60ee6,Present,,2026-07-26T20:27:05.142617
+Implementation,,src/run_patient_encounter_processing.py,True,True,16831,1a55637a3e1186fd40ce489db0e95bd4426ba5caa9a01c951977c816c0141d60,Present,,2026-07-26T20:27:05.177085
+Implementation,2D-3B,src/queue_capacity_schedule_transformer.py,True,True,41420,2b8d2fe71f647aa12f26bc4befaedc2693969469f1338189b7987a3473d498f3,Present,,2026-07-26T20:27:05.212984
+Implementation,,src/run_queue_capacity_schedule_processing.py,True,True,22823,66009d46bd21053bdf0acc58c2d5d9e696ea67e59a86b374ba186e3be0d91061,Present,,2026-07-26T20:27:05.256439
+Implementation,2D-3C,src/patient_flow_daily_builder.py,True,True,33636,e5d8071edc90c3e093b1592a9aab3e7d4a840dfdbaee10816a140202d7feb46e,Present,,2026-07-26T20:27:05.295085
+Implementation,,src/run_patient_flow_daily_processing.py,True,True,14767,6933ac42e09ba37cbd28ad20fc7780ad7c542ce2167e2d710485e533037cc8f0,Present,,2026-07-26T20:27:05.331386
+Implementation,2D-3D,src/patient_flow_integration_validator.py,True,True,48661,7270c7e97b505719ae58dcaf2ad9c6d28731ccd2715b6b304b78376b9a85e732,Present,,2026-07-26T20:27:05.371363
+Implementation,,src/run_patient_flow_integration_validation.py,True,True,12126,672056d67be0603a87fc5d6aa49687e9fb6f48f55963d5e5bb7841c59519d7c2,Present,,2026-07-26T20:27:05.401610
+Implementation,2D-3E,src/step_2d3_closure_validator.py,True,True,40738,39f7b5f4927fb63d8773e8d01de63807fc261964c5e4333447f3fa7bd3564597,Present,,2026-07-26T20:27:05.403051
+Implementation,,src/run_step_2d3_closure.py,True,True,16920,ec770ae5a3f90343b57b34f923fc97bccd8f6f92ec2acbc0be2c2fd4f5b2f2eb,Present,,2026-07-26T20:27:05.403569
+Test,,tests/test_demo_data_generator.py,True,True,18435,adc551a119e16a41d49c0dadf8a4f37d01cd4b307e5943be49bf098df0f29741,Present,,2026-07-26T20:27:05.414449
+Test,,tests/test_demo_data_export.py,True,True,13433,2e2493e0359f64359b14644bc3391700b1c8ac775f4453a8811853dd3c7a4799,Present,,2026-07-26T20:27:05.425968
+Test,,tests/test_data_validation_engine.py,True,True,39116,2f152282b803bc27d34a67835a7c7567d93beba45f0baab79f49aad3a7f38cd8,Present,,2026-07-26T20:27:05.465404
+Test,,tests/test_processing_architecture.py,True,True,23004,c25a66af2fd20af7fe48496cfd2683676c027d36aefafed328a2506a1a07b4bc,Present,,2026-07-26T20:27:05.507950
+Test,,tests/test_workforce_transformation.py,True,True,28434,6487f0bf6252eb650c758fb7eef2b3ad50fe5ec1e9de5afb5365f52b4d523963,Present,,2026-07-26T20:27:05.543189
+Test,,tests/test_patient_encounter_transformation.py,True,True,30772,8ea8702eb5684e7bb322c52962c552bb983bfbbdc8cfb494d95085714e379004,Present,,2026-07-26T20:27:05.578476
+Test,,tests/test_queue_capacity_schedule_transformation.py,True,True,48874,f4d7ae67b5d87c0db384d33f11d9077a48007d139ec7d2fee2d1c1789483d229,Present,,2026-07-26T20:27:05.617327
+Test,,tests/test_patient_flow_daily_builder.py,True,True,52122,3eb4961a33d8bc8b7d2826c13e64d2c3f6b6463f45fe9bbd7ec77326afb5dff8,Present,,2026-07-26T20:27:05.669904
+Test,,tests/test_patient_flow_integration.py,True,True,56988,2840be17d9b6ec5d866301e3daece812f658a582ec1371c8e43c2420fdaf1528,Present,,2026-07-26T20:27:05.717210
+Test,,tests/test_step_2d3_closure.py,True,True,26974,33d46c0fbb384c87553a5f0121fb95247c75c6c473c939924ab7b5d5fd961b83,Present,,2026-07-26T20:27:05.752703
+Documentation,,docs/data_validation_engine_specification.md,True,True,13830,fa040cb11617eb492bc2e7a942ec346cd04cb00c72cbd46fbc335c498496bdbe,Present,,2026-07-26T20:27:05.753865
+Documentation,,docs/workforce_transformation_specification.md,True,True,15685,27ef6b8396fa4585177b534a723d75724cd7c6cce02af9b885b611ff84ab13f2,Present,,2026-07-26T20:27:05.754885
+Documentation,,docs/workforce_processing_report.md,True,True,6016,bd93775efded2535697cb53db423bf7dc6971670ce86f139fdefe437d0570881,Present,,2026-07-26T20:27:05.755621
+Documentation,,docs/patient_encounter_transformation_specification.md,True,True,13677,b0181f06e6b259dfd315dd6a38dc4d5103b15bf69db49718bf125336563599eb,Present,,2026-07-26T20:27:05.756508
+Documentation,,docs/patient_encounter_processing_report.md,True,True,6975,034e4a46f0196ec1498e285eb50793579c39e9d3be4cd5e4a0e9b9182dc44e4d,Present,,2026-07-26T20:27:05.757049
+Documentation,,docs/queue_capacity_schedule_transformation_specification.md,True,True,12544,b1a061ef34a668cc2988b25ac4e69917ab53303a71824df2ed370d2a55909bbf,Present,,2026-07-26T20:27:05.757681
+Documentation,,docs/queue_capacity_schedule_processing_report.md,True,True,6068,4037cc72a60cffde56d1ecf2b71aa647d37b93e53855a01fd7dd7bf2375fcf42,Present,,2026-07-26T20:27:05.758570
+Documentation,,docs/patient_flow_daily_specification.md,True,True,10442,a70f1ddc3e2324cbf4fb4f321c6e9b73c797182b3898c3a5070d0f404284542e,Present,,2026-07-26T20:27:05.759375
+Documentation,,docs/patient_flow_daily_processing_report.md,True,True,8418,280f42c41978aacf576925d20aa8076d609ea0a2351b40a031488a8e68bbea68,Present,,2026-07-26T20:27:05.760099
+Documentation,,docs/patient_flow_integration_specification.md,True,True,11733,5209bba27af20e41052ff2b56b58167929becf95511642a4c8c18b96c25029a6,Present,,2026-07-26T20:27:05.771409
+Documentation,,docs/patient_flow_integration_report.md,True,True,10628,5c46f8016db6f711b674deac0e18bfd1bb657c439fcb529abaaec60c3df17bf2,Present,,2026-07-26T20:27:05.781652
+Documentation,,docs/step_2d3_closure_specification.md,True,False,0,,Missing,Required file not found,2026-07-26T20:27:05.781790
+Documentation,,docs/step_2d3_final_acceptance_report.md,True,False,0,,Missing,Required file not found,2026-07-26T20:27:05.781831
+Processed Dataset,,data/processed/processed_hospital_master.csv,True,True,426,9751bf9ee4213b45d3138190a68a497439c84da385585264813fe3bb49302238,Present,,2026-07-26T20:27:05.782199
+Processed Dataset,,data/processed/processed_department_master.csv,True,True,1705,640ba32cac671692d7baa1dd5d5455df83f1588bb7c3bbe34a8ee279160e3e1f,Present,,2026-07-26T20:27:05.782432
+Processed Dataset,,data/processed/processed_staff_role_master.csv,True,True,1693,5542710f419a1b3b7a5a46c7a48519096967a221a15b1220d84999cd8ded5be6,Present,,2026-07-26T20:27:05.782638
+Processed Dataset,,data/processed/processed_staff_master.csv,True,True,30168,24cc5ba2b71e8719d1cf99a7cfd7ebeb81789029d6c7737005bcb2576de5cb6b,Present,,2026-07-26T20:27:05.783129
+Processed Dataset,,data/processed/processed_staff_roster.csv,True,True,8777707,c0c532f17ad0cd76591b4f19cff0e12020dcbf7a43804b71a08e50d9b5e3aa0e,Present,,2026-07-26T20:27:05.790467
+Processed Dataset,,data/processed/processed_staff_attendance.csv,True,True,11261516,ace920f1b59672484ed111375171a742eb5d0b8e0160d7ec7cf1dc7c80ba4043,Present,,2026-07-26T20:27:05.799014
+Processed Dataset,,data/processed/processed_staffing_requirement.csv,True,True,14560382,3489a21aab6c4626d0268d176d0129f8266cafe7e9f914271e8f498959fe932d,Present,,2026-07-26T20:27:05.810990
+Processed Dataset,,data/processed/processed_workforce_daily.csv,True,True,5658425,a5cd78b09d8aa4f4784aeea1735a5979e129c52e461faf09e2c896247607a3d2,Present,,2026-07-26T20:27:05.816276
+Processed Dataset,,data/processed/processed_patient_encounters.csv,True,True,26365495,7d75a4e43f8e3b47ae3298ae1337ed1cdcc422287a8ad5ac5febd2bb350e490f,Present,,2026-07-26T20:27:05.887402
+Processed Dataset,,data/processed/processed_patient_queue.csv,True,True,215881,035ae7d548904327e74cfada45dba329bf072e3e58f3f37db7e86a3771a78591,Present,,2026-07-26T20:27:05.900544
+Processed Dataset,,data/processed/processed_bed_capacity.csv,True,True,209184,239fe6b282a9933952e5b17c933ae10d03a2caf5bdf1bdcdcae5dcb4ce543a1b,Present,,2026-07-26T20:27:05.911580
+Processed Dataset,,data/processed/processed_service_schedule.csv,True,True,2101269,7778444350ad50fbcf6a67c1fe37e08ca66eee507b93ad96d6b7d6febde71c29,Present,,2026-07-26T20:27:05.927419
+Processed Dataset,,data/processed/processed_patient_flow_daily.csv,True,True,575979,cf31c8ac27d9fd0e83e9cf3c175b364c2b3d9be0e7f85a887285390bc2a6c778,Present,,2026-07-26T20:27:05.958128
+Manifest,,outputs/logs/validation_run_manifest.json,True,True,2514,f74d044d8ad19801395a75b2db4aab8fa53a9c5762a44a3b59d42ea5a8a6fac0,Present,,2026-07-26T20:27:05.986505
+Manifest,,outputs/logs/patient_encounter_processing_run_manifest.json,True,True,1789,78780ed6e1e4ef26ea5950dd5d1bee82aea9c05a86594ba5236a6b4cb13c60fe,Present,,2026-07-26T20:27:06.013898
+Manifest,,outputs/logs/queue_capacity_schedule_processing_run_manifest.json,True,True,2409,8eb64dcc557c9cf5917ec7a564ae9f7c0ddf51e992e86925e3f7ceab13a30390,Present,,2026-07-26T20:27:06.017157
+Manifest,,outputs/logs/patient_flow_daily_processing_run_manifest.json,True,True,2356,8ca6ecc19724044eb13c325a3c7eb20d18ab636b8132179f2be211b1a4a83369,Present,,2026-07-26T20:27:06.053075
+Manifest,,outputs/logs/patient_flow_integration_manifest.json,True,True,2630,439fc8cb930ba24241fd5427ee6586762d200eea1b793d5d544e37c899efc0c9,Present,,2026-07-26T20:27:06.085508
+Report,,docs/data_validation_engine_specification.md,True,True,13830,fa040cb11617eb492bc2e7a942ec346cd04cb00c72cbd46fbc335c498496bdbe,Present,,2026-07-26T20:27:06.086902
+Report,,docs/workforce_transformation_specification.md,True,True,15685,27ef6b8396fa4585177b534a723d75724cd7c6cce02af9b885b611ff84ab13f2,Present,,2026-07-26T20:27:06.087999
+Report,,docs/workforce_processing_report.md,True,True,6016,bd93775efded2535697cb53db423bf7dc6971670ce86f139fdefe437d0570881,Present,,2026-07-26T20:27:06.089218
+Report,,docs/patient_encounter_transformation_specification.md,True,True,13677,b0181f06e6b259dfd315dd6a38dc4d5103b15bf69db49718bf125336563599eb,Present,,2026-07-26T20:27:06.089647
+Report,,docs/patient_encounter_processing_report.md,True,True,6975,034e4a46f0196ec1498e285eb50793579c39e9d3be4cd5e4a0e9b9182dc44e4d,Present,,2026-07-26T20:27:06.089912
+Report,,docs/queue_capacity_schedule_transformation_specification.md,True,True,12544,b1a061ef34a668cc2988b25ac4e69917ab53303a71824df2ed370d2a55909bbf,Present,,2026-07-26T20:27:06.090160
+Report,,docs/queue_capacity_schedule_processing_report.md,True,True,6068,4037cc72a60cffde56d1ecf2b71aa647d37b93e53855a01fd7dd7bf2375fcf42,Present,,2026-07-26T20:27:06.090386
+Report,,docs/patient_flow_daily_specification.md,True,True,10442,a70f1ddc3e2324cbf4fb4f321c6e9b73c797182b3898c3a5070d0f404284542e,Present,,2026-07-26T20:27:06.090617
+Report,,docs/patient_flow_daily_processing_report.md,True,True,8418,280f42c41978aacf576925d20aa8076d609ea0a2351b40a031488a8e68bbea68,Present,,2026-07-26T20:27:06.090843
+Report,,docs/patient_flow_integration_specification.md,True,True,11733,5209bba27af20e41052ff2b56b58167929becf95511642a4c8c18b96c25029a6,Present,,2026-07-26T20:27:06.091737
+Report,,docs/patient_flow_integration_report.md,True,True,10628,5c46f8016db6f711b674deac0e18bfd1bb657c439fcb529abaaec60c3df17bf2,Present,,2026-07-26T20:27:06.092775

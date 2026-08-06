@@ -1,0 +1,58 @@
+alignment_record_id,threshold_candidate_id,kpi_id,candidate_threshold_status,business_movement_interpretation,agreement_status,record_count,agreement_percentage,context_review_count,calibration_run_id
+ALN-710BF14613DB,CAND-CFFC26CDAEA8,kpi_001,Candidate Amber,Trend signal vs threshold status alignment,Context Review,2023,69.25358378645576,622,THCAL-DBEA0A3F3860
+ALN-4B7563D5C90B,CAND-CFFC26CDAEA8,kpi_001,Candidate Green,Trend signal vs threshold status alignment,Agreement,8851,87.25567732459609,1128,THCAL-DBEA0A3F3860
+ALN-C215846601A0,CAND-CFFC26CDAEA8,kpi_001,Candidate Red,Trend signal vs threshold status alignment,Agreement,574,83.44947735191639,95,THCAL-DBEA0A3F3860
+ALN-987EC87F39F8,CAND-9132137F3353,kpi_001,Candidate Amber,Trend signal vs threshold status alignment,Context Review,1150,69.30434782608695,353,THCAL-DBEA0A3F3860
+ALN-F3C66FF72613,CAND-9132137F3353,kpi_001,Candidate Green,Trend signal vs threshold status alignment,Agreement,9285,87.3882606354335,1171,THCAL-DBEA0A3F3860
+ALN-36BFDF038652,CAND-9132137F3353,kpi_001,Candidate Red,Trend signal vs threshold status alignment,Agreement,1013,84.20533070088845,160,THCAL-DBEA0A3F3860
+ALN-A98A0956BB7F,CAND-D39195440C4F,kpi_001,Candidate Amber,Trend signal vs threshold status alignment,Context Review,5760,70.32986111111111,1709,THCAL-DBEA0A3F3860
+ALN-D9E2E2039C37,CAND-D39195440C4F,kpi_001,Candidate Green,Trend signal vs threshold status alignment,Agreement,3091,87.77094791329667,378,THCAL-DBEA0A3F3860
+ALN-9B9C11D037D7,CAND-D39195440C4F,kpi_001,Candidate Red,Trend signal vs threshold status alignment,Agreement,2597,82.44127839815172,456,THCAL-DBEA0A3F3860
+ALN-035ADACB85AD,CAND-608F03EF0032,kpi_002,Candidate Amber,Trend signal vs threshold status alignment,Context Review,2160,68.7037037037037,676,THCAL-DBEA0A3F3860
+ALN-33196826FB86,CAND-608F03EF0032,kpi_002,Candidate Green,Trend signal vs threshold status alignment,Agreement,8623,80.78394990142642,1657,THCAL-DBEA0A3F3860
+ALN-606884013D31,CAND-608F03EF0032,kpi_002,Candidate Red,Trend signal vs threshold status alignment,Agreement,665,89.62406015037594,69,THCAL-DBEA0A3F3860
+ALN-021F0806429D,CAND-401D561CEDE3,kpi_002,Candidate Amber,Trend signal vs threshold status alignment,Context Review,1175,67.82978723404256,378,THCAL-DBEA0A3F3860
+ALN-B0B7F585ACB6,CAND-401D561CEDE3,kpi_002,Candidate Green,Trend signal vs threshold status alignment,Agreement,9119,80.8970281829148,1742,THCAL-DBEA0A3F3860
+ALN-8FFE7EB0D100,CAND-401D561CEDE3,kpi_002,Candidate Red,Trend signal vs threshold status alignment,Agreement,1154,89.1681109185442,125,THCAL-DBEA0A3F3860
+ALN-00E0CE175316,CAND-7D40F54C5FD8,kpi_002,Candidate Amber,Trend signal vs threshold status alignment,Context Review,4826,68.52465810194778,1519,THCAL-DBEA0A3F3860
+ALN-9684097E70F5,CAND-7D40F54C5FD8,kpi_002,Candidate Green,Trend signal vs threshold status alignment,Agreement,3569,81.45138694312132,662,THCAL-DBEA0A3F3860
+ALN-981FEC236A04,CAND-7D40F54C5FD8,kpi_002,Candidate Red,Trend signal vs threshold status alignment,Agreement,3053,88.89616770389782,339,THCAL-DBEA0A3F3860
+ALN-F6BFE6AB369F,CAND-CA0102EBD968,kpi_003,Candidate Amber,Trend signal vs threshold status alignment,Context Review,1552,69.0721649484536,480,THCAL-DBEA0A3F3860
+ALN-1A22434C8208,CAND-CA0102EBD968,kpi_003,Candidate Green,Trend signal vs threshold status alignment,Agreement,2342,100.0,0,THCAL-DBEA0A3F3860
+ALN-F300694B0B42,CAND-CA0102EBD968,kpi_003,Candidate High Pressure,Trend signal vs threshold status alignment,Agreement,220,91.81818181818183,0,THCAL-DBEA0A3F3860
+ALN-573F8F1361B0,CAND-CA0102EBD968,kpi_003,Candidate Low Utilisation,Trend signal vs threshold status alignment,Agreement,179,83.79888268156425,0,THCAL-DBEA0A3F3860
+ALN-FD61101494AE,CAND-302D7A9F11B5,kpi_003,Candidate Amber,Trend signal vs threshold status alignment,Context Review,1108,69.40433212996389,339,THCAL-DBEA0A3F3860
+ALN-8F46E01657FC,CAND-302D7A9F11B5,kpi_003,Candidate Green,Trend signal vs threshold status alignment,Agreement,2306,100.0,0,THCAL-DBEA0A3F3860
+ALN-24780D6DF92A,CAND-302D7A9F11B5,kpi_003,Candidate High Pressure,Trend signal vs threshold status alignment,Agreement,488,93.44262295081968,0,THCAL-DBEA0A3F3860
+ALN-9179C1B6D31E,CAND-302D7A9F11B5,kpi_003,Candidate Low Utilisation,Trend signal vs threshold status alignment,Agreement,391,83.63171355498721,0,THCAL-DBEA0A3F3860
+ALN-7F8D3FEB668E,CAND-1EC4883C83DB,kpi_003,Candidate Amber,Trend signal vs threshold status alignment,Context Review,1498,70.09345794392523,448,THCAL-DBEA0A3F3860
+ALN-343820712C4B,CAND-1EC4883C83DB,kpi_003,Candidate Green,Trend signal vs threshold status alignment,Agreement,1276,100.0,0,THCAL-DBEA0A3F3860
+ALN-2D9E4F4C5CC1,CAND-1EC4883C83DB,kpi_003,Candidate High Pressure,Trend signal vs threshold status alignment,Agreement,488,93.44262295081968,0,THCAL-DBEA0A3F3860
+ALN-3326B2ADEB95,CAND-1EC4883C83DB,kpi_003,Candidate Low Utilisation,Trend signal vs threshold status alignment,Agreement,1031,81.76527643064986,0,THCAL-DBEA0A3F3860
+ALN-25B5841160E0,CAND-3BF16ED2129B,kpi_004,Candidate Amber,Trend signal vs threshold status alignment,Context Review,876,63.4703196347032,320,THCAL-DBEA0A3F3860
+ALN-A26416CB1E8C,CAND-3BF16ED2129B,kpi_004,Candidate Green,Trend signal vs threshold status alignment,Context Review,3197,78.79261807944948,678,THCAL-DBEA0A3F3860
+ALN-CC31F9968D7D,CAND-3BF16ED2129B,kpi_004,Candidate Red,Trend signal vs threshold status alignment,Agreement,220,93.18181818181817,15,THCAL-DBEA0A3F3860
+ALN-BB7A943DB20C,CAND-B80C86F00895,kpi_004,Candidate Amber,Trend signal vs threshold status alignment,Context Review,432,63.888888888888886,156,THCAL-DBEA0A3F3860
+ALN-CA329F764727,CAND-B80C86F00895,kpi_004,Candidate Green,Trend signal vs threshold status alignment,Context Review,3421,78.69044139140601,729,THCAL-DBEA0A3F3860
+ALN-8B202B9847DC,CAND-B80C86F00895,kpi_004,Candidate Red,Trend signal vs threshold status alignment,Agreement,440,92.5,33,THCAL-DBEA0A3F3860
+ALN-CC525D563FCE,CAND-C7926AE694F2,kpi_004,Candidate Amber,Trend signal vs threshold status alignment,Context Review,2188,66.59049360146253,731,THCAL-DBEA0A3F3860
+ALN-D4D93DFD009F,CAND-C7926AE694F2,kpi_004,Candidate Green,Trend signal vs threshold status alignment,Context Review,1009,77.60158572844401,226,THCAL-DBEA0A3F3860
+ALN-39B83FA51663,CAND-C7926AE694F2,kpi_004,Candidate Red,Trend signal vs threshold status alignment,Agreement,1096,92.06204379562044,87,THCAL-DBEA0A3F3860
+ALN-244556F0AFD7,CAND-9415103FD987,kpi_005,Candidate Amber,Trend signal vs threshold status alignment,Context Review,750,66.53333333333333,251,THCAL-DBEA0A3F3860
+ALN-DF1A6798C574,CAND-9415103FD987,kpi_005,Candidate Green,Trend signal vs threshold status alignment,Agreement,2894,80.64961990324811,560,THCAL-DBEA0A3F3860
+ALN-E142764F65DF,CAND-9415103FD987,kpi_005,Candidate Red,Trend signal vs threshold status alignment,Agreement,205,87.8048780487805,25,THCAL-DBEA0A3F3860
+ALN-C5F56B9D7CDC,CAND-F76D963AE6DE,kpi_005,Candidate Amber,Trend signal vs threshold status alignment,Context Review,426,65.72769953051643,146,THCAL-DBEA0A3F3860
+ALN-5F9B2A6F163B,CAND-F76D963AE6DE,kpi_005,Candidate Green,Trend signal vs threshold status alignment,Agreement,3030,80.79207920792079,582,THCAL-DBEA0A3F3860
+ALN-D2AE3FB837B7,CAND-F76D963AE6DE,kpi_005,Candidate Red,Trend signal vs threshold status alignment,Agreement,393,88.04071246819338,47,THCAL-DBEA0A3F3860
+ALN-58FCBCF79DD8,CAND-E8AC265EF263,kpi_005,Candidate Amber,Trend signal vs threshold status alignment,Context Review,793,68.85245901639344,247,THCAL-DBEA0A3F3860
+ALN-627647B2E53E,CAND-E8AC265EF263,kpi_005,Candidate Green,Trend signal vs threshold status alignment,Agreement,2085,81.05515587529976,395,THCAL-DBEA0A3F3860
+ALN-3015CCCA06CD,CAND-E8AC265EF263,kpi_005,Candidate Red,Trend signal vs threshold status alignment,Agreement,971,88.36251287332647,113,THCAL-DBEA0A3F3860
+ALN-3242DC126EF6,CAND-CB8525C68FEC,kpi_006,Candidate Amber,Trend signal vs threshold status alignment,Context Review,1484,69.60916442048517,451,THCAL-DBEA0A3F3860
+ALN-02CE509B409E,CAND-CB8525C68FEC,kpi_006,Candidate Green,Trend signal vs threshold status alignment,Agreement,7764,86.56620298815044,1043,THCAL-DBEA0A3F3860
+ALN-22A168B79834,CAND-CB8525C68FEC,kpi_006,Candidate Red,Trend signal vs threshold status alignment,Agreement,52,84.61538461538461,8,THCAL-DBEA0A3F3860
+ALN-D7454F84B089,CAND-A643D6F72D76,kpi_006,Candidate Amber,Trend signal vs threshold status alignment,Context Review,616,70.12987012987013,184,THCAL-DBEA0A3F3860
+ALN-2E17B8412223,CAND-A643D6F72D76,kpi_006,Candidate Green,Trend signal vs threshold status alignment,Agreement,7764,86.56620298815044,1043,THCAL-DBEA0A3F3860
+ALN-B071E100DDF9,CAND-A643D6F72D76,kpi_006,Candidate Red,Trend signal vs threshold status alignment,Agreement,920,80.43478260869566,180,THCAL-DBEA0A3F3860
+ALN-2FA5D3615D15,CAND-F088CC0F3975,kpi_006,Candidate Amber,Trend signal vs threshold status alignment,Context Review,5228,69.75899005355777,1581,THCAL-DBEA0A3F3860
+ALN-046153E3469E,CAND-F088CC0F3975,kpi_006,Candidate Green,Trend signal vs threshold status alignment,Agreement,2536,87.06624605678233,328,THCAL-DBEA0A3F3860
+ALN-40EB53E447EF,CAND-F088CC0F3975,kpi_006,Candidate Red,Trend signal vs threshold status alignment,Agreement,1536,81.70572916666666,281,THCAL-DBEA0A3F3860

@@ -1,0 +1,647 @@
+decision_package_id,selected_action,selected_scenario,review_outcome,management_comment,conditions_imposed,reviewer_role,approval_reference,confirmation_checkbox,defer_reason,reject_reason,request_evidence_type,route_to_monitoring,route_to_non_quantitative
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260108,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260116,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260209,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260328,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260410,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260420,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260506,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260602,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260608,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260721,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260726,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260822,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261012,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261021,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261127,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261205,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261220,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260202,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260206,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260330,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260409,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260524,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260529,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260611,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260620,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260624,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260710,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260716,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260814,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260925,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261019,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261102,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261114,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261121,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261214,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261225,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260130,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260214,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260325,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260404,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260408,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260413,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260424,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260509,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260618,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260623,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260629,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260703,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260709,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260719,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260809,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260824,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260904,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260923,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260928,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261007,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261023,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261027,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261202,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261218,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260108,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260401,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260417,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260423,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260507,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260511,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260520,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260606,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260610,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260619,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260704,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260723,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260804,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260810,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260901,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260912,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261023,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261031,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261108,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260122,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260328,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260409,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260422,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260426,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260515,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260521,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260615,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260621,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260626,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260720,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260727,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260910,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260915,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260921,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260930,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261015,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261019,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261027,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261111,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261115,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261126,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261202,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261207,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261227,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260402,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260412,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260421,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260428,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260531,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260614,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260707,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260107,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260116,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260123,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260130,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260207,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260213,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260220,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260302,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260317,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260324,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260410,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260420,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260506,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260528,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260629,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260817,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260830,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260904,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260911,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260923,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261003,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261009,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261014,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261026,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261102,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261119,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261125,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261205,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261209,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261219,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260126,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260218,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260224,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260319,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260331,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260416,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260425,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260504,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260523,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260611,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260702,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260728,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260813,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260828,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260902,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260920,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260925,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261007,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261025,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261114,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261206,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260107,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260201,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260211,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260303,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260319,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260402,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260502,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260509,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260522,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260531,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260604,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260624,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260705,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260713,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260727,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260930,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261008,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261014,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261101,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261113,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261227,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260106,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260207,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260310,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260421,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260425,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260521,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260603,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260610,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260614,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260626,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260707,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260818,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260923,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261005,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261013,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261026,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261102,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261109,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261127,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261212,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261217,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260404,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260413,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260427,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260503,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260508,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260601,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260606,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260716,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260209,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260216,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260312,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260510,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260719,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260913,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260917,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20261116,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260128,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260309,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260318,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260323,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260330,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260412,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260702,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260712,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260731,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260805,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260902,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260909,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260914,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260921,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261004,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261111,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261118,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261129,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261203,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261210,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261224,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260106,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260114,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260211,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260216,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260323,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260407,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260426,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260505,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260513,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260528,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260612,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260707,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260801,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260830,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260914,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260922,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261105,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261111,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261130,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261227,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260109,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260126,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260219,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260227,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260305,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260315,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260406,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260422,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260429,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260522,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260530,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260615,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260630,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260718,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260818,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260911,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261014,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261019,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261026,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261118,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261129,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261207,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261213,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261217,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261231,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260107,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260121,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260128,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260202,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260208,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260218,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260307,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260322,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260326,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260415,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260428,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260527,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260604,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260620,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260708,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260804,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260821,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260828,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260901,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260912,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260926,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261001,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261007,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261020,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261025,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261101,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261109,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261125,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261202,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261211,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261215,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261219,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261224,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260215,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260403,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260411,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260509,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260515,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260603,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260619,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260623,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260628,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260716,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260725,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260730,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260809,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260824,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260903,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260910,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261012,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261022,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261112,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261117,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261126,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261205,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261216,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261220,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260116,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260208,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260330,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260408,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260421,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260502,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260605,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260616,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260717,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260723,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260728,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260916,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261008,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261102,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261107,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261219,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261228,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260128,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260209,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260222,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260322,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260403,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260411,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260505,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260601,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260608,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260617,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260624,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260701,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260709,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260802,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20261111,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260405,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260412,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260429,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260506,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260510,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260519,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260527,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260621,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260626,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260704,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260711,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260715,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260722,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260731,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260224,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260313,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260410,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260418,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260428,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260503,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260522,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260603,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260619,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260629,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260703,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260710,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260719,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260726,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260903,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261001,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261012,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261025,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261120,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261125,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261129,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261212,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261216,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261226,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260107,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260122,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260305,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260314,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260325,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260331,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260405,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260417,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260423,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260428,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260517,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260530,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260616,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260622,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260706,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260815,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260823,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260830,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260929,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261008,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261017,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261029,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261110,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261116,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261128,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261203,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261209,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261214,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261219,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261223,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260118,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260319,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260404,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260414,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260421,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260504,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260704,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260826,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260926,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261009,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261030,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261112,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261121,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261226,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260402,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260410,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260420,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260430,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260505,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260509,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260602,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260619,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260629,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260709,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260716,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260721,,,Pending,,,Patient Flow Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260518,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260526,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260624,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260728,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260808,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260921,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20261002,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20261225,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260119,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260129,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260211,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260401,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260415,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260425,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260523,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260601,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260606,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260715,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260719,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260802,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260818,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261020,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261102,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261117,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261204,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261215,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260111,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260115,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260203,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260207,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260212,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260326,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260413,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260421,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260502,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260510,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260515,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260521,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260623,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260710,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260727,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260813,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260915,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261024,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261110,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261229,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260103,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260209,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260221,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260302,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260328,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260406,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260416,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260424,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260430,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260519,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260529,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260603,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260613,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260704,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260708,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260719,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260728,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260911,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260925,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261010,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261018,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261025,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261104,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261214,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260121,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260202,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260215,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260301,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260306,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260314,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260321,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260401,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260417,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260422,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260427,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260506,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260522,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260604,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260609,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260702,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260805,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260811,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260823,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261003,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261028,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261231,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260127,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260131,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260209,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260301,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260305,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260311,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260401,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260411,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260415,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260429,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260504,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260517,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260521,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260529,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260606,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260613,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260618,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260702,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260709,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260726,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260802,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260822,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260903,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260916,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260929,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261020,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261026,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261111,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261127,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261203,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260120,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260125,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260214,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260226,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260304,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260314,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260319,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260422,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260502,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260509,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260602,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260621,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260704,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260724,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260824,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260908,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260912,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261004,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261018,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261030,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261219,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261230,,,Pending,,,Nursing Director,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260407,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260516,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260526,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260530,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260604,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260608,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260623,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260627,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260708,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260714,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260730,,,Pending,,,Bed Management Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260217,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260223,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260414,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260428,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260609,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260701,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260705,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260727,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260731,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260814,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260906,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260914,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260927,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261005,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261009,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261105,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261117,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261121,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261202,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261208,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261214,,,Pending,,,Patient Experience Lead,,False,,,,False,False
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261226,,,Pending,,,Patient Experience Lead,,False,,,,False,False

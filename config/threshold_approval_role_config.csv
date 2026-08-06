@@ -1,0 +1,6 @@
+approval_role_id,approval_role_name,responsibility,approval_required,sequence_order,can_modify_boundary,can_conditionally_approve,can_reject,can_defer,notes
+ROLE-001,Business Owner,Owns the KPI business definition and operational impact,TRUE,1,TRUE,TRUE,TRUE,TRUE,Final authority on threshold operational acceptability
+ROLE-002,Hospital Operations Representative,Represents hospital operations and capacity planning,TRUE,2,TRUE,TRUE,TRUE,TRUE,Advises on operational feasibility and alert burden
+ROLE-003,Clinical or Service Representative,Represents clinical or service delivery perspective,TRUE,3,TRUE,TRUE,TRUE,TRUE,Advises on patient safety and service quality implications
+ROLE-004,Data or Analytics Owner,Owns data quality calculation methodology and analytical validity,TRUE,4,FALSE,TRUE,FALSE,TRUE,Validates statistical rigour and data sufficiency
+ROLE-005,Governance Approver,Ensures compliance with governance policy and audit requirements,TRUE,5,FALSE,FALSE,TRUE,TRUE,Final governance sign-off before promotion

@@ -1,0 +1,2 @@
+governance_check_id,check_type,check_result,issue_count,governance_note
+GOV-001,Readiness Governance,Passed,0,All readiness records comply with governance rules

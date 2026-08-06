@@ -1,0 +1,159 @@
+{
+  "step": "2D-5",
+  "mode": "full_run",
+  "timestamp": "2026-07-29T14:39:49.224746",
+  "outputs": {
+    "step_2d5_authoritative_input_register.csv": {
+      "rows": 17,
+      "checksum": "004c023ab1ecb0814f0748d2a357983a"
+    },
+    "step_2d5_decision_action_routing_register.csv": {
+      "rows": 646,
+      "checksum": "433df641285acb33a507968d0533dabd"
+    },
+    "step_2d5_action_eligibility_register.csv": {
+      "rows": 11628,
+      "checksum": "f003b8e58538b25c5e5b41dfe7ec04a6"
+    },
+    "step_2d5_action_prerequisite_register.csv": {
+      "rows": 3713,
+      "checksum": "baa7b4b5e6e6b5841625d6576c732bf6"
+    },
+    "step_2d5_action_blocking_register.csv": {
+      "rows": 504,
+      "checksum": "3af94f68a45d6302722dca35d51d75a9"
+    },
+    "step_2d5_primary_action_register.csv": {
+      "rows": 646,
+      "checksum": "81b2b1541651f9c041528c94cc0b30f5"
+    },
+    "step_2d5_secondary_action_register.csv": {
+      "rows": 1938,
+      "checksum": "583f31a9c6df7423fd86f6072ec37279"
+    },
+    "step_2d5_responsible_role_register.csv": {
+      "rows": 646,
+      "checksum": "24ecb229a8af2274e28a49e37a3cb3fb"
+    },
+    "step_2d5_escalation_routing_register.csv": {
+      "rows": 646,
+      "checksum": "c635793d49bd6ab2f505e65025ce36b3"
+    },
+    "step_2d5_monitoring_action_register.csv": {
+      "rows": 646,
+      "checksum": "bcf4b6ef81d5754df84b36f8228a42d4"
+    },
+    "step_2d5_management_selection_contract.csv": {
+      "rows": 646,
+      "checksum": "58765490eb941c34c41fce79205ddbe8"
+    },
+    "step_2d5_action_audit_requirement_register.csv": {
+      "rows": 11628,
+      "checksum": "b968b1e5e97d75323981084603c8dcd7"
+    },
+    "step_2d5_action_explanation_register.csv": {
+      "rows": 646,
+      "checksum": "2f56a0eb6c263047518289cf3bf47718"
+    },
+    "step_2d5_queue_assignment_register.csv": {
+      "rows": 646,
+      "checksum": "e1a7a0ffa1bff9ea4d9e51660438a9d9"
+    },
+    "step_2d5_streamlit_action_data_contract.csv": {
+      "rows": 12274,
+      "checksum": "8869fc19f05ff97ffd670aecb09c391d"
+    },
+    "step_2d5_action_evidence_register.csv": {
+      "rows": 646,
+      "checksum": "a4ffa028261fb049078f8e8ca7a1dc5d"
+    },
+    "step_2d5_action_lineage_register.csv": {
+      "rows": 646,
+      "checksum": "12110359b69c72c35970ecb08dee1253"
+    },
+    "step_2d5_action_governance_register.csv": {
+      "rows": 1,
+      "checksum": "714e67e2f4a719de2f642f065128e177"
+    },
+    "step_2d5_action_issue_register.csv": {
+      "rows": 1,
+      "checksum": "8f1bd6e4adff12dd1b068152ff060553"
+    },
+    "step_2d5_execution_summary.csv": {
+      "rows": 1,
+      "checksum": "8985d3785edb7868b571c97e1a0187ac"
+    }
+  },
+  "summary": {
+    "step": "2D-5",
+    "mode": "full_run",
+    "run_timestamp": "2026-07-29T14:39:49.216519",
+    "readiness_records_processed": 646,
+    "action_routing_packages_created": 646,
+    "action_eligibility_records_created": 11628,
+    "allowed_actions": 2791,
+    "allowed_with_conditions_actions": 897,
+    "blocked_actions": 494,
+    "not_applicable_actions": 7436,
+    "not_permitted_actions": 10,
+    "primary_actions_assigned": 646,
+    "secondary_actions_assigned": 1938,
+    "prerequisites_created": 3713,
+    "blocking_records_created": 504,
+    "responsible_role_assignments": 646,
+    "primary_queues_assigned": 646,
+    "secondary_queues_assigned": 1938,
+    "immediate_management_attention_routes": 0,
+    "priority_review_routes": 101,
+    "standard_review_routes": 260,
+    "monitoring_routes": 280,
+    "limited_trial_consideration_eligible": 177,
+    "limited_trial_consideration_blocked": 426,
+    "monitoring_actions_created": 646,
+    "management_selection_contracts_created": 646,
+    "audit_requirement_records_created": 11628,
+    "action_explanations_created": 646,
+    "streamlit_action_contract_records_created": 12274,
+    "evidence_records_created": 646,
+    "lineage_records_created": 646,
+    "governance_issues_logged": 1,
+    "action_issues_logged": 1,
+    "no_action_selected": true,
+    "no_preferred_scenario_selected": true,
+    "no_recommendation_approved": true,
+    "no_financial_option_approved": true,
+    "no_management_approval_recorded": true,
+    "all_approval_statuses_pending": true,
+    "all_selected_flags_false": true,
+    "causality_status_not_confirmed": true,
+    "scenario_values_unchanged": true,
+    "financial_values_unchanged": true,
+    "recommendation_values_unchanged": true,
+    "readiness_values_unchanged": true,
+    "governance_validation_passed": true,
+    "upstream_immutability_confirmed": true,
+    "manifest_generated": true,
+    "status": "COMPLETE",
+    "conclusion": "Phase 2D-5 Decision Options and Action Routing is COMPLETE, GOVERNED, VALIDATED, and READY FOR STEP 2D-6 DECISION EVIDENCE AND AUDIT LAYER",
+    "time_authority_verification_seconds": 0.296,
+    "time_readiness_reconciliation_seconds": 0.018,
+    "time_action_routing_population_seconds": 0.034,
+    "time_action_eligibility_seconds": 40.887,
+    "time_prerequisites_seconds": 1.138,
+    "time_blocking_conditions_seconds": 0.578,
+    "time_primary_routing_seconds": 0.04,
+    "time_secondary_routing_seconds": 0.049,
+    "time_responsible_roles_seconds": 0.741,
+    "time_escalation_routing_seconds": 0.887,
+    "time_monitoring_actions_seconds": 0.047,
+    "time_selection_contracts_seconds": 0.04,
+    "time_audit_requirements_seconds": 8.092,
+    "time_queue_assignments_seconds": 1.159,
+    "time_explanations_seconds": 1.439,
+    "time_streamlit_contract_seconds": 1.917,
+    "time_evidence_lineage_seconds": 1.266,
+    "time_governance_validation_seconds": 0.013,
+    "time_output_writing_seconds": 0.327,
+    "total_execution_time_seconds": 59.889
+  }
+}

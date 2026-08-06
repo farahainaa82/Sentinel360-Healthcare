@@ -1,0 +1,13 @@
+navigation_id,page_id,nav_label,nav_order,parent_nav,icon_hint,drill_down_target,drill_down_key,governance_note
+NAV-01,PAGE-01,Upload,1,,upload,,,Data upload entry point
+NAV-02,PAGE-02,Executive Overview,2,,overview,PAGE-08,integrated_management_brief_id,High-level summary with drill to integrated decision
+NAV-03,PAGE-03,KPI Dashboard,3,,dashboard,PAGE-04,decision_package_id,KPI view with drill to risk and alerts
+NAV-04,PAGE-04,Risk and Alerts,4,,alert,PAGE-08,decision_package_id,Risk view with drill to integrated decision
+NAV-05,PAGE-05,Recommendations,5,,recommend,PAGE-08,decision_package_id,Recommendation view with drill to integrated decision
+NAV-06,PAGE-06,Scenario Lab,6,,scenario,PAGE-08,decision_package_id,Scenario view with drill to integrated decision
+NAV-07,PAGE-07,Financial Impact,7,,finance,PAGE-08,decision_package_id,Financial view with drill to integrated decision
+NAV-08,PAGE-08,Integrated Decision,8,,decision,,,Core integrated decision view
+NAV-09,PAGE-09,Management Review,9,,review,PAGE-08,decision_package_id,Management review with drill to integrated decision
+NAV-10,PAGE-10,Reports,10,,report,,,Report and export hub
+NAV-11,PAGE-11,Audit,11,,audit,PAGE-08,decision_package_id,Audit view with drill to integrated decision
+NAV-12,PAGE-12,Configuration,12,,settings,,,Configuration and governance settings

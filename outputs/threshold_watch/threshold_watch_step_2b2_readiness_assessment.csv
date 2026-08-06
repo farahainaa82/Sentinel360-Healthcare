@@ -1,0 +1,9 @@
+criterion,status,notes
+All 6 KPIs have active threshold configurations,PASS,6 KPIs configured in kpi_threshold_config.csv
+Classification outputs generated for all source records,PASS,17520 source records processed
+Breach outputs generated for all source records,PASS,17520 governed breach output records
+Watch outputs generated for all source records,PASS,17520 governed watch output records
+"Provisional governance flags applied (kpi_003, kpi_005)",PASS,Provisional thresholds flagged with review dates
+Immutability verification passed,PASS,Upstream checksums verified before and after
+Record reconciliation passed,PASS,11397 calculated + 6123 unavailable = 17520
+No upstream files modified during run,PASS,No modifications detected in upstream artifacts

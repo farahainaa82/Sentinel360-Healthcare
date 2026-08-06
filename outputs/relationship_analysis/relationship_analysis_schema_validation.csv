@@ -1,0 +1,6 @@
+field,present,null_count
+relationship_record_id,True,0
+relationship_id,True,0
+hospital_id,True,0
+source_kpi_id,True,0
+target_kpi_id,True,0

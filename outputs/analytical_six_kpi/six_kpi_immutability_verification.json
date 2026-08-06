@@ -1,0 +1,22 @@
+{
+  "phase1": {
+    "changed_files": [],
+    "status": "Passed"
+  },
+  "step_2a1": {
+    "changed_files": [],
+    "status": "Passed"
+  },
+  "step_2a2": {
+    "changed_files": [],
+    "status": "Passed"
+  },
+  "step_2a3": {
+    "changed_files": [],
+    "status": "Passed"
+  },
+  "step_2a4": {
+    "changed_files": [],
+    "status": "Passed"
+  }
+}

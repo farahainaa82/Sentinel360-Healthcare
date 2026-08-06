@@ -1,0 +1,2 @@
+run_id,step,processed_at,total_source_kpi_records,kpi_risk_records,assessable_kpi_records,unavailable_kpi_records,department_date_records,hospital_date_records,issues
+RISKPRIOR-20260728062026,2B-3,2026-07-28T06:20:26.487194,17520,17520,11397,6123,2920,365,0

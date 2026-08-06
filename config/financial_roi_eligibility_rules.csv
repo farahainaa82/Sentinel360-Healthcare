@@ -1,0 +1,11 @@
+rule_id,condition_field,condition_operator,condition_value,roi_status,configuration_version,approval_status,governance_note
+ROI-ELIG-001,cost_complete,equals,True,ROI Calculated — Governed Inputs,v1.0-draft,Draft Analytical Configuration,Complete cost allows ROI
+ROI-ELIG-002,benefit_eligible,equals,True,ROI Calculated — Governed Inputs,v1.0-draft,Draft Analytical Configuration,Eligible benefit allows ROI
+ROI-ELIG-003,period_compatible,equals,True,ROI Calculated — Governed Inputs,v1.0-draft,Draft Analytical Configuration,Compatible periods allow ROI
+ROI-ELIG-004,no_double_counting,equals,True,ROI Calculated — Governed Inputs,v1.0-draft,Draft Analytical Configuration,No double-counting allows ROI
+ROI-ELIG-005,cost_complete,equals,False,ROI Not Calculated — Incomplete Cost,v1.0-draft,Draft Analytical Configuration,Incomplete cost blocks ROI
+ROI-ELIG-006,benefit_eligible,equals,False,ROI Not Calculated — Incomplete Benefit,v1.0-draft,Draft Analytical Configuration,Ineligible benefit blocks ROI
+ROI-ELIG-007,period_compatible,equals,False,ROI Not Calculated — Incompatible Period,v1.0-draft,Draft Analytical Configuration,Incompatible period blocks ROI
+ROI-ELIG-008,scenario_cost,equals,0,ROI Not Calculated — Governance Restriction,v1.0-draft,Draft Analytical Configuration,Zero cost blocks ROI
+ROI-ELIG-009,governance_restriction,equals,True,ROI Not Calculated — Governance Restriction,v1.0-draft,Draft Analytical Configuration,Governance restriction blocks ROI
+ROI-ELIG-010,causality_not_confirmed,equals,True,ROI Not Calculated — Governance Restriction,v1.0-draft,Draft Analytical Configuration,Unconfirmed causality restricts ROI

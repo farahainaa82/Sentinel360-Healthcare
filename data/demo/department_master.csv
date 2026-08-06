@@ -1,0 +1,9 @@
+department_id,hospital_id,department_name,department_type,parent_department_id,bed_licensed,bed_staffed,bed_operational,is_active,effective_from,effective_to,source_system,record_version,record_created_datetime,record_updated_datetime
+DEPT-ED,HOSP-001,Emergency Department,Clinical,,0,0,0,True,2020-01-01,2099-12-31,SENTINEL_DEMO_DEPT,1,2025-01-01,2025-01-01
+DEPT-OPC,HOSP-001,Outpatient Clinic,Clinical,,0,0,0,True,2020-01-01,2099-12-31,SENTINEL_DEMO_DEPT,1,2025-01-01,2025-01-01
+DEPT-MED,HOSP-001,Medical Ward,Clinical,,120,120,120,True,2020-01-01,2099-12-31,SENTINEL_DEMO_DEPT,1,2025-01-01,2025-01-01
+DEPT-SURG,HOSP-001,Surgical Ward,Clinical,,100,100,100,True,2020-01-01,2099-12-31,SENTINEL_DEMO_DEPT,1,2025-01-01,2025-01-01
+DEPT-ICU,HOSP-001,Intensive Care Unit,Clinical,,24,24,24,True,2020-01-01,2099-12-31,SENTINEL_DEMO_DEPT,1,2025-01-01,2025-01-01
+DEPT-DIAG,HOSP-001,Diagnostic Services,Clinical,,0,0,0,True,2020-01-01,2099-12-31,SENTINEL_DEMO_DEPT,1,2025-01-01,2025-01-01
+DEPT-PEX,HOSP-001,Patient Experience,Administrative,,0,0,0,True,2020-01-01,2099-12-31,SENTINEL_DEMO_DEPT,1,2025-01-01,2025-01-01
+DEPT-ADM,HOSP-001,Administration,Administrative,,0,0,0,True,2020-01-01,2099-12-31,SENTINEL_DEMO_DEPT,1,2025-01-01,2025-01-01

@@ -1,0 +1,41 @@
+dataset_type,field_name,field_role,data_type,required,primary_identifier,example_value
+Staff Roster,staff_id,identifier,string,True,True,S001
+Staff Roster,staff_name,descriptive,string,True,False,John Doe
+Staff Roster,role,categorical,string,True,False,Nurse
+Staff Roster,department,categorical,string,True,False,Emergency
+Staff Roster,employment_status,categorical,string,True,False,Active
+Staff Attendance,staff_id,identifier,string,True,False,S001
+Staff Attendance,date,date,date,True,False,2024-01-01
+Staff Attendance,shift,categorical,string,True,False,Morning
+Staff Attendance,attendance_status,categorical,string,True,False,Present
+Patient Encounters,encounter_id,identifier,string,True,True,E001
+Patient Encounters,date,date,date,True,False,2024-01-01
+Patient Encounters,department,categorical,string,True,False,Emergency
+Patient Encounters,patient_type,categorical,string,True,False,Outpatient
+Patient Encounters,outcome,categorical,string,True,False,Discharged
+Bed Occupancy,date,date,date,True,False,2024-01-01
+Bed Occupancy,ward,categorical,string,True,False,ICU
+Bed Occupancy,beds_total,numeric,integer,True,False,20
+Bed Occupancy,beds_occupied,numeric,integer,True,False,15
+Patient Queue,date,date,date,True,False,2024-01-01
+Patient Queue,department,categorical,string,True,False,Emergency
+Patient Queue,arrivals,numeric,integer,True,False,120
+Patient Queue,avg_wait_min,numeric,integer,True,False,25
+Patient Complaints,date,date,date,True,False,2024-01-01
+Patient Complaints,channel,categorical,string,True,False,Phone
+Patient Complaints,category,categorical,string,True,False,Waiting Time
+Patient Complaints,severity,categorical,string,True,False,Medium
+Patient Survey,date,date,date,True,False,2024-01-01
+Patient Survey,department,categorical,string,True,False,Emergency
+Patient Survey,n_responses,numeric,integer,True,False,50
+Patient Survey,satisfaction_score,numeric,float,True,False,4.2
+Scenario Baseline,scenario_family,categorical,string,True,False,Baseline
+Scenario Baseline,hospital_id,identifier,string,True,False,H001
+Scenario Baseline,department_id,identifier,string,True,False,D001
+Scenario Baseline,baseline_period,descriptive,string,True,False,2024-Q1
+Scenario Baseline,baseline_value,numeric,float,True,False,85.5
+KPI Configuration,kpi_id,identifier,string,True,True,KPI001
+KPI Configuration,kpi_name,descriptive,string,True,False,Staffing Level
+KPI Configuration,unit,descriptive,string,True,False,FTE
+KPI Configuration,directionality,categorical,string,True,False,Up is Good
+KPI Configuration,active_flag,boolean,boolean,True,False,True

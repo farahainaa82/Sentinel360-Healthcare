@@ -1,0 +1,2 @@
+classification,affected_count,correction_action,streamlit_impact
+Scenario Summary Recoverable from Frozen Source,76,Mapped existing summary from frozen 2C-2/2D-7 source into Step 2D-7 IMB. No recalculation.,Streamlit readiness improved where no other conditions remain.

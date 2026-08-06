@@ -1,0 +1,16 @@
+conversion_id,from_unit,to_unit,conversion_factor,configuration_version,approval_status,governance_note
+UC-001,Count,staff,1.0,v1.0-draft,Draft Analytical Configuration,Direct mapping
+UC-002,staff,staff,1.0,v1.0-draft,Draft Analytical Configuration,Identity
+UC-003,day,days,1.0,v1.0-draft,Draft Analytical Configuration,Identity
+UC-004,week,days,7.0,v1.0-draft,Draft Analytical Configuration,Standard week
+UC-005,month,days,30.0,v1.0-draft,Draft Analytical Configuration,Standard month approximation
+UC-006,percent,fraction,0.01,v1.0-draft,Draft Analytical Configuration,Percentage to decimal
+UC-007,fraction,percent,100.0,v1.0-draft,Draft Analytical Configuration,Decimal to percentage
+UC-008,MYR per hour,MYR,1.0,v1.0-draft,Draft Analytical Configuration,Rate unit placeholder
+UC-009,MYR per staff per day,MYR,1.0,v1.0-draft,Draft Analytical Configuration,Rate unit placeholder
+UC-010,MYR per shift,MYR,1.0,v1.0-draft,Draft Analytical Configuration,Rate unit placeholder
+UC-011,MYR per day,MYR,1.0,v1.0-draft,Draft Analytical Configuration,Rate unit placeholder
+UC-012,MYR per month,MYR,1.0,v1.0-draft,Draft Analytical Configuration,Rate unit placeholder
+UC-013,MYR per session,MYR,1.0,v1.0-draft,Draft Analytical Configuration,Rate unit placeholder
+UC-014,MYR per patient,MYR,1.0,v1.0-draft,Draft Analytical Configuration,Rate unit placeholder
+UC-015,MYR per cancellation,MYR,1.0,v1.0-draft,Draft Analytical Configuration,Rate unit placeholder

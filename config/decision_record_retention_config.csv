@@ -1,0 +1,12 @@
+configuration_id,record_class,retention_period_rule,archival_required,deletion_permitted,legal_hold_flag,sensitive_data_flag,access_classification,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+RETCL-001,Analytical Evidence,Retention Period Requires Organisational Policy,True,False,False,False,Restricted,1,True,1.0,Draft Analytical Configuration,True,Governed retention rule
+RETCL-002,Decision Evidence,Retention Period Requires Organisational Policy,True,False,False,False,Restricted,2,True,1.0,Draft Analytical Configuration,True,Governed retention rule
+RETCL-003,Financial Evidence,Retention Period Requires Organisational Policy,True,False,False,True,Confidential,3,True,1.0,Draft Analytical Configuration,True,Governed retention rule
+RETCL-004,Governance Record,Retention Period Requires Organisational Policy,True,False,True,False,Restricted,4,True,1.0,Draft Analytical Configuration,True,Governed retention rule
+RETCL-005,Audit Requirement,Retention Period Requires Organisational Policy,True,False,True,False,Restricted,5,True,1.0,Draft Analytical Configuration,True,Governed retention rule
+RETCL-006,Audit Event Contract,Retention Period Requires Organisational Policy,True,False,True,False,Restricted,6,True,1.0,Draft Analytical Configuration,True,Governed retention rule
+RETCL-007,Decision History,Retention Period Requires Organisational Policy,True,False,False,False,Restricted,7,True,1.0,Draft Analytical Configuration,True,Governed retention rule
+RETCL-008,Monitoring Record,Retention Period Requires Organisational Policy,True,False,False,False,Internal,8,True,1.0,Draft Analytical Configuration,True,Governed retention rule
+RETCL-009,Export Record,Retention Period Requires Organisational Policy,True,False,False,False,Internal,9,True,1.0,Draft Analytical Configuration,True,Governed retention rule
+RETCL-010,Configuration Record,Retention Period Requires Organisational Policy,True,False,False,False,Internal,10,True,1.0,Draft Analytical Configuration,True,Governed retention rule
+RETCL-011,Manifest Record,Retention Period Requires Organisational Policy,True,False,False,False,Internal,11,True,1.0,Draft Analytical Configuration,True,Governed retention rule

@@ -1,0 +1,8 @@
+rank_field,field_name,source_column,data_type,sort_direction,precedence
+1,escalation_status,escalation_required,boolean,desc,1
+2,risk_tier,risk_tier,numeric,desc,2
+3,urgency,urgency,categorical,asc,3
+4,breach_severity,breach_flag,boolean,desc,4
+5,sustained_deterioration,trend,categorical,asc,5
+6,readiness,readiness_status,categorical,asc,6
+7,evidence_completeness,evidence_completeness,numeric,desc,7

@@ -1,0 +1,2 @@
+config_id,config_name,description,minimum_confidence_level,confidence_field,applies_to_kpi_id,applies_to_rule_id,enabled,config_version,config_status,effective_date
+CC-001,Medium Trend Confidence,Minimum Medium confidence for trend-based watches,Medium,trend_confidence_level,ALL,WC-003;WC-004;WC-005,True,v1.0-draft,Technical Rule,2026-07-27

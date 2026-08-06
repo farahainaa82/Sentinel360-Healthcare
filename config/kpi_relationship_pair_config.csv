@@ -1,0 +1,16 @@
+config_id,config_type,relationship_id,source_kpi_id,target_kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+PAIR_001,PAIR,RP_001,kpi_002,kpi_001,pair_order,1,ordinal,Absenteeism to Staffing Level,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_002,PAIR,RP_002,kpi_001,kpi_004,pair_order,2,ordinal,Staffing Level to Waiting Time,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_003,PAIR,RP_003,kpi_002,kpi_004,pair_order,3,ordinal,Absenteeism to Waiting Time,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_004,PAIR,RP_004,kpi_003,kpi_004,pair_order,4,ordinal,Bed Occupancy to Waiting Time,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_005,PAIR,RP_005,kpi_004,kpi_005,pair_order,5,ordinal,Waiting Time to Complaint Rate,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_006,PAIR,RP_006,kpi_004,kpi_006,pair_order,6,ordinal,Waiting Time to Satisfaction,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_007,PAIR,RP_007,kpi_005,kpi_006,pair_order,7,ordinal,Complaint Rate to Satisfaction,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_008,PAIR,RP_008,kpi_003,kpi_005,pair_order,8,ordinal,Bed Occupancy to Complaint Rate,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_009,PAIR,RP_009,kpi_001,kpi_005,pair_order,9,ordinal,Staffing Level to Complaint Rate,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_010,PAIR,RP_010,kpi_001,kpi_006,pair_order,10,ordinal,Staffing Level to Satisfaction,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_011,PAIR,RP_011,kpi_002,kpi_003,pair_order,11,ordinal,Absenteeism to Bed Occupancy,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_012,PAIR,RP_012,kpi_002,kpi_005,pair_order,12,ordinal,Absenteeism to Complaint Rate,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_013,PAIR,RP_013,kpi_002,kpi_006,pair_order,13,ordinal,Absenteeism to Satisfaction,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_014,PAIR,RP_014,kpi_003,kpi_006,pair_order,14,ordinal,Bed Occupancy to Satisfaction,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+PAIR_015,PAIR,RP_015,kpi_001,kpi_003,pair_order,15,ordinal,Staffing Level to Bed Occupancy,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design

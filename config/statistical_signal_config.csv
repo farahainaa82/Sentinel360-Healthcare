@@ -1,0 +1,9 @@
+signal_rule_id,signal_method,kpi_id,history_window,minimum_valid_observations,sensitivity_value,signal_direction,enabled,approval_status,version,notes
+S-001,z_score,ALL,30,8,2.0,both,true,Draft,v1.0-draft,Rolling z-score with absolute threshold 2.0
+S-002,mad_signal,ALL,30,8,3.5,both,true,Draft,v1.0-draft,MAD-based modified z-score with threshold 3.5
+S-003,trend_slope,ALL,30,5,,both,true,Draft,v1.0-draft,Linear trend slope over rolling window
+S-004,volatility_change,ALL,30,8,,both,true,Draft,v1.0-draft,Change in rolling standard deviation versus prior window
+S-005,sustained_movement,ALL,,3,,both,true,Draft,v1.0-draft,Minimum 3 consecutive valid observations in same direction
+S-006,change_point,ALL,60,10,,both,true,Draft,v1.0-draft,Potential change-point candidate using rolling comparison
+S-007,period_deterioration,ALL,,2,,both,true,Draft,v1.0-draft,Period-over-period deterioration candidate based on directionality
+S-008,period_improvement,ALL,,2,,both,true,Draft,v1.0-draft,Period-over-period improvement candidate based on directionality

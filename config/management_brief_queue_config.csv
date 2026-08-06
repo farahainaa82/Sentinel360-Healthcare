@@ -1,0 +1,16 @@
+configuration_id,queue_name,readiness_status,primary_flag,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+QUE-001,Integrated Management Review Queue,Ready for Integrated Management Review,True,1,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-002,Conditional Review Queue,Ready with Conditions,True,2,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-003,Assumption Validation Queue,Requires Assumption Validation,True,3,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-004,Baseline Validation Queue,Requires Baseline Validation,True,4,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-005,Financial Input Queue,Requires Financial Input,True,5,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-006,Benefit Validation Queue,Requires Benefit Validation,True,6,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-007,Budget Information Queue,Requires Budget Information,True,7,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-008,Stakeholder Validation Queue,Requires Stakeholder Validation,True,8,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-009,Additional Scenario Queue,Requires Additional Scenario,True,9,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-010,Evidence Completion Queue,Requires Evidence Completion,True,10,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-011,Lineage Completion Queue,Requires Lineage Completion,True,11,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-012,Monitoring Queue,Monitoring Only,True,12,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-013,Non-Quantitative Review Queue,Non-Quantitative,True,13,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-014,Not Suitable Register,Not Suitable,True,14,True,1.0,Draft Analytical Configuration,True,Queue mapping
+QUE-015,Rejected Register,Rejected,True,15,True,1.0,Draft Analytical Configuration,True,Queue mapping

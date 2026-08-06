@@ -1,0 +1,2 @@
+issue_id,processing_run_id,issue_type,severity,issue_description,field_name,blocks_processing
+CI-0001,CLOSURE-2D3E-4A502F1D3677,Missing Documentation,Warning,"Missing docs: ['docs/step_2d3_closure_specification.md', 'docs/step_2d3_final_acceptance_report.md']",,False

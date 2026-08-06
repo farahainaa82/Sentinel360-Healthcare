@@ -1,0 +1,27 @@
+access_contract_id,role_name,access_level,access_description,implementation_status,governance_note
+ACC-18DD68C5,Hospital COO / General Manager,View Summary,View executive summary,Contract Only,Access contract for future implementation
+ACC-735F0701,Hospital COO / General Manager,View Detailed Evidence,View detailed evidence,Contract Only,Access contract for future implementation
+ACC-31A029A8,Hospital COO / General Manager,View Financial Evidence,View financial evidence,Contract Only,Access contract for future implementation
+ACC-5561AFF6,Hospital COO / General Manager,View Lineage,View lineage trace,Contract Only,Access contract for future implementation
+ACC-7FFBC62F,Hospital COO / General Manager,View Audit History,View audit history,Contract Only,Access contract for future implementation
+ACC-44254A70,Hospital COO / General Manager,Record Management Action,Record management action,Contract Only,Access contract for future implementation
+ACC-FF54D201,Hospital COO / General Manager,Record Approval,Record approval,Contract Only,Access contract for future implementation
+ACC-A0E59031,Medical Director,View Summary,View executive summary,Contract Only,Access contract for future implementation
+ACC-BF2E5E0C,Medical Director,View Detailed Evidence,View detailed evidence,Contract Only,Access contract for future implementation
+ACC-986CD822,Medical Director,View Lineage,View lineage trace,Contract Only,Access contract for future implementation
+ACC-9EEA911C,Department Head,View Summary,View executive summary,Contract Only,Access contract for future implementation
+ACC-00785CDA,Department Head,View Detailed Evidence,View detailed evidence,Contract Only,Access contract for future implementation
+ACC-7C4E4437,Operations Manager,View Summary,View executive summary,Contract Only,Access contract for future implementation
+ACC-A94B1BE8,Operations Manager,View Monitoring Record,View monitoring records,Contract Only,Access contract for future implementation
+ACC-8C914E8B,Finance,View Financial Evidence,View financial evidence,Contract Only,Access contract for future implementation
+ACC-A4059647,Finance,View Lineage,View lineage trace,Contract Only,Access contract for future implementation
+ACC-10EA446E,Data Owner,View Detailed Evidence,View detailed evidence,Contract Only,Access contract for future implementation
+ACC-1226A699,Data Owner,Add Evidence,Add evidence records,Contract Only,Access contract for future implementation
+ACC-92C22533,Analytics Team,View Detailed Evidence,View detailed evidence,Contract Only,Access contract for future implementation
+ACC-E8E344B2,Analytics Team,View Lineage,View lineage trace,Contract Only,Access contract for future implementation
+ACC-0B7C48AC,Clinical Lead,View Summary,View executive summary,Contract Only,Access contract for future implementation
+ACC-44B8CF7E,Stakeholder Owner,View Summary,View executive summary,Contract Only,Access contract for future implementation
+ACC-882A6D61,Stakeholder Owner,Request Validation,Request stakeholder validation,Contract Only,Access contract for future implementation
+ACC-0C9B06D6,Governance / Audit Reviewer,View Audit History,View audit history,Contract Only,Access contract for future implementation
+ACC-5B41C378,Governance / Audit Reviewer,View Lineage,View lineage trace,Contract Only,Access contract for future implementation
+ACC-D90353FA,System Administrator,Administer Configuration,Administer system configuration,Contract Only,Access contract for future implementation

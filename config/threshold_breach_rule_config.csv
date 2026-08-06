@@ -1,0 +1,8 @@
+rule_id,rule_name,rule_type,kpi_id,description,enabled,minimum_periods,observation_window,required_threshold_status,required_trend_direction,required_confidence,provisional_handling,output_severity,rule_version,rule_status,effective_date,review_date
+BR-001,General Amber Condition,threshold_breach,ALL,Amber state classification for any KPI,True,1,1,Amber,,,,Amber Condition,v1.0-draft,Technical Rule,2026-07-27,
+BR-002,General Red Breach,threshold_breach,ALL,Red state classification for any KPI,True,1,1,Red,,,,Red Breach,v1.0-draft,Technical Rule,2026-07-27,
+BR-003,Critical Capacity Breach,threshold_breach,kpi_003,Critical Capacity Pressure for Bed Occupancy,True,1,1,Critical Capacity Pressure,,,,Critical Capacity Breach,v1.0-draft,Technical Rule,2026-07-27,
+BR-004,Low Utilisation Condition,threshold_breach,kpi_003,Low Utilisation for Bed Occupancy,True,1,1,Low Utilisation,,,,Low Utilisation Condition,v1.0-draft,Technical Rule,2026-07-27,
+BR-005,Provisional Breach Marker,threshold_breach,ALL,Any breach on a provisional threshold,True,1,1,,,,mark_provisional,Provisional Breach,v1.0-draft,Technical Rule,2026-07-27,
+BR-006,Unavailable Record,threshold_breach,ALL,Unavailable calculation status,True,1,1,Unavailable,,,,Unavailable,v1.0-draft,Technical Rule,2026-07-27,
+BR-007,Not Assessed Record,threshold_breach,ALL,Not assessed calculation status,True,1,1,Not Assessed,,,,Not Assessed,v1.0-draft,Technical Rule,2026-07-27,

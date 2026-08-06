@@ -1,0 +1,138 @@
+{
+  "step": "2D-4",
+  "timestamp": "2026-07-29T13:40:38.092957",
+  "summary": {
+    "step": "2D-4",
+    "start_time": "2026-07-29T13:40:25.140590",
+    "authority_validation_time": 0.17,
+    "input_loading_time": 0.08,
+    "readiness_build_time": 0.07,
+    "population_validation_time": 0.03,
+    "gate_build_time": 0.11,
+    "blocking_build_time": 6.85,
+    "secondary_build_time": 0.59,
+    "transition_build_time": 0.03,
+    "queue_build_time": 0.03,
+    "role_build_time": 0.03,
+    "escalation_build_time": 0.05,
+    "explanation_build_time": 0.05,
+    "contract_build_time": 4.54,
+    "evidence_lineage_time": 0.03,
+    "governance_time": 0.17,
+    "status": "SUCCESS",
+    "end_time": "2026-07-29T13:40:37.995983",
+    "total_time_seconds": 12.86,
+    "scorecards_processed": 646,
+    "readiness_records_created": 646,
+    "ready_for_integrated_management_review": 76,
+    "ready_with_conditions": 101,
+    "requires_assumption_validation": 46,
+    "requires_baseline_validation": 21,
+    "requires_financial_input": 5,
+    "requires_benefit_validation": 5,
+    "requires_budget_data": 7,
+    "requires_stakeholder_validation": 36,
+    "requires_additional_scenario_analysis": 12,
+    "requires_evidence_completion": 23,
+    "requires_lineage_completion": 20,
+    "monitoring_only": 280,
+    "non_quantitative": 9,
+    "not_suitable": 5,
+    "rejected": 0,
+    "gates_created": 7752,
+    "gate_passes": 2591,
+    "gate_pass_with_conditions": 1581,
+    "gate_failures": 193,
+    "blocking_conditions_created": 3611,
+    "secondary_conditions_created": 393,
+    "transition_rules_created": 646,
+    "primary_queues_assigned": 646,
+    "role_assignments": 646,
+    "escalation_assignments": 646,
+    "explanations_created": 646,
+    "streamlit_contract_records": 13301,
+    "evidence_records_created": 646,
+    "lineage_records_created": 646,
+    "governance_issues": 0,
+    "no_preferred_scenario_selected": true,
+    "no_approved_recommendation": true,
+    "no_management_action_selected": true,
+    "no_management_approval_recorded": true,
+    "causality_status": "Not Confirmed",
+    "upstream_immutable": true
+  },
+  "outputs": {
+    "step_2d4_authoritative_input_register.csv": {
+      "checksum": "85e76f241bfb7a7d9cf8c1bc5ad4c48db6de688b2b463922982a637a2371980e",
+      "size_bytes": 6760
+    },
+    "step_2d4_blocking_condition_register.csv": {
+      "checksum": "a2ddf9cd4a6fa6ecbab45c4bd1d6c1d1bed1da406c5682ec5ee822f9fa36aef7",
+      "size_bytes": 1849067
+    },
+    "step_2d4_decision_readiness_register.csv": {
+      "checksum": "b6f0464bf7ffd502c3ce0a7ea450c9b9c4d0a6818de3ac23fe87a5a57f115a60",
+      "size_bytes": 311709
+    },
+    "step_2d4_deferred_and_non_ready_register.csv": {
+      "checksum": "2c306f377e63417e55c99e732479544c93b30bdbf7f2a886f4595d88fd66f4ab",
+      "size_bytes": 145336
+    },
+    "step_2d4_execution_summary.csv": {
+      "checksum": "cadaaa12fae663aba0e838dc9d26e2652a1f5bf69e36393a5282a2ea2574bc0c",
+      "size_bytes": 1638
+    },
+    "step_2d4_manifest.json": {
+      "checksum": "443afa50f7fdb3b234d282cccf224d0e17aa8e8264e8100852eaa701922b51fd",
+      "size_bytes": 5161
+    },
+    "step_2d4_operational_escalation_register.csv": {
+      "checksum": "fb014edcbe9b4740ef00830f24e09b89e2b59996f4a84194fa99c47548510eba",
+      "size_bytes": 258958
+    },
+    "step_2d4_readiness_evidence_register.csv": {
+      "checksum": "c68759995e128f2db2b789ad228a1e71451659265ea7b40e2cccfd9304efd76d",
+      "size_bytes": 292904
+    },
+    "step_2d4_readiness_explanation_register.csv": {
+      "checksum": "23c73a7bd28274ed0359b40492c26fe78793e787f1f3b00372da7d91324881c2",
+      "size_bytes": 675823
+    },
+    "step_2d4_readiness_gate_register.csv": {
+      "checksum": "0582a66489b39dd89e74d61ebb8870dde1f0af71f9946d5e9e114217ca5e73f1",
+      "size_bytes": 1969381
+    },
+    "step_2d4_readiness_governance_register.csv": {
+      "checksum": "33076926f5009c70a4583432a9e76e9b2ee2e48d6229bd0ff1014a938a1202af",
+      "size_bytes": 163
+    },
+    "step_2d4_readiness_issue_register.csv": {
+      "checksum": "aff143a49058a32cb6ae5fe91271a181bd0a2360c95af81f608dee4a19a30f88",
+      "size_bytes": 155
+    },
+    "step_2d4_readiness_lineage_register.csv": {
+      "checksum": "a9b8860373400ffe7bd2546f0153594cab63af796f140c2c66000ac69f8ab29e",
+      "size_bytes": 291607
+    },
+    "step_2d4_readiness_queue_register.csv": {
+      "checksum": "f50975cd3d0468aa696b61981fbd1e002a08a5e3e78e1432e6d6b97ff8d2dcf9",
+      "size_bytes": 207909
+    },
+    "step_2d4_readiness_transition_register.csv": {
+      "checksum": "d48b6bc2f1e272cc94e8b9ad956c976d8065ec53485e8dd6ff2a705c776ea62c",
+      "size_bytes": 209617
+    },
+    "step_2d4_responsible_role_register.csv": {
+      "checksum": "349a2490863a397ea7b1903da74dd5825a59ae4cb8b3b0a8006a140d1a8e8884",
+      "size_bytes": 247115
+    },
+    "step_2d4_secondary_condition_register.csv": {
+      "checksum": "9862598a014db98c497a9afa492049fd4a9c3cd78d825e99f555a9830242df61",
+      "size_bytes": 182236
+    },
+    "step_2d4_streamlit_readiness_data_contract.csv": {
+      "checksum": "fac3394f71a6537fd705f4ed770da70803bd9f45495c2f278f0a2b0b5372627f",
+      "size_bytes": 2560211
+    }
+  }
+}

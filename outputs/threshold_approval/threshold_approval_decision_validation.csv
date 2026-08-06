@@ -1,0 +1,7 @@
+decision_record_id,kpi_id,stakeholder_decision,validation_status,validation_message
+DEC-001,kpi_001,Approve Candidate,Valid,Valid
+DEC-002,kpi_002,Approve Candidate,Valid,Valid
+DEC-003,kpi_003,Conditional Approval,Valid,Valid
+DEC-004,kpi_004,Approve Candidate,Valid,Valid
+DEC-005,kpi_005,Conditional Approval,Valid,Valid
+DEC-006,kpi_006,Approve Candidate,Valid,Valid

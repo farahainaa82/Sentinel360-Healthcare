@@ -1,0 +1,8 @@
+config_id,config_type,relationship_id,source_kpi_id,target_kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+METH_PEARSON,METHOD,ALL,ALL,ALL,pearson_enabled,True,boolean,Enable Pearson correlation,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+METH_SPEARMAN,METHOD,ALL,ALL,ALL,spearman_enabled,True,boolean,Enable Spearman rank correlation,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+METH_DIRAGR,METHOD,ALL,ALL,ALL,direction_agreement_enabled,True,boolean,Enable direction agreement rate,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+METH_COOC,METHOD,ALL,ALL,ALL,adverse_cooccurrence_enabled,True,boolean,Enable adverse co-occurrence rate,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+METH_MINOBS,METHOD,ALL,ALL,ALL,minimum_paired_observations,10,count,Minimum paired observations for reliable correlation,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+METH_MINOBS_LIM,METHOD,ALL,ALL,ALL,minimum_paired_observations_limited,5,count,Minimum paired observations for limited classification,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+METH_SIG,METHOD,ALL,ALL,ALL,significance_level,0.05,probability,Statistical significance threshold,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design

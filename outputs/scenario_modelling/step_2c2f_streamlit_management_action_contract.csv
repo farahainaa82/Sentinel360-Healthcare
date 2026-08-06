@@ -1,0 +1,8 @@
+action_key,capability_description,governed_source
+compare_scenarios,Show management scenario package; allow comparator comparison,management_packages
+request_validation,Route package back to validation queue,package_closure.closure_category
+request_additional_scenario,Trigger new scenario run request,package_closure.closure_category
+route_to_financial_review,Send to Step 2C-3 Financial-Impact Analysis,financial_requirements
+proceed_to_limited_trial,Flag for limited-trial consideration,management_packages.approval_status
+defer,Defer decision; retain in monitoring,package_closure.closure_category
+reject,Reject scenario for this package,package_closure.closure_category

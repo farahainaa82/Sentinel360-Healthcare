@@ -1,0 +1,7 @@
+dataset_name,row_count,column_count,kpi_ids
+analytical_workforce_kpi_daily,5840,26,"kpi_001,kpi_002"
+analytical_workforce_kpi_evidence,11680,9,
+analytical_workforce_kpi_exclusions,0,0,
+analytical_workforce_kpi_lineage,5840,8,
+analytical_workforce_kpi_issues,0,0,
+analytical_workforce_kpi_audit,1,9,

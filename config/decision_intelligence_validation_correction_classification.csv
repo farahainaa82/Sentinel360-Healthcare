@@ -1,0 +1,9 @@
+correction_id,correction_class,description,owner,typical_resolution_time
+CC-01,No Correction Required,Package passes all validations without any issues,Validator,Immediate
+CC-02,Documentation Clarification,Minor wording or annotation adjustment needed in documentation,Content Reviewer,1 hour
+CC-03,Display Correction,Field formatting or display rule adjustment needed for Streamlit,UI Engineer,2 hours
+CC-04,Mapping Correction,Data mapping or join condition needs adjustment,Data Engineer,4 hours
+CC-05,Rule Configuration Correction,Validation rule or threshold configuration needs update,Rule Administrator,2 hours
+CC-06,Source Data Review,Source data quality issue requiring data team investigation,Data Steward,1 day
+CC-07,Upstream Analytical Review,Analytical model or calculation requires upstream review,Analyst,2 days
+CC-08,Governance Review,Policy or governance wording issue requiring governance team review,Governance Officer,1 day

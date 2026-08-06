@@ -1,0 +1,23 @@
+integration_run_id,event,detail,timestamp
+INT-PFD-8B3D878D871C,Prior Manifests Verified,All passed,2026-07-26T11:26:44.850284
+INT-PFD-8B3D878D871C,Prior Run Statuses Checked,0 failures,2026-07-26T11:26:44.850298
+INT-PFD-8B3D878D871C,processed_patient_encounters Loaded,93958 rows,2026-07-26T11:26:45.300678
+INT-PFD-8B3D878D871C,processed_patient_queue Loaded,1095 rows,2026-07-26T11:26:45.308513
+INT-PFD-8B3D878D871C,processed_bed_capacity Loaded,1095 rows,2026-07-26T11:26:45.314803
+INT-PFD-8B3D878D871C,processed_service_schedule Loaded,8760 rows,2026-07-26T11:26:45.348938
+INT-PFD-8B3D878D871C,processed_patient_flow_daily Loaded,2920 rows,2026-07-26T11:26:45.361184
+INT-PFD-8B3D878D871C,Manifest Checksums Verified,Match: True,2026-07-26T11:26:45.361206
+INT-PFD-8B3D878D871C,Processed Schemas Validated,Errors: 0,2026-07-26T11:26:45.361494
+INT-PFD-8B3D878D871C,Business Keys Validated,Errors: 0,2026-07-26T11:26:45.378310
+INT-PFD-8B3D878D871C,Cross-Dataset References Validated,Errors: 0,2026-07-26T11:26:45.401225
+INT-PFD-8B3D878D871C,Date Alignment Validated,Errors: 0,2026-07-26T11:26:45.788140
+INT-PFD-8B3D878D871C,Daily Grain Validated,Errors: 0,2026-07-26T11:26:45.789673
+INT-PFD-8B3D878D871C,Encounter Reconciliation Completed,Mismatches: 0,2026-07-26T11:26:45.896101
+INT-PFD-8B3D878D871C,Queue Reconciliation Completed,Mismatches: 0,2026-07-26T11:26:46.122116
+INT-PFD-8B3D878D871C,Bed Reconciliation Completed,Mismatches: 0,2026-07-26T11:26:46.558883
+INT-PFD-8B3D878D871C,Service Reconciliation Completed,Mismatches: 0,2026-07-26T11:26:46.588157
+INT-PFD-8B3D878D871C,Lineage Validated,"Coverage: 100.0%, Missing: 0, Broken: 0, Duplicates: 0",2026-07-26T11:26:46.651971
+INT-PFD-8B3D878D871C,Lineage Gaps Detected,0 gaps,2026-07-26T11:26:46.718079
+INT-PFD-8B3D878D871C,Issues Consolidated,1350 total issues,2026-07-26T11:26:46.731159
+INT-PFD-8B3D878D871C,Exclusions Consolidated,2754 total exclusions,2026-07-26T11:26:46.745855
+INT-PFD-8B3D878D871C,Prohibited Fields Checked,Violations: 0,2026-07-26T11:26:46.746044

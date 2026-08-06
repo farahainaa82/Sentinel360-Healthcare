@@ -1,0 +1,11 @@
+rule_id,rule_name,rule_type,kpi_id,description,enabled,minimum_periods,observation_window,required_threshold_status,required_trend_direction,required_confidence,provisional_handling,output_severity,rule_version,rule_status,effective_date,review_date
+WC-001,Repeated Amber,persistence,ALL,Amber in at least 2 of most recent 3 available periods,True,2,3,Amber,,,,Moderate,v1.0-draft,Technical Rule,2026-07-27,
+WC-002,Approaching Threshold,distance,ALL,Green but within 10 percent of Amber boundary,True,1,1,Green,,,,Low,v1.0-draft,Technical Rule,2026-07-27,
+WC-003,Deteriorating Trend,trend,ALL,Adverse trend direction with medium+ confidence,True,1,1,,deteriorating,Medium,,Low,v1.0-draft,Technical Rule,2026-07-27,
+WC-004,Sustained Deterioration,trend,ALL,Adverse trend persists for 3+ periods,True,3,5,,deteriorating,Medium,,Moderate,v1.0-draft,Technical Rule,2026-07-27,
+WC-005,Amber Plus Deteriorating Trend,composite,ALL,Current Amber with adverse trend,True,1,1,Amber,deteriorating,Medium,,High,v1.0-draft,Technical Rule,2026-07-27,
+WC-006,Repeated Red,persistence,ALL,Red in at least 2 of most recent 3 available periods,True,2,3,Red,,,,High,v1.0-draft,Technical Rule,2026-07-27,
+WC-007,Escalating Severity,sequence,ALL,Sequential worsening of state,True,2,3,,,,,High,v1.0-draft,Technical Rule,2026-07-27,
+WC-008,Recovery Watch,recovery,ALL,Improvement from Red to Amber or Amber to Green,True,1,2,,,,,Informational,v1.0-draft,Technical Rule,2026-07-27,
+WC-009,Provisional Watch,governance,ALL,Any watch on provisional threshold,True,1,1,,,,mark_provisional,Moderate,v1.0-draft,Technical Rule,2026-07-27,
+WC-010,Review-Due Governance Watch,governance,ALL,Provisional review date approaching or overdue,True,1,1,,,,mark_provisional,Informational,v1.0-draft,Technical Rule,2026-07-27,

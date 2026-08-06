@@ -1,0 +1,6 @@
+config_id,config_type,relationship_id,source_kpi_id,target_kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+GOV_REL_MAT,GOVERNANCE,ALL,ALL,ALL,provisional_materiality_threshold,15.0,score_points,Normalized score threshold for Material provisional contribution,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+GOV_REL_MIN,GOVERNANCE,ALL,ALL,ALL,provisional_minor_threshold,5.0,score_points,Normalized score threshold for Minor provisional contribution,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+GOV_REL_MUL,GOVERNANCE,ALL,ALL,ALL,provisional_relationship_multiplier,0.92,multiplier,Score multiplier for relationships involving provisional KPIs,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+GOV_REL_FLAG,GOVERNANCE,ALL,ALL,ALL,provisional_flag_warning,True,boolean,Flag provisional relationships in outputs,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+GOV_REL_CAU,GOVERNANCE,ALL,ALL,ALL,causality_language_enforced,True,boolean,Enforce non-causal language in outputs,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design

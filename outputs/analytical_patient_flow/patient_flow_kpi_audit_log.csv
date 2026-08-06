@@ -1,0 +1,2 @@
+audit_id,event_type,event_status,kpi_id,calculation_run_id,configuration_version,threshold_version,event_time,details
+AUD-1C75479E,calculation,Success,,PF-KPI-4E7933DFEF21,v1.0-draft,v1.0-draft,2026-07-27T11:23:42.743797,Calculated 5840 results

@@ -1,0 +1,17 @@
+canonical_name,alias,alias_confidence,requires_confirmation
+staff_id,Staff ID,High,False
+staff_id,Employee ID,High,False
+staff_id,Employee Number,High,False
+staff_name,Staff Name,High,False
+department,Department Name,High,False
+department,Dept,High,False
+department,Department,High,False
+date,Attendance Date,High,False
+date,Encounter Date,High,False
+date,Date,High,False
+beds_total,Total Beds,High,False
+beds_occupied,Occupied Beds,High,False
+avg_wait_min,Average Wait,High,False
+avg_wait_min,Waiting Time,High,False
+satisfaction_score,Satisfaction Score,High,False
+satisfaction_score,Satisfaction,Moderate,True

@@ -1,0 +1,21 @@
+configuration_id,rule_name,field_name,permitted_values,prohibited_values,enforcement_required,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+ACTDSP-001,Action Status Wording,action_eligibility_status,"Allowed,Allowed with Conditions,Blocked,Not Applicable,Not Permitted",,True,1,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-002,Primary Action Label,primary_permitted_action,,,True,2,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-003,Approval Status Wording,approval_status,"Pending Management Review",,True,3,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-004,Selection Status,selected_flag,"False",,True,4,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-005,Management Selection Required,management_selection_required,"True",,True,5,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-006,Prohibited Wording - Recommended,any_field,,Recommended action,True,6,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-007,Prohibited Wording - Best,any_field,,Best action,True,7,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-008,Prohibited Wording - AI Selected,any_field,,AI-selected action,True,8,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-009,Prohibited Wording - Approved,any_field,,Approved action,True,9,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-010,Prohibited Wording - Execute,any_field,,Execute now,True,10,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-011,Prohibited Wording - Automatic,any_field,,Automatically proceed,True,11,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-012,Prohibited Wording - Guaranteed,any_field,,Guaranteed result,True,12,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-013,Prohibited Wording - Final,any_field,,Final decision,True,13,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-014,Permitted Wording - Permitted,any_field,Permitted action,,True,14,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-015,Permitted Wording - Requires Validation,any_field,Requires validation,,True,15,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-016,Permitted Wording - Pending Review,any_field,Pending Management Review,,True,16,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-017,Permitted Wording - Management Selection,any_field,Management selection required,,True,17,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-018,Permitted Wording - Limited Trial,any_field,Limited-trial consideration,,True,18,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-019,Permitted Wording - Continue Monitoring,any_field,Continue monitoring,,True,19,True,1.0,Draft Analytical Configuration,True,Governed display rule
+ACTDSP-020,Permitted Wording - Escalation,any_field,Escalation required,,True,20,True,1.0,Draft Analytical Configuration,True,Governed display rule

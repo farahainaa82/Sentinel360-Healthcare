@@ -1,0 +1,78 @@
+{
+  "phase": "2D-1",
+  "phase_name": "Integrated Decision Data Model",
+  "execution_timestamp": "2026-07-29T09:52:39.905481",
+  "authority_verification_passed": true,
+  "governance_validation_passed": true,
+  "upstream_phases": [
+    "2B",
+    "2C-1",
+    "2C-2",
+    "2C-3"
+  ],
+  "outputs": {
+    "step_2d1_authoritative_input_register.csv": {
+      "checksum": "920be0f5b17de97e268861522a753a89fca31df32aaa38b83083cf3cd9077a99",
+      "row_count": 10
+    },
+    "step_2d1_integration_key_register.csv": {
+      "checksum": "9cb9220aa15aa0e1496206634864973fa824d857cb787a560135d572b4344a95",
+      "row_count": 10
+    },
+    "step_2d1_integrated_decision_register.csv": {
+      "checksum": "86554c629ef98f004dcbfb5d5caa6c627ebd3a0c49ea364adbff3b239ab69f4d",
+      "row_count": 646
+    },
+    "step_2d1_integrated_decision_status_register.csv": {
+      "checksum": "f05bb9fea672bc53e721e092fd77c60517ec32a44f785205a825a774d92b5edf",
+      "row_count": 646
+    },
+    "step_2d1_decision_readiness_register.csv": {
+      "checksum": "f871d01a0929353a1a3f2154d5a5103f90dc81e049d8ccbdb16cdeca79e64d45",
+      "row_count": 646
+    },
+    "step_2d1_management_action_routing_register.csv": {
+      "checksum": "70ccc4311e50f17aac245c9e9720c6fdb99675da2a07dc260c4aaeaeafbd7ecb",
+      "row_count": 646
+    },
+    "step_2d1_decision_scorecard_input_register.csv": {
+      "checksum": "19a4df5a0fbe2545526a539c862a78eecd0e40cf15e008113308a7fd5dded742",
+      "row_count": 646
+    },
+    "step_2d1_management_summary_register.csv": {
+      "checksum": "8c54bec0a7b701dd4a2e479efb85fbccaeabed80576c358be6e8a7aed79027e0",
+      "row_count": 646
+    },
+    "step_2d1_decision_evidence_register.csv": {
+      "checksum": "c43bece4c02a4126648f543eb5ca03ccf19041f8bb6871142bd319d218a01125",
+      "row_count": 646
+    },
+    "step_2d1_decision_lineage_register.csv": {
+      "checksum": "07a20ee7cb1ce9efc45dc4b8d72fc6e13a46215827e8aee1eb1318a11b856a02",
+      "row_count": 646
+    },
+    "step_2d1_decision_governance_register.csv": {
+      "checksum": "9a956ee7f9108c2ac1edf552511b6ce29974f570e4826e7838be47a5bcf1514f",
+      "row_count": 0
+    },
+    "step_2d1_decision_issue_register.csv": {
+      "checksum": "9a956ee7f9108c2ac1edf552511b6ce29974f570e4826e7838be47a5bcf1514f",
+      "row_count": 0
+    },
+    "step_2d1_deferred_and_non_ready_register.csv": {
+      "checksum": "4d07001278adf7272d5b7f694ab38d80672cdec56c97f2ddd014057c9e0ce745",
+      "row_count": 289
+    },
+    "step_2d1_execution_summary.csv": {
+      "checksum": "d76c2636021b1f1e35bdaa565c92fa6f5a19d5fb94be8d5fbde8d7516ce32a9d",
+      "row_count": 29
+    }
+  },
+  "governance_confirmations": {
+    "no_preferred_scenario": true,
+    "no_management_approval": true,
+    "causality_not_confirmed": true,
+    "financial_values_unchanged": true,
+    "scenario_values_unchanged": true
+  }
+}

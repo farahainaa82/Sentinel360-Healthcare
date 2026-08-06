@@ -1,0 +1,2 @@
+workforce_daily_rows,patient_flow_daily_rows,patient_experience_daily_rows,operational_daily_rows,union_key_count,intersection_key_count,workforce_only_keys,patient_flow_only_keys,patient_experience_only_keys,reconciliation_status
+26280,2920,2621,2920,2920,2621,0,0,0,Passed

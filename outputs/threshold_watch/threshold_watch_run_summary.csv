@@ -1,0 +1,2 @@
+run_id,processed_at,total_source_records,governed_output_records,classifiable_calculated_records,unavailable_unclassifiable_records,governed_breach_output_records,actual_breach_events,governed_watch_output_records,actual_watch_conditions,daily_summaries,issues
+THBREACHWATCH-20260727213903,2026-07-27T21:39:03.477840,17520,17520,11397,6123,17520,2464,17520,9120,2920,0

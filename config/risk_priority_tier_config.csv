@@ -1,0 +1,6 @@
+config_id,config_type,kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+TIER_NCR,PRIORITY_TIER,ALL,No_Current_Risk_max,15,normalized_score,Upper bound for No Current Risk,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIER_MON,PRIORITY_TIER,ALL,Monitor_max,35,normalized_score,Upper bound for Monitor,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIER_ATT,PRIORITY_TIER,ALL,Attention_Required_max,55,normalized_score,Upper bound for Attention Required,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIER_HIP,PRIORITY_TIER,ALL,High_Priority_max,75,normalized_score,Upper bound for High Priority,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIER_CRP,PRIORITY_TIER,ALL,Critical_Priority_min,75,normalized_score,Lower bound for Critical Priority,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design

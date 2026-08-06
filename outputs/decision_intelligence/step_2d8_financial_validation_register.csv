@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-FI-001,no_zero_estimated_cost,0,0,PASS,
+VA-FI-002,financial_confidence_range,0,0,PASS,
+VA-FI-003,non_quantitative_no_zero_financials,False,False,PASS,

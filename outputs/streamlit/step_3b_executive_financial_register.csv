@@ -1,0 +1,5 @@
+metric_id,metric_name,source_column,aggregation_rule,missing_display,status
+FIN_01,Estimated Intervention Cost,central_estimate,sum,Requires Financial Input,Active
+FIN_02,Estimated Financial Benefit,upper_estimate,sum,Requires Financial Input,Active
+FIN_03,Estimated Net Financial Impact,net_financial_impact,sum,Not Assessable,Active
+FIN_04,Packages Requiring Financial Input,missing_input_warning,count_non_empty,Not Assessable,Active

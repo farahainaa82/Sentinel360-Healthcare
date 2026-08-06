@@ -1,0 +1,2 @@
+check_name,status,message,changed_files
+immutability_check,Passed,All accepted files unchanged.,[]

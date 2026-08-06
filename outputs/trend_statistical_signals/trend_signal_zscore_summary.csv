@@ -1,0 +1,18 @@
+kpi_id,signal_method,signal_type,count
+kpi_001,z_score,Negative Deviation,152
+kpi_001,z_score,No Signal,2702
+kpi_001,z_score,Positive Deviation,2
+kpi_002,z_score,Negative Deviation,1
+kpi_002,z_score,No Signal,2705
+kpi_002,z_score,Positive Deviation,150
+kpi_003,z_score,Negative Deviation,22
+kpi_003,z_score,No Signal,1012
+kpi_003,z_score,Positive Deviation,37
+kpi_004,z_score,Negative Deviation,42
+kpi_004,z_score,No Signal,960
+kpi_004,z_score,Positive Deviation,69
+kpi_005,z_score,No Signal,917
+kpi_005,z_score,Positive Deviation,43
+kpi_006,z_score,Negative Deviation,111
+kpi_006,z_score,No Signal,2159
+kpi_006,z_score,Positive Deviation,49

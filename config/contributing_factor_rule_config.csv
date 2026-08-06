@@ -1,0 +1,11 @@
+config_id,config_type,relationship_id,source_kpi_id,target_kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+CF_ASSOC_W,CONTRIBUTING_FACTOR,ALL,ALL,ALL,association_weight,0.20,weight,Weight for association component,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CF_COOC_W,CONTRIBUTING_FACTOR,ALL,ALL,ALL,cooccurrence_weight,0.15,weight,Weight for co-occurrence component,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CF_TEMP_W,CONTRIBUTING_FACTOR,ALL,ALL,ALL,temporal_weight,0.15,weight,Weight for temporal precedence component,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CF_TREND_W,CONTRIBUTING_FACTOR,ALL,ALL,ALL,trend_weight,0.10,weight,Weight for trend alignment component,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CF_DSTAB_W,CONTRIBUTING_FACTOR,ALL,ALL,ALL,dept_stability_weight,0.10,weight,Weight for department stability component,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CF_TSTAB_W,CONTRIBUTING_FACTOR,ALL,ALL,ALL,time_stability_weight,0.10,weight,Weight for time stability component,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CF_PLAUS_W,CONTRIBUTING_FACTOR,ALL,ALL,ALL,plausibility_weight,0.10,weight,Weight for operational plausibility component,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CF_EVID_W,CONTRIBUTING_FACTOR,ALL,ALL,ALL,evidence_quality_weight,0.10,weight,Weight for evidence quality component,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CF_MIN_SCORE,CONTRIBUTING_FACTOR,ALL,ALL,ALL,plausible_contributing_min_score,40.0,score,Minimum score for Plausible Contributing Factor,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CF_STRONG_SCORE,CONTRIBUTING_FACTOR,ALL,ALL,ALL,strong_hypothesis_min_score,65.0,score,Minimum score for Strong Contributing-Factor Hypothesis,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design

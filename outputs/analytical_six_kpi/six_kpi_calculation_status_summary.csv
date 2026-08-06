@@ -1,0 +1,13 @@
+kpi_id,calculation_status,count
+kpi_001,Calculated,2920
+kpi_002,Calculated,2920
+kpi_003,Calculated,1095
+kpi_003,Insufficient Data,1825
+kpi_004,Calculated,1095
+kpi_004,Insufficient Data,1825
+kpi_005,Calculated,984
+kpi_005,Insufficient Data,299
+kpi_005,Zero Denominator,1637
+kpi_006,Calculated,2383
+kpi_006,Insufficient Data,299
+kpi_006,Zero Denominator,238

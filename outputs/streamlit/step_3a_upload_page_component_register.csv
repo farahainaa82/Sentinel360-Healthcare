@@ -1,0 +1,31 @@
+component_name,component_type,purpose,status,phase,version,page_file,engine_module,config_dependency
+Upload Session Manager,State Manager,Manages upload session metadata and lifecycle,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_upload_session_manager.py,streamlit_upload_display_governance.csv
+File Reader,IO Engine,Reads CSV and Excel files safely,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_file_reader.py,streamlit_upload_display_governance.csv
+Dataset Detector,Classifier,Detects dataset type from filename and column signature,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_dataset_detector.py,streamlit_upload_dataset_catalogue.csv
+Schema Registry,Registry,Loads governed schema configurations,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_schema_registry.py,streamlit_upload_schema_config.csv
+Column Alias Engine,Mapper,Maps column aliases with ambiguity detection,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_column_alias_engine.py,streamlit_upload_column_alias_config.csv
+File Validator,Validator Layer 1,Validates file-level properties,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_file_validator.py,streamlit_upload_validation_rule_config.csv
+Schema Validator,Validator Layer 2,Validates required optional and unexpected columns,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_schema_validator.py,streamlit_upload_schema_config.csv
+DataType Validator,Validator Layer 3,Validates numeric categorical date boolean fields,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_datatype_validator.py,streamlit_upload_schema_config.csv
+Quality Validator,Validator Layer 4,Validates missing duplicates blanks categories,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_quality_validator.py,streamlit_upload_validation_rule_config.csv
+Date Validator,Validator Layer 6,Validates dates future dates and ranges,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_date_validator.py,streamlit_upload_validation_rule_config.csv
+Identifier Validator,Validator Layer 4,Validates duplicate and empty identifiers,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_identifier_validator.py,streamlit_upload_schema_config.csv
+Referential Validator,Validator Layer 5,Validates cross-dataset integrity,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_referential_validator.py,streamlit_upload_validation_rule_config.csv
+Governance Validator,Validator Layer 7,Validates sensitive columns and schema changes,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_governance_validator.py,streamlit_upload_validation_rule_config.csv
+Value Range Validator,Validator Layer 4,Validates numeric ranges and dataset rules,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_value_range_validator.py,streamlit_upload_value_range_config.csv
+Scorecard Engine,Scorer,Builds transparent validation scorecard,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_validation_scorecard_engine.py,streamlit_upload_validation_rule_config.csv
+Issue Engine,Registry Manager,Manages creation deduplication and export of issues,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_validation_issue_engine.py,streamlit_upload_validation_rule_config.csv
+Manifest Engine,Registry Manager,Manages upload session manifest and file metadata,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_upload_manifest_engine.py,streamlit_upload_display_governance.csv
+Report Engine,Exporter,Generates downloadable CSV and JSON reports,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_upload_report_engine.py,streamlit_upload_display_governance.csv
+Logging Engine,Utility,Writes technical logs to local file,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_upload_logging.py,streamlit_upload_performance_config.csv
+Page Controller,Orchestrator,Orchestrates all validation layers per file,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_upload_page_controller.py,streamlit_upload_validation_rule_config.csv
+Upload Page,Streamlit Page,Interactive data upload and validation page,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,streamlit_upload_page_controller.py,streamlit_upload_display_governance.csv
+Dataset Catalogue,Configuration,Lists expected dataset types,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,,streamlit_upload_dataset_catalogue.csv
+Schema Config,Configuration,Defines required and optional columns per dataset,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,,streamlit_upload_schema_config.csv
+Column Alias Config,Configuration,Maps common aliases with confidence,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,,streamlit_upload_column_alias_config.csv
+Validation Rule Config,Configuration,Defines validation rules and blocking flags,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,,streamlit_upload_validation_rule_config.csv
+Value Range Config,Configuration,Defines numeric ranges and rules,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,,streamlit_upload_value_range_config.csv
+Category Config,Configuration,Defines allowed categorical values,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,,streamlit_upload_category_config.csv
+Required File Config,Configuration,Classifies required optional supporting files,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,,streamlit_upload_required_file_config.csv
+Display Governance,Configuration,Page title settings and status labels,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,,streamlit_upload_display_governance.csv
+Performance Config,Configuration,Caching limits and performance settings,Implemented,3A,1.0,01_Data_Upload_and_Validation.py,,streamlit_upload_performance_config.csv

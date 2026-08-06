@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-KR-001,high_risk_not_downgraded,True,,PASS,No Critical or High risk tiers in dataset
+VA-KR-002,escalation_attention_alignment,True,,PASS,No operational escalation rows
+VA-KR-003,urgency_attention_alignment,True,,PASS,No Immediate Review urgency rows

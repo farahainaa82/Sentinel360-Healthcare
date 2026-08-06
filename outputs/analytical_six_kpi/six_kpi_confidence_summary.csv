@@ -1,0 +1,11 @@
+kpi_id,data_confidence_level,count
+kpi_001,High,2920
+kpi_002,High,2920
+kpi_003,High,1095
+kpi_003,Unavailable,1825
+kpi_004,High,1095
+kpi_004,Unavailable,1825
+kpi_005,Medium,984
+kpi_005,Unavailable,1936
+kpi_006,Medium,2383
+kpi_006,Unavailable,537

@@ -1,0 +1,17 @@
+range_rule_id,assumption_name,minimum_allowed,maximum_allowed,default_value,unit,step_size,hard_limit,soft_warning_limit,validation_rule,invalid_input_action,range_classification,stakeholder_validation_required
+RULE-RANGE-STAFF-COUNT,additional_staff_count,0.0,50.0,0.0,Count,1.0,True,20.0,must_be_non_negative; must_not_exceed_50_percent_of_baseline_required_staff,Reject and prompt for correction,Draft Analytical Range,True
+RULE-RANGE-SHIFT-COUNT,additional_covered_shifts,0.0,30.0,0.0,Count,1.0,True,14.0,must_be_non_negative; must_not_exceed_available_staff_capacity,Reject and prompt for correction,Draft Analytical Range,True
+RULE-RANGE-PERCENT-REDUCTION,assumed_absenteeism_reduction_pct,0.0,50.0,0.0,Percent,5.0,True,30.0,must_be_between_0_and_50; absenteeism_cannot_go_below_zero,Clamp to nearest valid boundary and warn,Draft Analytical Range,True
+RULE-RANGE-PERCENT-COVERAGE,replacement_coverage_pct,0.0,100.0,0.0,Percent,5.0,True,80.0,must_be_between_0_and_100,Clamp to 0-100 and warn,Draft Analytical Range,False
+RULE-RANGE-DURATION,intervention_duration_days,1.0,90.0,14.0,Days,1.0,True,30.0,must_be_positive; max_90_days_for_trial_period,Reject and prompt for correction,Draft Analytical Range,True
+RULE-RANGE-DURATION-SHORT,absence_duration_reduction_days,0.0,14.0,0.0,Days,0.5,True,7.0,must_be_non_negative,Reject and prompt for correction,Draft Analytical Range,True
+RULE-RANGE-PRODUCTIVITY,temporary_staff_productivity_ratio,0.5,1.2,0.85,Ratio,0.05,True,1.0,must_be_between_0.5_and_1.2,Clamp to 0.5-1.2 and warn,Draft Analytical Range,True
+RULE-RANGE-PERCENT-CAPACITY,service_capacity_change_pct,-20.0,30.0,0.0,Percent,5.0,True,20.0,must_be_between_minus_20_and_30; capacity_cannot_go_below_zero,Clamp to nearest valid boundary and warn,Draft Analytical Range,True
+RULE-RANGE-PERCENT-ARRIVAL,arrival_change_pct,-30.0,20.0,0.0,Percent,5.0,True,15.0,must_be_between_minus_30_and_20,Clamp to nearest valid boundary and warn,Draft Analytical Range,True
+RULE-RANGE-PERCENT-EFFICIENCY,routing_efficiency_change_pct,0.0,25.0,0.0,Percent,5.0,True,15.0,must_be_between_0_and_25,Clamp to 0-25 and warn,Draft Analytical Range,True
+RULE-RANGE-RESOURCE-COUNT,temporary_resource_change,0.0,20.0,0.0,Count,1.0,True,10.0,must_be_non_negative,Reject and prompt for correction,Draft Analytical Range,True
+RULE-FIXED-MULTIPLIER,contradiction_confidence_multiplier,0.5,1.0,0.85,Multiplier,0.05,True,0.9,fixed_governance_value,Reject user change; flag for governance review,Governance Fixed Value,False
+RULE-FIXED-MULTIPLIER,provisional_confidence_multiplier,0.6,1.0,0.75,Multiplier,0.05,True,0.85,fixed_governance_value,Reject user change; flag for governance review,Governance Fixed Value,False
+RULE-FIXED-MULTIPLIER,missing_data_confidence_multiplier,0.5,1.0,0.8,Multiplier,0.05,True,0.9,fixed_governance_value,Reject user change; flag for governance review,Governance Fixed Value,False
+RULE-FIXED-PENALTY,assumption_extremity_penalty,0.0,20.0,5.0,Points,1.0,True,10.0,fixed_governance_value,Reject user change; flag for governance review,Governance Fixed Value,False
+RULE-FIXED-PENALTY,combined_scenario_confidence_penalty,10.0,30.0,15.0,Points,5.0,True,20.0,fixed_governance_value,Reject user change; flag for governance review,Governance Fixed Value,False

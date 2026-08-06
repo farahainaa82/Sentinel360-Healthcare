@@ -1,0 +1,18 @@
+component,readiness_criterion,critical_for_handover
+brief_identity,All ID fields present and unique,True
+readiness_status,Final readiness status frozen and valid,True
+approval_status,All approval statuses remain Pending Management Review,True
+action_selection,No action or scenario pre-selected,True
+narrative_length,One-line and short summaries within governed length,True
+wording_governance,No prohibited terms; allowed terms present where required,True
+evidence_completeness,Evidence completeness status reconciles with upstream,True
+lineage_completeness,Lineage completeness status reconciles with upstream,True
+financial_values,Financial values unchanged from 2D-7,False
+scenario_options,Scenario summaries available for applicable packages,False
+monitoring_triggers,Monitoring conditions defined for monitoring packages,False
+questions,Blocking and mandatory questions visible,False
+confirmations,Pending confirmations documented,False
+audit_traceability,Audit status awaiting management action,False
+export_contracts,All 8 export types generated per package,False
+streamlit_contract,Streamlit contract fields populated,True
+cross_layer_consistency,All layer statuses logically consistent,True

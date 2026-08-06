@@ -1,0 +1,19 @@
+filter_name,filter_type,default_value,allowed_values,multi_select_flag,dependent_filter,empty_result_behaviour,reset_behaviour,governance_note
+hospital,multi_select,All,All;HOSP-001;HOSP-002;HOSP-003;HOSP-004,True,None,Show all hospitals,Reset to All,Filter by hospital
+department,multi_select,All,All;DEPT-ADM;DEPT-EMG;DEPT-ICU;DEPT-OPD;DEPT-SUR;DEPT-PHM;DEPT-LAB;DEPT-RAD;DEPT-NUR;DEPT-ORT;DEPT-PED;DEPT-CAR;DEPT-NEU;DEPT-ONC;DEPT-PSY;DEPT-REH;DEPT-DIA,True,hospital,Show all departments for selected hospital,Reset to All,Filter by department
+year,single_select,2026,2024;2025;2026,False,None,Show all years,Reset to 2026,Filter by reporting year
+month,single_select,All,All;January;February;March;April;May;June;July;August;September;October;November;December,False,year,Show all months for selected year,Reset to All,Filter by reporting month
+reporting_date,single_select,All,All;Latest;Prior,False,None,Show all reporting dates,Reset to All,Filter by reporting date snapshot
+kpi,multi_select,All,All;kpi_001;kpi_002;kpi_003;kpi_004;kpi_005;kpi_006,True,None,Show all KPIs,Reset to All,Filter by KPI
+risk_tier,multi_select,All,All;Critical;High;Medium;Low;None,True,None,Show all risk tiers,Reset to All,Filter by risk tier
+urgency,multi_select,All,All;Critical;High;Medium;Low,True,None,Show all urgency levels,Reset to All,Filter by urgency
+readiness,multi_select,All,All;Ready for Integrated Management Review;Ready with Conditions;Monitoring Only;Requires Assumption Validation;Non-Quantitative,True,None,Show all readiness statuses,Reset to All,Filter by readiness status
+management_attention,multi_select,All,All;Critical;High;Medium;Low;None,True,None,Show all attention levels,Reset to All,Filter by management attention level
+primary_queue,multi_select,All,All;Executive;Finance;Operations;Clinical;Compliance;Board,True,None,Show all queues,Reset to All,Filter by primary queue
+primary_action,multi_select,All,All;Immediate;Near-term;Preventive;Monitoring;Escalation;Non-Quantitative Review,True,None,Show all actions,Reset to All,Filter by primary permitted action
+evidence_status,multi_select,All,All;Complete;Incomplete;Partial;Missing,True,None,Show all evidence statuses,Reset to All,Filter by evidence completeness
+lineage_status,multi_select,All,All;Complete;Incomplete;Partial;Missing,True,None,Show all lineage statuses,Reset to All,Filter by lineage completeness
+scenario_availability,multi_select,All,All;Available;Not Applicable;Unavailable;Recovered,True,None,Show all scenario availability statuses,Reset to All,Filter by scenario summary availability
+financial_readiness,multi_select,All,All;Ready;Pending;Missing;Not Applicable,True,None,Show all financial readiness statuses,Reset to All,Filter by financial readiness
+validation_outcome,multi_select,All,All;Validated for Streamlit Handover;Validated with Conditions;Requires Focused Correction;Requires Source Data Review;Requires Upstream Analytical Review;Requires Governance Review;Not Suitable,True,None,Show all validation outcomes,Reset to All,Filter by validation outcome
+approval_status,multi_select,All,All;Pending Management Review;Approved;Rejected;Deferred,True,None,Show all approval statuses,Reset to All,Filter by approval status

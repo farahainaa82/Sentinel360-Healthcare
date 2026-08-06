@@ -1,0 +1,66 @@
+observation_id,dataset_name,observation_type,severity,record_count,expected_in_clean_mode,observation_status,explanation,requires_step_2c_validation
+OBS-001,hospital_master,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate hospital_id count: 0,True
+OBS-002,department_master,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate department_id count: 0,True
+OBS-003,staff_role_master,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate role_id count: 0,True
+OBS-004,staff_master,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate staff_id count: 0,True
+OBS-005,staff_roster,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate roster_id count: 0,True
+OBS-006,staff_attendance,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate attendance_id count: 0,True
+OBS-007,staffing_requirement,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate requirement_id count: 0,True
+OBS-008,patient_encounters,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate encounter_id count: 0,True
+OBS-009,patient_queue_records,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate queue_id count: 0,True
+OBS-010,bed_capacity_records,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate record_id count: 0,True
+OBS-011,patient_complaints,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate complaint_id count: 0,True
+OBS-012,patient_surveys,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate survey_id count: 0,True
+OBS-013,service_schedule,Duplicate Primary Keys,Information,0,False,Not Observed,Duplicate schedule_id count: 0,True
+OBS-014,staff_master,Missing Mandatory Value: staff_id,Information,0,False,Not Observed,Null count in staff_id: 0,True
+OBS-015,staff_master,Missing Mandatory Value: hospital_id,Information,0,False,Not Observed,Null count in hospital_id: 0,True
+OBS-016,staff_master,Missing Mandatory Value: department_id,Information,0,False,Not Observed,Null count in department_id: 0,True
+OBS-017,staff_master,Missing Mandatory Value: role_id,Information,0,False,Not Observed,Null count in role_id: 0,True
+OBS-018,patient_encounters,Missing Mandatory Value: encounter_id,Information,0,False,Not Observed,Null count in encounter_id: 0,True
+OBS-019,patient_encounters,Missing Mandatory Value: hospital_id,Information,0,False,Not Observed,Null count in hospital_id: 0,True
+OBS-020,patient_encounters,Missing Mandatory Value: department_id,Information,0,False,Not Observed,Null count in department_id: 0,True
+OBS-021,patient_encounters,Missing Mandatory Value: arrival_datetime,Information,0,False,Not Observed,Null count in arrival_datetime: 0,True
+OBS-022,staff_attendance,Missing Mandatory Value: attendance_id,Information,0,False,Not Observed,Null count in attendance_id: 0,True
+OBS-023,staff_attendance,Missing Mandatory Value: staff_id,Information,0,False,Not Observed,Null count in staff_id: 0,True
+OBS-024,staff_attendance,Missing Mandatory Value: roster_id,Information,0,False,Not Observed,Null count in roster_id: 0,True
+OBS-025,staffing_requirement,Negative Value: required_staff_count,Information,0,False,Not Observed,Negative count in required_staff_count: 0,True
+OBS-026,staffing_requirement,Negative Value: required_hours,Information,0,False,Not Observed,Negative count in required_hours: 0,True
+OBS-027,patient_queue_records,Negative Value: arrivals_count,Information,0,False,Not Observed,Negative count in arrivals_count: 0,True
+OBS-028,patient_queue_records,Negative Value: served_count,Information,0,False,Not Observed,Negative count in served_count: 0,True
+OBS-029,patient_queue_records,Negative Value: waiting_count,Information,0,False,Not Observed,Negative count in waiting_count: 0,True
+OBS-030,bed_capacity_records,Negative Value: bed_licensed,Information,0,False,Not Observed,Negative count in bed_licensed: 0,True
+OBS-031,bed_capacity_records,Negative Value: bed_staffed,Information,0,False,Not Observed,Negative count in bed_staffed: 0,True
+OBS-032,bed_capacity_records,Negative Value: bed_operational,Information,0,False,Not Observed,Negative count in bed_operational: 0,True
+OBS-033,bed_capacity_records,Negative Value: bed_occupied,Information,0,False,Not Observed,Negative count in bed_occupied: 0,True
+OBS-034,service_schedule,Negative Value: planned_capacity,Information,0,False,Not Observed,Negative count in planned_capacity: 0,True
+OBS-035,service_schedule,Negative Value: planned_hours,Information,0,False,Not Observed,Negative count in planned_hours: 0,True
+OBS-036,patient_encounters,Invalid Date Ordering (service_start < arrival),Information,0,False,Not Observed,Invalid timestamp order count: 0,True
+OBS-037,bed_capacity_records,Occupied Beds Above Operational Beds,Warning,230,True,Expected,Occupancy may exceed 100% during pressure periods; exception flag and reason should be present.,True
+OBS-038,bed_capacity_records,Over-Capacity Without Exception Flag,Information,0,False,Not Observed,Records with occupied > operational but exception_flag != True: 0,True
+OBS-039,bed_capacity_records,Over-Capacity Without Exception Reason,Information,0,False,Not Observed,Records with occupied > operational but missing exception_reason: 0,True
+OBS-040,bed_capacity_records,Operational Beds Above Licensed Beds,Information,0,False,Not Observed,Operational beds should not normally exceed licensed beds.,True
+OBS-041,patient_queue_records,Served Count Greater Than Arrivals,Information,0,False,Not Observed,served_count > arrivals_count in 0 rows,True
+OBS-042,patient_surveys,Survey Score Outside 5-Point Scale,Information,0,False,Not Observed,"Scores outside [1,5] for SCALE-5PT: 0",True
+OBS-043,patient_complaints,Invalid Complaint Status,Information,0,False,Not Observed,Unrecognised complaint statuses: 0,True
+OBS-044,staff_roster,Records Outside Configured Date Range,Information,0,False,Not Observed,Date range: 2026-01-01 00:00:00 to 2026-12-31 00:00:00; configured: 2026-01-01 to 2026-12-31,True
+OBS-045,staff_attendance,Records Outside Configured Date Range,Information,0,False,Not Observed,Date range: 2026-01-01 00:00:00 to 2026-12-31 00:00:00; configured: 2026-01-01 to 2026-12-31,True
+OBS-046,patient_encounters,Records Outside Configured Date Range,Information,0,False,Not Observed,Date range: 2026-01-01 00:00:00 to 2026-12-31 00:00:00; configured: 2026-01-01 to 2026-12-31,True
+OBS-047,patient_queue_records,Records Outside Configured Date Range,Information,0,False,Not Observed,Date range: 2026-01-01 00:00:00 to 2026-12-31 00:00:00; configured: 2026-01-01 to 2026-12-31,True
+OBS-048,bed_capacity_records,Records Outside Configured Date Range,Information,0,False,Not Observed,Date range: 2026-01-01 00:00:00 to 2026-12-31 00:00:00; configured: 2026-01-01 to 2026-12-31,True
+OBS-049,patient_complaints,Records Outside Configured Date Range,Information,0,False,Not Observed,Date range: 2026-01-01 00:00:00 to 2026-12-31 00:00:00; configured: 2026-01-01 to 2026-12-31,True
+OBS-050,patient_surveys,Records Outside Configured Date Range,Information,0,False,Not Observed,Date range: 2026-01-01 00:00:00 to 2026-12-31 00:00:00; configured: 2026-01-01 to 2026-12-31,True
+OBS-051,service_schedule,Records Outside Configured Date Range,Information,0,False,Not Observed,Date range: 2026-01-01 00:00:00 to 2026-12-31 00:00:00; configured: 2026-01-01 to 2026-12-31,True
+OBS-052,staffing_requirement,Records Outside Configured Date Range,Information,0,False,Not Observed,Date range: 2026-01-01 00:00:00 to 2026-12-31 00:00:00; configured: 2026-01-01 to 2026-12-31,True
+OBS-053,hospital_master,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-054,department_master,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-055,staff_role_master,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-056,staff_roster,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-057,staff_attendance,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-058,staffing_requirement,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-059,patient_encounters,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-060,patient_queue_records,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-061,bed_capacity_records,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-062,patient_complaints,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-063,patient_surveys,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-064,service_schedule,Unexpected Direct Identifier Fields,Information,0,False,Not Observed,No forbidden identifier fields found.,True
+OBS-065,staff_master,Staff Names Populated,Information,0,False,Not Observed,staff_name populated count: 0,True

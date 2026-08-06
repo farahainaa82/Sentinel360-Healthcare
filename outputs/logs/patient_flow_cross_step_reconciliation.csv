@@ -1,0 +1,23 @@
+integration_run_id,patient_flow_daily_id,hospital_id,department_id,reporting_date,reconciliation_domain,reconciliation_field,source_calculated_value,daily_stored_value,difference_value,reconciliation_status,issue_id,checked_datetime
+INT-PFD-8B3D878D871C,,,,,encounter,encounter_count,,,,Passed,,2026-07-26 11:26:45.846372
+INT-PFD-8B3D878D871C,,,,,encounter,completed_encounter_count,,,,Passed,,2026-07-26 11:26:45.846608
+INT-PFD-8B3D878D871C,,,,,encounter,cancelled_encounter_count,,,,Passed,,2026-07-26 11:26:45.846808
+INT-PFD-8B3D878D871C,,,,,encounter,left_before_service_count,,,,Passed,,2026-07-26 11:26:45.847003
+INT-PFD-8B3D878D871C,,,,,encounter,official_wait_eligible_encounter_count,,,,Passed,,2026-07-26 11:26:45.847185
+INT-PFD-8B3D878D871C,,,,,encounter,total_arrival_to_consultation_minutes,,,,Passed,,2026-07-26 11:26:45.896067
+INT-PFD-8B3D878D871C,,,,,queue,queue_arrivals_count,,,,Passed,,2026-07-26 11:26:45.956605
+INT-PFD-8B3D878D871C,,,,,queue,queue_served_count,,,,Passed,,2026-07-26 11:26:46.012099
+INT-PFD-8B3D878D871C,,,,,queue,queue_waiting_patient_count,,,,Passed,,2026-07-26 11:26:46.066720
+INT-PFD-8B3D878D871C,,,,,queue,queue_average_wait_minutes,,,,Passed,,2026-07-26 11:26:46.122079
+INT-PFD-8B3D878D871C,,,,,bed,licensed_beds,,,,Passed,,2026-07-26 11:26:46.180086
+INT-PFD-8B3D878D871C,,,,,bed,staffed_beds,,,,Passed,,2026-07-26 11:26:46.237909
+INT-PFD-8B3D878D871C,,,,,bed,operational_beds,,,,Passed,,2026-07-26 11:26:46.293807
+INT-PFD-8B3D878D871C,,,,,bed,occupied_beds,,,,Passed,,2026-07-26 11:26:46.349879
+INT-PFD-8B3D878D871C,,,,,bed,unavailable_beds,,,,Passed,,2026-07-26 11:26:46.400450
+INT-PFD-8B3D878D871C,,,,,bed,reserved_beds,,,,Passed,,2026-07-26 11:26:46.451211
+INT-PFD-8B3D878D871C,,,,,bed,beds_above_operational_capacity,,,,Passed,,2026-07-26 11:26:46.503948
+INT-PFD-8B3D878D871C,,,,,bed,overcapacity_flag,,,,Passed,,2026-07-26 11:26:46.558848
+INT-PFD-8B3D878D871C,,,,,service,planned_service_session_count,,,,Passed,,2026-07-26 11:26:46.587516
+INT-PFD-8B3D878D871C,,,,,service,cancelled_service_session_count,,,,Passed,,2026-07-26 11:26:46.587798
+INT-PFD-8B3D878D871C,,,,,service,reduced_service_session_count,,,,Passed,,2026-07-26 11:26:46.587980
+INT-PFD-8B3D878D871C,,,,,service,extended_service_session_count,,,,Passed,,2026-07-26 11:26:46.588147

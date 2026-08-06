@@ -1,0 +1,3 @@
+kpi_id,threshold_status,count,threshold_version,threshold_approval_status,threshold_is_provisional
+kpi_003,Not Assessed,2920,v1.0-draft,Draft,True
+kpi_004,Not Assessed,2920,v1.0-draft,Draft,True

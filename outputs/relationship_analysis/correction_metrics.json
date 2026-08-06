@@ -1,0 +1,25 @@
+{
+  "before": {
+    "contradiction_severity_distribution": {
+      "NaN/None": 135
+    },
+    "missing_cf_scores": 102,
+    "total_cf_rows": 135
+  },
+  "after": {
+    "contradiction_severity_distribution": {
+      "Material": 72,
+      "Minor": 63
+    },
+    "missing_cf_scores": 0,
+    "total_cf_rows": 135
+  },
+  "provisional_breach_by_dominant_kpi": {
+    "kpi_001": 0,
+    "kpi_002": 0,
+    "kpi_004": 0,
+    "kpi_006": 0,
+    "kpi_003": 382,
+    "kpi_005": 111
+  }
+}

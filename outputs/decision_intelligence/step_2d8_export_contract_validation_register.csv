@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-EC-001,export_contract_row_count,5168,5168,PASS,
+VA-EC-002,required_export_types_present,2,2,PASS,
+VA-EC-003,eight_exports_per_package,0,0,PASS,

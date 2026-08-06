@@ -1,0 +1,8 @@
+action_key,capability_description
+compare_financial_impacts,Compare financial consequences
+request_cost_validation,Request cost input validation
+request_benefit_validation,Request benefit assumption validation
+request_budget_info,Request budget information
+route_to_integrated_review,Route to integrated management review
+defer,Defer financial review
+reject_financial_use,Reject financial use

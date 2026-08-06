@@ -1,0 +1,19 @@
+configuration_id,evidence_pack_type,included_section,section_order,export_eligible,sensitive_section_flag,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+EVPK-001,Full Evidence Pack,Executive Summary,1,True,False,1,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-002,Full Evidence Pack,KPI Evidence,2,True,False,2,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-003,Full Evidence Pack,Risk Evidence,3,True,False,3,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-004,Full Evidence Pack,Recommendation Evidence,4,True,False,4,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-005,Full Evidence Pack,Scenario Evidence,5,True,False,5,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-006,Full Evidence Pack,Financial Evidence,6,True,True,6,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-007,Full Evidence Pack,Readiness Evidence,7,True,False,7,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-008,Full Evidence Pack,Action Routing Evidence,8,True,False,8,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-009,Full Evidence Pack,Governance Warnings,9,True,False,9,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-010,Full Evidence Pack,Evidence Completeness Report,10,True,False,10,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-011,Full Evidence Pack,Lineage Trace,11,True,False,11,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-012,Full Evidence Pack,Audit Requirements,12,True,False,12,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-013,Full Evidence Pack,Version and Checksum Report,13,True,False,13,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-014,Summary Pack,Executive Summary,1,True,False,14,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-015,Summary Pack,Readiness Evidence,2,True,False,15,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-016,Summary Pack,Action Routing Evidence,3,True,False,16,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-017,Audit Pack,Audit Requirements,1,True,False,17,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section
+EVPK-018,Audit Pack,Version and Checksum Report,2,True,False,18,True,1.0,Draft Analytical Configuration,True,Governed evidence pack section

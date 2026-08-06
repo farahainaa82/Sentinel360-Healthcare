@@ -1,0 +1,6 @@
+integration_run_id,dataset_name,row_count,column_count,checksum,checked_datetime
+INT-PFD-8B3D878D871C,processed_patient_encounters,93958,28,7d75a4e43f8e3b47ae3298ae1337ed1cdcc422287a8ad5ac5febd2bb350e490f,2026-07-26 11:26:46.746859
+INT-PFD-8B3D878D871C,processed_patient_queue,1095,22,035ae7d548904327e74cfada45dba329bf072e3e58f3f37db7e86a3771a78591,2026-07-26 11:26:46.746866
+INT-PFD-8B3D878D871C,processed_bed_capacity,1095,22,239fe6b282a9933952e5b17c933ae10d03a2caf5bdf1bdcdcae5dcb4ce543a1b,2026-07-26 11:26:46.746868
+INT-PFD-8B3D878D871C,processed_service_schedule,8760,22,7778444350ad50fbcf6a67c1fe37e08ca66eee507b93ad96d6b7d6febde71c29,2026-07-26 11:26:46.746870
+INT-PFD-8B3D878D871C,processed_patient_flow_daily,2920,31,cf31c8ac27d9fd0e83e9cf3c175b364c2b3d9be0e7f85a887285390bc2a6c778,2026-07-26 11:26:46.746873

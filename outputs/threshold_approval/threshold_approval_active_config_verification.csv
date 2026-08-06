@@ -1,0 +1,54 @@
+check_item,check_result,expected_value,actual_value,status
+Schema validation,25 columns present,25,25,PASS
+Row count,6 KPIs,6,6,PASS
+KPI coverage,kpi_001 to kpi_006,kpi_001;kpi_002;kpi_003;kpi_004;kpi_005;kpi_006,kpi_001;kpi_002;kpi_003;kpi_004;kpi_005;kpi_006,PASS
+kpi_001 version,v1.0-approved,v1.0-approved,v1.0-approved,PASS
+kpi_002 version,v1.0-approved,v1.0-approved,v1.0-approved,PASS
+kpi_003 version,v1.0-provisional-approved,v1.0-provisional-approved,v1.0-provisional-approved,PASS
+kpi_004 version,v1.0-approved,v1.0-approved,v1.0-approved,PASS
+kpi_005 version,v1.0-provisional-approved,v1.0-provisional-approved,v1.0-provisional-approved,PASS
+kpi_006 version,v1.0-approved,v1.0-approved,v1.0-approved,PASS
+kpi_001 provisional,False,False,False,PASS
+kpi_002 provisional,False,False,False,PASS
+kpi_003 provisional,True,True,True,PASS
+kpi_004 provisional,False,False,False,PASS
+kpi_005 provisional,True,True,True,PASS
+kpi_006 provisional,False,False,False,PASS
+kpi_001 status,Approved,Approved,Approved,PASS
+kpi_002 status,Approved,Approved,Approved,PASS
+kpi_003 status,Conditionally Approved,Conditionally Approved,Conditionally Approved,PASS
+kpi_004 status,Approved,Approved,Approved,PASS
+kpi_005 status,Conditionally Approved,Conditionally Approved,Conditionally Approved,PASS
+kpi_006 status,Approved,Approved,Approved,PASS
+kpi_001 green_lower,84.19668593008033,84.19668593008033,84.19668593008033,PASS
+kpi_001 green_upper,100.0,100.0,100.0,PASS
+kpi_002 green_lower,0.0,0.0,0.0,PASS
+kpi_002 green_upper,15.001220617023437,15.001220617023437,15.001220617023437,PASS
+kpi_003 green_lower,86.11897763218477,86.11897763218477,86.11897763218477,PASS
+kpi_003 green_upper,100.16047931158654,100.16047931158654,100.16047931158654,PASS
+kpi_004 green_lower,26.24,26.24,26.24,PASS
+kpi_004 green_upper,47.24228685036204,47.24228685036204,47.24228685036204,PASS
+kpi_005 green_lower,0.0,0.0,0.0,PASS
+kpi_005 green_upper,14.778812840390938,14.778812840390938,14.778812840390938,PASS
+kpi_006 green_lower,2.803470425318753,2.803470425318753,2.803470425318753,PASS
+kpi_006 green_upper,5.0,5.0,5.0,PASS
+kpi_001 boundary_inclusivity,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,PASS
+kpi_002 boundary_inclusivity,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,PASS
+kpi_003 boundary_inclusivity,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,PASS
+kpi_004 boundary_inclusivity,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,PASS
+kpi_005 boundary_inclusivity,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,PASS
+kpi_006 boundary_inclusivity,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,PASS
+kpi_001 decision_record_id,DEC-001,DEC-001,DEC-001,PASS
+kpi_002 decision_record_id,DEC-002,DEC-002,DEC-002,PASS
+kpi_003 decision_record_id,DEC-003,DEC-003,DEC-003,PASS
+kpi_004 decision_record_id,DEC-004,DEC-004,DEC-004,PASS
+kpi_005 decision_record_id,DEC-005,DEC-005,DEC-005,PASS
+kpi_006 decision_record_id,DEC-006,DEC-006,DEC-006,PASS
+kpi_001 effective_date,2026-07-28,2026-07-28,2026-07-28,PASS
+kpi_002 effective_date,2026-07-28,2026-07-28,2026-07-28,PASS
+kpi_003 effective_date,2026-07-28,2026-07-28,2026-07-28,PASS
+kpi_004 effective_date,2026-07-28,2026-07-28,2026-07-28,PASS
+kpi_005 effective_date,2026-07-28,2026-07-28,2026-07-28,PASS
+kpi_006 effective_date,2026-07-28,2026-07-28,2026-07-28,PASS
+kpi_003 review_date,2026-09-30,2026-09-30,2026-09-30,PASS
+kpi_005 review_date,2026-10-25,2026-10-25,2026-10-25,PASS

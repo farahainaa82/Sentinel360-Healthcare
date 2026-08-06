@@ -1,0 +1,4 @@
+config_id,config_name,description,grouping_keys,sort_key,available_status_field,window_type,window_size,qualifying_status,qualifying_minimum_count,output_persistence_count,persistence_rule_id,persistence_status,enabled,config_version,config_status,effective_date
+PC-001,Repeated Amber Persistence,persistence for repeated amber watch,"hospital_id,department_id,kpi_id",reporting_date,calculation_status,rolling,3,Amber,2,2,WC-001,Active,True,v1.0-draft,Technical Rule,2026-07-27
+PC-002,Repeated Red Persistence,persistence for repeated red watch,"hospital_id,department_id,kpi_id",reporting_date,calculation_status,rolling,3,Red,2,2,WC-006,Active,True,v1.0-draft,Technical Rule,2026-07-27
+PC-003,Escalation Persistence,persistence for escalating severity,"hospital_id,department_id,kpi_id",reporting_date,calculation_status,rolling,3,,2,2,WC-007,Active,True,v1.0-draft,Technical Rule,2026-07-27

@@ -1,0 +1,10 @@
+lineage_stage,minimum_required,required_for_all
+raw_data_source,1,True
+processed_data_source,1,True
+kpi_source,1,True
+trend_threshold_source,1,True
+risk_source,1,True
+recommendation_source,1,False
+scenario_source,1,False
+financial_source,1,False
+integration_source,1,True

@@ -1,0 +1,6 @@
+config_id,config_type,kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+PER_BASE_0,PERSISTENCE,ALL,persistence_count_0,0,score_points,No persistence contribution,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+PER_BASE_1,PERSISTENCE,ALL,persistence_count_1plus,5,score_points,Base persistence contribution,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+PER_RPT_AMB,PERSISTENCE,ALL,repeated_amber_flag,10,score_points,Additional for repeated Amber,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+PER_RPT_RED,PERSISTENCE,ALL,repeated_red_flag,20,score_points,Additional for repeated Red,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+PER_CCP_PER,PERSISTENCE,ALL,persistent_critical_capacity,15,score_points,Additional for persistent Critical Capacity,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design

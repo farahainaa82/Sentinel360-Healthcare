@@ -1,0 +1,1 @@
+issue_record_id,hospital_id,department_id,reporting_date,kpi_id,issue_category,issue_severity,issue_description,engine_run_id,processed_at

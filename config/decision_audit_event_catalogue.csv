@@ -1,0 +1,25 @@
+configuration_id,audit_event_type,event_description,actor_role_required,evidence_required,reason_required,timestamp_required,approval_reference_required,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+AUDCAT-001,Decision Package Opened,Decision package opened for review,Hospital COO / General Manager,True,False,True,False,1,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-002,Decision Package Reviewed,Decision package reviewed,Hospital COO / General Manager,True,True,True,False,2,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-003,Scenario Comparison Viewed,Scenario comparison viewed,Analytics Team,True,False,True,False,3,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-004,Assumption Validation Requested,Assumption validation requested,Analytics Team,True,True,True,False,4,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-005,Baseline Validation Requested,Baseline validation requested,Data Owner,True,True,True,False,5,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-006,Financial Input Validation Requested,Financial input validation requested,Finance,True,True,True,False,6,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-007,Benefit Validation Requested,Benefit validation requested,Finance,True,True,True,False,7,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-008,Budget Information Requested,Budget information requested,Finance,True,True,True,False,8,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-009,Additional Scenario Requested,Additional scenario requested,Analytics Team,True,True,True,False,9,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-010,Stakeholder Review Requested,Stakeholder review requested,Stakeholder Owner,True,True,True,False,10,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-011,Limited-Trial Consideration Initiated,Limited-trial consideration initiated,Hospital COO / General Manager,True,True,True,True,11,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-012,Monitoring Route Confirmed,Monitoring route confirmed,Operations Manager,True,False,True,False,12,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-013,Decision Deferred,Decision deferred,Hospital COO / General Manager,True,True,True,True,13,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-014,Decision Use Rejected,Decision use rejected,Hospital COO / General Manager,True,True,True,True,14,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-015,Management Action Selected,Management action selected,Hospital COO / General Manager,True,True,True,True,15,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-016,Management Approval Recorded,Management approval recorded,Hospital COO / General Manager,True,True,True,True,16,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-017,Management Rejection Recorded,Management rejection recorded,Hospital COO / General Manager,True,True,True,True,17,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-018,Prerequisite Completed,Prerequisite completed,Responsible Role,True,True,True,False,18,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-019,Blocking Condition Resolved,Blocking condition resolved,Responsible Role,True,True,True,False,19,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-020,Evidence Added,Evidence added,Data Owner,True,True,True,False,20,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-021,Evidence Rejected,Evidence rejected,Governance / Audit Reviewer,True,True,True,False,21,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-022,Lineage Corrected,Lineage corrected,Data Owner,True,True,True,False,22,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-023,Package Version Updated,Package version updated,Analytics Team,True,False,True,False,23,True,1.0,Draft Analytical Configuration,True,Governed audit event
+AUDCAT-024,Export Generated,Export generated,Analytics Team,True,False,True,False,24,True,1.0,Draft Analytical Configuration,True,Governed audit event

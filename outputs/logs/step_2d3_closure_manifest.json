@@ -1,0 +1,71 @@
+{
+  "closure_run_id": "CLOSURE-2D3E-4A502F1D3677",
+  "closure_started_datetime": "2026-07-26T20:41:03.649691",
+  "closure_completed_datetime": "2026-07-26T20:41:03.649696",
+  "engine_version": "Sentinel360-Phase1-2D-3E",
+  "closure_version": "2D-3E-1.0.0",
+  "steps_covered": [
+    "2A",
+    "2B",
+    "2C",
+    "2D-1",
+    "2D-2",
+    "2D-3A",
+    "2D-3B",
+    "2D-3C",
+    "2D-3D"
+  ],
+  "prior_manifests_verified": [
+    "validation_run_manifest.json",
+    "workforce_processing_run_manifest.json",
+    "patient_encounter_processing_run_manifest.json",
+    "queue_capacity_schedule_processing_run_manifest.json",
+    "patient_flow_daily_processing_run_manifest.json",
+    "patient_flow_integration_manifest.json"
+  ],
+  "processed_datasets_checked": [
+    "processed_hospital_master",
+    "processed_department_master",
+    "processed_staff_role_master",
+    "processed_staff_master",
+    "processed_staff_roster",
+    "processed_staff_attendance",
+    "processed_staffing_requirement",
+    "processed_workforce_daily",
+    "processed_patient_encounters",
+    "processed_patient_queue",
+    "processed_bed_capacity",
+    "processed_service_schedule",
+    "processed_patient_flow_daily"
+  ],
+  "file_inventory_count": 77,
+  "dataset_acceptance_count": 13,
+  "schema_acceptance_count": 13,
+  "checksum_verification_count": 13,
+  "test_summary_count": 10,
+  "closure_issue_count": 1,
+  "critical_issue_count": 0,
+  "warning_issue_count": 1,
+  "blocked_reasons": [],
+  "run_status": "Passed",
+  "closure_passed_flag": true,
+  "output_files": [
+    "step_2d3_closure_manifest.json",
+    "step_2d3_test_summary.csv",
+    "step_2d3_file_inventory.csv",
+    "step_2d3_dataset_acceptance_summary.csv",
+    "step_2d3_schema_acceptance_summary.csv",
+    "step_2d3_checksum_verification.csv",
+    "step_2d3_acceptance_check_results.csv",
+    "step_2d3_closure_issue_log.csv",
+    "step_2d3_closure_audit_log.csv"
+  ],
+  "unresolved_rules": [
+    "Queue multi-stage aggregation without summary flag: Pending Review",
+    "Duplicate bed-snapshot selection logic: Pending Review"
+  ],
+  "known_limitations": [
+    "Closure validation relies on prior manifest evidence; it does not reprocess data."
+  ],
+  "readiness_for_next_step": "Step 2D-4 may proceed to transform patient complaints and patient survey data into validated preparation-level datasets. Step 2D-4 must not yet calculate official Complaint Rate, Patient Satisfaction Score or KPI status."
+}

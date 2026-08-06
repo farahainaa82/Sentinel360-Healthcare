@@ -1,0 +1,30 @@
+metric,value
+execution_timestamp,2026-07-29T09:52:39.905481
+phase,2D-1
+phase_name,Integrated Decision Data Model
+approval_packages_processed,646
+integrated_decision_records_created,646
+ready_for_integrated_management_review,0
+ready_with_conditions,311
+requires_assumption_validation,46
+requires_baseline_validation,0
+requires_financial_input,0
+requires_stakeholder_validation,0
+requires_additional_scenario_analysis,0
+monitoring_only,280
+non_quantitative,9
+not_suitable,0
+rejected,0
+management_action_routes_created,646
+scorecard_input_records_created,646
+management_summaries_created,646
+evidence_records_created,646
+lineage_records_created,646
+governance_issues_logged,0
+no_preferred_scenario_selected,True
+no_management_approval_recorded,True
+scenario_values_unchanged,True
+financial_values_unchanged,True
+causality_status,Not Confirmed
+governance_validation_passed,True
+phase_2d1_status,"COMPLETE, GOVERNED, VALIDATED, READY FOR STEP 2D-2"

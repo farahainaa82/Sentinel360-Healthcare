@@ -1,0 +1,11 @@
+processing_run_id,event,detail,timestamp
+PROC-PEX-8337749CCBE7,Source Loaded,"complaints=1465, surveys=5244",2026-07-26T22:04:47.801479
+PROC-PEX-8337749CCBE7,Complaint Transform,1465 rows processed,2026-07-26T22:04:47.839443
+PROC-PEX-8337749CCBE7,Survey Transform,5244 rows processed,2026-07-26T22:04:47.873503
+PROC-PEX-8337749CCBE7,Processed Files Written,complaints and surveys exported,2026-07-26T22:04:48.098103
+PROC-PEX-8337749CCBE7,Daily Spine,2621 unique hospital-department-date grains,2026-07-26T22:04:48.222472
+PROC-PEX-8337749CCBE7,Complaint Aggregate,1166 daily complaint rows,2026-07-26T22:04:48.238899
+PROC-PEX-8337749CCBE7,Survey Aggregate,2441 daily survey rows,2026-07-26T22:04:48.728958
+PROC-PEX-8337749CCBE7,Daily Combined,2621 rows,2026-07-26T22:04:48.739450
+PROC-PEX-8337749CCBE7,Daily Grain Validated,Unique: 2621 rows,2026-07-26T22:04:48.871808
+PROC-PEX-8337749CCBE7,Daily Exported,2621 rows,2026-07-26T22:05:03.022059

@@ -1,0 +1,219 @@
+{
+  "confidence_mapping": {
+    "scenario_runs": {
+      "filename": "analytical_scenario_runs.csv",
+      "confidence_columns": [
+        "final_scenario_confidence"
+      ],
+      "value_samples": {
+        "final_scenario_confidence": [
+          "Insufficient Evidence",
+          "Low",
+          "Moderate"
+        ]
+      }
+    },
+    "scenario_confidence": {
+      "filename": "analytical_scenario_confidence.csv",
+      "confidence_columns": [
+        "confidence_base",
+        "confidence_adjustments",
+        "confidence_score_internal",
+        "final_scenario_confidence",
+        "confidence_rationale"
+      ],
+      "value_samples": {
+        "confidence_base": [
+          50.0,
+          0.0,
+          100.0
+        ],
+        "confidence_adjustments": [
+          "[]"
+        ],
+        "confidence_score_internal": [
+          "Low",
+          "Insufficient Evidence",
+          "Moderate"
+        ],
+        "final_scenario_confidence": [
+          "Insufficient Evidence",
+          "Low",
+          "Moderate"
+        ],
+        "confidence_rationale": [
+          "Base from completeness 50.0%, 0 adjustments applied, result: Low",
+          "Base from completeness 0.0%, 0 adjustments applied, result: Insufficient Evidence",
+          "Base from completeness 100.0%, 0 adjustments applied, result: Moderate"
+        ]
+      }
+    },
+    "scenario_effect_classification": {
+      "filename": "analytical_scenario_effect_classification.csv",
+      "confidence_columns": [
+        "confidence"
+      ],
+      "value_samples": {
+        "confidence": [
+          "Low",
+          "Moderate"
+        ]
+      }
+    },
+    "scenario_risk_displacement": {
+      "filename": "analytical_scenario_risk_displacement.csv",
+      "confidence_columns": [
+        "confidence"
+      ],
+      "value_samples": {
+        "confidence": [
+          "Low",
+          "Moderate"
+        ]
+      }
+    },
+    "scenario_primary_impacts": {
+      "filename": "analytical_scenario_primary_impacts.csv",
+      "confidence_columns": [
+        "final_scenario_confidence"
+      ],
+      "value_samples": {
+        "final_scenario_confidence": [
+          "Low",
+          "Moderate"
+        ]
+      }
+    },
+    "scenario_non_comparable_register": {
+      "filename": "analytical_scenario_non_comparable_register.csv",
+      "confidence_columns": [
+        "final_scenario_confidence"
+      ],
+      "value_samples": {
+        "final_scenario_confidence": [
+          "Insufficient Evidence"
+        ]
+      }
+    }
+  },
+  "causality_mapping": {
+    "scenario_runs": {
+      "filename": "analytical_scenario_runs.csv",
+      "causality_columns": [
+        "causality_status"
+      ],
+      "value_samples": {
+        "causality_status": [
+          "Not Confirmed"
+        ]
+      }
+    },
+    "scenario_non_comparable_register": {
+      "filename": "analytical_scenario_non_comparable_register.csv",
+      "causality_columns": [
+        "causality_status"
+      ],
+      "value_samples": {
+        "causality_status": [
+          "Not Confirmed"
+        ]
+      }
+    }
+  },
+  "baseline_status_mapping": {
+    "scenario_runs": {
+      "filename": "analytical_scenario_runs.csv",
+      "baseline_status_columns": [
+        "baseline_status"
+      ],
+      "value_samples": {
+        "baseline_status": [
+          "Available with Conditions",
+          "Blocked",
+          "Available"
+        ]
+      }
+    },
+    "scenario_baselines": {
+      "filename": "analytical_scenario_baselines.csv",
+      "baseline_status_columns": [
+        "baseline_status"
+      ],
+      "value_samples": {
+        "baseline_status": [
+          "Available with Conditions",
+          "Blocked",
+          "Available"
+        ]
+      }
+    },
+    "scenario_non_comparable_register": {
+      "filename": "analytical_scenario_non_comparable_register.csv",
+      "baseline_status_columns": [
+        "baseline_status"
+      ],
+      "value_samples": {
+        "baseline_status": [
+          "Available with Conditions",
+          "Blocked",
+          "Available"
+        ]
+      }
+    }
+  },
+  "comparator_status_mapping": {
+    "scenario_runs": {
+      "filename": "analytical_scenario_runs.csv",
+      "comparator_columns": [
+        "comparator_id",
+        "comparator_type",
+        "comparator_config_version"
+      ],
+      "value_samples": {
+        "comparator_id": [
+          "-BLOCKED",
+          "COMP-BASE-001",
+          "COMP-CONS-001",
+          "COMP-EXP-001",
+          "COMP-HIGH-001",
+          "COMP-BASE-002",
+          "COMP-CONS-002",
+          "COMP-EXP-002",
+          "COMP-HIGH-002",
+          "-MON",
+          "COMP-BASE-003",
+          "COMP-CONS-003",
+          "COMP-EXP-003",
+          "COMP-HIGH-003"
+        ],
+        "comparator_type": [
+          "Baseline",
+          "Conservative",
+          "Expected",
+          "Higher Intensity"
+        ],
+        "comparator_config_version": [
+          "2C-2B-1.0"
+        ]
+      }
+    },
+    "scenario_non_comparable_register": {
+      "filename": "analytical_scenario_non_comparable_register.csv",
+      "comparator_columns": [
+        "comparator_id",
+        "comparator_type",
+        "comparator_config_version"
+      ],
+      "value_samples": {
+        "comparator_id": [
+          "-BLOCKED",
+          "-MON"
+        ],
+        "comparator_type": [
+          "Baseline"
+        ],
+        "comparator_config_version": []
+      }
+    }
+  }
+}

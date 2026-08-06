@@ -1,0 +1,142 @@
+{
+  "phase": "2C-3",
+  "timestamp": "2026-07-29T15:56:59.479710",
+  "frozen_status": "Frozen",
+  "upstream_phase": "2C-2F",
+  "outputs": {
+    "step_2c3_authoritative_input_register.csv": {
+      "checksum": "25c4f32d759721a121c0547c9bed65a65d5e05b52f9ce4f25457016fd987349e",
+      "row_count": 12
+    },
+    "step_2c3_financial_input_inventory.csv": {
+      "checksum": "c98d60dd1da0fb3a424092f6e04de2f9eb80b6818a22f623fb8c13768168bd96",
+      "row_count": 622
+    },
+    "step_2c3_financial_input_availability_register.csv": {
+      "checksum": "29ce5d4bb9fbb20fd37c876771e47f9f65b57687441ee0bd7022bd30a2a62982",
+      "row_count": 622
+    },
+    "step_2c3_financial_input_governance_register.csv": {
+      "checksum": "ea8106fd0220aae480fe2e5177e8e11d4f5c841727ab01bd272b71f4556c2460",
+      "row_count": 622
+    },
+    "step_2c3_cost_driver_mapping.csv": {
+      "checksum": "0c6e772032858df9eec0b7c9fa381bb88b1233721773c3d7a56d5eecb29c419b",
+      "row_count": 8019
+    },
+    "step_2c3_scenario_cost_components.csv": {
+      "checksum": "145379338f1af7a494a61ab935e58adc2ceeb934374c51c6e248492b351a9361",
+      "row_count": 8019
+    },
+    "step_2c3_scenario_cost_summary.csv": {
+      "checksum": "17ed152581bd1c56dee0381814a5daa8d1e20f4aaa2e7953f9da368ec1d54cc2",
+      "row_count": 1071
+    },
+    "step_2c3_cost_completeness_register.csv": {
+      "checksum": "f02ab20c12c64bdafbc13b892c280608f690ac21ac21d643893e4e56a34e445e",
+      "row_count": 1071
+    },
+    "step_2c3_do_nothing_financial_exposure.csv": {
+      "checksum": "f52c7c47ccfea2e86ffc328082da7b82ea5f02949f9cda93fb22a937b1125c75",
+      "row_count": 1428
+    },
+    "step_2c3_benefit_eligibility_register.csv": {
+      "checksum": "cb79dff6080c7735a6e8ac5d60ba6d058644a18bc7d9e69ac6e1ee530c36c7cd",
+      "row_count": 1071
+    },
+    "step_2c3_financial_benefit_components.csv": {
+      "checksum": "d9434e24ec4ef07da3adbb3b0b674b5134c8e51be3f02e202a7d01ce14f54dcb",
+      "row_count": 1755
+    },
+    "step_2c3_financial_benefit_summary.csv": {
+      "checksum": "95026c6ed85bccd6c6a31b1a1984c14281b8bac58cbad584d890a706e60420cb",
+      "row_count": 933
+    },
+    "step_2c3_net_financial_impact.csv": {
+      "checksum": "46c4433f392e93ca5ee37cbca49001d5360fbca02309516bbf2c8d81bcabfe8c",
+      "row_count": 1071
+    },
+    "step_2c3_budget_impact_register.csv": {
+      "checksum": "da3fd3769aec1bcadcca88946ca3b8ecbb70bcf04289b3b245716099b107601a",
+      "row_count": 1071
+    },
+    "step_2c3_affordability_register.csv": {
+      "checksum": "1fb812b79913ce59fc9beb8c620eb36c4bc7156d645e4761b22d761d6577573c",
+      "row_count": 1071
+    },
+    "step_2c3_roi_register.csv": {
+      "checksum": "4b860ec908db36c58bfb50bb27a23ec877b46da98417a75e9d406182edbf9464",
+      "row_count": 1071
+    },
+    "step_2c3_payback_register.csv": {
+      "checksum": "e9dcdf0161e3ba035908a513ace80613d18f09070ef8f3a4de3d1ffe7cba0920",
+      "row_count": 1071
+    },
+    "step_2c3_financial_uncertainty_register.csv": {
+      "checksum": "8640b16243747b21944f02117dd9d2ed3796982784d668096a929dceca8d65b3",
+      "row_count": 8019
+    },
+    "step_2c3_financial_sensitivity_register.csv": {
+      "checksum": "94fb77f13b73c1ca7e7d0304c5c821fcc3f301e90012711c6c0864e195a85c82",
+      "row_count": 1071
+    },
+    "step_2c3_break_even_register.csv": {
+      "checksum": "30b6cd93f47095fcd99a1592f6c99b200046c231d7589c6478ff85d97022870a",
+      "row_count": 1071
+    },
+    "step_2c3_double_counting_validation_register.csv": {
+      "checksum": "3197c65bd27a719f1e47204a5937fcf386fd9400c220fef12cc231db9cefc48d",
+      "row_count": 384
+    },
+    "step_2c3_financial_confidence_register.csv": {
+      "checksum": "c394ccbf7e6e7bfd7b0f0231bbc0a40b8279440db624809855828beb254220f2",
+      "row_count": 1071
+    },
+    "step_2c3_financial_readiness_register.csv": {
+      "checksum": "935e5a1154bea683d85b2cd14c1fbb26987b7575cb531e52c93285657ae1481a",
+      "row_count": 311
+    },
+    "step_2c3_management_financial_comparison.csv": {
+      "checksum": "88f98edd571265e5c5f5a7c1d6c884ffa20aeae99fe59e05a00a6ab91c6d902d",
+      "row_count": 311
+    },
+    "step_2c3_deferred_and_non_assessable_register.csv": {
+      "checksum": "3ea3f4ceb4a29228e6799eb9281f4cda0cf0bbc5154132517db38b2e83454e33",
+      "row_count": 335
+    },
+    "step_2c3_financial_evidence_register.csv": {
+      "checksum": "922f64b9ebbaf423deed583c58bfd7841c7bade8ee5915d948f67501f4a65c31",
+      "row_count": 8019
+    },
+    "step_2c3_financial_lineage_register.csv": {
+      "checksum": "9dbd3c3c2e811c96e6cdf8d813b9f68bb49d9dfc5cb0490c2b3e708857475fca",
+      "row_count": 8019
+    },
+    "step_2c3_streamlit_financial_data_contract.csv": {
+      "checksum": "8e841c34d054a01b1b3f972e8bdcd7d5be7fccd0f0131867da3b049cde3a4b66",
+      "row_count": 14
+    },
+    "step_2c3_streamlit_financial_action_contract.csv": {
+      "checksum": "7656f7acc5a2a2653aff8e4af17fbb16803fd047354b6bafc40043959a232ba1",
+      "row_count": 7
+    },
+    "step_2c3_execution_summary.csv": {
+      "checksum": "5b9a138cce5c75d69cd4739458dec9e2bd2b42689037c088469e949750502385",
+      "row_count": 56
+    }
+  },
+  "approved_future_consumers": [
+    "Streamlit Financial Impact page",
+    "Scenario Lab",
+    "Management Decision Interface",
+    "Approval Workflow",
+    "Reporting and Export"
+  ],
+  "governance_notes": [
+    "No preferred scenario selected.",
+    "No management approval recorded.",
+    "No guaranteed savings claimed.",
+    "Financial confidence does not exceed Moderate.",
+    "causality_status remains Not Confirmed."
+  ]
+}

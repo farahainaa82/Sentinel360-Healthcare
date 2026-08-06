@@ -1,0 +1,3 @@
+check_name,status,message
+daily_required_fields,Passed,Missing fields: []
+reporting_date_parse,Passed,reporting_date parses as datetime

@@ -1,0 +1,11 @@
+input_name,row_count,column_count,available_keys,primary_key_suggestion
+package_closure,646,19,"approval_package_id, hospital_id, department_id, dominant_kpi_id",approval_package_id
+management_scenario,311,43,"approval_package_id, management_scenario_package_id, hospital_id, department_id, dominant_kpi_id",approval_package_id
+scenario_runs,2711,30,"approval_package_id, scenario_run_id",approval_package_id
+comparator_closure,357,16,approval_package_id,approval_package_id
+deferred_non_ready,335,11,approval_package_id,approval_package_id
+financial_readiness,311,11,"approval_package_id, management_scenario_package_id",approval_package_id
+financial_comparison,311,24,"approval_package_id, management_scenario_package_id",approval_package_id
+financial_confidence,1071,9,"approval_package_id, scenario_run_id",approval_package_id
+approval_package,646,71,"approval_package_id, hospital_id, department_id, dominant_kpi_id",approval_package_id
+risk_ranking,2920,18,"hospital_id, department_id, dominant_kpi_id",

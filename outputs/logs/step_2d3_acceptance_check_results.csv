@@ -1,0 +1,16 @@
+closure_run_id,check_name,status,details,checked_datetime
+CLOSURE-2D3E-4A502F1D3677,Prior Manifest Statuses,Passed,All prior manifests verified successfully,2026-07-26T20:27:06.098298
+CLOSURE-2D3E-4A502F1D3677,Processed Dataset Presence,Passed,,2026-07-26T20:27:06.102028
+CLOSURE-2D3E-4A502F1D3677,Processed Dataset Row Counts,Passed,,2026-07-26T20:27:08.323009
+CLOSURE-2D3E-4A502F1D3677,Processed Dataset Checksums,Passed,,2026-07-26T20:27:08.437186
+CLOSURE-2D3E-4A502F1D3677,Processed Schema Validation,Passed,,2026-07-26T20:27:08.572747
+CLOSURE-2D3E-4A502F1D3677,Business Key Uniqueness,Passed,,2026-07-26T20:27:10.426348
+CLOSURE-2D3E-4A502F1D3677,Daily Grain Uniqueness,Passed,,2026-07-26T20:27:10.454691
+CLOSURE-2D3E-4A502F1D3677,Deterministic Daily ID Format,Passed,,2026-07-26T20:27:10.478931
+CLOSURE-2D3E-4A502F1D3677,Integration Evidence,Passed,,2026-07-26T20:27:10.479070
+CLOSURE-2D3E-4A502F1D3677,Lineage Acceptance,Passed,,2026-07-26T20:27:10.491695
+CLOSURE-2D3E-4A502F1D3677,Reconciliation Acceptance,Passed,,2026-07-26T20:27:10.549982
+CLOSURE-2D3E-4A502F1D3677,Prohibited Output Check,Passed,,2026-07-26T20:27:10.746397
+CLOSURE-2D3E-4A502F1D3677,Dataset Immutability,Passed,,2026-07-26T20:27:10.911040
+CLOSURE-2D3E-4A502F1D3677,Documentation Presence,Passed with Warnings,,2026-07-26T20:27:10.916985
+CLOSURE-2D3E-4A502F1D3677,Cumulative Test Results,Passed,All test files passed after correction,2026-07-26T20:41:03.649508

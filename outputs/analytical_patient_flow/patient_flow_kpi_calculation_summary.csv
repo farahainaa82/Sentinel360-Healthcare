@@ -1,0 +1,3 @@
+kpi_id,total_records,calculated,insufficient_data,zero_denominator,rule_pending,invalid_input,min_value,max_value,mean_value,median_value
+kpi_003,2920,1095,1825,0,0,0,71.42857142857143,118.18181818181819,93.35492864188451,93.33333333333333
+kpi_004,2920,1095,1825,0,0,0,26.24,60.76923076923077,41.732986781687785,40.6

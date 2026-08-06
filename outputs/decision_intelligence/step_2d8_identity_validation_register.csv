@@ -1,0 +1,7 @@
+validation_id,check,expected,actual,status,detail
+VA-ID-001,brief_id_uniqueness,646,646,PASS,
+VA-ID-002,package_id_uniqueness,646,646,PASS,
+VA-ID-003,integrated_management_brief_id_not_null,0,0,PASS,
+VA-ID-004,decision_package_id_not_null,0,0,PASS,
+VA-ID-005,approval_package_id_not_null,0,0,PASS,
+VA-ID-006,approval_package_id_present,0,0,PASS,

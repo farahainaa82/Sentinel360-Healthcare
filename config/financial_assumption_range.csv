@@ -1,0 +1,16 @@
+range_id,financial_input_id,allowed_minimum,allowed_maximum,default_central,default_low,default_high,unit,currency_code,configuration_version,approval_status,governance_note
+RNG-001,FIN-OVERTIME-HOUR,15.00,50.00,25.00,20.00,35.00,MYR per hour,MYR,v1.0-draft,Draft Analytical Configuration,Overtime rate range for sensitivity
+RNG-002,FIN-TEMP-STAFF-DAY,80.00,200.00,120.00,100.00,160.00,MYR per staff per day,MYR,v1.0-draft,Draft Analytical Configuration,Temporary staff rate range
+RNG-003,FIN-ADD-SHIFT,120.00,300.00,180.00,150.00,240.00,MYR per shift,MYR,v1.0-draft,Draft Analytical Configuration,Additional shift cost range
+RNG-004,FIN-TRAIN-SESS,200.00,600.00,350.00,280.00,450.00,MYR per session,MYR,v1.0-draft,Draft Analytical Configuration,Training cost range
+RNG-005,FIN-EXT-SVC-HOUR,30.00,80.00,45.00,38.00,60.00,MYR per hour,MYR,v1.0-draft,Draft Analytical Configuration,External service rate range
+RNG-006,FIN-TEMP-CAP-DAY,300.00,900.00,500.00,400.00,700.00,MYR per day,MYR,v1.0-draft,Draft Analytical Configuration,Capacity cost range
+RNG-007,FIN-EQUIP-RENT-DAY,40.00,150.00,80.00,60.00,120.00,MYR per day,MYR,v1.0-draft,Draft Analytical Configuration,Equipment rental range
+RNG-008,FIN-IMPL-LABOUR,600.00,2500.00,1200.00,900.00,1800.00,MYR,MYR,v1.0-draft,Draft Analytical Configuration,Implementation labour range
+RNG-009,FIN-PROJ-MGMT,400.00,1500.00,800.00,600.00,1200.00,MYR,MYR,v1.0-draft,Draft Analytical Configuration,Project management range
+RNG-010,FIN-MONITOR-MONTH,150.00,600.00,300.00,220.00,450.00,MYR per month,MYR,v1.0-draft,Draft Analytical Configuration,Monitoring cost range
+RNG-011,FIN-ADMIN-BURDEN,100.00,400.00,200.00,150.00,300.00,MYR per month,MYR,v1.0-draft,Draft Analytical Configuration,Admin burden range
+RNG-012,FIN-AVOID-OT-HOUR,15.00,50.00,25.00,20.00,35.00,MYR per hour,MYR,v1.0-draft,Draft Analytical Configuration,Avoided overtime value range
+RNG-013,FIN-AVOID-TEMP-DAY,80.00,200.00,120.00,100.00,160.00,MYR per staff per day,MYR,v1.0-draft,Draft Analytical Configuration,Avoided temp staff value range
+RNG-014,FIN-QUEUE-REDUCT-VAL,8.00,30.00,15.00,12.00,22.00,MYR per patient,MYR,v1.0-draft,Draft Analytical Configuration,Queue reduction value range
+RNG-015,FIN-CANCEL-AVOID-VAL,60.00,250.00,120.00,90.00,180.00,MYR per cancellation,MYR,v1.0-draft,Draft Analytical Configuration,Cancellation avoidance value range

@@ -1,0 +1,13 @@
+filter_id,filter_name,source_column,source_dataset,widget_type,default_value,display_order
+FIL_01,Hospital,hospital_name,executive_overview,multiselect,All,1
+FIL_02,Department,department_name,executive_overview,multiselect,All,2
+FIL_03,Year,year,executive_overview,multiselect,All,3
+FIL_04,Month,month,executive_overview,multiselect,All,4
+FIL_05,Reporting Date,reporting_date,executive_overview,multiselect,All,5
+FIL_06,KPI,dominant_kpi_name,executive_overview,multiselect,All,6
+FIL_07,Risk Tier,risk_tier,executive_overview,slider,All,7
+FIL_08,Urgency,urgency,executive_overview,multiselect,All,8
+FIL_09,Readiness Status,readiness_status,executive_overview,multiselect,All,9
+FIL_10,Management Attention Level,management_attention_level,executive_overview,multiselect,All,10
+FIL_11,Primary Queue,primary_queue,executive_overview,multiselect,All,11
+FIL_12,Validation Outcome,validation_outcome,executive_overview,multiselect,All,12

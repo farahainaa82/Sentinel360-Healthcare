@@ -1,0 +1,7 @@
+configuration_id,financial_display_rule,missing_input_display,zero_display,blocked_display,available_display,currency_symbol,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+FD-001,Missing cost display,Not Available,Not Available,Not Assessable,Available,RM,1,True,1.0,Draft Analytical Configuration,True,Financial display rule
+FD-002,Missing benefit display,Not Available,Not Available,Not Assessable,Available,RM,2,True,1.0,Draft Analytical Configuration,True,Financial display rule
+FD-003,Missing ROI display,Not Available,Not Available,Not Assessable,Available,RM,3,True,1.0,Draft Analytical Configuration,True,Financial display rule
+FD-004,Missing payback display,Not Available,Not Available,Not Assessable,Available,RM,4,True,1.0,Draft Analytical Configuration,True,Financial display rule
+FD-005,Missing affordability display,Budget Data Required,Budget Data Required,Not Assessable,Available,RM,5,True,1.0,Draft Analytical Configuration,True,Financial display rule
+FD-006,Missing comparator display,Unavailable,Unavailable,Unavailable,Available,RM,6,True,1.0,Draft Analytical Configuration,True,Financial display rule

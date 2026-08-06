@@ -1,0 +1,174 @@
+{
+  "calculation_run_id": "ARCH-2A1-AC6B181289D3",
+  "run_type": "governance_check",
+  "start_time": "2026-07-27 10:05:33.881584",
+  "end_time": "2026-07-27 10:05:34.079723",
+  "status": "Passed",
+  "phase1_immutability_verified": true,
+  "phase1_datasets_unchanged": 17,
+  "phase1_datasets_changed": [],
+  "kpi_count": 6,
+  "kpi_ids": [
+    "kpi_001",
+    "kpi_002",
+    "kpi_003",
+    "kpi_004",
+    "kpi_005",
+    "kpi_006"
+  ],
+  "readiness_summary": {
+    "kpi_001": "Conditionally Ready",
+    "kpi_002": "Conditionally Ready",
+    "kpi_003": "Conditionally Ready",
+    "kpi_004": "Conditionally Ready",
+    "kpi_005": "Conditionally Ready",
+    "kpi_006": "Conditionally Ready"
+  },
+  "calculation_gate": {
+    "calculation_allowed": true,
+    "blocking_reason": "",
+    "allowed_kpi_ids": [
+      "kpi_001",
+      "kpi_002",
+      "kpi_003",
+      "kpi_004",
+      "kpi_005",
+      "kpi_006"
+    ],
+    "blocked_kpi_ids": [],
+    "calculation_run_id": "",
+    "readiness_summary": {
+      "kpi_001": "Conditionally Ready",
+      "kpi_002": "Conditionally Ready",
+      "kpi_003": "Conditionally Ready",
+      "kpi_004": "Conditionally Ready",
+      "kpi_005": "Conditionally Ready",
+      "kpi_006": "Conditionally Ready"
+    }
+  },
+  "config_validation": {
+    "kpi_definitions_valid": false,
+    "kpi_thresholds_valid": false,
+    "data_confidence_valid": false,
+    "overall_valid": false,
+    "issues": [
+      {
+        "issue_id": "bde1b7c5",
+        "issue_type": "Error",
+        "severity": "Error",
+        "issue_description": "KPI definition missing columns: ['domain', 'numerator_field', 'denominator_field', 'directionality', 'grain', 'effective_date']",
+        "source_dataset": "",
+        "kpi_id": "",
+        "field_name": "",
+        "resolution_status": "Open",
+        "created_at": "2026-07-27 10:05:33.965293"
+      },
+      {
+        "issue_id": "6b481bda",
+        "issue_type": "Error",
+        "severity": "Error",
+        "issue_description": "KPI threshold config missing columns: ['threshold_id', 'threshold_name', 'threshold_value', 'threshold_direction', 'severity', 'effective_date']",
+        "source_dataset": "",
+        "kpi_id": "",
+        "field_name": "",
+        "resolution_status": "Open",
+        "created_at": "2026-07-27 10:05:33.965369"
+      },
+      {
+        "issue_id": "b076b89f",
+        "issue_type": "Error",
+        "severity": "Error",
+        "issue_description": "Data confidence config missing columns: ['kpi_id', 'confidence_level', 'completeness_threshold', 'freshness_threshold_days']",
+        "source_dataset": "",
+        "kpi_id": "",
+        "field_name": "",
+        "resolution_status": "Open",
+        "created_at": "2026-07-27 10:05:33.965419"
+      }
+    ]
+  },
+  "governance_validation": {
+    "kpi_registry_valid": true,
+    "source_fields_valid": true,
+    "thresholds_valid": true,
+    "schemas_valid": true,
+    "readiness_assigned": {
+      "kpi_001": "Conditionally Ready",
+      "kpi_002": "Conditionally Ready",
+      "kpi_003": "Conditionally Ready",
+      "kpi_004": "Conditionally Ready",
+      "kpi_005": "Conditionally Ready",
+      "kpi_006": "Conditionally Ready"
+    },
+    "no_calculations": true,
+    "issues": [],
+    "overall_valid": true
+  },
+  "issue_count": 0,
+  "issues": [],
+  "source_field_mapping": {
+    "KPI-001": {
+      "dataset": "processed_operational_daily",
+      "required_fields": [
+        "planned_staff_count",
+        "present_staff_count",
+        "replacement_staff_count",
+        "reassigned_staff_count"
+      ],
+      "numerator_field": "present_staff_count + replacement_staff_count",
+      "denominator_field": "planned_staff_count",
+      "notes": "Reassigned staff counted as present if reassigned_in > 0; formula uses present + replacement as available staff"
+    },
+    "KPI-002": {
+      "dataset": "processed_operational_daily",
+      "required_fields": [
+        "planned_staff_count",
+        "unapproved_absence_count"
+      ],
+      "numerator_field": "unapproved_absence_count",
+      "denominator_field": "planned_staff_count",
+      "notes": "Approved leave is excluded from absenteeism; only unapproved absences count"
+    },
+    "KPI-003": {
+      "dataset": "processed_operational_daily",
+      "required_fields": [
+        "occupied_beds",
+        "operational_beds"
+      ],
+      "numerator_field": "occupied_beds",
+      "denominator_field": "operational_beds",
+      "notes": "Overcapacity preserved when occupied > operational; not capped at 100%"
+    },
+    "KPI-004": {
+      "dataset": "processed_patient_encounters",
+      "required_fields": [
+        "arrival_to_consultation_minutes",
+        "official_wait_stage_eligible_flag",
+        "encounter_wait_eligible_flag"
+      ],
+      "numerator_field": "SUM(arrival_to_consultation_minutes WHERE eligible)",
+      "denominator_field": "COUNT(encounter_id WHERE eligible)",
+      "notes": "Eligibility requires official_wait_stage_eligible_flag = True AND encounter_wait_eligible_flag = True; negative or null intervals excluded"
+    },
+    "KPI-005": {
+      "dataset": "processed_operational_daily",
+      "required_fields": [
+        "complaint_valid_record_count",
+        "encounter_record_count"
+      ],
+      "numerator_field": "complaint_valid_record_count",
+      "denominator_field": "encounter_record_count",
+      "notes": "Valid complaints only; encounter count as approved exposure base"
+    },
+    "KPI-006": {
+      "dataset": "processed_operational_daily",
+      "required_fields": [
+        "survey_score_weighted_sum",
+        "survey_valid_score_record_count"
+      ],
+      "numerator_field": "survey_score_weighted_sum",
+      "denominator_field": "survey_valid_score_record_count",
+      "notes": "Weighted sum of valid satisfaction scores divided by valid response count; scale handled at preparation layer"
+    }
+  }
+}

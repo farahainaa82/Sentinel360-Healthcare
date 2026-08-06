@@ -1,0 +1,108 @@
+app
+
+Data Upload and Validation
+
+Executive Overview
+
+Deploy
+EXECUTIVE OVERVIEW
+
+Hospital Operational Performance & Decision Support
+
+Hospital
+
+Department
+
+Year
+
+Month
+
+ 
+
+Reset
+
+ROUTINE MONITORING — STABLE OPERATIONS
+
+No material operational breach is identified for All Departments on 2026-12-01 00:00:00. All monitored KPIs are within acceptable thresholds. Continue routine monitoring.
+
+Primary KPI Highlights
+Staffing Level FORECAST
+Forecast Not Available
+Reason: Forecasts are generated at department–KPI level and no governed aggregate forecast has been approved.
+Staff Absenteeism Rate FORECAST
+Forecast Not Available
+Reason: Forecasts are generated at department–KPI level and no governed aggregate forecast has been approved.
+Bed Occupancy Rate FORECAST
+Forecast Not Available
+Reason: Forecasts are generated at department–KPI level and no governed aggregate forecast has been approved.
+Supporting KPI Snapshot
+Average Patient Waiting Time FORECAST
+Forecast Not Available
+Patient Complaint Rate FORECAST
+Forecast Not Available
+Patient Satisfaction Score FORECAST
+Forecast Not Available
+
+Annual actual data not available for Staffing Level
+
+FORECAST Staffing Level
+Forecast Not Available
+Reason: Forecasts are generated at department–KPI level and no governed aggregate forecast has been approved.
+
+Annual actual data not available for Staff Absenteeism Rate
+
+FORECAST Staff Absenteeism Rate
+Forecast Not Available
+Reason: Forecasts are generated at department–KPI level and no governed aggregate forecast has been approved.
+
+Annual actual data not available for Bed Occupancy Rate
+
+FORECAST Bed Occupancy Rate
+Forecast Not Available
+Reason: Forecasts are generated at department–KPI level and no governed aggregate forecast has been approved.
+
+Workforce, service, and patient-experience signals appear together in the selected period. Causality is not confirmed.
+
+Forecast Capability
+Status: Indicative Prototype Available
+Coverage: 33 of 48 department–KPI combinations
+Forecast horizon: August–December 2026
+Limitations: Generated from short synthetic historical series and not production-approved.
+Unsupported: 15 combinations due to insufficient or invalid historical data.
+MANAGEMENT REVIEW REQUIRED
+FORECAST PERIOD
+Indicative projection under the current trend. Not confirmed future performance.
+
+ROUTINE MONITORING — STABLE OPERATIONS
+
+No material operational breach was identified for the selected department and month.
+
+SUGGESTED ACTION
+
+Suggested preventive action: No material operational breach. Continue routine monitoring.
+
+Readiness: Routine
+
+keyboard_arrow_right
+
+Action Details
+
+SCENARIO COMPARISON
+
+Forecast scenario comparison requires scenario-specific linkage.
+
+Detailed financial analysis will be handled later in the Simulation Lab.
+
+Supporting Detail
+
+What Needs Attention
+
+Evidence and Assumptions
+
+Next Management Steps
+
+No specific attention items identified for this period.
+
+Governance Model: Sentinel360 Integrated GovernanceData Source: Analytical Six-KPI Daily + Risk AlertConfidence: ProvisionalApproval: Phase 3B Executive OverviewDecision support only; causality is not confirmed.Authorised management review required for final action.
+
+This is a governed dashboard. All thresholds, actions, and narratives are provisional and subject to review.

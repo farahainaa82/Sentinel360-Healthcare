@@ -1,0 +1,337 @@
+hospital,department,department_code,kpi_id,kpi_name,year,month,monthly_actual_value,card_value,chart_value,status_input_value,interpretation_input_value,card_matches_month,chart_matches_month,all_values_match,valid_observation_count,source_date_start,source_date_end,mismatch_reason
+HOSP-001,Admissions,DEPT-ADM,kpi_001,Staffing Level,2026,1,90.8238,90.82377637531155,90.82377637531155,Acceptable,Acceptable,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Admissions,DEPT-ADM,kpi_001,Staffing Level,2026,2,92.0047,92.00474501915043,92.00474501915043,Acceptable,Acceptable,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Admissions,DEPT-ADM,kpi_001,Staffing Level,2026,3,92.5098,92.50984416976671,92.50984416976671,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Admissions,DEPT-ADM,kpi_001,Staffing Level,2026,4,88.6355,88.635500235968,88.635500235968,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Admissions,DEPT-ADM,kpi_001,Staffing Level,2026,5,91.3059,91.3058505231235,91.3058505231235,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Admissions,DEPT-ADM,kpi_001,Staffing Level,2026,6,89.2246,89.22458401778297,89.22458401778297,Acceptable,Acceptable,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Admissions,DEPT-ADM,kpi_001,Staffing Level,2026,7,87.9427,87.9426869763454,87.9426869763454,Acceptable,Acceptable,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Admissions,DEPT-ADM,kpi_002,Staff Absenteeism Rate,2026,1,5.0583,5.058262936894629,5.058262936894629,Acceptable,Acceptable,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Admissions,DEPT-ADM,kpi_002,Staff Absenteeism Rate,2026,2,7.9912,7.991178390085665,7.991178390085665,Acceptable,Acceptable,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Admissions,DEPT-ADM,kpi_002,Staff Absenteeism Rate,2026,3,6.9711,6.971129866013256,6.971129866013256,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Admissions,DEPT-ADM,kpi_002,Staff Absenteeism Rate,2026,4,11.0609,11.06092341473954,11.06092341473954,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Admissions,DEPT-ADM,kpi_002,Staff Absenteeism Rate,2026,5,9.1771,9.177062666265833,9.177062666265833,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Admissions,DEPT-ADM,kpi_002,Staff Absenteeism Rate,2026,6,11.5271,11.52707903862837,11.52707903862837,Acceptable,Acceptable,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Admissions,DEPT-ADM,kpi_002,Staff Absenteeism Rate,2026,7,12.4814,12.481406801812014,12.481406801812014,Acceptable,Acceptable,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Admissions,DEPT-ADM,kpi_003,Bed Occupancy Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_003,Bed Occupancy Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_003,Bed Occupancy Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_003,Bed Occupancy Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_003,Bed Occupancy Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_003,Bed Occupancy Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_003,Bed Occupancy Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_004,Average Patient Waiting Time,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_004,Average Patient Waiting Time,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_004,Average Patient Waiting Time,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_004,Average Patient Waiting Time,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_004,Average Patient Waiting Time,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_004,Average Patient Waiting Time,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_004,Average Patient Waiting Time,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_005,Patient Complaint Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_005,Patient Complaint Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_005,Patient Complaint Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_005,Patient Complaint Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_005,Patient Complaint Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_005,Patient Complaint Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_005,Patient Complaint Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_006,Patient Satisfaction Score,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_006,Patient Satisfaction Score,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_006,Patient Satisfaction Score,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_006,Patient Satisfaction Score,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_006,Patient Satisfaction Score,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_006,Patient Satisfaction Score,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Admissions,DEPT-ADM,kpi_006,Patient Satisfaction Score,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_001,Staffing Level,2026,1,93.8772,93.87720264655738,93.87720264655738,Acceptable,Acceptable,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_001,Staffing Level,2026,2,91.3406,91.34064793258733,91.34064793258733,Acceptable,Acceptable,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_001,Staffing Level,2026,3,92.9848,92.98479087852903,92.98479087852903,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_001,Staffing Level,2026,4,89.5884,89.58843253696195,89.58843253696195,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_001,Staffing Level,2026,5,88.3574,88.35743478532852,88.35743478532852,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_001,Staffing Level,2026,6,89.7056,89.70561743897657,89.70561743897657,Acceptable,Acceptable,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_001,Staffing Level,2026,7,89.2285,89.22852658621159,89.22852658621159,Acceptable,Acceptable,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_002,Staff Absenteeism Rate,2026,1,6.1928,6.192758854049177,6.192758854049177,Acceptable,Acceptable,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_002,Staff Absenteeism Rate,2026,2,5.8005,5.800531751162003,5.800531751162003,Acceptable,Acceptable,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_002,Staff Absenteeism Rate,2026,3,7.2173,7.217345694575296,7.217345694575296,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_002,Staff Absenteeism Rate,2026,4,9.771,9.771018197488786,9.771018197488786,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_002,Staff Absenteeism Rate,2026,5,9.2849,9.28485124405428,9.28485124405428,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_002,Staff Absenteeism Rate,2026,6,11.3242,11.32419635747809,11.32419635747809,Acceptable,Acceptable,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_002,Staff Absenteeism Rate,2026,7,9.5857,9.585698141200986,9.585698141200986,Acceptable,Acceptable,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_003,Bed Occupancy Rate,2026,1,81.6003,81.60026165119544,81.60026165119544,Critical,Critical,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_003,Bed Occupancy Rate,2026,2,82.3103,82.31028057155876,82.31028057155876,Warning,Warning,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_003,Bed Occupancy Rate,2026,3,86.8791,86.87914801666923,86.87914801666923,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_003,Bed Occupancy Rate,2026,4,95.2825,95.28248651932863,95.28248651932863,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_003,Bed Occupancy Rate,2026,5,94.1794,94.17936336442278,94.17936336442278,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_003,Bed Occupancy Rate,2026,6,104.6353,104.6352623984203,104.6352623984203,Warning,Warning,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_003,Bed Occupancy Rate,2026,7,104.4573,104.45733101081149,104.45733101081149,Warning,Warning,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_004,Average Patient Waiting Time,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_004,Average Patient Waiting Time,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_004,Average Patient Waiting Time,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_004,Average Patient Waiting Time,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_004,Average Patient Waiting Time,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_004,Average Patient Waiting Time,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_004,Average Patient Waiting Time,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_005,Patient Complaint Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_005,Patient Complaint Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_005,Patient Complaint Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_005,Patient Complaint Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_005,Patient Complaint Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_005,Patient Complaint Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_005,Patient Complaint Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_006,Patient Satisfaction Score,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_006,Patient Satisfaction Score,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_006,Patient Satisfaction Score,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_006,Patient Satisfaction Score,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_006,Patient Satisfaction Score,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_006,Patient Satisfaction Score,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_006,Patient Satisfaction Score,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_001,Staffing Level,2026,1,94.3662,94.36618980117866,94.36618980117866,Acceptable,Acceptable,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_001,Staffing Level,2026,2,93.265,93.2650316037933,93.2650316037933,Acceptable,Acceptable,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Medical Ward,DEPT-MED,kpi_001,Staffing Level,2026,3,91.8369,91.83689119562484,91.83689119562484,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_001,Staffing Level,2026,4,90.9323,90.93229194689687,90.93229194689687,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Medical Ward,DEPT-MED,kpi_001,Staffing Level,2026,5,90.5869,90.58694134133563,90.58694134133563,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_001,Staffing Level,2026,6,89.1606,89.16063902557711,89.16063902557711,Acceptable,Acceptable,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Medical Ward,DEPT-MED,kpi_001,Staffing Level,2026,7,88.3332,88.33320352095944,88.33320352095944,Acceptable,Acceptable,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_002,Staff Absenteeism Rate,2026,1,4.7696,4.769639992822682,4.769639992822682,Acceptable,Acceptable,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_002,Staff Absenteeism Rate,2026,2,6.742,6.742001625211488,6.742001625211488,Acceptable,Acceptable,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Medical Ward,DEPT-MED,kpi_002,Staff Absenteeism Rate,2026,3,7.2096,7.209631189632188,7.209631189632188,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_002,Staff Absenteeism Rate,2026,4,8.7812,8.781226159187527,8.781226159187527,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Medical Ward,DEPT-MED,kpi_002,Staff Absenteeism Rate,2026,5,9.2628,9.262821427382498,9.262821427382498,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_002,Staff Absenteeism Rate,2026,6,11.4583,11.458308346853238,11.458308346853238,Acceptable,Acceptable,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Medical Ward,DEPT-MED,kpi_002,Staff Absenteeism Rate,2026,7,11.8434,11.843434634431338,11.843434634431338,Acceptable,Acceptable,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_003,Bed Occupancy Rate,2026,1,84.7935,84.79351281910893,84.79351281910893,Warning,Warning,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_003,Bed Occupancy Rate,2026,2,83.016,83.01600493203787,83.01600493203787,Warning,Warning,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Medical Ward,DEPT-MED,kpi_003,Bed Occupancy Rate,2026,3,87.743,87.74300009371008,87.74300009371008,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_003,Bed Occupancy Rate,2026,4,98.6514,98.6514040558163,98.6514040558163,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Medical Ward,DEPT-MED,kpi_003,Bed Occupancy Rate,2026,5,100.4996,100.49962026097182,100.49962026097182,Warning,Warning,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_003,Bed Occupancy Rate,2026,6,105.0254,105.02538095972855,105.02538095972855,Critical,Critical,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Medical Ward,DEPT-MED,kpi_003,Bed Occupancy Rate,2026,7,105.7835,105.78350071429674,105.78350071429674,Critical,Critical,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Medical Ward,DEPT-MED,kpi_004,Average Patient Waiting Time,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_004,Average Patient Waiting Time,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_004,Average Patient Waiting Time,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_004,Average Patient Waiting Time,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_004,Average Patient Waiting Time,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_004,Average Patient Waiting Time,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_004,Average Patient Waiting Time,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_005,Patient Complaint Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_005,Patient Complaint Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_005,Patient Complaint Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_005,Patient Complaint Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_005,Patient Complaint Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_005,Patient Complaint Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_005,Patient Complaint Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_006,Patient Satisfaction Score,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_006,Patient Satisfaction Score,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_006,Patient Satisfaction Score,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_006,Patient Satisfaction Score,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_006,Patient Satisfaction Score,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_006,Patient Satisfaction Score,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Medical Ward,DEPT-MED,kpi_006,Patient Satisfaction Score,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_001,Staffing Level,2026,1,94.5141,94.51412386896257,94.51412386896257,Acceptable,Acceptable,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_001,Staffing Level,2026,2,92.4898,92.48979195407766,92.48979195407766,Acceptable,Acceptable,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Surgery,DEPT-SURG,kpi_001,Staffing Level,2026,3,91.5739,91.57389205776302,91.57389205776302,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_001,Staffing Level,2026,4,92.2919,92.29189329189329,92.29189329189329,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Surgery,DEPT-SURG,kpi_001,Staffing Level,2026,5,90.1211,90.12110649207423,90.12110649207423,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_001,Staffing Level,2026,6,88.1188,88.11875161875163,88.11875161875163,Acceptable,Acceptable,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Surgery,DEPT-SURG,kpi_001,Staffing Level,2026,7,87.2921,87.29213438890858,87.29213438890858,Acceptable,Acceptable,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_002,Staff Absenteeism Rate,2026,1,5.4321,5.432112690177206,5.432112690177206,Acceptable,Acceptable,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_002,Staff Absenteeism Rate,2026,2,6.028,6.027999777999779,6.027999777999779,Acceptable,Acceptable,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Surgery,DEPT-SURG,kpi_002,Staff Absenteeism Rate,2026,3,9.57,9.569990940958682,9.569990940958682,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_002,Staff Absenteeism Rate,2026,4,7.4026,7.402551152551153,7.402551152551153,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Surgery,DEPT-SURG,kpi_002,Staff Absenteeism Rate,2026,5,8.4067,8.406682922811955,8.406682922811955,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_002,Staff Absenteeism Rate,2026,6,12.9955,12.995499870499872,12.995499870499872,Acceptable,Acceptable,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Surgery,DEPT-SURG,kpi_002,Staff Absenteeism Rate,2026,7,11.3893,11.389264857006792,11.389264857006792,Acceptable,Acceptable,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_003,Bed Occupancy Rate,2026,1,82.5656,82.56556894144005,82.56556894144005,Warning,Warning,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_003,Bed Occupancy Rate,2026,2,84.8041,84.80406392804407,84.80406392804407,Warning,Warning,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Surgery,DEPT-SURG,kpi_003,Bed Occupancy Rate,2026,3,88.7691,88.7690922207804,88.7690922207804,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_003,Bed Occupancy Rate,2026,4,97.9542,97.95420009684148,97.95420009684148,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Surgery,DEPT-SURG,kpi_003,Bed Occupancy Rate,2026,5,96.0225,96.02253830242796,96.02253830242796,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_003,Bed Occupancy Rate,2026,6,105.0784,105.0783921302001,105.0783921302001,Critical,Critical,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Surgery,DEPT-SURG,kpi_003,Bed Occupancy Rate,2026,7,104.4014,104.40136488835101,104.40136488835101,Warning,Warning,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Surgery,DEPT-SURG,kpi_004,Average Patient Waiting Time,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_004,Average Patient Waiting Time,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_004,Average Patient Waiting Time,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_004,Average Patient Waiting Time,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_004,Average Patient Waiting Time,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_004,Average Patient Waiting Time,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_004,Average Patient Waiting Time,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_005,Patient Complaint Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_005,Patient Complaint Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_005,Patient Complaint Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_005,Patient Complaint Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_005,Patient Complaint Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_005,Patient Complaint Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_005,Patient Complaint Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_006,Patient Satisfaction Score,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_006,Patient Satisfaction Score,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_006,Patient Satisfaction Score,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_006,Patient Satisfaction Score,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_006,Patient Satisfaction Score,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_006,Patient Satisfaction Score,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Surgery,DEPT-SURG,kpi_006,Patient Satisfaction Score,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_001,Staffing Level,2026,1,92.7691,92.76914012782383,92.76914012782383,Acceptable,Acceptable,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_001,Staffing Level,2026,2,92.927,92.92696449209053,92.92696449209053,Acceptable,Acceptable,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Emergency Department,DEPT-ED,kpi_001,Staffing Level,2026,3,89.4741,89.47412045659323,89.47412045659323,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_001,Staffing Level,2026,4,90.1772,90.1771978021978,90.1771978021978,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Emergency Department,DEPT-ED,kpi_001,Staffing Level,2026,5,89.3033,89.30330330809707,89.30330330809707,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_001,Staffing Level,2026,6,88.1889,88.18886846441026,88.18886846441026,Acceptable,Acceptable,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Emergency Department,DEPT-ED,kpi_001,Staffing Level,2026,7,87.3122,87.31217443741163,87.31217443741163,Acceptable,Acceptable,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_002,Staff Absenteeism Rate,2026,1,4.7998,4.799802298304246,4.799802298304246,Acceptable,Acceptable,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_002,Staff Absenteeism Rate,2026,2,4.4013,4.401305976936229,4.401305976936229,Acceptable,Acceptable,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Emergency Department,DEPT-ED,kpi_002,Staff Absenteeism Rate,2026,3,6.203,6.20298541688235,6.20298541688235,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_002,Staff Absenteeism Rate,2026,4,8.5318,8.531796906796906,8.531796906796906,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Emergency Department,DEPT-ED,kpi_002,Staff Absenteeism Rate,2026,5,10.5345,10.534508047740845,10.534508047740845,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_002,Staff Absenteeism Rate,2026,6,13.9621,13.962083796836119,13.962083796836119,Acceptable,Acceptable,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Emergency Department,DEPT-ED,kpi_002,Staff Absenteeism Rate,2026,7,12.5242,12.524246784208833,12.524246784208833,Acceptable,Acceptable,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_003,Bed Occupancy Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_003,Bed Occupancy Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_003,Bed Occupancy Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_003,Bed Occupancy Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_003,Bed Occupancy Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_003,Bed Occupancy Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_003,Bed Occupancy Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_004,Average Patient Waiting Time,2026,1,31.9555,31.955502027748643,31.955502027748643,Acceptable,Acceptable,True,True,True,31.0,2026-01-01,2026-01-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_004,Average Patient Waiting Time,2026,2,31.9714,31.971382791143732,31.971382791143732,Acceptable,Acceptable,True,True,True,28.0,2026-02-01,2026-02-28,
+HOSP-001,Emergency Department,DEPT-ED,kpi_004,Average Patient Waiting Time,2026,3,36.567,36.56697022323486,36.56697022323486,Acceptable,Acceptable,True,True,True,31.0,2026-03-01,2026-03-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_004,Average Patient Waiting Time,2026,4,44.7615,44.76153192559639,44.76153192559639,Acceptable,Acceptable,True,True,True,30.0,2026-04-01,2026-04-30,
+HOSP-001,Emergency Department,DEPT-ED,kpi_004,Average Patient Waiting Time,2026,5,44.9707,44.97065445206991,44.97065445206991,Acceptable,Acceptable,True,True,True,31.0,2026-05-01,2026-05-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_004,Average Patient Waiting Time,2026,6,54.1904,54.1904433033916,54.1904433033916,Critical,Critical,True,True,True,30.0,2026-06-01,2026-06-30,
+HOSP-001,Emergency Department,DEPT-ED,kpi_004,Average Patient Waiting Time,2026,7,54.4729,54.47294894150474,54.47294894150474,Critical,Critical,True,True,True,31.0,2026-07-01,2026-07-31,
+HOSP-001,Emergency Department,DEPT-ED,kpi_005,Patient Complaint Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_005,Patient Complaint Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_005,Patient Complaint Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_005,Patient Complaint Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_005,Patient Complaint Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_005,Patient Complaint Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_005,Patient Complaint Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_006,Patient Satisfaction Score,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_006,Patient Satisfaction Score,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_006,Patient Satisfaction Score,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_006,Patient Satisfaction Score,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_006,Patient Satisfaction Score,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_006,Patient Satisfaction Score,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,Emergency Department,DEPT-ED,kpi_006,Patient Satisfaction Score,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_001,Staffing Level,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_001,Staffing Level,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_001,Staffing Level,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_001,Staffing Level,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_001,Staffing Level,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_001,Staffing Level,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_001,Staffing Level,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_002,Staff Absenteeism Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_002,Staff Absenteeism Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_002,Staff Absenteeism Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_002,Staff Absenteeism Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_002,Staff Absenteeism Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_002,Staff Absenteeism Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_002,Staff Absenteeism Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_003,Bed Occupancy Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_003,Bed Occupancy Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_003,Bed Occupancy Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_003,Bed Occupancy Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_003,Bed Occupancy Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_003,Bed Occupancy Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_003,Bed Occupancy Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_004,Average Patient Waiting Time,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_004,Average Patient Waiting Time,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_004,Average Patient Waiting Time,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_004,Average Patient Waiting Time,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_004,Average Patient Waiting Time,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_004,Average Patient Waiting Time,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_004,Average Patient Waiting Time,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_005,Patient Complaint Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_005,Patient Complaint Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_005,Patient Complaint Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_005,Patient Complaint Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_005,Patient Complaint Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_005,Patient Complaint Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_005,Patient Complaint Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_006,Patient Satisfaction Score,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_006,Patient Satisfaction Score,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_006,Patient Satisfaction Score,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_006,Patient Satisfaction Score,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_006,Patient Satisfaction Score,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_006,Patient Satisfaction Score,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-PAED,DEPT-PAED,kpi_006,Patient Satisfaction Score,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_001,Staffing Level,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_001,Staffing Level,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_001,Staffing Level,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_001,Staffing Level,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_001,Staffing Level,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_001,Staffing Level,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_001,Staffing Level,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_002,Staff Absenteeism Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_002,Staff Absenteeism Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_002,Staff Absenteeism Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_002,Staff Absenteeism Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_002,Staff Absenteeism Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_002,Staff Absenteeism Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_002,Staff Absenteeism Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_003,Bed Occupancy Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_003,Bed Occupancy Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_003,Bed Occupancy Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_003,Bed Occupancy Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_003,Bed Occupancy Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_003,Bed Occupancy Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_003,Bed Occupancy Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_004,Average Patient Waiting Time,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_004,Average Patient Waiting Time,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_004,Average Patient Waiting Time,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_004,Average Patient Waiting Time,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_004,Average Patient Waiting Time,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_004,Average Patient Waiting Time,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_004,Average Patient Waiting Time,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_005,Patient Complaint Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_005,Patient Complaint Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_005,Patient Complaint Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_005,Patient Complaint Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_005,Patient Complaint Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_005,Patient Complaint Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_005,Patient Complaint Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_006,Patient Satisfaction Score,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_006,Patient Satisfaction Score,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_006,Patient Satisfaction Score,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_006,Patient Satisfaction Score,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_006,Patient Satisfaction Score,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_006,Patient Satisfaction Score,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ORTHO,DEPT-ORTHO,kpi_006,Patient Satisfaction Score,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_001,Staffing Level,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_001,Staffing Level,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_001,Staffing Level,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_001,Staffing Level,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_001,Staffing Level,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_001,Staffing Level,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_001,Staffing Level,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_002,Staff Absenteeism Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_002,Staff Absenteeism Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_002,Staff Absenteeism Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_002,Staff Absenteeism Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_002,Staff Absenteeism Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_002,Staff Absenteeism Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_002,Staff Absenteeism Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_003,Bed Occupancy Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_003,Bed Occupancy Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_003,Bed Occupancy Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_003,Bed Occupancy Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_003,Bed Occupancy Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_003,Bed Occupancy Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_003,Bed Occupancy Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_004,Average Patient Waiting Time,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_004,Average Patient Waiting Time,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_004,Average Patient Waiting Time,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_004,Average Patient Waiting Time,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_004,Average Patient Waiting Time,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_004,Average Patient Waiting Time,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_004,Average Patient Waiting Time,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_005,Patient Complaint Rate,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_005,Patient Complaint Rate,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_005,Patient Complaint Rate,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_005,Patient Complaint Rate,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_005,Patient Complaint Rate,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_005,Patient Complaint Rate,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_005,Patient Complaint Rate,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_006,Patient Satisfaction Score,2026,1,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_006,Patient Satisfaction Score,2026,2,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_006,Patient Satisfaction Score,2026,3,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_006,Patient Satisfaction Score,2026,4,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_006,Patient Satisfaction Score,2026,5,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_006,Patient Satisfaction Score,2026,6,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination
+HOSP-001,DEPT-ADMIN,DEPT-ADMIN,kpi_006,Patient Satisfaction Score,2026,7,,,,Insufficient Data,Insufficient Data,False,False,False,,,,No valid monthly data for this department-KPI-month combination

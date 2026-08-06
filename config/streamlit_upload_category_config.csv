@@ -1,0 +1,49 @@
+category,severity_level,requires_follow_up,auto_escalate,schema_profile
+Service Delay,Critical,Yes,Yes,SENTINEL360_SYNTHETIC_DEMO
+Service Delay,High,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Service Delay,Medium,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Service Delay,Low,No,No,SENTINEL360_SYNTHETIC_DEMO
+Staff Conduct,Critical,Yes,Yes,SENTINEL360_SYNTHETIC_DEMO
+Staff Conduct,High,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Staff Conduct,Medium,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Staff Conduct,Low,No,No,SENTINEL360_SYNTHETIC_DEMO
+Communication,Critical,Yes,Yes,SENTINEL360_SYNTHETIC_DEMO
+Communication,High,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Communication,Medium,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Communication,Low,No,No,SENTINEL360_SYNTHETIC_DEMO
+Cleanliness,Critical,Yes,Yes,SENTINEL360_SYNTHETIC_DEMO
+Cleanliness,High,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Cleanliness,Medium,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Cleanliness,Low,No,No,SENTINEL360_SYNTHETIC_DEMO
+Billing,Critical,Yes,Yes,SENTINEL360_SYNTHETIC_DEMO
+Billing,High,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Billing,Medium,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Billing,Low,No,No,SENTINEL360_SYNTHETIC_DEMO
+Other,Critical,Yes,Yes,SENTINEL360_SYNTHETIC_DEMO
+Other,High,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Other,Medium,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Other,Low,No,No,SENTINEL360_SYNTHETIC_DEMO
+Service Delay,Critical,Yes,Yes,GENERIC_UPLOAD
+Service Delay,High,Yes,No,GENERIC_UPLOAD
+Service Delay,Medium,Yes,No,GENERIC_UPLOAD
+Service Delay,Low,No,No,GENERIC_UPLOAD
+Staff Conduct,Critical,Yes,Yes,GENERIC_UPLOAD
+Staff Conduct,High,Yes,No,GENERIC_UPLOAD
+Staff Conduct,Medium,Yes,No,GENERIC_UPLOAD
+Staff Conduct,Low,No,No,GENERIC_UPLOAD
+Communication,Critical,Yes,Yes,GENERIC_UPLOAD
+Communication,High,Yes,No,GENERIC_UPLOAD
+Communication,Medium,Yes,No,GENERIC_UPLOAD
+Communication,Low,No,No,GENERIC_UPLOAD
+Cleanliness,Critical,Yes,Yes,GENERIC_UPLOAD
+Cleanliness,High,Yes,No,GENERIC_UPLOAD
+Cleanliness,Medium,Yes,No,GENERIC_UPLOAD
+Cleanliness,Low,No,No,GENERIC_UPLOAD
+Billing,Critical,Yes,Yes,GENERIC_UPLOAD
+Billing,High,Yes,No,GENERIC_UPLOAD
+Billing,Medium,Yes,No,GENERIC_UPLOAD
+Billing,Low,No,No,GENERIC_UPLOAD
+Other,Critical,Yes,Yes,GENERIC_UPLOAD
+Other,High,Yes,No,GENERIC_UPLOAD
+Other,Medium,Yes,No,GENERIC_UPLOAD
+Other,Low,No,No,GENERIC_UPLOAD

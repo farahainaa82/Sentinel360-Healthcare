@@ -1,0 +1,11 @@
+risk_field,source_dataset,display_order,status
+hospital_name,risk_alert,1,Active
+department_name,risk_alert,2,Active
+dominant_kpi_name,risk_alert,3,Active
+risk_tier,risk_alert,4,Active
+urgency,risk_alert,5,Active
+management_attention,risk_alert,6,Active
+readiness_status,risk_alert,7,Active
+primary_queue,risk_alert,8,Active
+dominant_breach,risk_alert,9,Active
+reporting_date,risk_alert,10,Active

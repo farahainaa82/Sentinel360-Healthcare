@@ -1,0 +1,10 @@
+threshold_state,count
+Green,8350
+Unavailable,6123
+Red,990
+Amber,962
+Normal Operating Band,583
+Lower Amber,172
+Critical Capacity Pressure,122
+Low Utilisation,110
+Upper Amber,108

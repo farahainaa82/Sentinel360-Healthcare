@@ -1,0 +1,9 @@
+department,reporting_date,selected_package_id,dominant_kpi,financial_record_linked,scenario_record_linked,estimated_cost_available,estimated_benefit_available,estimated_net_impact_available,financial_confidence,missing_financial_input,financial_display_state,display_reason
+Admissions,2026-01-08,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260108,kpi_001,Yes,No,No,No,Yes,Ready for Financial Comparison,None,READINESS,Linked record has incomplete financial data
+Diagnostics,2026-01-08,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260108,kpi_001,Yes,No,No,No,Yes,Ready for Financial Comparison,None,READINESS,Linked record has incomplete financial data
+Emergency Department,2026-01-07,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260107,kpi_001,Yes,No,No,No,Yes,Ready for Financial Comparison,None,READINESS,Linked record has incomplete financial data
+Intensive Care Unit,2026-01-06,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260106,kpi_001,Yes,No,No,No,Yes,Ready for Financial Comparison,None,READINESS,Linked record has incomplete financial data
+Medical Ward,2026-01-16,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260116,kpi_001,Yes,No,No,No,Yes,Ready for Financial Comparison,None,READINESS,Linked record has incomplete financial data
+Outpatient Clinic,2026-01-07,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260107,kpi_001,Yes,No,No,No,Yes,Ready for Financial Comparison,None,READINESS,Linked record has incomplete financial data
+Patient Experience,2026-01-11,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260111,kpi_001,Yes,No,No,No,No,,Missing cost components,READINESS,Linked record has no quantified financial values
+Surgery,2026-01-27,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260127,kpi_001,Yes,No,No,No,No,,Missing cost components,READINESS,Linked record has no quantified financial values

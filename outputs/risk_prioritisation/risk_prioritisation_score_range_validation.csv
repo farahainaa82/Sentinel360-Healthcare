@@ -1,0 +1,2 @@
+kpi_min,kpi_max,dept_min,dept_max,kpi_in_range,dept_in_range,status
+0.0,100.0,0.0,100.0,True,True,PASS

@@ -1,0 +1,5 @@
+config_id,config_type,kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+AGG_MAX,AGGREGATION,ALL,max_kpi_weight,0.45,weight,Weight for maximum KPI risk in department,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+AGG_AVG,AGGREGATION,ALL,average_kpi_weight,0.30,weight,Weight for average assessable KPI risk,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+AGG_CON,AGGREGATION,ALL,concurrence_weight,0.15,weight,Weight for multi-KPI concurrence,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+AGG_ESC,AGGREGATION,ALL,escalation_weight,0.10,weight,Weight for escalation component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design

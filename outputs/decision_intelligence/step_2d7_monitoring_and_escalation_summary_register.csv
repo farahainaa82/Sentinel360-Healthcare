@@ -1,0 +1,647 @@
+integrated_management_brief_id,decision_package_id,monitoring_required,monitoring_kpis,monitoring_frequency,trigger_condition,escalation_condition,reassessment_condition,monitoring_responsible_role,management_attention_required
+IMB-6779686B,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260108,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-13EA9939,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260116,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-9332DC7F,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260209,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-67568966,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260328,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-054E896F,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260410,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C2279558,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260420,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-03B9E920,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260506,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-27792F9B,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260602,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-6FD595C3,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260608,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-DBBE6786,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260721,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-C95CA297,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260726,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-8D8019FF,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260822,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4BE80CE6,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261012,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7923F3A5,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261021,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-1EA09D3F,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261127,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-9CAF9BFB,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261205,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-69084F9C,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261220,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-7ACB682D,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260202,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-A04C31D2,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260206,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-7BF5560B,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260330,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-0F7CBBBD,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260409,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-DC313032,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260524,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B16AC730,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260529,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-65B007AB,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260611,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-00BBC43E,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260620,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-CB403676,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260624,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-7A203DC9,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260710,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-6B9113B2,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260716,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-7E694674,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260814,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-791D31AE,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260925,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-42E27596,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261019,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-26E86E31,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261102,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-CD88A7D0,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261114,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-A201D5E5,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261121,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F7E62568,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261214,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-3CC21958,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261225,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-D54BBA62,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260130,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-AB7D1D25,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260214,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-593A5AB7,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260325,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-34FF2141,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260404,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B778809C,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260408,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-96D5924D,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260413,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-EB012AEE,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260424,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-DB2B5F57,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260509,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-CE996CF0,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260618,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C5CE1EFE,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260623,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-658006F1,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260629,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-48F1383A,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260703,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7C829C4B,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260709,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D2F75205,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260719,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-75280831,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260809,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5E629520,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260824,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7EE68EF0,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260904,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F79F8EA6,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260923,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-815944D4,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260928,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-3E494728,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261007,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5B350E77,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261023,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-71C375B8,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261027,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E784EC35,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261202,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-312BC4A0,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261218,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B504AD7E,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260108,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5D0F86C8,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260401,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-8FBCBB00,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260417,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-AC26D40C,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260423,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-AC0448CA,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260507,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-8C4D0024,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260511,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-03A5CBFA,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260520,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-DC7B8314,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260606,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-FA35DD9B,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260610,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-F325F6DE,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260619,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-8FDF73B1,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260704,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-FEBBC6DF,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260723,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-F50D5B65,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260804,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-00B717A2,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260810,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-46F208B5,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260901,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-848638E0,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260912,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-5E70F27C,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261023,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-6A1954AC,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261031,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B9321AB4,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261108,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-90F8EAE1,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260122,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C5D0CD16,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260328,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-310AAD35,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260409,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-EB15E72D,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260422,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-88D1EAA2,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260426,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C4E0B569,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260515,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-2C537282,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260521,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-8F710E56,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260615,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-1A1A320A,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260621,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-18DD489D,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260626,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-756B92AF,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260720,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-78B486D4,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260727,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-51772D15,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260910,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,True
+IMB-C1CF97A4,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260915,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-2B355530,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260921,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-186319C6,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260930,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0350210E,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261015,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-556780F8,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261019,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-DE03CA73,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261027,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-3DB07DBC,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261111,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-9A67DACE,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261115,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-756B1334,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261126,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-63E130E8,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261202,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-FBD92695,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261207,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-B13BBDEE,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261227,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-0122DA0F,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260402,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-81425FAF,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260412,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-691AAF23,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260421,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,True
+IMB-1557EBDA,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260428,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-EDF68493,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260531,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-AF228DCA,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260614,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-0380CAC3,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260707,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-B035C641,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260107,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F89F9397,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260116,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-28389C99,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260123,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-61D60D2B,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260130,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-6E2ED4B9,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260207,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-990451D6,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260213,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-DB3BEFA8,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260220,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4ADD3943,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260302,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-56D41D3C,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260317,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C92C3321,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260324,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-DD5879BC,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260410,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-1839D7C6,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260420,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-84A68261,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260506,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0C5E59E8,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260528,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7584F4A3,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260629,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-03B0539E,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260817,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4B5EC376,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260830,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-FFA75233,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260904,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-102138E2,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260911,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-252CEAEA,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260923,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E1ABD162,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261003,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-06C1F371,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261009,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-6936A8F2,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261014,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-BD1A5B24,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261026,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-122AE627,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261102,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-55345F31,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261119,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-388383C6,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261125,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C8B3D708,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261205,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-331BB463,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261209,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5DEF4700,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261219,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0EACA9A3,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260126,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B3860E94,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260218,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-683A7401,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260224,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-737E3D66,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260319,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-322852D8,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260331,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-EC1791C3,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260416,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5343FE59,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260425,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D0035F78,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260504,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-94467A66,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260523,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5A4DE0AF,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260611,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-A528E0F6,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260702,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-DC932E39,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260728,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-135A0B0B,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260813,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7840E148,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260828,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E020A4F3,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260902,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7880B462,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260920,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-51604F49,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260925,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-FE04A5CA,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261007,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-99E28637,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261025,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5ABAC611,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261114,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-52C962BA,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261206,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-87BB1A9A,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260107,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-F21367D0,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260201,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-93E28A3B,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260211,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-CBC2E359,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260303,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-5724DC90,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260319,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-2D400A12,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260402,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-062D55CC,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260502,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-3D094DFE,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260509,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-0884C637,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260522,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D4D15739,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260531,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-8C15F08F,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260604,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-77E18DD3,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260624,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-C78EF025,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260705,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-C99E0A26,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260713,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-C64D83FA,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260727,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F6C736A7,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260930,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-8C653F7D,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261008,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-492E385E,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261014,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-48FB8DCF,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261101,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-833250CD,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261113,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-394E2514,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261227,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-9E7A3849,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260106,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-524F8372,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260207,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-3B12D895,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260310,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-6A05B58B,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260421,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-D89DB47B,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260425,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-B778AC03,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260521,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-922A4E50,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260603,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-21A3EFE6,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260610,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-43213456,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260614,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-4FF86CE0,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260626,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-006DB262,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260707,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-B549CE27,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260818,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-156E2C74,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260923,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-21AACEF1,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261005,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F2E74DF4,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261013,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-4085771E,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261026,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-C2E556F1,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261102,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-72F9988E,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261109,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B8D4CC46,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261127,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4C56E237,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261212,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-27A400BB,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261217,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-8A948793,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260404,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-0AA72C33,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260413,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-B9191393,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260427,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-8B9D7152,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260503,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-D77CD007,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260508,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-3D431876,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260601,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-9B0F67A0,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260606,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-E9D2C951,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260716,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-05DD713F,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260209,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-851E06E6,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260216,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-A1D3C221,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260312,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-6380C7FF,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260510,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D57D2899,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260719,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-47FDB072,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260913,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-934083AF,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260917,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7BE1D98F,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20261116,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-62A15DA2,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260128,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-EA795E57,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260309,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5732FCD4,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260318,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-049A549E,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260323,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B2C01513,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260330,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-FB443D62,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260412,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B88045DF,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260702,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-391A1E0C,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260712,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0A3D30AD,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260731,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-DC2EA785,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260805,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-1A93F606,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260902,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C7C5A607,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260909,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-93A20730,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260914,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E7E997C8,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260921,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-682B72A4,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261004,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-624C0843,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261111,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-CAE02443,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261118,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5C84850A,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261129,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-223DFD1D,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261203,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-FE7FE422,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261210,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-111BA3D8,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261224,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B9B1A75B,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260106,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-2A38C152,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260114,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-C0A54E84,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260211,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-C77876F2,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260216,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-064EC872,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260323,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-2B756740,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260407,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-915EFB45,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260426,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-E3CC3205,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260505,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-E6B3E140,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260513,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-13E70BCB,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260528,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-28073BC2,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260612,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-3CE03C24,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260707,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-6CD7F2B2,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260801,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-06A4015B,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260830,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-0C9DCEF0,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260914,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-172B064A,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260922,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4AF91FF0,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261105,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-2DCF54ED,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261111,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-2D60FD7F,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261130,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-C7AAAB07,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261227,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B4F65D89,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260109,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-C1C3E1E2,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260126,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B74665AF,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260219,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-987EBA7F,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260227,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-7E733E9D,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260305,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-995A3411,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260315,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-89A7473C,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260406,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-CC3BFB9A,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260422,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-B1693314,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260429,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-701A2435,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260522,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-9631D9EC,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260530,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-E01D65F0,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260615,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-3743E5BD,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260630,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-D59EBD35,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260718,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-2A56AE2A,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260818,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-4648B0C8,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260911,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-3DD82F95,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261014,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-9231081D,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261019,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-265FF0DE,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261026,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-7DBAF719,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261118,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-97C8FD7E,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261129,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-6BC23402,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261207,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-91BBAFF3,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261213,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-386CA8B2,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261217,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-8CEEF171,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261231,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-46AD96A2,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260107,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4340320B,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260121,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-2161486E,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260128,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-31EBC1B3,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260202,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5F9F2590,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260208,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-53CD2B12,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260218,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-2E28683C,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260307,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-9FD9FF1F,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260322,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-03ABD945,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260326,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F26D3264,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260415,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-16DD7396,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260428,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-30D8BDE3,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260527,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-FC03311E,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260604,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-A202A375,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260620,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-689F2A9A,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260708,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B2DADD32,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260804,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-FDA5EAA6,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260821,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-76B0AC15,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260828,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-8C2A6FF4,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260901,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-30FE98EE,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260912,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-54E64CED,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260926,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-EF4CFEBE,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261001,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-CB25262E,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261007,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-782CDB40,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261020,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E43CF019,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261025,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-690EC515,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261101,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B557EAE3,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261109,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-10CFE702,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261125,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E161DFF5,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261202,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5DFA847A,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261211,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0000B910,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261215,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-64443CF8,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261219,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-AC7E115B,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261224,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F54C3B47,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260215,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D4B06227,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260403,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D92EC905,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260411,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-A952A277,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260509,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-83619D53,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260515,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-1D9BD3AB,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260603,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-48408839,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260619,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-AC6D1811,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260623,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-3E3AEB31,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260628,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-A587DDF7,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260716,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-61C547DB,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260725,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-CDACA704,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260730,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-62900A29,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260809,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E36AF0C6,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260824,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-2D07A01A,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260903,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-BAE8B09B,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260910,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F5FE764C,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261012,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-BE951130,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261022,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F2BE0F3C,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261112,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-01002709,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261117,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-EF996049,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261126,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-BA0044BF,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261205,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-836DF5D4,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261216,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-9C61F185,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261220,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-9D731432,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260116,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-C5B48087,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260208,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-2EA1C64B,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260330,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-79A11B2E,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260408,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-D3D0FABB,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260421,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-6B454D57,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260502,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-2796B7CF,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260605,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-D04161A6,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260616,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-0D388BE3,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260717,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-3B3E7177,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260723,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-72DA697D,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260728,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-65659028,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260916,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-94EED986,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261008,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-E59022E1,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261102,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-488F8429,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261107,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-ABBCB808,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261219,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-66982692,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261228,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-5311A3C7,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260128,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-6E77FE59,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260209,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B06689AF,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260222,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-A20204BB,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260322,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-DDBCA74A,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260403,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-9B3A037A,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260411,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-C72DFD31,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260505,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C249D542,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260601,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-21A4937C,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260608,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-18216C42,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260617,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-1E1235B6,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260624,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-EA925B2A,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260701,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-991D1296,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260709,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-7D02BB10,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260802,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-978488DA,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20261111,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-DF6BD728,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260405,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-8E809419,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260412,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C1CEA013,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260429,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D21BCD3C,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260506,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-59D32CD8,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260510,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0982DC98,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260519,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-555CD27D,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260527,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-420D3178,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260621,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-03CC14C9,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260626,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-90B45E10,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260704,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-6014C03B,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260711,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4476FEFB,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260715,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E4F3B3FE,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260722,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-8E77B23A,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260731,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4F662426,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260224,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-1A3A1AB4,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260313,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B44D5BA4,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260410,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E40C31D9,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260418,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D30D7F8E,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260428,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B7461F23,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260503,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D6EC3D87,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260522,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F068CF87,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260603,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-749CCBF6,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260619,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B928297C,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260629,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E83B43E8,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260703,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D41D43FE,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260710,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-522BED9F,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260719,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-3A7BDA20,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260726,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-9B8EFE1F,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260903,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-8B2A1CCD,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261001,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-07E0198D,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261012,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7CB158B8,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261025,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-365FADBD,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261120,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-641C9EEA,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261125,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-9E410851,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261129,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-AF647C97,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261212,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5496ED2B,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261216,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-520EDF42,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261226,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-A5A04D64,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260107,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-66B1BFBE,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260122,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0464A142,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260305,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-3DD32D40,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260314,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-C5401785,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260325,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-48A31F90,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260331,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-2A0F35D2,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260405,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E3587609,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260417,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0AA92D43,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260423,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-373DE03B,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260428,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-48377793,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260517,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-71988048,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260530,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-9EAB9324,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260616,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-3B9DA56D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260622,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-500C91A1,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260706,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-727DC88B,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260815,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-233806C3,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260823,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5D07EFAF,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260830,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-3F5D7851,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260929,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-337E9546,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261008,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-64CB2AB1,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261017,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-7138618A,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261029,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-A7DD3EA1,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261110,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-C016253B,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261116,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4660BD77,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261128,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-D455FC38,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261203,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-64F9062C,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261209,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-D4D88EDC,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261214,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0C18AC25,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261219,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-CC8A3007,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261223,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B018B677,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260118,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E7B29B64,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260319,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-ECC69A67,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260404,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-C37293B9,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260414,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-7F9439AE,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260421,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E32F4B41,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260504,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-1487EEE7,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260704,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-CC65321E,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260826,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-E3B2359A,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260926,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-E9C7C886,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261009,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-85A3369E,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261030,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E87609BE,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261112,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-1724B02D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261121,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-64A6A46F,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261226,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-2683013D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260402,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-E2BF4CC1,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260410,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-A2EF60AE,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260420,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-8D728E39,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260430,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-054A37CB,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260505,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-DD372116,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260509,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B20F8E28,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260602,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B5450655,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260619,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-DE6809A8,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260629,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-91017594,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260709,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,True
+IMB-C214655F,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260716,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-8131CC19,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260721,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-AD0E56E9,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260518,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-DF129B45,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260526,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E6B2329C,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260624,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-AF6DB0C8,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260728,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-33091146,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260808,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0C9280CF,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260921,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D2015798,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20261002,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-9DD66A55,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20261225,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-97D665D7,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260119,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-44DD0CDC,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260129,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0B54726D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260211,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E2CC0004,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260401,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D4C067C3,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260415,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C948C074,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260425,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-6CA7D746,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260523,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-02295614,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260601,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-51B22CF8,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260606,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-3078D9BC,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260715,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-71F36AC2,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260719,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-EB214648,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260802,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-9BAFAE33,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260818,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-3813C2AB,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261020,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-8F19C026,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261102,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5C11DD05,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261117,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5703ACA2,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261204,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F9D6D32D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261215,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F98D4764,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260111,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-8136893D,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260115,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-97878504,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260203,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-243F9F40,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260207,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-717EBFBB,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260212,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B64E3623,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260326,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-E896C962,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260413,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-7C1CF550,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260421,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-55A74C12,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260502,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0A9294CB,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260510,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-86EFDEA0,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260515,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-6725EF95,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260521,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B891715F,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260623,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D057EAE6,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260710,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-23C00AEC,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260727,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-5A6E4713,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260813,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B43D0E86,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260915,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C401C8A4,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261024,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C1223CB4,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261110,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-62B3BEC9,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261229,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F98C3B1A,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260103,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-BCEAEA0F,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260209,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-29DA0441,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260221,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-2260F12B,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260302,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-51EE0234,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260328,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-F823ED18,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260406,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-FC4A86D5,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260416,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-F7E0CD5B,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260424,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-46B596F0,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260430,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-B153EAEC,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260519,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-1D017F60,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260529,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-1F247173,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260603,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-7A5A568B,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260613,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-9A7B75E9,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260704,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-2207CA95,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260708,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-919D58F4,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260719,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-2EC732D3,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260728,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5A25FB5E,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260911,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-C9EC0273,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260925,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,True
+IMB-9EE286A6,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261010,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-DECBBCBA,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261018,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-E052EAC5,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261025,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-A8DD9275,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261104,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-0DAA603C,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261214,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-B61916EB,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260121,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C7EB2C4D,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260202,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-DEF42196,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260215,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0F75E8A3,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260301,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-19AE68D0,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260306,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-49E16A72,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260314,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-14DA5FA1,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260321,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D007BBEA,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260401,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-8C7D2658,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260417,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-99B2787D,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260422,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4A9317D1,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260427,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0CCDF8E3,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260506,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E4BECDCF,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260522,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7B2710AE,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260604,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-E3BF1A90,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260609,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-A10C4340,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260702,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-8D0EBE98,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260805,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C270F775,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260811,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-21BAE1F6,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260823,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-704E3A6B,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261003,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-13971398,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261028,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D09F9D92,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261231,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-38083043,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260127,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B72E9A7C,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260131,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-39EBEF14,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260209,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4EBA6A1A,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260301,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-1C93F6E5,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260305,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-DF301168,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260311,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-5544B70E,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260401,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-EE54FB27,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260411,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-70C4774D,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260415,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-EE94CFFD,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260429,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-A97FA1DE,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260504,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-6F9B99A9,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260517,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-A20EC2B8,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260521,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-FD00CEA9,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260529,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-AA67F2B5,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260606,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-2334E7D5,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260613,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-3605BFA0,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260618,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-B41D525C,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260702,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-4C9C05A5,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260709,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-6F627747,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260726,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7A39B7B9,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260802,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-DD152564,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260822,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-5E7EEE28,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260903,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-493ECBEF,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260916,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D37F561B,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260929,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-4C3DE157,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261020,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-850E9522,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261026,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F6CF713B,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261111,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-47564E17,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261127,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-9C6F7B27,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261203,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-C01B690C,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260120,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-9E4CA3AE,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260125,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-E83A65A3,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260214,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-43AE7423,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260226,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-8122725A,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260304,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-24431709,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260314,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-CF644B2D,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260319,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-9A563F16,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260422,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-2B7E0C28,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260502,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,True
+IMB-25673786,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260509,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-824FD581,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260602,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-FEB0D3F0,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260621,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-A99249FB,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260704,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-9C7E6060,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260724,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-D24AABFA,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260824,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-5F092CDC,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260908,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-821A8D96,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260912,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-300F2670,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261004,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-817F1E61,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261018,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-99CB09FD,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261030,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-6C1FBE0B,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261219,False,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,False
+IMB-011F0FD8,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261230,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,True
+IMB-4DAFB72C,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260407,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C3651C87,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260516,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7C992E13,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260526,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-DE8CAE57,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260530,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-1EE81D52,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260604,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4652D90D,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260608,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-4E556BA3,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260623,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-9019ECDB,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260627,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-FCF9325A,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260708,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-714D4F4E,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260714,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-D4D27EA4,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260730,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-1DB119D2,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260217,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-88F660B3,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260223,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-29DC7418,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260414,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-1F38C247,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260428,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-AC4C0B5E,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260609,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7E93BD04,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260701,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-F3B08CAA,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260705,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-693FAE9C,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260727,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-53E17EB9,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260731,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0A01F4D7,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260814,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-C4231D7F,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260906,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-0FC7F4F6,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260914,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-7939189A,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260927,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-84A5A846,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261005,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-23A28C2A,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261009,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-58ED2471,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261105,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-3F7D5C7E,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261117,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-5DCC1A6E,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261121,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-FF8C3E75,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261202,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-A01F9AFE,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261208,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-9F81A7DA,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261214,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False
+IMB-717ECEE5,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261226,True,,Monthly,KPI threshold breach,Sustained threshold breach > 2 periods,Quarterly review,,False

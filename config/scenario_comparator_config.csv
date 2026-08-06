@@ -1,0 +1,19 @@
+comparator_id,scenario_template_id,comparator_type,comparator_name,assumption_profile,intervention_intensity,intended_use,governance_warning
+COMP-BASE-001,SCEN-STAFF-001,Baseline,No-Action Baseline,ASSUM-BASE-001,0,Reference condition for all comparisons,Observed data only; not a forecast.
+COMP-CONS-001,SCEN-STAFF-001,Conservative,Conservative Staffing Increase,PROF-STAFF-CONS,1,Low-regret trial with minimal additional staff,Conservative estimate; actual effect may differ.
+COMP-EXP-001,SCEN-STAFF-001,Expected,Expected Staffing Increase,PROF-STAFF-EXP,2,Plausible intervention based on package rationale,Estimated effect only; assumes stated productivity and coverage.
+COMP-HIGH-001,SCEN-STAFF-001,Higher Intensity,Higher-Intensity Staffing Increase,PROF-STAFF-HIGH,3,Stress-test or upper-bound exploration,Higher-intensity estimate; may exceed operational feasibility.
+COMP-BASE-002,SCEN-ABS-001,Baseline,No-Action Baseline,ASSUM-BASE-001,0,Reference condition for all comparisons,Observed data only; not a forecast.
+COMP-CONS-002,SCEN-ABS-001,Conservative,Conservative Absenteeism Reduction,PROF-ABS-CONS,1,Low-regret trial with modest reduction target,Conservative estimate; actual effect may differ.
+COMP-EXP-002,SCEN-ABS-001,Expected,Expected Absenteeism Reduction,PROF-ABS-EXP,2,Plausible intervention based on package rationale,Estimated effect only; assumes contingency coverage is effective.
+COMP-HIGH-002,SCEN-ABS-001,Higher Intensity,Higher-Intensity Absenteeism Reduction,PROF-ABS-HIGH,3,Stress-test or upper-bound exploration,Higher-intensity estimate; may exceed operational feasibility.
+COMP-BASE-003,SCEN-FLOW-001,Baseline,No-Action Baseline,ASSUM-BASE-001,0,Reference condition for all comparisons,Observed data only; partial coverage for kpi_004.
+COMP-CONS-003,SCEN-FLOW-001,Conservative,Conservative Flow Adjustment,PROF-FLOW-CONS,1,Low-regret trial with small capacity change,Conservative estimate; partial baseline may reduce reliability.
+COMP-EXP-003,SCEN-FLOW-001,Expected,Expected Flow Adjustment,PROF-FLOW-EXP,2,Plausible intervention based on package rationale,Estimated effect only; assumes receiving service can absorb redirected patients.
+COMP-HIGH-003,SCEN-FLOW-001,Higher Intensity,Higher-Intensity Flow Adjustment,PROF-FLOW-HIGH,3,Stress-test or upper-bound exploration,Higher-intensity estimate; may exceed receiving service capacity.
+COMP-BASE-004,SCEN-COMB-001,Baseline,No-Action Baseline,ASSUM-BASE-001,0,Reference condition for all comparisons,Observed data only; not a forecast.
+COMP-CONS-004,SCEN-COMB-001,Conservative,Conservative Combined Intervention,PROF-COMB-CONS,1,Low-regret trial with modest workforce and flow changes,Conservative estimate; cross-domain effects are association-based only.
+COMP-EXP-004,SCEN-COMB-001,Expected,Expected Combined Intervention,PROF-COMB-EXP,2,Plausible intervention based on package rationale,Estimated effect only; no validated causal model for cross-domain effects.
+COMP-HIGH-004,SCEN-COMB-001,Higher Intensity,Higher-Intensity Combined Intervention,PROF-COMB-HIGH,3,Stress-test or upper-bound exploration,Higher-intensity estimate; cross-domain effects are association-based only.
+COMP-BASE-005,SCEN-BASE-001,Baseline,No-Action Baseline,ASSUM-BASE-001,0,Reference condition for all comparisons,Observed data only; not a forecast.
+COMP-MON-001,SCEN-MON-001,Monitoring Only,Monitoring Only Comparator,ASSUM-MON-001,0,Data validation and operational confirmation,No quantitative comparison produced.

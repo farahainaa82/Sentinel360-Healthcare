@@ -1,0 +1,43 @@
+metric,value
+Authoritative files verified,19
+Frozen checksum result,PASS
+Decision packages processed,646
+Decision scorecards created,646
+Operational-risk dimension records,646
+Evidence-strength dimension records,646
+Lineage-strength dimension records,646
+Recommendation-readiness dimension records,646
+Scenario-readiness dimension records,646
+Financial-readiness dimension records,646
+Uncertainty dimension records,646
+Governance-burden dimension records,646
+Management-readiness dimension records,646
+Ready with Conditions,311
+Monitoring Only,280
+Requires Assumption Validation,46
+Non-Quantitative,9
+Ready for Integrated Management Review,0
+Condition flags created,8398
+Blocking conditions created,4004
+Executive scorecard views created,646
+Detailed scorecard views created,646
+Management interpretations created,646
+Priority-view records created,646
+Streamlit data-contract records created,4522
+Evidence records created,646
+Lineage records created,646
+Governance issues logged,0
+Decision issues logged,0
+No preferred scenario selected,True
+No approved recommendation recorded,True
+No management action selected,True
+No management approval recorded,True
+No opaque AI score created,True
+Scenario values unchanged,True
+Financial values unchanged,True
+Recommendation values unchanged,True
+causality_status remains Not Confirmed,True
+Output counts reconcile,True
+Manifest checksums complete,True
+Step 2D-3 status,COMPLETE
+Total execution time seconds,2.25

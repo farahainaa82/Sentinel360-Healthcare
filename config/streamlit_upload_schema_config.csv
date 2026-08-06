@@ -1,0 +1,132 @@
+dataset_type,field_name,field_description,data_type,required_field,nullable,example_value,schema_profile
+Staff Roster,roster_id,Unique roster record identifier,String,Yes,No,ROSTER-00000001,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,staff_id,Staff member identifier,String,Yes,No,STAFF-000001,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,hospital_id,Hospital facility identifier,String,Yes,No,HOSP-001,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,department_id,Department identifier,String,Yes,No,DEPT-001,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,role_id,Role classification identifier,String,Yes,No,ROLE-001,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,roster_date,Roster assignment date,Date,Yes,No,2024-01-15,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,shift_code,Shift classification code,String,Yes,No,MORNING,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,planned_start_datetime,Planned shift start datetime,Datetime,Yes,No,2024-01-15 08:00:00,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,planned_end_datetime,Planned shift end datetime,Datetime,Yes,No,2024-01-15 16:00:00,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,planned_hours,Planned shift duration in hours,Float,Yes,No,8.0,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,status,Roster status,String,Yes,No,Scheduled,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,version,Record version number,Float,No,No,1.0,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,source_system,Originating data system,String,No,No,SYNTHETIC,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,record_created_datetime,Record creation timestamp,Datetime,No,No,2024-01-15 00:00:00,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,record_updated_datetime,Record update timestamp,Datetime,No,Yes,2024-01-15 00:00:00,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,attendance_id,Unique attendance record identifier,String,Yes,No,ATT-00000001,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,staff_id,Staff member identifier,String,Yes,No,STAFF-000001,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,hospital_id,Hospital facility identifier,String,Yes,No,HOSP-001,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,department_id,Department identifier,String,Yes,No,DEPT-001,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,role_id,Role classification identifier,String,Yes,No,ROLE-001,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,roster_id,Linked roster record identifier,String,Yes,No,ROSTER-00000001,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,attendance_date,Attendance date,Date,Yes,No,2024-01-15,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,shift_code,Shift classification code,String,Yes,No,MORNING,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,status,Attendance status,String,Yes,No,Present,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,actual_start_datetime,Actual shift start datetime,Datetime,No,Yes,2024-01-15 08:05:00,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,actual_end_datetime,Actual shift end datetime,Datetime,No,Yes,2024-01-15 16:10:00,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,actual_hours,Actual hours worked,Float,No,Yes,8.0,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,replacement_staff_id,Replacement staff identifier,String,No,Yes,,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,notes,Attendance notes,String,No,Yes,,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,source_system,Originating data system,String,No,No,SYNTHETIC,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,created_at,Record creation timestamp,Datetime,No,No,2024-01-15 00:00:00,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,encounter_id,Unique encounter identifier,String,Yes,No,ENC-00000001,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,hospital_id,Hospital facility identifier,String,Yes,No,HOSP-001,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,department_id,Department identifier,String,Yes,No,DEPT-001,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,patient_id,Patient identifier,String,Yes,No,PAT-000001,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,encounter_date,Encounter date,Date,Yes,No,2024-01-15,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,encounter_type,Type of encounter,String,Yes,No,Outpatient,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,arrival_datetime,Patient arrival datetime,Datetime,Yes,No,2024-01-15 09:00:00,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,service_start_datetime,Service start datetime,Datetime,No,Yes,2024-01-15 09:15:00,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,service_end_datetime,Service end datetime,Datetime,No,Yes,2024-01-15 10:00:00,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,status,Encounter status,String,Yes,No,Completed,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,cancellation_reason,Cancellation reason if cancelled,String,No,Yes,,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,triage_category,Triage urgency category,String,No,Yes,Standard,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,source_system,Originating data system,String,No,No,SYNTHETIC,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,record_created_datetime,Record creation timestamp,Datetime,No,No,2024-01-15 00:00:00,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,record_id,Unique bed record identifier,String,Yes,No,BED-00000001,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,hospital_id,Hospital facility identifier,String,Yes,No,HOSP-001,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,department_id,Department identifier,String,Yes,No,DEPT-001,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,record_date,Record date,Date,Yes,No,2024-01-15,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,bed_licensed,Total licensed beds,Integer,Yes,No,50,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,bed_staffed,Staffed bed count,Integer,Yes,No,45,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,bed_operational,Operational bed count,Integer,Yes,No,42,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,bed_occupied,Occupied bed count,Integer,Yes,No,38,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,bed_unavailable,Unavailable bed count,Integer,No,Yes,,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,bed_reserved,Reserved bed count,Integer,No,Yes,,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,occupancy_rate,Calculated occupancy percentage,Float,Yes,No,93.5,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,exception_flag,Exception indicator,String,Yes,No,No,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,exception_reason,Exception reason description,String,No,Yes,,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,source_system,Originating data system,String,No,No,SYNTHETIC,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,created_at,Record creation timestamp,Datetime,No,No,2024-01-15 00:00:00,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,queue_id,Unique queue record identifier,String,Yes,No,QUEUE-00000001,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,hospital_id,Hospital facility identifier,String,Yes,No,HOSP-001,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,department_id,Department identifier,String,Yes,No,DEPT-001,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,queue_date,Queue record date,Date,Yes,No,2024-01-15,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,queue_type,Queue type classification,String,Yes,No,Walk-in,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,period_start,Period start datetime,Datetime,Yes,No,2024-01-15 08:00:00,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,period_end,Period end datetime,Datetime,Yes,No,2024-01-15 09:00:00,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,arrivals_count,Total arrivals count,Integer,Yes,No,25,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,served_count,Patients served count,Integer,Yes,No,20,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,waiting_count,Patients waiting count,Integer,Yes,No,5,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,avg_wait_minutes,Average wait time in minutes,Float,Yes,No,15.5,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,median_wait_minutes,Median wait time in minutes,Float,No,Yes,12.0,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,max_wait_minutes,Maximum wait time in minutes,Float,No,Yes,45.0,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,source_system,Originating data system,String,No,No,SYNTHETIC,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,created_at,Record creation timestamp,Datetime,No,No,2024-01-15 00:00:00,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,complaint_id,Unique complaint identifier,String,Yes,No,COMP-00000001,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,hospital_id,Hospital facility identifier,String,Yes,No,HOSP-001,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,department_id,Department identifier,String,Yes,No,DEPT-001,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,encounter_id,Linked encounter identifier,String,No,Yes,,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,complaint_received_date,Complaint received date,Date,Yes,No,2024-01-15,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,complaint_channel,Channel of complaint,String,Yes,No,Phone,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,complaint_category,Complaint category,String,Yes,No,Service Delay,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,severity,Severity level,String,Yes,No,Medium,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,description,Complaint description,String,No,Yes,,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,status,Resolution status,String,Yes,No,Resolved,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,resolution_date,Resolution date,Date,No,Yes,2024-01-16,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,outcome_category,Outcome category,String,No,Yes,Apology,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,duplicate_flag,Duplicate indicator,String,No,Yes,No,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,duplicate_of_complaint_id,Original complaint ID,String,No,Yes,,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,source_system,Originating data system,String,No,No,SYNTHETIC,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,created_at,Record creation timestamp,Datetime,No,No,2024-01-15 00:00:00,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,survey_id,Unique survey response identifier,String,Yes,No,SURV-00000001,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,hospital_id,Hospital facility identifier,String,Yes,No,HOSP-001,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,department_id,Department identifier,String,Yes,No,DEPT-001,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,encounter_id,Linked encounter identifier,String,No,Yes,,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,survey_date,Survey date,Date,Yes,No,2024-01-15,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,survey_type,Type of survey,String,Yes,No,Satisfaction,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,scale_id,Scale identifier,String,Yes,No,1-5,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,score_value,Numerical score value,Float,Yes,No,4.5,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,response_weight,Response weight,Float,No,Yes,1.0,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,is_complete,Completion indicator,String,No,Yes,Yes,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,source_system,Originating data system,String,No,No,SYNTHETIC,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,created_at,Record creation timestamp,Datetime,No,No,2024-01-15 00:00:00,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,staff_name,Staff member full name,String,Yes,No,Dr. Alice Smith,GENERIC_UPLOAD
+Staff Roster,role,Job role classification,String,Yes,No,Physician,GENERIC_UPLOAD
+Staff Roster,department,Department name,String,Yes,No,Cardiology,GENERIC_UPLOAD
+Staff Roster,employment_status,Employment status,String,Yes,No,Full-time,GENERIC_UPLOAD
+Staff Attendance,date,Attendance date,Date,Yes,No,2024-01-15,GENERIC_UPLOAD
+Staff Attendance,shift,Shift classification,String,Yes,No,Morning,GENERIC_UPLOAD
+Staff Attendance,attendance_status,Attendance status,String,Yes,No,Present,GENERIC_UPLOAD
+Patient Encounters,date,Encounter date,Date,Yes,No,2024-01-15,GENERIC_UPLOAD
+Patient Encounters,department,Department name,String,Yes,No,Cardiology,GENERIC_UPLOAD
+Patient Encounters,patient_type,Patient type classification,String,Yes,No,Outpatient,GENERIC_UPLOAD
+Patient Encounters,outcome,Encounter outcome,String,Yes,No,Discharged,GENERIC_UPLOAD
+Bed Occupancy,date,Record date,Date,Yes,No,2024-01-15,GENERIC_UPLOAD
+Bed Occupancy,ward,Ward name,String,Yes,No,Ward A,GENERIC_UPLOAD
+Bed Occupancy,beds_total,Total bed count,Integer,Yes,No,50,GENERIC_UPLOAD
+Bed Occupancy,beds_occupied,Occupied bed count,Integer,Yes,No,38,GENERIC_UPLOAD
+Patient Queue,date,Queue record date,Date,Yes,No,2024-01-15,GENERIC_UPLOAD
+Patient Queue,department,Department name,String,Yes,No,Cardiology,GENERIC_UPLOAD
+Patient Queue,arrivals,Total arrivals count,Integer,Yes,No,25,GENERIC_UPLOAD
+Patient Queue,avg_wait_min,Average wait time minutes,Float,Yes,No,15.5,GENERIC_UPLOAD
+Patient Complaints,date,Complaint date,Date,Yes,No,2024-01-15,GENERIC_UPLOAD
+Patient Complaints,category,Complaint category,String,Yes,No,Service Delay,GENERIC_UPLOAD
+Patient Complaints,severity,Severity level,String,Yes,No,Medium,GENERIC_UPLOAD
+Patient Complaints,description,Complaint description,String,Yes,No,Long wait time,GENERIC_UPLOAD
+Patient Complaints,status,Resolution status,String,Yes,No,Resolved,GENERIC_UPLOAD
+Patient Survey,date,Survey date,Date,Yes,No,2024-01-15,GENERIC_UPLOAD
+Patient Survey,department,Department name,String,Yes,No,Cardiology,GENERIC_UPLOAD
+Patient Survey,n_responses,Number of responses,Integer,Yes,No,50,GENERIC_UPLOAD
+Patient Survey,satisfaction_score,Average satisfaction score,Float,Yes,No,4.5,GENERIC_UPLOAD

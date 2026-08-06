@@ -1,0 +1,329 @@
+{
+  "processing_run_id": "PROC-0c4fc23f00fd",
+  "validation_run_id": "VAL-C62B370EC6C3",
+  "source_type": "synthetic_demo",
+  "input_directory": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\demo",
+  "output_directory": "C:\\Users\\DELL\\AppData\\Local\\Temp\\tmppty8yp5q",
+  "processing_started_datetime": "2026-07-25T22:46:24.906625",
+  "processing_completed_datetime": "2026-07-25T22:47:22.870681",
+  "processing_engine_version": "1.0.0",
+  "configuration_version": "",
+  "transformation_version": "2D-2.1.0",
+  "source_dataset_count": 7,
+  "processed_dataset_count": 8,
+  "source_record_count": 162028,
+  "processed_record_count": 188308,
+  "excluded_record_count": 0,
+  "warning_count": 0,
+  "error_count": 0,
+  "run_status": "Completed",
+  "processing_allowed_flag": true,
+  "created_by": "system",
+  "notes": "",
+  "source_datasets": [
+    "hospital_master",
+    "department_master",
+    "staff_role_master",
+    "staff_master",
+    "staff_roster",
+    "staff_attendance",
+    "staffing_requirement"
+  ],
+  "processed_datasets": [
+    "processed_hospital_master",
+    "processed_department_master",
+    "processed_staff_role_master",
+    "processed_staff_master",
+    "processed_staff_roster",
+    "processed_staff_attendance",
+    "processed_staffing_requirement",
+    "processed_workforce_daily"
+  ],
+  "source_record_counts": {
+    "hospital_master": 1,
+    "department_master": 8,
+    "staff_role_master": 9,
+    "staff_master": 180,
+    "staff_roster": 41495,
+    "staff_attendance": 41495,
+    "staffing_requirement": 78840
+  },
+  "processed_record_counts": {
+    "processed_hospital_master": 1,
+    "processed_department_master": 8,
+    "processed_staff_role_master": 9,
+    "processed_staff_master": 180,
+    "processed_staff_roster": 41495,
+    "processed_staff_attendance": 41495,
+    "processed_staffing_requirement": 78840,
+    "processed_workforce_daily": 26280
+  },
+  "excluded_record_counts": {
+    "processed_hospital_master": 0,
+    "processed_department_master": 0,
+    "processed_staff_role_master": 0,
+    "processed_staff_master": 0,
+    "processed_staff_roster": 0,
+    "processed_staff_attendance": 0,
+    "processed_staffing_requirement": 0,
+    "processed_workforce_daily": 0
+  },
+  "issue_counts_by_severity": {},
+  "source_checksums": {
+    "hospital_master": "f0468feac3611c855062b6e3778c5c2a0beaa74e57791ea24bc6dca279777de0",
+    "department_master": "de303c81c0f978cb1dd50a53e57abc3a8ceb22f8d4426cefaa8d7d9f542ac669",
+    "staff_role_master": "b738c7bc91fcbad9d4a469d9823f531e690c42dc13096166f26f158f3e04403b",
+    "staff_master": "75bf267dcfc8e5d28f4d359f211b8fb8301c3aa1d88033b9acb30a326af20431",
+    "staff_roster": "a8dba2564e3582ead9a966c94cf1bf49b7e14c6ad3c9da93fca2431c0db09493",
+    "staff_attendance": "81c88547bacb3231110cf6b25ff6041da0c0e65df8a48862d8dc6b58379a75e6",
+    "staffing_requirement": "630c5073a431e17f25c9577984e61fab0e24b85c3326d447c546216618f9c307"
+  },
+  "processed_checksums": {
+    "processed_hospital_master": "9751bf9ee4213b45d3138190a68a497439c84da385585264813fe3bb49302238",
+    "processed_department_master": "640ba32cac671692d7baa1dd5d5455df83f1588bb7c3bbe34a8ee279160e3e1f",
+    "processed_staff_role_master": "5542710f419a1b3b7a5a46c7a48519096967a221a15b1220d84999cd8ded5be6",
+    "processed_staff_master": "24cc5ba2b71e8719d1cf99a7cfd7ebeb81789029d6c7737005bcb2576de5cb6b",
+    "processed_staff_roster": "c0c532f17ad0cd76591b4f19cff0e12020dcbf7a43804b71a08e50d9b5e3aa0e",
+    "processed_staff_attendance": "ace920f1b59672484ed111375171a742eb5d0b8e0160d7ec7cf1dc7c80ba4043",
+    "processed_staffing_requirement": "3489a21aab6c4626d0268d176d0129f8266cafe7e9f914271e8f498959fe932d",
+    "processed_workforce_daily": "a5cd78b09d8aa4f4784aeea1735a5979e129c52e461faf09e2c896247607a3d2"
+  },
+  "output_files": [
+    "C:\\Users\\DELL\\AppData\\Local\\Temp\\tmppty8yp5q\\processed_hospital_master.csv",
+    "C:\\Users\\DELL\\AppData\\Local\\Temp\\tmppty8yp5q\\processed_department_master.csv",
+    "C:\\Users\\DELL\\AppData\\Local\\Temp\\tmppty8yp5q\\processed_staff_role_master.csv",
+    "C:\\Users\\DELL\\AppData\\Local\\Temp\\tmppty8yp5q\\processed_staff_master.csv",
+    "C:\\Users\\DELL\\AppData\\Local\\Temp\\tmppty8yp5q\\processed_staff_roster.csv",
+    "C:\\Users\\DELL\\AppData\\Local\\Temp\\tmppty8yp5q\\processed_staff_attendance.csv",
+    "C:\\Users\\DELL\\AppData\\Local\\Temp\\tmppty8yp5q\\processed_staffing_requirement.csv",
+    "C:\\Users\\DELL\\AppData\\Local\\Temp\\tmppty8yp5q\\processed_workforce_daily.csv"
+  ],
+  "unresolved_rules": [],
+  "known_limitations": [
+    "Workforce daily aggregation does not calculate KPI percentages."
+  ],
+  "audit_events": [
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Processing Started",
+      "details": "run_id=PROC-0c4fc23f00fd",
+      "timestamp": "2026-07-26T20:37:06.953448"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Validation Gate Passed",
+      "details": "accepted=['hospital_master', 'department_master', 'staff_role_master', 'staff_master', 'staff_roster', 'staff_attendance', 'staffing_requirement', 'patient_encounters', 'patient_queue_records', 'bed_capacity_records', 'patient_complaints', 'patient_surveys', 'service_schedule']",
+      "timestamp": "2026-07-26T20:37:06.961590"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Source Datasets Loaded",
+      "details": "count=7",
+      "timestamp": "2026-07-26T20:37:07.376113"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Started",
+      "details": "processed_hospital_master",
+      "timestamp": "2026-07-26T20:37:07.376118"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Completed",
+      "details": "processed_hospital_master: rows=1",
+      "timestamp": "2026-07-26T20:37:07.386113"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Processed Schema Validated",
+      "details": "processed_hospital_master",
+      "timestamp": "2026-07-26T20:37:07.386116"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Started",
+      "details": "processed_department_master",
+      "timestamp": "2026-07-26T20:37:07.387076"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Completed",
+      "details": "processed_department_master: rows=8",
+      "timestamp": "2026-07-26T20:37:07.400301"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Processed Schema Validated",
+      "details": "processed_department_master",
+      "timestamp": "2026-07-26T20:37:07.400304"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Started",
+      "details": "processed_staff_role_master",
+      "timestamp": "2026-07-26T20:37:07.401045"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Completed",
+      "details": "processed_staff_role_master: rows=9",
+      "timestamp": "2026-07-26T20:37:07.413852"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Processed Schema Validated",
+      "details": "processed_staff_role_master",
+      "timestamp": "2026-07-26T20:37:07.413855"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Started",
+      "details": "processed_staff_master",
+      "timestamp": "2026-07-26T20:37:07.414525"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Completed",
+      "details": "processed_staff_master: rows=180",
+      "timestamp": "2026-07-26T20:37:07.480618"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Processed Schema Validated",
+      "details": "processed_staff_master",
+      "timestamp": "2026-07-26T20:37:07.480622"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Started",
+      "details": "processed_staff_roster",
+      "timestamp": "2026-07-26T20:37:07.481421"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Completed",
+      "details": "processed_staff_roster: rows=41495",
+      "timestamp": "2026-07-26T20:38:03.033176"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Processed Schema Validated",
+      "details": "processed_staff_roster",
+      "timestamp": "2026-07-26T20:38:03.033191"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Started",
+      "details": "processed_staff_attendance",
+      "timestamp": "2026-07-26T20:38:03.051323"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Completed",
+      "details": "processed_staff_attendance: rows=41495",
+      "timestamp": "2026-07-26T20:38:36.962632"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Processed Schema Validated",
+      "details": "processed_staff_attendance",
+      "timestamp": "2026-07-26T20:38:36.962640"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Started",
+      "details": "processed_staffing_requirement",
+      "timestamp": "2026-07-26T20:38:36.969468"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Completed",
+      "details": "processed_staffing_requirement: rows=78840",
+      "timestamp": "2026-07-26T20:38:54.388171"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Processed Schema Validated",
+      "details": "processed_staffing_requirement",
+      "timestamp": "2026-07-26T20:38:54.388179"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Started",
+      "details": "processed_workforce_daily",
+      "timestamp": "2026-07-26T20:38:54.398259"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Dataset Transformation Completed",
+      "details": "processed_workforce_daily: rows=26280",
+      "timestamp": "2026-07-26T20:38:55.076620"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Lineage Generated",
+      "details": "records=162028",
+      "timestamp": "2026-07-26T20:38:55.083219"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Exclusion Register Generated",
+      "details": "records=0",
+      "timestamp": "2026-07-26T20:38:55.083334"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Output Exported",
+      "details": "processed_hospital_master",
+      "timestamp": "2026-07-26T20:38:55.115117"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Output Exported",
+      "details": "processed_department_master",
+      "timestamp": "2026-07-26T20:38:55.141500"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Output Exported",
+      "details": "processed_staff_role_master",
+      "timestamp": "2026-07-26T20:38:55.170331"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Output Exported",
+      "details": "processed_staff_master",
+      "timestamp": "2026-07-26T20:38:55.204166"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Output Exported",
+      "details": "processed_staff_roster",
+      "timestamp": "2026-07-26T20:38:55.451581"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Output Exported",
+      "details": "processed_staff_attendance",
+      "timestamp": "2026-07-26T20:38:55.814866"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Output Exported",
+      "details": "processed_staffing_requirement",
+      "timestamp": "2026-07-26T20:38:56.204817"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Output Exported",
+      "details": "processed_workforce_daily",
+      "timestamp": "2026-07-26T20:38:56.473379"
+    },
+    {
+      "processing_run_id": "PROC-0c4fc23f00fd",
+      "event": "Source Checksum Confirmed",
+      "details": "all sources unchanged",
+      "timestamp": "2026-07-26T20:38:56.492407"
+    }
+  ]
+}

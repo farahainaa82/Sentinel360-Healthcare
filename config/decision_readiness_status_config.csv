@@ -1,0 +1,16 @@
+configuration_id,rule_name,source_field,source_value,mapped_status,active_flag,version,approval_status,provisional_flag,governance_note
+CFG-DRS-001,Non-Quantitative Mapping,package_status,Non-Quantitative,Non-Quantitative,True,1.0,Draft Analytical Configuration,False,Direct mapping from package status
+CFG-DRS-002,Monitoring Only Mapping,package_status,Monitoring Only,Monitoring Only,True,1.0,Draft Analytical Configuration,False,Direct mapping from package status
+CFG-DRS-003,Requires Assumption Validation Mapping,package_status,Requires Assumption Validation,Requires Assumption Validation,True,1.0,Draft Analytical Configuration,False,Direct mapping from package status
+CFG-DRS-004,Ready with Conditions Default,package_status,Ready with Conditions,Ready with Conditions,True,1.0,Draft Analytical Configuration,False,Default for ready packages with conditions
+CFG-DRS-005,Ready with Conditions to Integrated,package_status,Ready with Conditions,Ready for Integrated Management Review,True,1.0,Draft Analytical Configuration,False,When all gates pass
+CFG-DRS-006,Stakeholder Validation Required,stakeholder_validation_required,True,Requires Stakeholder Validation,True,1.0,Draft Analytical Configuration,False,When stakeholder confirmation is blocking
+CFG-DRS-007,Evidence Completion Required,missing_evidence_flag,True,Requires Evidence Completion,True,1.0,Draft Analytical Configuration,False,When evidence is incomplete
+CFG-DRS-008,Lineage Completion Required,orphan_lineage_flag,True,Requires Lineage Completion,True,1.0,Draft Analytical Configuration,False,When lineage is incomplete
+CFG-DRS-009,Baseline Validation Required,baseline_validation_required,True,Requires Baseline Validation,True,1.0,Draft Analytical Configuration,False,When baseline is invalid
+CFG-DRS-010,Financial Input Required,missing_financial_input_flag,True,Requires Financial Input,True,1.0,Draft Analytical Configuration,False,When mandatory financial input is missing
+CFG-DRS-011,Benefit Validation Required,benefit_eligibility_unresolved,True,Requires Benefit Validation,True,1.0,Draft Analytical Configuration,False,When benefit requires validation
+CFG-DRS-012,Budget Data Required,affordability_unknown,True,Requires Budget Data,True,1.0,Draft Analytical Configuration,False,When budget data is unavailable
+CFG-DRS-013,Additional Scenario Required,scenario_incomplete,True,Requires Additional Scenario Analysis,True,1.0,Draft Analytical Configuration,False,When scenario comparators are incomplete
+CFG-DRS-014,Not Suitable,governance_burden_status,Blocking,Not Suitable for Decision Use,True,1.0,Draft Analytical Configuration,False,When governance burden is blocking
+CFG-DRS-015,Rejected,prior_rejection,True,Rejected,True,1.0,Draft Analytical Configuration,False,When prior rejection is valid

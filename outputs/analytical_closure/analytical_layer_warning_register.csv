@@ -1,0 +1,4 @@
+domain,check_name,message
+Threshold Governance,provisional_threshold_warning,"Phase 2A KPI calculations are complete, but performance classification remains provisional until thresholds are formally approved."
+Issues and Exclusions,issues_present,Issue log has 3457 rows; review required.
+Formula Evidence,formula_evidence_exists,Patient experience formula verification evidence not found; relying on accepted status.

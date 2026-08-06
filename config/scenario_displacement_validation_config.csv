@@ -1,0 +1,7 @@
+config_id,config_name,check_type,threshold_value,allowed_values,action_if_failed,description
+DISP-001,Displacement Evidence Presence,boolean,TRUE,,flag,Every displacement record must have evidence basis
+DISP-002,Displacement Classification Allowlist,categorical,,Confirmed;Suspected;Ruled Out;Monitoring Required,flag,Unknown displacement classifications are rejected
+DISP-003,Management Confirmation Required,boolean,TRUE,,flag,High-confidence displacement requires management confirmation
+DISP-004,Required Monitoring Field,boolean,TRUE,,flag,Displacement records must specify required monitoring
+DISP-005,Cross-Department Displacement Flag,boolean,TRUE,,flag,Cross-department displacements require enhanced review
+DISP-006,Displacement Confidence Threshold,categorical,,Low;Moderate;High,flag,Displacement confidence must be documented

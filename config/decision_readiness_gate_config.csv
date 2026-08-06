@@ -1,0 +1,13 @@
+configuration_id,gate_id,gate_name,gate_required,gate_description,blocking_flag,active_flag,version,governance_note
+CFG-GATE-001,GATE-001,Operational Evidence Gate,True,Operational risk evidence exists,False,True,1.0,Core gate
+CFG-GATE-002,GATE-002,Recommendation Gate,True,Recommendation retained and available,False,True,1.0,Core gate
+CFG-GATE-003,GATE-003,Baseline Gate,True,Baseline available and valid,False,True,1.0,Core gate
+CFG-GATE-004,GATE-004,Scenario Gate,True,Scenario comparators complete,False,True,1.0,Core gate
+CFG-GATE-005,GATE-005,Comparator Gate,True,Comparator consistency passes,False,True,1.0,Core gate
+CFG-GATE-006,GATE-006,Financial Cost Gate,True,Financial review complete,False,True,1.0,Core gate
+CFG-GATE-007,GATE-007,Financial Benefit Gate,False,Benefit validated where used,False,True,1.0,Conditional gate
+CFG-GATE-008,GATE-008,Budget Gate,False,Budget data available,False,True,1.0,Conditional gate
+CFG-GATE-009,GATE-009,Evidence Gate,True,Evidence complete,False,True,1.0,Core gate
+CFG-GATE-010,GATE-010,Lineage Gate,True,Lineage complete,False,True,1.0,Core gate
+CFG-GATE-011,GATE-011,Governance Gate,True,Governance burden not blocking,False,True,1.0,Core gate
+CFG-GATE-012,GATE-012,Management Confirmation Gate,True,No mandatory confirmation pending,False,True,1.0,Core gate

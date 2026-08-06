@@ -1,0 +1,7 @@
+evidence_record_id,kpi_id,evidence_category,evidence_description,supporting_value,source_dataset,calibration_run_id,created_at
+EVD-A7377532C33A,kpi_001,Distribution Profile,Profiled 2920 records for kpi_001,mean=90.76,analytical_six_kpi_daily.csv,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.003800
+EVD-38CDE85DF7E3,kpi_002,Distribution Profile,Profiled 2920 records for kpi_002,mean=8.57,analytical_six_kpi_daily.csv,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.021174
+EVD-877700AD519E,kpi_003,Distribution Profile,Profiled 1095 records for kpi_003,mean=93.35,analytical_six_kpi_daily.csv,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.037766
+EVD-194A8BCD0E09,kpi_004,Distribution Profile,Profiled 1095 records for kpi_004,mean=41.73,analytical_six_kpi_daily.csv,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.051405
+EVD-121D016CB42C,kpi_005,Distribution Profile,Profiled 984 records for kpi_005,mean=7.31,analytical_six_kpi_daily.csv,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.066258
+EVD-6916174DBDB7,kpi_006,Distribution Profile,Profiled 2383 records for kpi_006,mean=3.24,analytical_six_kpi_daily.csv,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.080192

@@ -1,0 +1,2 @@
+audit_id,event_type,event_status,kpi_id,calculation_run_id,configuration_version,threshold_version,event_time,details
+AUD-9EDF9F96,calculation,Success,,WF-KPI-AE9BC170EF5F,v1.0-draft,v1.0-draft,2026-07-27T10:44:31.414586,Calculated 5840 results

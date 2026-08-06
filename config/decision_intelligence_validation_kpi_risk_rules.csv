@@ -1,0 +1,8 @@
+rule_id,rule_name,condition,required_attention_level
+KR-001,Critical Risk Escalation,risk_tier == 'Critical',Immediate Management Attention
+KR-002,High Risk Escalation,risk_tier == 'High',Priority Management Review
+KR-003,Breach Status Alignment,breach_status != 'None',management_attention_required == True
+KR-004,Priority Tier Consistency,priority_tier == 'High',risk_tier in ['High' 'Critical']
+KR-005,Urgency Alignment,urgency == 'Immediate Review',management_attention_level == 'Immediate Management Attention'
+KR-006,Watch Status Monitoring,watch_status == 'True',monitoring_required == True
+KR-007,Sustained Movement Flag,sustained_movement_flag == 'True',scenario_review_required == True

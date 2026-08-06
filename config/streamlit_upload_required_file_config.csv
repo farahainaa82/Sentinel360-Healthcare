@@ -1,0 +1,18 @@
+dataset_type,required,optional,conditional,schema_profile
+Staff Roster,Optional,Yes,When staff-level attendance validation is performed,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,Required,No,,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,Optional,Yes,,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,Required,No,,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,Required,No,,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,Required,No,,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,Required,No,,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,Optional,Yes,When staff-level attendance validation is performed,GENERIC_UPLOAD
+Staff Attendance,Required,No,,GENERIC_UPLOAD
+Patient Encounters,Optional,Yes,,GENERIC_UPLOAD
+Bed Occupancy,Required,No,,GENERIC_UPLOAD
+Patient Queue,Required,No,,GENERIC_UPLOAD
+Patient Complaints,Required,No,,GENERIC_UPLOAD
+Patient Survey,Required,No,,GENERIC_UPLOAD
+Scenario Baseline,Required,No,Not permitted to overwrite frozen configuration,STANDARD
+KPI Configuration,Required,No,Not permitted to overwrite frozen configuration,STANDARD
+Other Supporting Data,Optional,Yes,,GENERIC_UPLOAD

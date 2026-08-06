@@ -1,0 +1,15 @@
+functional_area,include_in_inventory,include_in_freeze,streamlit_use_flag,export_use_flag,audit_use_flag,governance_note
+Integrated Decision,True,True,True,True,True,Authoritative 2D-1 integrated decision records
+Decision Package,True,True,True,True,True,Authoritative 2D-2 decision packages
+Scorecard,True,True,True,True,True,Authoritative 2D-3 decision scorecards
+Readiness,True,True,True,True,True,Authoritative 2D-4 readiness records
+Action Routing,True,True,True,True,True,Authoritative 2D-5 action routing
+Evidence,True,True,True,True,True,Authoritative 2D-6 evidence profiles
+Lineage,True,True,True,True,True,Authoritative 2D-6 lineage profiles
+Management Brief,True,True,True,True,True,Authoritative corrected 2D-7 management briefs
+Validation,True,True,True,True,True,Authoritative corrected 2D-8 validation outputs
+Streamlit Contract,True,True,True,False,False,Streamlit page data contracts
+Export Contract,True,True,False,True,True,Report and export contracts
+Configuration,True,False,False,False,True,Step 2D-9 configuration files
+Documentation,True,False,False,False,True,Step 2D-9 documentation
+Manifest,True,True,False,False,True,Manifest and checksum records

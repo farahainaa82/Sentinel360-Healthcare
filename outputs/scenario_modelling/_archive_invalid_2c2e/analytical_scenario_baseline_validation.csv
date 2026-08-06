@@ -1,0 +1,358 @@
+baseline_id,approval_package_id,baseline_validity,baseline_validity_blocks_use,baseline_observation_count,baseline_data_completeness,baseline_status
+BL-0F2C9FAD4B411D32,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260108,Unrepresentative,True,2,50.0,Available with Conditions
+BL-8967EE194089397D,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260116,Unrepresentative,True,2,50.0,Available with Conditions
+BL-DC41AA9F364EC81B,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260209,Unrepresentative,True,2,50.0,Available with Conditions
+BL-3048F5335B1741BC,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260328,Valid,False,10,50.0,Available with Conditions
+BL-EB935D17ADFCF500,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260410,Unrepresentative,True,2,50.0,Available with Conditions
+BL-24E8132F23E980FC,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260420,Unrepresentative,True,2,50.0,Available with Conditions
+BL-1A12AF7C3E39DADF,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260506,Unrepresentative,True,2,50.0,Available with Conditions
+BL-AF5E6D0F3A7F29BE,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260602,Unrepresentative,True,2,50.0,Available with Conditions
+BL-CAC926848EDEB1B6,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260608,Unrepresentative,True,2,50.0,Available with Conditions
+BL-1E49DB13E2EAA2B1,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260721,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A75EBEA50E13F73B,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260726,Unrepresentative,True,2,50.0,Available with Conditions
+BL-E2B02306C6DE9E93,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260822,Unrepresentative,True,2,50.0,Available with Conditions
+BL-391D7921E462CF87,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261012,Unrepresentative,True,2,50.0,Available with Conditions
+BL-B581A76BC79E1F57,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261021,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A8F1AB286327924A,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261127,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-57C70AF120BE0469,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261205,Partial,False,4,50.0,Available with Conditions
+BL-C3F11B1E0C2533F4,PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261220,Valid,False,10,50.0,Available with Conditions
+BL-DF709330D67ABEC5,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260202,Unrepresentative,True,2,50.0,Available with Conditions
+BL-747242470CE54799,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260206,Unrepresentative,True,2,50.0,Available with Conditions
+BL-59E3FB429973055E,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260330,Unrepresentative,True,2,50.0,Available with Conditions
+BL-58927C6C611CB6A2,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260409,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-175EFE24E943C187,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260524,Partial,False,4,50.0,Available with Conditions
+BL-65BAA941479C62D1,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260529,Unrepresentative,True,2,50.0,Available with Conditions
+BL-7BC211D1BA18F080,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260611,Unrepresentative,True,2,50.0,Available with Conditions
+BL-ADAE1EF74FA083EE,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260620,Unrepresentative,True,2,50.0,Available with Conditions
+BL-E3505E2589029466,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260624,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2F5F5104E962C6F3,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260710,Unrepresentative,True,2,50.0,Available with Conditions
+BL-3A72FD4CECA46A41,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260716,Unrepresentative,True,2,50.0,Available with Conditions
+BL-179518439057D4D5,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260814,Unrepresentative,True,2,50.0,Available with Conditions
+BL-103F6D1B92094997,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260925,Unrepresentative,True,2,50.0,Available with Conditions
+BL-84D32F194E6CE43C,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261019,Unrepresentative,True,2,50.0,Available with Conditions
+BL-D785075A60A5E4A9,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261102,Unrepresentative,True,2,50.0,Available with Conditions
+BL-1FD49D3201156F7A,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261114,Unrepresentative,True,2,50.0,Available with Conditions
+BL-8FAD0E9D25DFF2C7,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261121,Unrepresentative,True,2,50.0,Available with Conditions
+BL-6D572CEEF23DE78B,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261214,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A490C2C5584BB218,PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261225,Unrepresentative,True,2,50.0,Available with Conditions
+BL-FEFBC8B61DA9B843,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260108,Unrepresentative,True,2,50.0,Available with Conditions
+BL-1D96A40F71E676FB,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260401,Valid,False,12,50.0,Available with Conditions
+BL-BE82963C39B9912F,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260417,Unrepresentative,True,2,50.0,Available with Conditions
+BL-22C42CC7D8441311,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260423,Partial,False,4,50.0,Available with Conditions
+BL-2CCB064E1D409CEE,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260507,Unrepresentative,True,2,50.0,Available with Conditions
+BL-E9948BC6064C806C,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260511,Partial,False,4,50.0,Available with Conditions
+BL-3C57805EB83FB27D,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260520,Unrepresentative,True,2,50.0,Available with Conditions
+BL-758FACE8410BA690,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260606,Unrepresentative,True,2,50.0,Available with Conditions
+BL-3430FEABC4C3DF9B,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260610,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-2FEE410FDFB16298,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260619,Unrepresentative,True,2,50.0,Available with Conditions
+BL-46FA657888EFE7AD,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260704,Unrepresentative,True,2,50.0,Available with Conditions
+BL-9B7D1CB5C80261D2,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260723,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-5E612570B8373BB8,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260804,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-D262692D06094508,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260810,Unrepresentative,True,2,50.0,Available with Conditions
+BL-070A0C28E0BA5503,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260901,Unrepresentative,True,2,50.0,Available with Conditions
+BL-93DB6F1285221796,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260912,Valid,False,22,50.0,Available with Conditions
+BL-047D3EEF2C3B17A9,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261023,Unrepresentative,True,2,50.0,Available with Conditions
+BL-F7B5D619087F6EBD,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261031,Unrepresentative,True,2,50.0,Available with Conditions
+BL-D5B12F1E9C4A93D9,PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261108,Valid,False,10,50.0,Available with Conditions
+BL-0258B09545055290,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260122,Unrepresentative,True,2,50.0,Available with Conditions
+BL-8CC358EFDC91E8CD,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260328,Unrepresentative,True,2,50.0,Available with Conditions
+BL-8103288615D22BDC,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260409,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-E1CC2592F6C9FF5D,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260422,Unrepresentative,True,2,50.0,Available with Conditions
+BL-E5112414C7B6EE2B,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260426,Partial,False,4,50.0,Available with Conditions
+BL-B09A9FE61EB3980B,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260515,Partial,False,4,50.0,Available with Conditions
+BL-57A1BFEDDFB3858E,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260521,Unrepresentative,True,2,50.0,Available with Conditions
+BL-65961F3EEDFDE03F,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260615,Unrepresentative,True,2,50.0,Available with Conditions
+BL-277EBDFF9E5DE512,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260621,Unrepresentative,True,2,50.0,Available with Conditions
+BL-0F8F7C9EE711C4F4,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260626,Partial,False,4,50.0,Available with Conditions
+BL-D82D03A02C1E510E,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260720,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2AE42776F9AA2C7D,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260727,Unrepresentative,True,2,50.0,Available with Conditions
+BL-24C7187D9091688F,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260910,Unrepresentative,True,2,50.0,Available with Conditions
+BL-294CD3C94DA05CCF,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260915,Unrepresentative,True,2,50.0,Available with Conditions
+BL-811CC10E28CE7105,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260921,Unrepresentative,True,2,50.0,Available with Conditions
+BL-C08CF67492F5A2D8,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260930,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-DBA45C7ECC024F2A,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261015,Unrepresentative,True,2,50.0,Available with Conditions
+BL-E071EA94B2CE7EF4,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261019,Unrepresentative,True,2,50.0,Available with Conditions
+BL-22F79AE722DD9BCE,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261027,Valid,False,12,50.0,Available with Conditions
+BL-83DE60C89519B089,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261111,Unrepresentative,True,2,50.0,Available with Conditions
+BL-D8BF9220CA7444BB,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261115,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2577E4AF31EE74E2,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261126,Partial,False,4,50.0,Available with Conditions
+BL-4AE8A17F60DA4DB1,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261202,Unrepresentative,True,2,50.0,Available with Conditions
+BL-B59C32BF756AC3DE,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261207,Valid,False,10,50.0,Available with Conditions
+BL-6EBF25096E740FA0,PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261227,Unrepresentative,True,2,50.0,Available with Conditions
+BL-3E1C7D26C1A5391F,PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260402,Valid with Conditions,False,6,100.0,Available
+BL-70C290549E361197,PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260412,Partial,False,4,100.0,Available
+BL-BC5B6E80B089ECEF,PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260421,Unrepresentative,True,1,100.0,Available
+BL-6564610C0FF8940F,PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260531,Valid,False,10,100.0,Available
+BL-CEDB52C10CC5423A,PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260614,Valid,False,20,100.0,Available
+BL-4D5FEEBD0155BB4E,PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260707,Valid,False,25,100.0,Available
+BL-720D117C0393DF94,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260107,Partial,False,4,50.0,Available with Conditions
+BL-102023A8C50140A8,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260201,Unrepresentative,True,2,50.0,Available with Conditions
+BL-1677D6803DE79D4D,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260211,Unrepresentative,True,2,50.0,Available with Conditions
+BL-15FDB31BC48E9013,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260303,Unrepresentative,True,2,50.0,Available with Conditions
+BL-0158BC532C54A11F,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260319,Unrepresentative,True,2,50.0,Available with Conditions
+BL-85DC79D66DA80A48,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260402,Unrepresentative,True,2,50.0,Available with Conditions
+BL-C7DB6D840DFFFBEC,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260502,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-13E22D760FAB321E,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260509,Unrepresentative,True,2,50.0,Available with Conditions
+BL-CDEE919CF33CA549,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260522,Unrepresentative,True,2,50.0,Available with Conditions
+BL-BC800799FD590418,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260531,Unrepresentative,True,2,50.0,Available with Conditions
+BL-87C8776C5C8CAC38,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260604,Partial,False,4,50.0,Available with Conditions
+BL-3604EBCA4A970746,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260624,Unrepresentative,True,2,50.0,Available with Conditions
+BL-0D3165B7E88FFD7A,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260705,Unrepresentative,True,2,50.0,Available with Conditions
+BL-C7ADF007DD874559,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260713,Valid,False,16,50.0,Available with Conditions
+BL-D66BBB26F7FCA9E8,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260727,Unrepresentative,True,2,50.0,Available with Conditions
+BL-F9EDD8AD8C3D4FDF,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260930,Unrepresentative,True,2,50.0,Available with Conditions
+BL-8A83D7DA100E5D02,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261008,Unrepresentative,True,2,50.0,Available with Conditions
+BL-8DED0EB10F15C211,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261014,Valid,False,22,50.0,Available with Conditions
+BL-945DADB9F3FCA786,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261101,Unrepresentative,True,2,50.0,Available with Conditions
+BL-5C8256177ABE7D9E,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261113,Unrepresentative,True,2,50.0,Available with Conditions
+BL-109CB996345A0593,PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261227,Unrepresentative,True,2,50.0,Available with Conditions
+BL-640531690BF49FC3,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260106,Unrepresentative,True,2,50.0,Available with Conditions
+BL-062B8B568A7B6C5F,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260207,Unrepresentative,True,2,50.0,Available with Conditions
+BL-D77B91D98CAB4A91,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260310,Unrepresentative,True,2,50.0,Available with Conditions
+BL-21D63D3D35D398E8,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260421,Unrepresentative,True,2,50.0,Available with Conditions
+BL-3243B244F2A3A939,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260425,Partial,False,4,50.0,Available with Conditions
+BL-708E0D60F809A0E3,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260521,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-0FF5DC781B30E376,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260603,Unrepresentative,True,2,50.0,Available with Conditions
+BL-1AB0374A3339D42D,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260610,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2F13768166C08BF3,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260614,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-CCD1F0648DF417E7,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260626,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-EDFEFEEFE780B78F,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260707,Unrepresentative,True,2,50.0,Available with Conditions
+BL-236419D4F0EF55BD,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260818,Unrepresentative,True,2,50.0,Available with Conditions
+BL-4AD80E402F2044AB,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260923,Unrepresentative,True,2,50.0,Available with Conditions
+BL-5F70E8D8CDCD3FA1,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261005,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A2D4B87CED1D8FBA,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261013,Unrepresentative,True,2,50.0,Available with Conditions
+BL-7C780C8FC9E335FE,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261026,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-115F5DAD55E1127E,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261102,Unrepresentative,True,2,50.0,Available with Conditions
+BL-75AED2490A9FD068,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261109,Unrepresentative,True,2,50.0,Available with Conditions
+BL-77E9E29455DF9DE5,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261127,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2E258E2B6EECBB9A,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261212,Unrepresentative,True,2,50.0,Available with Conditions
+BL-7B5E7D4C33015107,PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261217,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-DF599DF8EE7050E7,PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260601,Unrepresentative,True,2,100.0,Available
+BL-0B92FC41A972F69B,PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260606,Valid,False,36,100.0,Available
+BL-A0612B49C9FE475C,PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260716,Valid,False,15,100.0,Available
+BL-6F8BFFC14A228B81,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260106,Unrepresentative,True,2,50.0,Available with Conditions
+BL-1E015E22AD2D25A5,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260114,Unrepresentative,True,2,50.0,Available with Conditions
+BL-6066780E8FD7DD47,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260211,Unrepresentative,True,2,50.0,Available with Conditions
+BL-ACC46F6CB15B6EBF,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260216,Unrepresentative,True,2,50.0,Available with Conditions
+BL-F42FAC4C4D3A4309,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260323,Valid,False,12,50.0,Available with Conditions
+BL-F31A0E1BCBEA15E3,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260407,Unrepresentative,True,2,50.0,Available with Conditions
+BL-10FA56CAF893F136,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260426,Unrepresentative,True,2,50.0,Available with Conditions
+BL-631AA6ED81601D84,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260505,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-F6B2E5E23B8A7322,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260513,Valid,False,14,50.0,Available with Conditions
+BL-7FB2C8C6F74E5FEC,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260528,Unrepresentative,True,2,50.0,Available with Conditions
+BL-0AD930E0AC51BA76,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260612,Unrepresentative,True,2,50.0,Available with Conditions
+BL-3865B4B4B991BFF5,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260707,Unrepresentative,True,2,50.0,Available with Conditions
+BL-41190B74CBFF97DC,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260801,Unrepresentative,True,2,50.0,Available with Conditions
+BL-365F3CDA682E06AB,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260830,Partial,False,4,50.0,Available with Conditions
+BL-7FB623F904162769,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260914,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-6B8BB20E172B6851,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260922,Unrepresentative,True,2,50.0,Available with Conditions
+BL-0B5A85869F8B8397,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261105,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A25C9716E2AC7EBD,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261111,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-C1C45E32A2C1DA10,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261130,Unrepresentative,True,2,50.0,Available with Conditions
+BL-C4EB16F780D437C5,PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261227,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-5AB786BB9A210BA9,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260109,Unrepresentative,True,2,50.0,Available with Conditions
+BL-73F70DF48AF98D86,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260126,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2CE41C509912DF71,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260219,Unrepresentative,True,2,50.0,Available with Conditions
+BL-CD18D51E979C42EE,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260227,Unrepresentative,True,2,50.0,Available with Conditions
+BL-AE4620047CC60360,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260305,Unrepresentative,True,2,50.0,Available with Conditions
+BL-9D66226849111836,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260315,Unrepresentative,True,2,50.0,Available with Conditions
+BL-92CC9141A6E2FEA9,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260406,Unrepresentative,True,2,50.0,Available with Conditions
+BL-9E8B3DFB3469FF88,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260422,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-D9E8F1B0F158F311,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260429,Unrepresentative,True,2,50.0,Available with Conditions
+BL-921DC570492B5F00,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260522,Valid,False,10,50.0,Available with Conditions
+BL-FF4A86119C667B26,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260530,Unrepresentative,True,2,50.0,Available with Conditions
+BL-E032CADFA9E7049E,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260615,Partial,False,4,50.0,Available with Conditions
+BL-09923380121DE9F5,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260630,Unrepresentative,True,2,50.0,Available with Conditions
+BL-45EE363121383A55,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260718,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2F892DACDD651C7D,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260818,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-9838F8E9D8951D40,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260911,Unrepresentative,True,2,50.0,Available with Conditions
+BL-D207440696CD41CF,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261014,Unrepresentative,True,2,50.0,Available with Conditions
+BL-11A51694AAF1C17E,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261019,Unrepresentative,True,2,50.0,Available with Conditions
+BL-59FD21FD8B502BCF,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261026,Valid,False,12,50.0,Available with Conditions
+BL-8C041C02619F296B,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261118,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-8D58E766E0F8149A,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261129,Unrepresentative,True,2,50.0,Available with Conditions
+BL-ED1B6F966DDBF9A5,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261207,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-1716810432B0A219,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261213,Unrepresentative,True,2,50.0,Available with Conditions
+BL-9DA71EA6F095DE3C,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261217,Unrepresentative,True,2,50.0,Available with Conditions
+BL-6E42DB4834A8870A,PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261231,Unrepresentative,True,2,50.0,Available with Conditions
+BL-EAA08A205B779039,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260116,Unrepresentative,True,2,50.0,Available with Conditions
+BL-D4DCAB2419572533,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260208,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2868AD907B99788E,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260330,Partial,False,4,50.0,Available with Conditions
+BL-992093454AB2494C,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260408,Unrepresentative,True,2,50.0,Available with Conditions
+BL-D8F9C80165FA63EB,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260421,Unrepresentative,True,2,50.0,Available with Conditions
+BL-18D7AB87AEDF1495,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260502,Unrepresentative,True,2,50.0,Available with Conditions
+BL-0A7D75F9FD5346F1,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260605,Unrepresentative,True,2,50.0,Available with Conditions
+BL-629E7ED2FD407BE5,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260616,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-4081D05CA37DA6DE,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260717,Unrepresentative,True,2,50.0,Available with Conditions
+BL-0EF21274DE2FCB48,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260723,Partial,False,4,50.0,Available with Conditions
+BL-D973511CFAB1075F,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260728,Unrepresentative,True,2,50.0,Available with Conditions
+BL-E595F877B4C96388,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260916,Valid,False,16,50.0,Available with Conditions
+BL-6EF675B332A91905,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261008,Unrepresentative,True,2,50.0,Available with Conditions
+BL-182D2A1944A6583F,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261102,Unrepresentative,True,2,50.0,Available with Conditions
+BL-BCC7FED40A63B4D9,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261107,Unrepresentative,True,2,50.0,Available with Conditions
+BL-01366CC1CEC217CC,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261219,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-52FD9B5BD83EAA8D,PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261228,Unrepresentative,True,2,50.0,Available with Conditions
+BL-D57F80DD20D95EFE,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260128,Unrepresentative,True,2,50.0,Available with Conditions
+BL-52281CFFFCC24D02,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260209,Unrepresentative,True,2,50.0,Available with Conditions
+BL-38423A73DD807845,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260222,Unrepresentative,True,2,50.0,Available with Conditions
+BL-00E8F7240048C2FF,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260322,Unrepresentative,True,2,50.0,Available with Conditions
+BL-C4AEEC540CB8E385,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260403,Partial,False,4,50.0,Available with Conditions
+BL-1BF29AF1D39F69C4,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260411,Unrepresentative,True,2,50.0,Available with Conditions
+BL-4B7B4E3F76390408,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260505,Unrepresentative,True,2,50.0,Available with Conditions
+BL-6D36E4CD902A03C3,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260601,Unrepresentative,True,2,50.0,Available with Conditions
+BL-231E7FD07C8E239E,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260608,Unrepresentative,True,2,50.0,Available with Conditions
+BL-38833579398C04FA,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260617,Unrepresentative,True,2,50.0,Available with Conditions
+BL-41656BD47109AE63,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260624,Unrepresentative,True,2,50.0,Available with Conditions
+BL-8A4D8FC38A2271AD,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260701,Valid,False,10,50.0,Available with Conditions
+BL-0B956423BE705304,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260709,Unrepresentative,True,2,50.0,Available with Conditions
+BL-46A2F0023A1595AC,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260802,Partial,False,4,50.0,Available with Conditions
+BL-67782FB8BA6FCCAD,PKG-EP-HOSP-001-DEPT-MED-kpi_002-20261111,Unrepresentative,True,2,50.0,Available with Conditions
+BL-CCE9DACA8394BB1B,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260107,Unrepresentative,True,2,50.0,Available with Conditions
+BL-30F8F80A983C578F,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260122,Unrepresentative,True,2,50.0,Available with Conditions
+BL-0620D073F955070B,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260305,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-4252681C47EC5144,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260314,Partial,False,4,50.0,Available with Conditions
+BL-019C625F78356E2C,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260325,Unrepresentative,True,2,50.0,Available with Conditions
+BL-E3193F8E25D0F619,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260331,Unrepresentative,True,2,50.0,Available with Conditions
+BL-AA7C54C98DD1D177,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260405,Valid,False,18,50.0,Available with Conditions
+BL-B2272FE31CB45E17,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260417,Unrepresentative,True,2,50.0,Available with Conditions
+BL-268F888700F2B7A1,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260423,Unrepresentative,True,2,50.0,Available with Conditions
+BL-3928AD8BBDE8B58E,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260428,Valid,False,22,50.0,Available with Conditions
+BL-9657669AA12DB627,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260517,Unrepresentative,True,2,50.0,Available with Conditions
+BL-88FE729827A4AE38,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260530,Unrepresentative,True,2,50.0,Available with Conditions
+BL-8E26EF7B244882DF,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260616,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-1E068F000624D203,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260622,Valid,False,14,50.0,Available with Conditions
+BL-760E1A37C6F9A678,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260706,Valid,False,10,50.0,Available with Conditions
+BL-091FE53772D8A9F0,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260815,Unrepresentative,True,2,50.0,Available with Conditions
+BL-876AEB93880CED33,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260823,Unrepresentative,True,2,50.0,Available with Conditions
+BL-E29A4281D1F87169,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260830,Valid,False,10,50.0,Available with Conditions
+BL-AC01845DCB390582,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260929,Unrepresentative,True,2,50.0,Available with Conditions
+BL-519EF2A0ED52DA15,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261008,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-A33F29A16E668071,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261017,Unrepresentative,True,2,50.0,Available with Conditions
+BL-0980E332844918BC,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261029,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-6397970B7B2B3E14,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261110,Partial,False,4,50.0,Available with Conditions
+BL-8DD89008D7A5A62C,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261116,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-A630FBB84907CFB8,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261128,Unrepresentative,True,2,50.0,Available with Conditions
+BL-9952ED077423C0EA,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261203,Unrepresentative,True,2,50.0,Available with Conditions
+BL-D8FB49A192722A11,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261209,Unrepresentative,True,2,50.0,Available with Conditions
+BL-37C6F73FEA2CC94E,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261214,Unrepresentative,True,2,50.0,Available with Conditions
+BL-288FD2A828B8FB0E,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261219,Unrepresentative,True,2,50.0,Available with Conditions
+BL-AE7A0FD7340DC83C,PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261223,Partial,False,4,50.0,Available with Conditions
+BL-85CA6B2892CE6D66,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260118,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A0435FD7471CDAE7,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260319,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-E352E960D592CE19,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260404,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-7313762631FF4150,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260414,Unrepresentative,True,2,50.0,Available with Conditions
+BL-D70D2E80A5EA10D3,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260421,Partial,False,4,50.0,Available with Conditions
+BL-AFB4DF20628BF942,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260504,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A0BAE680DE6EC797,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260704,Unrepresentative,True,2,50.0,Available with Conditions
+BL-33B92E8BF5A10BAF,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260826,Unrepresentative,True,2,50.0,Available with Conditions
+BL-312FFAEFC5A7DDE1,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260926,Unrepresentative,True,2,50.0,Available with Conditions
+BL-EA27B9201B7BF32E,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261009,Unrepresentative,True,2,50.0,Available with Conditions
+BL-93D2A526FD9A58EF,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261030,Unrepresentative,True,2,50.0,Available with Conditions
+BL-1E9BDCE509E7026C,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261112,Partial,False,4,50.0,Available with Conditions
+BL-9C3FD04FE5267066,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261121,Unrepresentative,True,2,50.0,Available with Conditions
+BL-01CED663D02E88D9,PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261226,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-A5FF91E646FC91D8,PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260402,Unrepresentative,True,1,100.0,Available
+BL-B162DC5C597B074E,PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260410,Unrepresentative,True,1,100.0,Available
+BL-C0973DB490DCFE27,PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260509,Unrepresentative,True,1,100.0,Available
+BL-4353BDC43D1E45D6,PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260602,Valid,False,14,100.0,Available
+BL-D047A91EA624E09F,PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260619,Valid with Conditions,False,5,100.0,Available
+BL-29B3FB2AD64EF4C5,PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260629,Valid with Conditions,False,7,100.0,Available
+BL-B91B9DB362E2B380,PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260709,Partial,False,4,100.0,Available
+BL-2A324A709B5C1AD8,PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260716,Unrepresentative,True,2,100.0,Available
+BL-84B64722FA0A3F3C,PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260721,Valid with Conditions,False,7,100.0,Available
+BL-182E7B2A3B235385,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260111,Unrepresentative,True,2,50.0,Available with Conditions
+BL-AD1C877F1BC887EE,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260115,Unrepresentative,True,2,50.0,Available with Conditions
+BL-93B129DAE7183D19,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260203,Unrepresentative,True,2,50.0,Available with Conditions
+BL-D7B90663401662DF,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260207,Unrepresentative,True,2,50.0,Available with Conditions
+BL-FF9AC0333269B79A,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260212,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-43D5C387B09CE936,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260326,Partial,False,4,50.0,Available with Conditions
+BL-E236601C63E281B9,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260413,Unrepresentative,True,2,50.0,Available with Conditions
+BL-5641CB60A6BE0C5D,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260421,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A18AA17B5A374474,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260502,Unrepresentative,True,2,50.0,Available with Conditions
+BL-4003FA96E45DE8D4,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260510,Unrepresentative,True,2,50.0,Available with Conditions
+BL-CAA7A936D38C352B,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260515,Unrepresentative,True,2,50.0,Available with Conditions
+BL-DFC54352043A385E,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260521,Unrepresentative,True,2,50.0,Available with Conditions
+BL-189E500248EDE815,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260623,Valid,False,14,50.0,Available with Conditions
+BL-E46ACAA2117B4B13,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260710,Valid,False,16,50.0,Available with Conditions
+BL-3085970FCFAE6598,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260727,Unrepresentative,True,2,50.0,Available with Conditions
+BL-BDDEF6B0E1FF18BC,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260813,Valid,False,10,50.0,Available with Conditions
+BL-C336FF5427DF84D8,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260915,Unrepresentative,True,2,50.0,Available with Conditions
+BL-F587D2679E8D8D1B,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261024,Unrepresentative,True,2,50.0,Available with Conditions
+BL-06EB9F3F16F87F6B,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261110,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-D0586F0E81DE2802,PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261229,Unrepresentative,True,2,50.0,Available with Conditions
+BL-969096010C63457B,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260103,Unrepresentative,True,2,50.0,Available with Conditions
+BL-FF275071CC199C1D,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260209,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2622B2F5170D6F57,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260221,Unrepresentative,True,2,50.0,Available with Conditions
+BL-C9B74F8865C841A1,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260302,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-E0E67AE8A9F6E66E,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260328,Unrepresentative,True,2,50.0,Available with Conditions
+BL-B45700FF8087B88D,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260406,Unrepresentative,True,2,50.0,Available with Conditions
+BL-9F034FA6AFEB31EB,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260416,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A0DB19C8B5ADF890,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260424,Unrepresentative,True,2,50.0,Available with Conditions
+BL-3B9F7771186FD5C5,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260430,Valid,False,10,50.0,Available with Conditions
+BL-AD702A568FB0D1F5,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260519,Unrepresentative,True,2,50.0,Available with Conditions
+BL-7D3C3A536A1A4A00,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260529,Unrepresentative,True,2,50.0,Available with Conditions
+BL-0DEEC7144486CE6A,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260603,Unrepresentative,True,2,50.0,Available with Conditions
+BL-8688180A719A997D,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260613,Valid,False,10,50.0,Available with Conditions
+BL-8FD95C27F6570DB1,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260704,Unrepresentative,True,2,50.0,Available with Conditions
+BL-C26C09113F5A653F,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260708,Unrepresentative,True,2,50.0,Available with Conditions
+BL-3960628B08FD4EDB,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260719,Valid,False,12,50.0,Available with Conditions
+BL-79B48ACEE595A4FE,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260728,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-8799DFF4CFD9A522,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260911,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-93FFE139AD57EDF7,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260925,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A6FC1D16B597CE2B,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261010,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-1DA70840F8567175,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261018,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-EB898D9326FD37E6,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261025,Unrepresentative,True,2,50.0,Available with Conditions
+BL-19149A65686D4F03,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261104,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2E513237A24AEEA4,PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261214,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-1CE526D285AE659C,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260127,Unrepresentative,True,2,50.0,Available with Conditions
+BL-0DDD3FFA1684B6E6,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260131,Unrepresentative,True,2,50.0,Available with Conditions
+BL-E2C476FA3A57C725,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260209,Unrepresentative,True,2,50.0,Available with Conditions
+BL-89DD22282A56088C,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260301,Unrepresentative,True,2,50.0,Available with Conditions
+BL-C5D2C5695B684DC1,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260305,Unrepresentative,True,2,50.0,Available with Conditions
+BL-C8E7D25BF661D607,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260311,Partial,False,4,50.0,Available with Conditions
+BL-DFA8AC3275555F17,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260401,Partial,False,4,50.0,Available with Conditions
+BL-D3E53C0D5F8F1B80,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260411,Unrepresentative,True,2,50.0,Available with Conditions
+BL-49D9FF836B7F98D5,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260415,Unrepresentative,True,2,50.0,Available with Conditions
+BL-C655127B554A64AE,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260429,Unrepresentative,True,2,50.0,Available with Conditions
+BL-4EB4306376D2F8D1,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260504,Unrepresentative,True,2,50.0,Available with Conditions
+BL-1D258A1050219DC6,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260517,Unrepresentative,True,2,50.0,Available with Conditions
+BL-84FCB2A3ED9717C2,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260521,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-74EAB950704FC274,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260529,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-0E9B491E04023FAC,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260606,Partial,False,4,50.0,Available with Conditions
+BL-C6AB63DB395A5659,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260613,Partial,False,4,50.0,Available with Conditions
+BL-BB98073D906A9F97,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260618,Unrepresentative,True,2,50.0,Available with Conditions
+BL-AE18B99B80CFF239,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260702,Unrepresentative,True,2,50.0,Available with Conditions
+BL-6662624678F0790B,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260709,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-F4B1A8E34D3CA306,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260726,Unrepresentative,True,2,50.0,Available with Conditions
+BL-DDACF86B340AC401,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260802,Unrepresentative,True,2,50.0,Available with Conditions
+BL-8E0C244E3C833C85,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260822,Unrepresentative,True,2,50.0,Available with Conditions
+BL-05D2340EF87B4C00,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260903,Unrepresentative,True,2,50.0,Available with Conditions
+BL-EA6F2DA241BAFEF5,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260916,Valid,False,12,50.0,Available with Conditions
+BL-907FDA5ECAB588F6,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260929,Unrepresentative,True,2,50.0,Available with Conditions
+BL-C0CC38E1771910E5,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261020,Unrepresentative,True,2,50.0,Available with Conditions
+BL-64096E81A330EB04,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261026,Unrepresentative,True,2,50.0,Available with Conditions
+BL-B397B6FB8E289FF7,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261111,Unrepresentative,True,2,50.0,Available with Conditions
+BL-E6487F4236B4C28E,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261127,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-2D3A9464747D080B,PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261203,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-39D66351A0B3D431,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260120,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2846399D02FA3AAC,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260125,Unrepresentative,True,2,50.0,Available with Conditions
+BL-91E4729A5175A6BC,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260214,Unrepresentative,True,2,50.0,Available with Conditions
+BL-2C76C464B1284732,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260226,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A8EC8DBA127C4C1D,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260304,Unrepresentative,True,2,50.0,Available with Conditions
+BL-1042AFD757FE880B,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260314,Partial,False,4,50.0,Available with Conditions
+BL-3A760B9CB96D07E0,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260319,Partial,False,4,50.0,Available with Conditions
+BL-EE2BF1DB6F1F5C7A,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260422,Unrepresentative,True,2,50.0,Available with Conditions
+BL-1187E4AAD5D4644D,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260502,Unrepresentative,True,2,50.0,Available with Conditions
+BL-A50465290766018D,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260509,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-28776B14C3FD64CF,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260602,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-AFE10D1B95A58684,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260621,Valid,False,12,50.0,Available with Conditions
+BL-E4B046F997D6A8E2,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260704,Unrepresentative,True,2,50.0,Available with Conditions
+BL-371E9789E1CC305E,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260724,Unrepresentative,True,2,50.0,Available with Conditions
+BL-F24CA947437BA1F4,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260824,Valid,False,18,50.0,Available with Conditions
+BL-F409592A0E4F7312,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260908,Unrepresentative,True,2,50.0,Available with Conditions
+BL-8F099928DFB20203,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260912,Unrepresentative,True,2,50.0,Available with Conditions
+BL-30284F05F566D8DD,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261004,Valid,False,16,50.0,Available with Conditions
+BL-C3B328136F2786C2,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261018,Valid with Conditions,False,8,50.0,Available with Conditions
+BL-2C557EB33BF29B07,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261030,Valid with Conditions,False,6,50.0,Available with Conditions
+BL-0C82208C88821E2D,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261219,Partial,False,4,50.0,Available with Conditions
+BL-A94EFCFDB71B2619,PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261230,Unrepresentative,True,2,50.0,Available with Conditions

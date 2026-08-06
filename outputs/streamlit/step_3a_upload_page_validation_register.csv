@@ -1,0 +1,61 @@
+check_name,result,status,details
+Page Module Compiles,Pass,OK,01_Data_Upload_and_Validation.py compiles without syntax errors
+Page Module Imports,Pass,OK,All src engine modules import successfully
+Application Shell Imports,Pass,OK,app.py imports and initialises without error
+Navigation Includes Upload,Pass,OK,Streamlit pages directory contains 01_Data_Upload_and_Validation.py
+CSV File Read,Pass,OK,CSV demo files read successfully
+XLSX File Read,Pass,OK,XLSX files read via openpyxl engine
+Unsupported File Rejected,Pass,OK,Unsupported extensions rejected by file validator
+Empty File Rejected,Pass,OK,Empty file validation returns error
+Corrupted File Handled,Pass,OK,Corrupted workbook caught with exception handling
+Dataset Type Detection,Pass,OK,All expected categories detectable via signatures
+Low Confidence Detection,Pass,OK,Low confidence requires user confirmation
+Required Columns Validated,Pass,OK,Missing required columns flagged as errors
+Optional Columns Allowed,Pass,OK,Optional columns not flagged as missing
+Unexpected Columns Retained,Pass,OK,Extra columns retained with governance warnings
+Duplicate Columns Detected,Pass,OK,Duplicate column names flagged as errors
+Column Aliases Proposed,Pass,OK,Alias mapping engine proposes canonical names
+Ambiguous Aliases Require Confirmation,Pass,OK,Moderate aliases require user confirmation
+Original Column Names Retained,Pass,OK,Mapping preserves original column names
+Invalid Numeric Values Flagged,Pass,OK,Non-numeric values in numeric columns flagged
+Invalid Dates Flagged,Pass,OK,Invalid date values detected
+Future Dates Flagged,Pass,OK,Future dates beyond threshold flagged as warnings
+Missing Values Counted,Pass,OK,Missing and blank values counted per column
+Duplicate Records Detected,Pass,OK,Duplicate rows identified
+Duplicate Primary Identifiers Detected,Pass,OK,Duplicate primary keys flagged as errors
+Negative Beds Rejected,Pass,OK,Negative beds_total and beds_occupied flagged
+Occupied Beds Above Total Flagged,Pass,OK,beds_occupied > beds_total flagged as error
+Negative Waiting Times Rejected,Pass,OK,Negative avg_wait_min flagged
+Invalid Satisfaction Values Flagged,Pass,OK,Scores outside 0-5 range flagged
+Referential Checks Not Assessable,Pass,OK,Without reference data checks return Not Assessable
+Referential Checks With Reference,Pass,OK,With reference data referential checks work correctly
+Files Remain Not Authoritative,Pass,OK,authoritative_status is Uploaded Not Authoritative
+No Configuration Overwrite,Pass,OK,KPI and Scenario uploads flagged as governance warnings
+Validation Status Reconciles,Pass,OK,Blocking errors produce Rejected
+Blocking Errors Rejected,Pass,OK,Files with blocking errors marked Rejected
+Non-Blocking Warnings Accepted,Pass,OK,Files with warnings only marked Accepted with Warnings
+Clean Files Accepted,Pass,OK,Files with no issues marked Accepted
+Session Summary Counts Reconcile,Pass,OK,Accepted warning rejected counts sum correctly
+Validation Issue IDs Unique,Pass,OK,Unique issue IDs generated per session
+File Metadata IDs Unique,Pass,OK,Unique file IDs generated per session
+SHA-256 Checksums Generated,Pass,OK,File checksums computed for all uploads
+Preview Row Limits Respected,Pass,OK,Preview limited to configured row count
+Session State Persists,Pass,OK,State retained across widget interactions
+Reset Clears Upload Session,Pass,OK,Reset clears only upload state
+Reset Does Not Delete Frozen Files,Pass,OK,Reset does not modify project files
+Validation Downloads Generated,Pass,OK,CSV summary and issue register downloadable
+Issue Register Downloads Generated,Pass,OK,Issue register CSV generated
+Upload Manifest JSON Generated,Pass,OK,JSON manifest includes session and files
+Sample Templates Generated,Pass,OK,CSV templates generated from schema config
+Demo and Uploaded Not Mixed,Pass,OK,Separate handling for demo and user uploads
+No Analytical Phase Rerun,Pass,OK,No Phase 1 or 2 functions called
+No KPI Recalculation,Pass,OK,KPI values not recalculated
+No Risk Recalculation,Pass,OK,Risk values not recalculated
+No Decision Package Modified,Pass,OK,Frozen outputs untouched
+No Management Action Selected,Pass,OK,No action selection logic present
+No Approval Fabricated,Pass,OK,No approval status changed
+Proceed Button Disabled,Pass,OK,Proceed to Governed Processing button is disabled
+User-Friendly Errors,Pass,OK,Raw tracebacks not shown to user
+Raw Tracebacks Hidden,Pass,OK,Exceptions caught and friendly messages shown
+Step 3A Outputs Reconcile,Pass,OK,All 9 output files present and consistent
+Step 3A Stops Before Executive Overview,Pass,OK,No Executive Overview page built

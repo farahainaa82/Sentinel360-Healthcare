@@ -1,0 +1,16 @@
+configuration_id,blocking_condition_type,blocking_reason,blocking_severity,source_phase,source_gate,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+ACTBLK-001,Mandatory Gate Failure,Action blocked due to mandatory gate failure,Critical,2D-4,Any Mandatory Gate,1,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-002,Assumption Gate Failure,Action blocked due to unresolved assumption issues,Critical,2D-4,Assumption Gate,2,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-003,Baseline Gate Failure,Action blocked due to invalid baseline,Critical,2D-4,Baseline Gate,3,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-004,Financial Cost Gate Failure,Action blocked due to missing mandatory cost data,Critical,2D-4,Financial Cost Gate,4,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-005,Financial Benefit Gate Failure,Action blocked due to unsupported benefit claims,Critical,2D-4,Financial Benefit Gate,5,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-006,Budget Gate Failure,Action blocked due to missing budget data,Critical,2D-4,Budget Gate,6,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-007,Stakeholder Gate Failure,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,Stakeholder Gate,7,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-008,Scenario Gate Failure,Action blocked due to incomplete scenario analysis,Critical,2D-4,Scenario Gate,8,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-009,Evidence Gate Failure,Action blocked due to evidence deficiency,Critical,2D-4,Evidence Gate,9,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-010,Lineage Gate Failure,Action blocked due to lineage deficiency,Critical,2D-4,Lineage Gate,10,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-011,Multiple Gate Failure,Action blocked due to multiple gate failures,Critical,2D-4,Multiple Gates,11,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-012,Not Applicable,Action not applicable for this readiness status,Informational,2D-4,None,12,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-013,Quantitative Restriction,Quantitative action not applicable for non-quantitative package,Informational,2D-4,None,13,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-014,Progression Blocked,All progression actions blocked for this readiness status,Critical,2D-4,None,14,True,1.0,Draft Analytical Configuration,True,Governed blocking rule
+ACTBLK-015,Not Permitted,Action not permitted for this readiness status,Critical,2D-4,None,15,True,1.0,Draft Analytical Configuration,True,Governed blocking rule

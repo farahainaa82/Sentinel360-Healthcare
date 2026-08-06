@@ -1,0 +1,10 @@
+role_id,role_name,staff_category,is_clinical,is_active,effective_from,effective_to,source_system,record_version,record_created_datetime,record_updated_datetime
+ROLE-ED-PHY,Emergency Physician,Doctor,True,True,2020-01-01,2099-12-31,SENTINEL_DEMO_ROLE,1,2025-01-01,2025-01-01
+ROLE-MO,Medical Officer,Doctor,True,True,2020-01-01,2099-12-31,SENTINEL_DEMO_ROLE,1,2025-01-01,2025-01-01
+ROLE-RN,Registered Nurse,Nurse,True,True,2020-01-01,2099-12-31,SENTINEL_DEMO_ROLE,1,2025-01-01,2025-01-01
+ROLE-AMO,Assistant Medical Officer,Doctor,True,True,2020-01-01,2099-12-31,SENTINEL_DEMO_ROLE,1,2025-01-01,2025-01-01
+ROLE-PHARM,Pharmacist,Allied Health,True,True,2020-01-01,2099-12-31,SENTINEL_DEMO_ROLE,1,2025-01-01,2025-01-01
+ROLE-RAD,Radiographer,Allied Health,True,True,2020-01-01,2099-12-31,SENTINEL_DEMO_ROLE,1,2025-01-01,2025-01-01
+ROLE-HCA,Healthcare Assistant,Support,True,True,2020-01-01,2099-12-31,SENTINEL_DEMO_ROLE,1,2025-01-01,2025-01-01
+ROLE-REG,Registration Clerk,Administrative,False,True,2020-01-01,2099-12-31,SENTINEL_DEMO_ROLE,1,2025-01-01,2025-01-01
+ROLE-PEO,Patient Experience Officer,Administrative,False,True,2020-01-01,2099-12-31,SENTINEL_DEMO_ROLE,1,2025-01-01,2025-01-01

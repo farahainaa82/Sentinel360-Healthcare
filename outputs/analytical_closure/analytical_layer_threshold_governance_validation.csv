@@ -1,0 +1,8 @@
+check_name,status,message
+all_not_assessed,Passed,all_not_assessed: OK
+all_provisional,Passed,all_provisional: OK
+no_green,Passed,no_green: OK
+no_amber,Passed,no_amber: OK
+no_red,Passed,no_red: OK
+draft_not_approved,Passed,draft_not_approved: OK
+provisional_threshold_warning,Passed with Warning,"Phase 2A KPI calculations are complete, but performance classification remains provisional until thresholds are formally approved."

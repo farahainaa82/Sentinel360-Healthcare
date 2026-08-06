@@ -1,0 +1,6 @@
+readiness_status,display_order,status
+Ready for Integrated Management Review,1,Active
+Ready with Conditions,2,Active
+Monitoring Only,3,Active
+Requires Assumption Validation,4,Active
+Non-Quantitative,5,Active

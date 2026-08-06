@@ -1,0 +1,9 @@
+impact_band_id,primary_kpi_id,percentage_change_threshold_lower,percentage_change_threshold_upper,impact_classification,effect_direction,evidence_language,version,active_flag
+BAND-STRONG-IMPROVE,ALL,15.0,999.0,Strong Directional Improvement,Improvement,estimated directional improvement,v1.0,True
+BAND-MODERATE-IMPROVE,ALL,5.0,14.999,Moderate Directional Improvement,Improvement,estimated operational change,v1.0,True
+BAND-SMALL-IMPROVE,ALL,1.0,4.999,Small Directional Improvement,Improvement,scenario-based difference,v1.0,True
+BAND-NO-CHANGE,ALL,-0.999,0.999,No Material Change,Neutral,analytical approximation,v1.0,True
+BAND-SMALL-ADVERSE,ALL,-4.999,-1.0,Small Adverse Change,Adverse,scenario-based difference,v1.0,True
+BAND-MODERATE-ADVERSE,ALL,-14.999,-5.0,Moderate Adverse Change,Adverse,estimated operational change,v1.0,True
+BAND-STRONG-ADVERSE,ALL,-999.0,-15.0,Strong Adverse Change,Adverse,estimated directional improvement,v1.0,True
+BAND-INSUFFICIENT,ALL,,,Insufficient Evidence,Unknown,insufficient evidence for classification,v1.0,True

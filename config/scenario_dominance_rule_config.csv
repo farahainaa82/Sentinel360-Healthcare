@@ -1,0 +1,8 @@
+rule_id,rule_name,rule_description,required_condition,version,active_flag
+DOM-PRIMARY-KPI,Primary KPI Impact,Primary KPI must be equal or better,scenario_primary_kpi_value >= baseline_primary_kpi_value OR direction is improvement,v1.0,True
+DOM-SUPPORTING-KPI,Supporting KPI Impact,No supporting KPI may be worse,all quantified supporting KPIs show no adverse change OR are not quantified,v1.0,True
+DOM-CONFIDENCE,Confidence,Confidence must be equal or higher,final_scenario_confidence >= other_final_scenario_confidence,v1.0,True
+DOM-CONTRADICTION,Contradiction Severity,Contradiction severity must be equal or lower,contradiction_severity <= other_contradiction_severity,v1.0,True
+DOM-DISPLACEMENT,Displacement Risk,Displacement risk must be equal or lower,displacement_classification not worse than other,v1.0,True
+DOM-GOVERNANCE,Governance Burden,Governance burden must be equal or lower,governance_warning_count <= other_governance_warning_count,v1.0,True
+DOM-ASSUMPTION,Assumption Intensity,Assumption intensity must be equal or lower,assumption_warning_count <= other_assumption_warning_count,v1.0,True

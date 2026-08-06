@@ -1,0 +1,7 @@
+config_id,config_type,relationship_id,source_kpi_id,target_kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+HYP_MIN_TIER,HYPOTHESIS,ALL,ALL,ALL,hypothesis_min_tier,High,tier,Minimum department priority tier for hypothesis generation,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+HYP_MIN_CF,HYPOTHESIS,ALL,ALL,ALL,hypothesis_min_cf_score,50.0,score,Minimum contributing-factor score for hypothesis generation,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+HYP_MIN_CONF,HYPOTHESIS,ALL,ALL,ALL,hypothesis_min_confidence,Moderate,confidence,Minimum confidence level for hypothesis generation,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+HYP_NO_MAJ,HYPOTHESIS,ALL,ALL,ALL,hypothesis_no_major_contradiction,True,boolean,Exclude hypotheses with Major contradiction,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+HYP_VAL,HYPOTHESIS,ALL,ALL,ALL,stakeholder_validation_required,True,boolean,All hypotheses require stakeholder validation,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+HYP_CAUS,HYPOTHESIS,ALL,ALL,ALL,causality_status_fixed,Not Confirmed,status,Fixed causality status for all hypotheses,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design

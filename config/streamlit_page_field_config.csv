@@ -1,0 +1,16 @@
+page_id,field_name,field_type,required_flag,default_value,allowed_values,dependent_field,governance_note
+PAGE-02,hospital_filter,multi_select,False,All,All;HOSP-001;HOSP-002;HOSP-003;HOSP-004,None,Filter by hospital
+PAGE-02,department_filter,multi_select,False,All,All;DEPT-ADM;DEPT-EMG;DEPT-ICU;DEPT-OPD;DEPT-SUR;DEPT-PHM;DEPT-LAB;DEPT-RAD;DEPT-NUR;DEPT-ORT;DEPT-PED;DEPT-CAR;DEPT-NEU;DEPT-ONC;DEPT-PSY;DEPT-REH;DEPT-DIA,hospital_filter,Filter by department
+PAGE-02,readiness_filter,multi_select,False,All,All;Ready for Integrated Management Review;Ready with Conditions;Monitoring Only;Requires Assumption Validation;Non-Quantitative,None,Filter by readiness status
+PAGE-02,risk_tier_filter,multi_select,False,All,All;Critical;High;Medium;Low;None,None,Filter by risk tier
+PAGE-03,kpi_filter,multi_select,False,All,All;kpi_001;kpi_002;kpi_003;kpi_004;kpi_005;kpi_006,None,Filter by KPI
+PAGE-03,month_filter,single_select,False,All,All;January;February;March;April;May;June;July;August;September;October;November;December,year_filter,Filter by month
+PAGE-03,year_filter,single_select,False,2026,2024;2025;2026,None,Filter by year
+PAGE-04,urgency_filter,multi_select,False,All,All;Critical;High;Medium;Low,None,Filter by urgency
+PAGE-06,scenario_selector,single_select,True,Baseline,Baseline;Conservative;Expected;Higher Intensity,None,Select scenario to display
+PAGE-06,comparison_scenario,single_select,False,None,None;Baseline;Conservative;Expected;Higher Intensity,scenario_selector,Select second scenario for comparison
+PAGE-08,package_selector,single_select,True,First,First,None,Select decision package to view
+PAGE-09,action_comment,text_area,False,,,None,Management comment on action review
+PAGE-09,review_outcome,single_select,False,Pending,Pending;Approve with Conditions;Defer;Reject;Request Additional Evidence,None,Review outcome selection
+PAGE-10,report_template,single_select,True,Executive Summary,Executive Summary;KPI Performance Report;Risk and Alert Report;Recommendation Report;Scenario Comparison Report;Financial Impact Report;Integrated Management Brief;Management Queue Report;Evidence Pack;Audit and Traceability Report;Validation and Governance Report;Full Decision Package,None,Select report template
+PAGE-11,audit_event_filter,multi_select,False,All,All;Not Executed;Awaiting Management Action;Completed,None,Filter by audit event status

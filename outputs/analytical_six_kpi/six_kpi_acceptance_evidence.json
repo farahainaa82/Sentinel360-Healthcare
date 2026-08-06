@@ -1,0 +1,19 @@
+{
+  "step": "2A-5",
+  "status": "Completed",
+  "integration_run_id": "SIX-KPI-8EC2F4190438",
+  "kpi_ids": [
+    "kpi_001",
+    "kpi_002",
+    "kpi_003",
+    "kpi_004",
+    "kpi_005",
+    "kpi_006"
+  ],
+  "record_count": 17520,
+  "issue_count": 0,
+  "duplicate_count": 0,
+  "inconsistency_count": 0,
+  "immutability_status": "Passed",
+  "timestamp": "2026-07-27T15:23:32.053026"
+}

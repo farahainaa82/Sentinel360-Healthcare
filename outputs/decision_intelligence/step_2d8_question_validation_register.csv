@@ -1,0 +1,3 @@
+validation_id,check,expected,actual,status,detail
+VA-QU-001,blocking_question_count_non_negative,0,0,PASS,
+VA-QU-002,mandatory_question_count_present,True,True,PASS,

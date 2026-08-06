@@ -1,0 +1,3 @@
+kpi_id,formula,records_checked,matches,mismatches,max_absolute_difference,verification_status
+kpi_001,(present_staff_count + replacement_staff_count) / planned_staff_count * 100,5840,5840,0,0.0,Passed
+kpi_002,unapproved_absence_count / planned_staff_count * 100,5840,5840,0,0.0,Passed

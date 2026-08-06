@@ -1,0 +1,62 @@
+{
+  "integration_run_id": "INT-PFD-8B3D878D871C",
+  "integration_started_datetime": "2026-07-26T11:26:44.849154",
+  "integration_completed_datetime": "2026-07-26T11:26:46.746047",
+  "engine_version": "Sentinel360-Phase1-2D-3D",
+  "integration_version": "2D-3D-1.0.0",
+  "prior_processing_run_ids": {
+    "patient_encounter_processing_run_manifest.json": "PROC-PE-66BB1B50F384",
+    "queue_capacity_schedule_processing_run_manifest.json": "PROC-QCS-92010F32B162",
+    "patient_flow_daily_processing_run_manifest.json": "PROC-PFD-52B503B5DA53"
+  },
+  "validation_run_ids": {
+    "patient_encounter_processing_run_manifest.json": "VAL-C62B370EC6C3",
+    "queue_capacity_schedule_processing_run_manifest.json": "VAL-C62B370EC6C3",
+    "patient_flow_daily_processing_run_manifest.json": "VAL-C62B370EC6C3"
+  },
+  "processed_datasets_checked": [
+    "processed_patient_encounters",
+    "processed_patient_queue",
+    "processed_bed_capacity",
+    "processed_service_schedule",
+    "processed_patient_flow_daily"
+  ],
+  "processed_dataset_row_counts": {
+    "processed_patient_encounters": 93958,
+    "processed_patient_queue": 1095,
+    "processed_bed_capacity": 1095,
+    "processed_service_schedule": 8760,
+    "processed_patient_flow_daily": 2920
+  },
+  "manifest_verification_results": "Passed",
+  "checksum_verification_results": "Passed",
+  "schema_results": "Passed",
+  "business_key_results": "Passed",
+  "daily_grain_result": "Passed",
+  "reconciliation_results": "Passed",
+  "lineage_results": "Passed",
+  "issue_counts_by_severity": {},
+  "exclusion_counts": 2754,
+  "prohibited_field_check": "Passed",
+  "run_status": "Passed",
+  "integration_passed_flag": true,
+  "output_files": [
+    "patient_flow_integration_manifest.json",
+    "patient_flow_integration_dataset_summary.csv",
+    "patient_flow_integration_check_results.csv",
+    "patient_flow_integration_issue_log.csv",
+    "patient_flow_integration_lineage_summary.csv",
+    "patient_flow_integration_lineage_gap_log.csv",
+    "patient_flow_integration_exclusion_summary.csv",
+    "patient_flow_integration_audit_log.csv",
+    "patient_flow_cross_step_reconciliation.csv"
+  ],
+  "unresolved_rules": [
+    "Pending Review"
+  ],
+  "known_limitations": [
+    "Queue aggregation relies on explicit summary_source_flag.",
+    "Duplicate bed snapshots are not resolved."
+  ],
+  "readiness_for_next_step": "Step 2D-3E will run cumulative regression testing, verify final patient-flow processing acceptance criteria and formally close Step 2D-3. Step 2D-3E will not calculate official KPI values or KPI status."
+}

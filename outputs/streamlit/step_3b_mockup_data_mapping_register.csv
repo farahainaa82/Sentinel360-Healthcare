@@ -1,0 +1,25 @@
+dashboard_element,source_file,source_field,transformation_rule,missing_value_rule,display_format,governance_note
+hospital,step_2d9_executive_overview_dataset.csv,hospital_name,direct value from primary package,Not Available,string,Primary package selection
+department,step_2d9_executive_overview_dataset.csv,department_name,direct value from primary package,Not Available,string,Primary package selection
+month,step_2d9_executive_overview_dataset.csv,reporting_date,extract month from date,Not Available,string,Filter default
+analytical_snapshot,step_2d9_manifest.json,timestamp,direct from manifest,Not Available,string,Do not use system time
+attention_status,step_2d9_executive_overview_dataset.csv,management_attention_level,direct value,Not Available,string,Derived from primary package
+executive_narrative,step_2d9_executive_overview_dataset.csv,dominant_kpi_name + department_name,concatenate with cautious wording,No governed narrative available,string,Max 55 words
+urgency,step_2d9_executive_overview_dataset.csv,urgency,direct value,Not Available,string,Primary package
+financial_exposure,step_2d9_financial_impact_dataset.csv,net_financial_impact,sum or direct value,Not Assessable,RM formatted,Do not show RM0
+evidence_status,step_2d9_executive_overview_dataset.csv,evidence_warning,empty=Complete else Incomplete,Incomplete,string,Primary package
+confidence,step_2d9_executive_overview_dataset.csv,management_attention_level,proxy for confidence,Not Assessable,string,No invented percentages
+kpi_card_1,step_2d9_kpi_dashboard_dataset.csv,current_value + threshold_status + trend,direct governed row,No data,string,Dominant KPI
+kpi_card_2,step_2d9_kpi_dashboard_dataset.csv,current_value + threshold_status + trend,direct governed row,No data,string,Related KPI
+kpi_card_3,step_2d9_kpi_dashboard_dataset.csv,current_value + threshold_status + trend,direct governed row,No data,string,Related KPI
+relationship_pathway,step_2d9_executive_overview_dataset.csv,dominant_kpi_name + related KPIs,concatenate with arrows,No pathway available,string,Causality not confirmed
+primary_permitted_action,step_2d9_executive_overview_dataset.csv,primary_permitted_action,direct value,Not Available,string,Phase 2D-5 action
+estimated_cost,step_2d9_financial_impact_dataset.csv,central_estimate,sum where safe,Requires Financial Input,RM formatted,Label as Estimated
+estimated_benefit,step_2d9_financial_impact_dataset.csv,upper_estimate,sum where safe,Requires Financial Input,RM formatted,Label as Estimated
+estimated_net_impact,step_2d9_financial_impact_dataset.csv,net_financial_impact,sum where safe,Not Assessable,RM formatted,Label as Estimated
+scenario_baseline,step_2d9_scenario_comparison_dataset.csv,baseline_summary,direct value,Not Available,string,Neutral label
+scenario_expected,step_2d9_scenario_comparison_dataset.csv,expected_summary,direct value,Not Available,string,Neutral label
+scenario_higher_intensity,step_2d9_scenario_comparison_dataset.csv,higher_intensity_summary,direct value,Not Available,string,Neutral label
+governance_approval,hardcoded,approval_status,constant,Pending Management Review,string,No fabricated approvals
+governance_causality,hardcoded,causality_status,constant,Not Confirmed,string,No confirmed causality
+governance_audit,hardcoded,future_audit_status,constant,Awaiting Management Action,string,No audit executed

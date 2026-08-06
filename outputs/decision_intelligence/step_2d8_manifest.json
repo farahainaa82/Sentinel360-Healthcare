@@ -1,0 +1,52 @@
+{
+  "step": "2d8_scenario_reconciliation",
+  "mode": "focused_reconciliation",
+  "timestamp": "2026-07-29T21:14:11.366346",
+  "status": "COMPLETE",
+  "outputs": {
+    "step_2d7_scenario_summary_register.csv": {
+      "sha256": "38142f778f6161e433336f1c68c9094dde650444a6aff531759d192d36d6ad2c",
+      "rows": 646
+    },
+    "step_2d7_integrated_management_brief_register.csv": {
+      "sha256": "3d40705c122c59ec454e12812c6f4f55dfe2d8c9a7e264aad28b036050665cdd",
+      "rows": 646
+    },
+    "step_2d7_management_brief_section_register.csv": {
+      "sha256": "b02fc013c68e7ad24eb067d6549432872231f1c1b92510612273cbe913d12c8b",
+      "rows": 10982
+    },
+    "step_2d7_streamlit_management_brief_contract.csv": {
+      "sha256": "d997888c5d5e2284ac28f7b92b639d852dda3107ea358cd3ffb81de4035bbcb6",
+      "rows": 646
+    },
+    "step_2d8_management_brief_completeness_register.csv": {
+      "sha256": "84cbeae3eb4d27a8035609caac4d3a218b2339b3243f3251e2dedf5e34e30386",
+      "rows": 646
+    },
+    "step_2d8_scenario_validation_register.csv": {
+      "sha256": "cd241eeec0a05403d7e7a81fec944f414dcd36649eb3ce637bb82b9fe654a346",
+      "rows": 3
+    },
+    "step_2d8_final_validation_outcome_register.csv": {
+      "sha256": "ad6f876c090cb5e7c5d0f6ff80246522f4457c1ef20e7fef7dbc748edc8fdeec",
+      "rows": 646
+    },
+    "step_2d8_streamlit_handover_readiness_register.csv": {
+      "sha256": "aef65968038ac797e49449125d3f5805dcc8905928241a3ff8fa48abb7278588",
+      "rows": 646
+    },
+    "step_2d8_execution_summary.csv": {
+      "sha256": "376d7937803127d7a905bed08adc5c5c4eded8d9ff8640cebdcf1b9cd31da197",
+      "rows": 26
+    },
+    "step_2d8_scenario_summary_reconciliation_register.csv": {
+      "sha256": "c12875848a583aa929bfd86cc8b466b44a6e238a66db34daf8aefd75ab23aa61",
+      "rows": 76
+    },
+    "step_2d8_scenario_summary_correction_summary.csv": {
+      "sha256": "979d04d29e3b2cabf727175358bb9976a5ddfb508701fb36f77ed4a8aaf4f9a0",
+      "rows": 1
+    }
+  }
+}

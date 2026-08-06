@@ -1,0 +1,170 @@
+{
+  "step": "2D-7",
+  "mode": "full_run",
+  "timestamp": "2026-07-29T17:10:03.069916",
+  "status": "COMPLETE",
+  "outputs": {
+    "step_2d7_integrated_management_brief_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_integrated_management_brief_register.csv",
+      "checksum": "474904a3892a971f29a03a6dfd9dee3acdc3eb1ee86d053e9901f28442931c6c",
+      "rows": 646,
+      "columns": 400
+    },
+    "step_2d7_management_brief_section_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_management_brief_section_register.csv",
+      "checksum": "26fb4ad01f8cb36b71bd5a2044e05b188bf588ad437fb4a704425bdf282065f5",
+      "rows": 10982,
+      "columns": 5
+    },
+    "step_2d7_management_brief_type_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_management_brief_type_register.csv",
+      "checksum": "d650a73f162beeb1f2ffc435888a4935eaed3c09655dd463016906e3aa03f2ef",
+      "rows": 646,
+      "columns": 5
+    },
+    "step_2d7_executive_one_line_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_executive_one_line_summary_register.csv",
+      "checksum": "f6df96a650d1f2f0327fe784483fd3b912681ac08f72cdffecb197d8ea75eb7a",
+      "rows": 646,
+      "columns": 4
+    },
+    "step_2d7_executive_short_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_executive_short_summary_register.csv",
+      "checksum": "39081377c49e8e294ebee7de1dd4b17e9a969be451018384acc33e37519f4a2e",
+      "rows": 646,
+      "columns": 4
+    },
+    "step_2d7_issue_and_risk_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_issue_and_risk_summary_register.csv",
+      "checksum": "853933945f0d7219bbe8b6a25461298d7d187f3ee73b87139c4c9ca41dfd8129",
+      "rows": 646,
+      "columns": 20
+    },
+    "step_2d7_evidence_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_evidence_summary_register.csv",
+      "checksum": "f00232e54e087d789507e8234f751af28efddcbb3688dad0398107e76a753519",
+      "rows": 646,
+      "columns": 9
+    },
+    "step_2d7_recommendation_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_recommendation_summary_register.csv",
+      "checksum": "3fe5ba63b165e45491b7860b7437a5fc00c30faeb78bfd2a57e3846e518730c1",
+      "rows": 646,
+      "columns": 10
+    },
+    "step_2d7_scenario_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_scenario_summary_register.csv",
+      "checksum": "05e8379e875ba696a2bacd46bc5580668c1feac6c9a2a835cbee3683a2bfb1f4",
+      "rows": 646,
+      "columns": 11
+    },
+    "step_2d7_tradeoff_and_impact_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_tradeoff_and_impact_summary_register.csv",
+      "checksum": "979d821b32b440fd95e16d6ef7a7675e4db60173319e9695c7cc8636f39b6c70",
+      "rows": 646,
+      "columns": 9
+    },
+    "step_2d7_financial_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_financial_summary_register.csv",
+      "checksum": "cad8dd75018fb0c8e828725eaff9111d593245a48c8b1f391e9684f66d22f034",
+      "rows": 646,
+      "columns": 16
+    },
+    "step_2d7_readiness_and_condition_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_readiness_and_condition_summary_register.csv",
+      "checksum": "f81dbb73846b32a2965b67f74f699e0fece6f5b9404aed541e1a3dcc8475e362",
+      "rows": 646,
+      "columns": 12
+    },
+    "step_2d7_management_action_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_management_action_summary_register.csv",
+      "checksum": "d3814716b4f83b2a74e453ce00ed7f9b1fca98a85fe3f6c5dd6877fb9b624bca",
+      "rows": 646,
+      "columns": 11
+    },
+    "step_2d7_management_question_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_management_question_summary_register.csv",
+      "checksum": "bc807a524c10f0bbe6e0f6d86dbe22e863ccb4c68f247feaa8a36e2c2c66c78f",
+      "rows": 646,
+      "columns": 7
+    },
+    "step_2d7_confirmation_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_confirmation_summary_register.csv",
+      "checksum": "476eacd80b04f4ea0e0d899f1758ca7726b387512ce90cc1c40d4e3064a877c2",
+      "rows": 646,
+      "columns": 2
+    },
+    "step_2d7_monitoring_and_escalation_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_monitoring_and_escalation_summary_register.csv",
+      "checksum": "ef96d1b97e233c8f75628d7a46ad351f2d81f6b9e66838a42848d20bb6788f03",
+      "rows": 646,
+      "columns": 10
+    },
+    "step_2d7_governance_and_limitation_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_governance_and_limitation_summary_register.csv",
+      "checksum": "8b0a3ba4110211d35bb96e5f585f7a934e308a20f8fec66072d58e19f0dd4339",
+      "rows": 646,
+      "columns": 13
+    },
+    "step_2d7_audit_and_traceability_summary_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_audit_and_traceability_summary_register.csv",
+      "checksum": "3587373f2a96480c66ce0daac1d8446b9503cdcf1b1d31dde37560b1c3c74e53",
+      "rows": 646,
+      "columns": 10
+    },
+    "step_2d7_management_priority_view_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_management_priority_view_register.csv",
+      "checksum": "3a0e938f7bb6d857dcf86bdef76f1a9b4b24400193087268f348ebda7cd4cb37",
+      "rows": 646,
+      "columns": 17
+    },
+    "step_2d7_management_queue_brief_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_management_queue_brief_register.csv",
+      "checksum": "86fb37eeec7c307f430c76362a7abed6c575dbaef8cef757c4ee72a7af70d505",
+      "rows": 646,
+      "columns": 13
+    },
+    "step_2d7_export_contract_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_export_contract_register.csv",
+      "checksum": "8abb165bef53ba541f7af10f7d26e125e194b0cd0c9c1793e52bd6046f6f7126",
+      "rows": 5168,
+      "columns": 7
+    },
+    "step_2d7_streamlit_management_brief_contract.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_streamlit_management_brief_contract.csv",
+      "checksum": "0b6a18f99f43a9d961096ea963ddc6eb25d3062da3d6658fd6eb6c7ea87ba670",
+      "rows": 646,
+      "columns": 50
+    },
+    "step_2d7_brief_evidence_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_brief_evidence_register.csv",
+      "checksum": "0191cb89b355fb97067155070eab12089b6ad2945a8a01cfd6d2afae26eacc7f",
+      "rows": 646,
+      "columns": 7
+    },
+    "step_2d7_brief_lineage_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_brief_lineage_register.csv",
+      "checksum": "fe93fd87487fc77408b09ee0291fadd7087afac489a7cc338f5b42b831377a41",
+      "rows": 646,
+      "columns": 6
+    },
+    "step_2d7_brief_governance_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_brief_governance_register.csv",
+      "checksum": "632b3f8951db25dc0c2036f63dd8427a8df4b5b455723924f6c6bbe86682fee1",
+      "rows": 646,
+      "columns": 13
+    },
+    "step_2d7_brief_issue_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_brief_issue_register.csv",
+      "checksum": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "rows": 0,
+      "columns": 0
+    },
+    "step_2d7_execution_summary.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\decision_intelligence\\step_2d7_execution_summary.csv",
+      "checksum": "a016ace57ea2392b64575b95f40c50cff2c2e17ad1e2eb3e999c368e8a741444",
+      "rows": 17,
+      "columns": 6
+    }
+  }
+}

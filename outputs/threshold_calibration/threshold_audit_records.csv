@@ -1,0 +1,19 @@
+audit_record_id,audit_phase,audit_action,entity_type,entity_id,audit_result,details,calibration_run_id,created_at
+AUD-0B6CBF933CE4,Prerequisites,Validate,Engine,THCAL-DBEA0A3F3860,Pass,,THCAL-DBEA0A3F3860,2026-07-27T19:24:35.544341
+AUD-7E43B4F70CC2,Inputs,Load,Dataset,analytical_six_kpi_daily.csv,Pass,Records loaded: 11397,THCAL-DBEA0A3F3860,2026-07-27T19:24:35.991696
+AUD-C1793DB605C9,Shortlisting,Select,CandidateSet,kpi_001,Pass,Shortlisted 3 for kpi_001,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.011563
+AUD-CE029BD5D585,Shortlisting,Select,CandidateSet,kpi_002,Pass,Shortlisted 3 for kpi_002,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.028335
+AUD-6E38BA18B350,Shortlisting,Select,CandidateSet,kpi_003,Pass,Shortlisted 3 for kpi_003,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.043940
+AUD-1CCC54283094,Shortlisting,Select,CandidateSet,kpi_004,Pass,Shortlisted 3 for kpi_004,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.056373
+AUD-6D876202A272,Shortlisting,Select,CandidateSet,kpi_005,Pass,Shortlisted 3 for kpi_005,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.069592
+AUD-53B8A29C4B21,Shortlisting,Select,CandidateSet,kpi_006,Pass,Shortlisted 3 for kpi_006,THCAL-DBEA0A3F3860,2026-07-27T19:24:36.084205
+AUD-7C250CDE242C,Classification,Execute,ClassificationSet,all_shortlisted,Pass,Rows generated: 34191,THCAL-DBEA0A3F3860,2026-07-27T19:24:37.863903
+AUD-A5BDED7B2B93,Export,Write,File,threshold_distribution_profiles.csv,Pass,Rows: 6,THCAL-DBEA0A3F3860,2026-07-27T19:24:41.381771
+AUD-D77F207BDF59,Export,Write,File,threshold_candidates_all.csv,Pass,Rows: 60,THCAL-DBEA0A3F3860,2026-07-27T19:24:41.389774
+AUD-1F0DFC7C5594,Export,Write,File,threshold_candidates_shortlisted.csv,Pass,Rows: 18,THCAL-DBEA0A3F3860,2026-07-27T19:24:41.394711
+AUD-880A0EA0945D,Export,Write,File,threshold_classification_results.csv,Pass,Rows: 34191,THCAL-DBEA0A3F3860,2026-07-27T19:24:42.210757
+AUD-2808FA9BFBA1,Export,Write,File,threshold_burden_results.csv,Pass,Rows: 18,THCAL-DBEA0A3F3860,2026-07-27T19:24:42.214402
+AUD-BE34B39ACCE6,Export,Write,File,threshold_stability_results.csv,Pass,Rows: 234,THCAL-DBEA0A3F3860,2026-07-27T19:24:42.225238
+AUD-D3BBE0D0C9BA,Export,Write,File,threshold_trend_alignment.csv,Pass,Rows: 57,THCAL-DBEA0A3F3860,2026-07-27T19:24:42.229328
+AUD-0ED485958ADC,Export,Write,File,threshold_recommendations.csv,Pass,Rows: 6,THCAL-DBEA0A3F3860,2026-07-27T19:24:42.232538
+AUD-249782F6E1C5,Export,Write,File,threshold_evidence_records.csv,Pass,Rows: 6,THCAL-DBEA0A3F3860,2026-07-27T19:24:42.235070

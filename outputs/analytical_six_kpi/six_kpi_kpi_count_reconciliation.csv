@@ -1,0 +1,7 @@
+kpi_id,source_analytical_dataset,source_row_count,integrated_row_count,calculated_count,unavailable_count,duplicate_count,count_difference,reconciliation_status
+kpi_001,analytical_workforce_kpi_daily.csv,2920,2920,2920,0,0,0,Reconciled
+kpi_002,analytical_workforce_kpi_daily.csv,2920,2920,2920,0,0,0,Reconciled
+kpi_003,analytical_patient_flow_kpi_daily.csv,2920,2920,1095,1825,0,0,Reconciled
+kpi_004,analytical_patient_flow_kpi_daily.csv,2920,2920,1095,1825,0,0,Reconciled
+kpi_005,analytical_patient_experience_kpi_daily.csv,2920,2920,984,1936,0,0,Reconciled
+kpi_006,analytical_patient_experience_kpi_daily.csv,2920,2920,2383,537,0,0,Reconciled

@@ -1,0 +1,4 @@
+check_name,status,message
+calculated_lineage_not_broken,Passed,Calculated records with broken/missing lineage = 0
+source_dataset_linkage,Passed,Records missing source_analytical_dataset = 0
+lineage_dataset_reconciles,Passed,Lineage dataset has 23360 rows.

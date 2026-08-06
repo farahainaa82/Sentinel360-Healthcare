@@ -1,0 +1,7 @@
+evidence_category,minimum_required_count,critical_for_readiness
+kpi_evidence,1,True
+risk_evidence,1,True
+recommendation_evidence,1,False
+scenario_evidence,1,False
+financial_evidence,1,False
+governance_evidence,1,False

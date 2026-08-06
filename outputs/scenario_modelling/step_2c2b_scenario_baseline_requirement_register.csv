@@ -1,0 +1,13 @@
+baseline_requirement_id,scenario_template_id,required_kpi,required_field,source_file,completeness_threshold,confidence_threshold,required_flag,missing_action
+BREQ-001,SCEN-STAFF-001,kpi_001,kpi_value,data/analytical/analytical_workforce_kpi_daily.csv,1.0,High,True,Block scenario execution
+BREQ-002,SCEN-STAFF-001,kpi_001,numerator_value,data/analytical/analytical_workforce_kpi_daily.csv,1.0,High,True,Block scenario execution
+BREQ-003,SCEN-STAFF-001,kpi_001,denominator_value,data/analytical/analytical_workforce_kpi_daily.csv,1.0,High,True,Block scenario execution
+BREQ-004,SCEN-ABS-001,kpi_002,kpi_value,data/analytical/analytical_workforce_kpi_daily.csv,1.0,High,True,Block scenario execution
+BREQ-005,SCEN-ABS-001,kpi_002,numerator_value,data/analytical/analytical_workforce_kpi_daily.csv,1.0,High,True,Block scenario execution
+BREQ-006,SCEN-ABS-001,kpi_002,denominator_value,data/analytical/analytical_workforce_kpi_daily.csv,1.0,High,True,Block scenario execution
+BREQ-007,SCEN-FLOW-001,kpi_004,kpi_value,data/analytical/analytical_patient_flow_kpi_daily.csv,0.6,Medium,True,Block scenario execution if completeness < 60%
+BREQ-008,SCEN-FLOW-001,kpi_003,kpi_value,data/analytical/analytical_patient_flow_kpi_daily.csv,0.0,Unavailable,False,Warn and exclude from quantitative model
+BREQ-009,SCEN-COMB-001,kpi_001,kpi_value,data/analytical/analytical_workforce_kpi_daily.csv,1.0,High,True,Block scenario execution
+BREQ-010,SCEN-COMB-001,kpi_004,kpi_value,data/analytical/analytical_patient_flow_kpi_daily.csv,0.6,Medium,True,Block scenario execution if completeness < 60%
+BREQ-011,SCEN-BASE-001,ANY,kpi_value,data/analytical/analytical_six_kpi_daily.csv,0.0,Any,True,Warn if no baselines available
+BREQ-012,SCEN-MON-001,ANY,kpi_value,data/analytical/analytical_six_kpi_daily.csv,0.0,Any,False,Proceed with available data

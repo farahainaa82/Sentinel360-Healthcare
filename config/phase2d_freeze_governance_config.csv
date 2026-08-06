@@ -1,0 +1,13 @@
+governance_rule_id,rule_name,rule_description,applies_to,enforcement_level,exception_process,governance_note
+FRZ-01,No Upstream Modification,Frozen upstream outputs must not be modified during Phase 2D closure,All Phase 1-2C outputs,Strict,None,Upstream immutability is absolute
+FRZ-02,No Recalculation,Analytical values must not be recalculated during closure,All Phase 2D outputs,Strict,None,Values are frozen as-is
+FRZ-03,No Silent Upgrade,Readiness or validation outcomes must not be upgraded without governed evidence,All validation outcomes,Strict,Governance review required if upgrade needed,Condition visibility preserved
+FRZ-04,No Action Selection,No action scenario recommendation budget or review may be selected or approved,All action controls,Strict,None,All controls remain pending
+FRZ-05,No Audit Execution,No audit event may be executed during closure,All audit records,Strict,None,Audit status remains Not Executed
+FRZ-06,Checksum Verification,All authoritative outputs must pass checksum verification before handover,All authoritative files,Strict,Reconciliation required if mismatch,Integrity is mandatory
+FRZ-07,Superseded File Marking,Superseded files must be marked and excluded from Phase 3 use,All superseded versions,Strict,None,Do not delete superseded files
+FRZ-08,Manifest Completeness,Manifest must include all outputs checksums and metadata,All Phase 2D-9 outputs,Strict,None,Manifest is authoritative
+FRZ-09,Version Governance,Future updates require new governed versions,All frozen objects,Strict,Governance board approval required,No in-place updates
+FRZ-10,Stop Before Phase 3,Phase 2D closure must stop before any Phase 3 implementation begins,All Phase 3 work,Strict,None,Phase 3 starts only after formal handover
+FRZ-11,Condition Preservation,All warnings conditions limitations and governance boundaries must remain visible,All packages,Strict,None,Transparency is mandatory
+FRZ-12,Authority Verification,All inputs must be verified as authoritative before use in closure,All inputs,Strict,None,No unverified inputs allowed

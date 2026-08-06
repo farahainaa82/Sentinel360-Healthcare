@@ -1,0 +1,19 @@
+criterion_id,criterion_name,status,assessment_method,evidence_reference,governance_note
+EC-Phase_2D_manifest_va,Phase 2D manifest valid,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-Frozen_checksums_ver,Frozen checksums verified,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-646_packages_reconci,646 packages reconciled,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-No_orphan_package,No orphan package,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-No_unresolved_focuse,No unresolved focused correction,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-Streamlit_datasets_c,Streamlit datasets created,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-Page_contracts_creat,Page contracts created,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-Filter_contracts_cre,Filter contracts created,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-Management_action_fi,Management action fields remain blank,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-Approval_statuses_re,Approval statuses remain Pending Management Review,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-No_selected_scenario,No selected scenario,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-No_selected_action,No selected action,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-No_executed_audit_ev,No executed audit event,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-Evidence_and_lineage,Evidence and lineage available,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-Conditions_remain_vi,Conditions remain visible,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-Phase_3_ownership_as,Phase 3 ownership assigned,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-Core-demo_priorities,Core-demo priorities identified,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure
+EC-Handover_documentati,Handover documentation completed,Pass,Automated verification,Step 2D-9 closure outputs,Automated check during Phase 2D-9 closure

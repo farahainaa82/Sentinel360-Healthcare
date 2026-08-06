@@ -1,0 +1,44 @@
+rule_id,layer,check_name,description,severity,blocking,enabled,engine_module
+R001,File,extension_supported,File extension must be csv xls xlsx,Error,True,True,streamlit_file_validator.py
+R002,File,non_empty,File must not be empty,Error,True,True,streamlit_file_validator.py
+R003,File,readable,File must be readable,Error,True,True,streamlit_file_validator.py
+R004,File,valid_encoding,File must have valid encoding,Error,True,True,streamlit_file_validator.py
+R005,File,not_password_protected,Excel files must not be password protected,Error,True,True,streamlit_file_validator.py
+R006,File,not_corrupted,File must not be corrupted,Error,True,True,streamlit_file_validator.py
+R007,Schema,required_columns_present,All required columns must be present,Error,True,True,streamlit_schema_validator.py
+R008,Schema,duplicate_columns,Duplicate column names are not allowed,Error,True,True,streamlit_schema_validator.py
+R009,Schema,unnamed_columns,Unnamed columns must be flagged,Warning,False,True,streamlit_schema_validator.py
+R010,DataType,numeric_columns,Numeric columns must contain valid numbers,Error,True,True,streamlit_datatype_validator.py
+R011,DataType,date_columns,Date columns must contain valid dates,Error,True,True,streamlit_datatype_validator.py
+R012,DataType,categorical_columns,Categorical columns must be non-empty strings,Warning,False,True,streamlit_datatype_validator.py
+R013,DataType,boolean_columns,Boolean columns must be valid booleans,Warning,False,True,streamlit_datatype_validator.py
+R014,Quality,missing_values,Missing values must be reported,Warning,False,True,streamlit_quality_validator.py
+R015,Quality,blank_strings,Blank strings must be reported,Warning,False,True,streamlit_quality_validator.py
+R016,Quality,duplicate_records,Duplicate records must be detected,Warning,False,True,streamlit_quality_validator.py
+R017,Quality,duplicate_identifiers,Duplicate primary identifiers must be detected,Error,True,True,streamlit_identifier_validator.py
+R018,Quality,invalid_categories,Invalid categories must be flagged,Warning,False,True,streamlit_quality_validator.py
+R019,Quality,extreme_values,Extreme values must be flagged,Warning,False,True,streamlit_value_range_validator.py
+R020,Quality,invalid_dates,Invalid dates must be flagged,Error,True,True,streamlit_date_validator.py
+R021,Quality,future_dates,Future dates beyond configured range must be flagged,Warning,False,True,streamlit_date_validator.py
+R022,Referential,staff_in_roster,Staff IDs must exist in Staff Roster,Error,False,True,streamlit_referential_validator.py
+R023,Referential,department_exists,Department must exist in department reference,Warning,False,True,streamlit_referential_validator.py
+R024,Referential,hospital_exists,Hospital must exist in hospital reference,Warning,False,True,streamlit_referential_validator.py
+R025,Referential,kpi_exists,KPI IDs must exist in governed KPI catalogue,Error,False,True,streamlit_referential_validator.py
+R026,Referential,scenario_exists,Scenario family must exist in governed scenario catalogue,Warning,False,True,streamlit_referential_validator.py
+R027,Temporal,date_range,Date range must be within configured analysis window,Warning,False,True,streamlit_date_validator.py
+R028,Temporal,date_sequence,Invalid date sequences must be flagged,Warning,False,True,streamlit_date_validator.py
+R029,Temporal,duplicate_periods,Duplicate reporting periods must be flagged,Warning,False,True,streamlit_date_validator.py
+R030,Temporal,date_gaps,Gaps in expected dates must be flagged,Warning,False,True,streamlit_date_validator.py
+R031,Governance,sensitive_columns,Dataset must not contain unexpected sensitive columns,Warning,False,True,streamlit_governance_validator.py
+R032,Governance,unapproved_schema_change,Schema changes must be approved,Warning,False,True,streamlit_governance_validator.py
+R033,Governance,unsupported_identifier,Unsupported identifier formats must be flagged,Warning,False,True,streamlit_governance_validator.py
+R034,Quality,negative_beds_not_applicable,Negative beds check not applicable for this dataset,Informational,False,True,streamlit_value_range_validator.py
+R035,Quality,beds_total_non_negative,beds_total must be >= 0,Error,True,True,streamlit_value_range_validator.py
+R036,Quality,beds_occupied_non_negative,beds_occupied must be >= 0,Error,True,True,streamlit_value_range_validator.py
+R037,Quality,beds_occupied_not_exceed_total,beds_occupied must not exceed beds_total,Error,True,True,streamlit_value_range_validator.py
+R038,Quality,arrivals_non_negative,arrivals must be >= 0,Error,True,True,streamlit_value_range_validator.py
+R039,Quality,avg_wait_non_negative,avg_wait_min must be >= 0,Error,True,True,streamlit_value_range_validator.py
+R040,Quality,n_responses_non_negative,n_responses must be >= 0,Error,True,True,streamlit_value_range_validator.py
+R041,Quality,satisfaction_in_range,satisfaction_score must remain within governed scale,Warning,False,True,streamlit_value_range_validator.py
+R042,Quality,severity_governed,severity must map to governed categories,Warning,False,True,streamlit_quality_validator.py
+R043,Quality,date_valid,complaint dates must be valid,Error,True,True,streamlit_date_validator.py

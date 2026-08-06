@@ -1,0 +1,15 @@
+processing_run_id,event,detail,timestamp
+PROC-QCS-92010F32B162,Validation Gate Checked,Passed — No blocking reason,2026-07-26T08:37:02.103366
+PROC-QCS-92010F32B162,Patient Queue Records Source Loaded,1095 rows,2026-07-26T08:37:02.108768
+PROC-QCS-92010F32B162,Bed Capacity Records Source Loaded,1095 rows,2026-07-26T08:37:02.115020
+PROC-QCS-92010F32B162,Service Schedule Source Loaded,8760 rows,2026-07-26T08:37:02.140119
+PROC-QCS-92010F32B162,Queue Transformation Started,1095 source rows,2026-07-26T08:37:02.140656
+PROC-QCS-92010F32B162,Queue Transformation Completed,"1095 rows, 0 excluded",2026-07-26T08:37:02.174332
+PROC-QCS-92010F32B162,Bed Capacity Transformation Started,1095 source rows,2026-07-26T08:37:02.174542
+PROC-QCS-92010F32B162,Bed Capacity Transformation Completed,"1095 rows, 0 excluded",2026-07-26T08:37:02.191805
+PROC-QCS-92010F32B162,Service Schedule Transformation Started,8760 source rows,2026-07-26T08:37:02.191922
+PROC-QCS-92010F32B162,Service Schedule Transformation Completed,"8760 rows, 0 excluded",2026-07-26T08:37:02.290281
+PROC-QCS-92010F32B162,Lineage Built for patient_queue_records,1095 records,2026-07-26T08:37:02.357702
+PROC-QCS-92010F32B162,Lineage Built for bed_capacity_records,1095 records,2026-07-26T08:37:02.422389
+PROC-QCS-92010F32B162,Lineage Built for service_schedule,8760 records,2026-07-26T08:37:02.940069
+PROC-QCS-92010F32B162,Issues Collected,1349 issues,2026-07-26T08:37:02.946484

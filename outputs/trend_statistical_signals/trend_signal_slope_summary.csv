@@ -1,0 +1,15 @@
+kpi_id,signal_method,signal_type,count
+kpi_001,trend_slope,Sustained Decrease,1475
+kpi_001,trend_slope,Sustained Increase,1405
+kpi_002,trend_slope,Sustained Decrease,1338
+kpi_002,trend_slope,Sustained Increase,1542
+kpi_003,trend_slope,Sustained Decrease,467
+kpi_003,trend_slope,Sustained Increase,613
+kpi_004,trend_slope,Sustained Decrease,492
+kpi_004,trend_slope,Sustained Increase,588
+kpi_005,trend_slope,No Signal,1
+kpi_005,trend_slope,Sustained Decrease,441
+kpi_005,trend_slope,Sustained Increase,527
+kpi_006,trend_slope,No Signal,2
+kpi_006,trend_slope,Sustained Decrease,1228
+kpi_006,trend_slope,Sustained Increase,1113

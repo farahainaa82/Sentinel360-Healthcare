@@ -1,0 +1,1217 @@
+decision_package_id,issue_type,issue_description,severity,visibility_rule
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260108,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260108,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260116,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260116,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260209,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260209,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260328,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260410,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260420,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260420,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260506,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260602,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260602,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260608,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260608,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260721,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260721,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260726,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260726,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260822,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261012,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261021,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261127,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261127,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261205,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261220,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261220,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260202,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260202,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260206,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260206,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260330,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260330,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260409,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260409,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260524,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260529,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260611,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260620,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260620,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260624,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260624,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260710,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260710,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260716,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260716,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260814,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260925,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260925,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261019,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261102,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261102,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261114,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261114,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261121,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261214,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261214,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261225,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261225,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260130,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260130,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260214,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260214,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260325,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260325,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260404,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260404,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260408,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260408,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260413,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260413,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260424,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260424,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260509,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260509,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260618,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260618,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260623,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260623,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260629,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260629,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260703,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260703,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260709,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260709,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260719,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260719,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260809,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260809,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260824,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260824,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260904,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260904,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260923,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260923,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260928,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260928,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261007,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261007,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261023,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261023,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261027,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261027,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261202,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261202,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261218,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261218,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260108,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260401,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260401,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260417,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260423,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260507,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260507,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260511,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260511,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260520,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260606,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260606,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260610,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260610,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260619,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260619,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260704,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260704,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260723,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260723,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260804,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260804,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260810,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260810,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260901,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260901,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260912,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260912,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261023,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261031,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261031,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261108,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261108,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260122,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260328,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260328,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260409,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260409,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260422,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260422,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260426,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260515,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260515,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260521,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260521,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260615,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260615,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260621,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260621,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260626,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260626,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260720,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260720,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260727,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260727,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260910,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260910,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260915,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260915,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260921,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260930,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261015,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261019,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261019,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261027,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261027,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261111,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261111,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261115,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261115,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261126,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261126,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261202,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261207,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261207,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261227,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261227,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260402,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260402,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260412,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260412,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260421,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260421,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260428,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260428,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260531,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260531,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260614,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260614,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260707,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260707,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260107,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260107,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260116,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260116,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260123,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260123,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260130,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260130,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260207,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260207,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260213,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260213,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260220,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260220,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260302,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260302,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260317,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260317,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260324,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260324,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260410,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260410,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260420,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260420,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260506,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260506,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260528,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260528,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260629,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260629,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260817,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260817,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260830,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260830,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260904,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260904,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260911,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260911,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260923,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260923,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261003,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261003,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261009,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261009,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261014,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261014,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261026,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261026,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261102,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261102,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261119,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261119,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261125,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261125,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261205,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261205,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261209,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261209,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261219,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261219,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260126,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260126,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260218,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260218,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260224,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260224,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260319,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260319,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260331,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260331,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260416,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260416,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260425,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260425,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260504,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260504,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260523,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260523,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260611,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260611,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260702,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260702,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260728,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260728,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260813,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260813,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260828,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260828,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260902,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260902,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260920,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260920,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260925,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260925,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261007,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261007,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261025,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261025,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261114,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261114,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261206,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261206,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260107,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260107,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260201,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260201,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260211,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260211,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260303,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260303,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260319,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260319,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260402,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260402,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260502,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260502,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260509,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260509,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260522,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260531,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260531,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260604,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260604,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260624,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260624,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260705,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260705,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260713,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260713,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260727,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260727,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260930,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261008,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261008,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261014,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261014,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261101,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261101,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261113,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261227,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261227,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260106,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260106,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260207,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260207,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260310,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260310,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260421,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260421,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260425,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260425,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260521,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260521,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260603,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260603,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260610,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260610,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260614,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260614,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260626,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260626,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260707,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260707,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260818,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260818,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260923,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260923,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261005,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261013,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261013,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261026,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261026,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261102,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261109,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261127,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261212,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261212,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261217,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261217,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260404,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260404,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260413,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260413,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260427,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260427,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260503,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260503,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260508,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260508,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260601,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260601,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260606,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260606,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260716,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260209,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260209,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260216,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260216,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260312,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260312,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260510,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260510,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260719,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260719,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260913,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260913,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260917,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260917,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20261116,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20261116,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260128,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260128,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260309,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260309,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260318,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260318,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260323,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260323,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260330,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260330,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260412,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260412,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260702,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260702,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260712,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260712,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260731,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260731,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260805,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260805,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260902,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260902,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260909,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260909,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260914,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260914,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260921,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260921,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261004,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261004,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261111,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261111,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261118,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261118,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261129,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261129,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261203,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261203,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261210,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261210,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261224,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261224,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260106,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260106,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260114,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260114,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260211,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260211,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260216,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260216,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260323,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260323,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260407,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260407,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260426,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260426,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260505,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260505,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260513,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260513,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260528,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260612,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260612,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260707,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260707,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260801,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260801,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260830,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260830,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260914,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260914,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260922,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261105,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261105,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261111,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261111,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261130,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261130,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261227,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261227,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260109,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260109,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260126,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260219,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260219,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260227,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260227,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260305,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260305,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260315,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260315,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260406,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260406,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260422,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260422,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260429,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260429,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260522,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260530,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260530,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260615,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260630,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260630,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260718,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260818,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260818,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260911,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260911,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261014,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261014,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261019,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261019,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261026,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261026,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261118,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261118,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261129,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261129,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261207,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261213,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261213,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261217,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261217,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261231,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261231,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260107,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260107,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260121,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260121,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260128,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260128,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260202,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260202,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260208,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260208,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260218,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260218,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260307,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260307,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260322,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260322,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260326,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260326,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260415,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260415,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260428,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260428,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260527,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260527,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260604,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260604,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260620,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260620,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260708,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260708,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260804,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260804,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260821,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260821,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260828,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260828,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260901,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260901,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260912,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260912,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260926,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260926,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261001,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261001,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261007,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261007,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261020,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261020,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261025,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261025,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261101,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261101,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261109,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261109,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261125,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261125,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261202,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261202,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261211,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261211,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261215,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261215,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261219,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261219,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261224,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261224,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260215,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260215,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260403,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260403,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260411,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260411,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260509,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260509,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260515,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260515,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260603,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260603,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260619,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260619,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260623,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260623,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260628,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260628,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260716,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260716,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260725,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260725,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260730,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260730,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260809,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260809,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260824,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260824,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260903,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260903,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260910,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260910,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261012,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261012,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261022,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261022,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261112,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261112,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261117,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261117,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261126,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261126,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261205,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261205,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261216,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261216,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261220,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261220,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260116,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260116,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260208,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260208,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260330,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260330,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260408,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260408,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260421,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260421,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260502,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260605,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260605,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260616,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260616,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260717,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260717,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260723,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260723,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260728,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260728,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260916,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261008,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261008,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261102,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261102,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261107,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261107,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261219,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261219,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261228,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261228,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260128,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260128,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260209,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260222,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260222,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260322,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260322,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260403,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260403,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260411,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260411,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260505,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260601,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260608,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260608,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260617,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260617,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260624,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260701,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260701,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260709,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260709,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260802,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260802,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20261111,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20261111,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260405,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260405,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260412,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260412,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260429,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260429,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260506,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260506,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260510,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260510,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260519,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260519,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260527,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260527,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260621,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260621,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260626,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260626,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260704,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260704,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260711,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260711,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260715,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260715,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260722,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260722,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260731,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260731,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260224,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260224,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260313,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260313,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260410,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260410,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260418,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260418,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260428,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260428,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260503,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260503,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260522,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260522,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260603,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260603,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260619,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260619,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260629,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260629,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260703,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260703,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260710,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260710,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260719,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260719,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260726,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260726,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260903,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260903,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261001,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261001,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261012,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261012,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261025,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261025,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261120,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261120,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261125,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261125,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261129,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261129,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261212,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261212,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261216,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261216,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261226,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261226,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260107,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260107,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260122,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260122,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260305,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260305,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260314,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260314,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260325,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260325,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260331,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260331,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260405,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260405,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260417,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260417,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260423,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260423,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260428,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260428,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260517,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260517,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260530,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260530,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260616,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260616,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260622,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260706,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260706,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260815,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260815,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260823,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260823,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260830,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260830,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260929,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260929,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261008,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261008,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261017,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261017,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261029,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261029,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261110,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261110,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261116,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261116,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261128,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261128,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261203,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261203,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261209,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261209,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261214,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261214,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261219,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261219,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261223,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260118,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260319,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260319,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260404,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260404,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260414,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260414,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260421,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260504,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260504,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260704,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260826,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260826,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260926,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260926,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261009,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261030,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261112,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261112,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261121,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261121,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261226,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260402,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260402,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260410,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260410,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260420,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260420,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260430,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260430,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260505,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260505,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260509,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260602,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260619,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260619,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260629,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260709,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260709,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260716,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260721,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260518,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260518,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260526,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260526,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260624,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260624,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260728,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260728,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260808,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260808,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260921,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260921,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20261002,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20261002,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20261225,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20261225,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260119,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260119,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260129,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260129,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260211,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260211,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260401,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260401,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260415,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260415,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260425,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260425,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260523,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260523,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260601,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260601,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260606,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260606,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260715,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260715,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260719,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260719,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260802,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260802,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260818,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260818,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261020,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261020,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261102,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261102,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261117,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261117,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261204,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261204,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261215,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261215,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260111,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260111,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260115,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260115,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260203,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260203,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260207,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260207,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260212,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260212,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260326,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260326,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260413,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260413,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260421,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260502,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260502,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260510,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260510,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260515,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260515,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260521,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260623,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260623,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260710,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260727,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260727,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260813,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260813,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260915,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261024,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261024,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261110,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261110,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261229,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261229,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260103,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260103,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260209,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260221,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260221,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260302,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260328,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260328,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260406,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260416,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260416,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260424,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260424,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260430,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260430,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260519,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260529,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260529,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260603,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260603,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260613,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260704,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260704,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260708,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260708,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260719,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260719,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260728,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260911,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260911,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260925,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260925,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261010,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261010,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261018,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261018,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261025,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261025,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261104,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261104,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261214,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261214,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260121,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260121,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260202,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260202,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260215,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260215,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260301,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260301,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260306,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260306,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260314,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260314,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260321,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260321,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260401,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260401,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260417,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260417,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260422,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260422,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260427,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260427,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260506,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260506,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260522,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260522,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260604,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260604,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260609,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260609,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260702,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260702,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260805,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260805,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260811,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260811,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260823,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260823,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261003,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261003,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261028,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261028,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261231,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261231,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260127,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260127,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260131,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260131,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260209,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260209,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260301,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260301,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260305,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260311,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260311,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260401,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260401,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260411,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260411,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260415,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260415,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260429,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260429,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260504,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260504,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260517,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260517,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260521,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260521,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260529,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260529,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260606,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260606,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260613,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260613,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260618,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260618,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260702,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260702,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260709,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260709,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260726,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260726,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260802,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260802,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260822,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260822,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260903,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260903,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260916,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260916,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260929,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260929,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261020,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261020,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261026,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261026,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261111,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261111,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261127,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261127,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261203,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261203,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260120,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260120,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260125,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260125,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260214,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260226,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260226,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260304,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260314,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260314,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260319,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260319,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260422,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260422,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260502,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260502,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260509,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260602,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260602,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260621,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260621,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260704,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260704,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260724,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260724,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260824,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260824,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260908,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260912,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260912,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261004,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261018,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261030,No Outstanding Condition,No outstanding conditions,None,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261219,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261219,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261230,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261230,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260407,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260407,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260516,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260516,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260526,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260526,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260530,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260530,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260604,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260604,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260608,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260608,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260623,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260623,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260627,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260627,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260708,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260708,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260714,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260714,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260730,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260730,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260217,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260217,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260223,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260223,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260414,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260414,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260428,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260428,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260609,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260609,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260701,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260701,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260705,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260705,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260727,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260727,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260731,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260731,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260814,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260814,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260906,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260906,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260914,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260914,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260927,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260927,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261005,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261005,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261009,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261009,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261105,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261105,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261117,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261117,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261121,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261121,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261202,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261202,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261208,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261208,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261214,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261214,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261226,Display Condition,Validation outcome: Validated with Conditions,Medium,Always visible
+DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261226,Scenario Condition,scenario:ready_review_scenario_present,Medium,Always visible

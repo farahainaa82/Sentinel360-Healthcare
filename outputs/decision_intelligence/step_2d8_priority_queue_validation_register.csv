@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-PQ-001,priority_view_row_count,646,646.0,PASS,
+VA-PQ-002,queue_brief_row_count,646,646.0,PASS,
+VA-PQ-003,escalation_queue_assigned,varies,,PASS,escalation_queue column not present

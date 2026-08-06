@@ -1,0 +1,9 @@
+config_key,config_value
+max_table_rows,100
+cache_ttl_seconds,300
+checksum_validation,True
+enable_pagination,True
+page_size,20
+enable_top_n_risks,True
+top_n_default,10
+log_level,INFO

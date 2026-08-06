@@ -1,0 +1,81 @@
+{
+  "processing_run_id": "PROC-PEX-8337749CCBE7",
+  "validation_run_id": "VAL-C62B370EC6C3",
+  "source_type": "processed_synthetic_demo",
+  "source_directory": "data\\demo",
+  "output_directory": "data\\processed",
+  "log_directory": "outputs\\logs",
+  "processing_started_datetime": "2026-07-26T22:04:47.774645",
+  "processing_completed_datetime": "2026-07-26T22:05:03.102824",
+  "engine_version": "2D-4.0",
+  "transformation_version": "2D-4.0",
+  "configuration_version": "2D-4.0",
+  "input_datasets": [
+    "patient_complaints",
+    "patient_surveys"
+  ],
+  "output_datasets": [
+    "processed_patient_complaints.csv",
+    "processed_patient_surveys.csv",
+    "processed_patient_experience_daily.csv"
+  ],
+  "input_record_counts": {
+    "patient_complaints": 1465,
+    "patient_surveys": 5244
+  },
+  "output_record_counts": {
+    "processed_patient_complaints": 1465,
+    "processed_patient_surveys": 5244,
+    "processed_patient_experience_daily": 2621
+  },
+  "exclusion_count": 0,
+  "issue_counts_by_severity": {},
+  "warning_count": 0,
+  "error_count": 0,
+  "run_status": "success",
+  "processing_allowed_flag": true,
+  "input_checksums": {
+    "patient_complaints.csv": "4a3f9430e969cdb6c67c257f45e535f0fc87d0e13638d13fab35e2f14d6f5749",
+    "patient_surveys.csv": "abda74db75741729279c403e66181b5464451fc12af22b76e43e6e8dc8d1e58b"
+  },
+  "output_checksums": {
+    "processed_patient_complaints.csv": "cc0d7b547281fcb533cb5f16a3419f5372644cfff4399ccead974a476f48b57f",
+    "processed_patient_surveys.csv": "baa11611c03683d019c6cfb00c545202e6d48fbd89140d3e9c1c334e681ba056",
+    "processed_patient_experience_daily.csv": "acf8e3fc88992317f82fa52431510728a6c5ffc72606c51abab13cd93321e7d4"
+  },
+  "output_files": [
+    "processed_patient_complaints.csv",
+    "processed_patient_surveys.csv",
+    "processed_patient_experience_daily.csv",
+    "patient_experience_processing_run_manifest.json",
+    "patient_experience_processing_dataset_summary.csv",
+    "patient_experience_processing_issue_log.csv",
+    "patient_experience_processing_record_issue_log.csv",
+    "patient_experience_processing_lineage.csv",
+    "patient_experience_processing_exclusion_register.csv",
+    "patient_experience_processing_audit_log.csv",
+    "patient_experience_processing_relationship_summary.csv"
+  ],
+  "unresolved_rules": [
+    "official complaint-rate denominator: Pending Review",
+    "complaint inclusion and exclusion rules for official KPI: Pending Review",
+    "whether reopened complaints count once or multiple times: Pending Review",
+    "official complaint severity weighting: Pending Review",
+    "official complaint status treatment: Pending Review",
+    "official satisfaction-score scale: Pending Review",
+    "satisfaction-score normalisation method: Pending Review",
+    "satisfaction-score weighting by response count: Pending Review",
+    "minimum survey response threshold: Pending Review",
+    "handling of mixed survey scales: Pending Review",
+    "official KPI reporting grain: Pending Review",
+    "treatment of missing departments: Pending Review",
+    "treatment of anonymous surveys: Pending Review",
+    "relationship between survey responses and encounters: Pending Review"
+  ],
+  "known_limitations": [
+    "Survey channel not present in source \u2014 survey_channel is null.",
+    "Survey score normalisation not applied \u2014 scale rules unresolved."
+  ],
+  "inputs_unchanged": true,
+  "prior_processed_datasets_unchanged": true
+}

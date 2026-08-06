@@ -1,0 +1,28 @@
+{
+  "processing_run_id": null,
+  "validation_run_id": null,
+  "input_directory": null,
+  "output_directory": null,
+  "processing_started_datetime": null,
+  "processing_completed_datetime": null,
+  "engine_version": null,
+  "transformation_version": null,
+  "configuration_version": null,
+  "source_datasets": [],
+  "processed_datasets": [],
+  "source_record_count": null,
+  "processed_record_count": null,
+  "excluded_record_count": null,
+  "warning_count": null,
+  "error_count": null,
+  "run_status": null,
+  "processing_allowed_flag": null,
+  "source_checksums": {},
+  "processed_checksums": {},
+  "output_files": [],
+  "known_limitations": [
+    "Template only — values populated during actual processing run.",
+    "Processing layer does not calculate official KPIs.",
+    "Manual overrides require explicit approval workflow outside this engine."
+  ]
+}

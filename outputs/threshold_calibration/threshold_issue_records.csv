@@ -1,0 +1,5 @@
+issue_record_id,kpi_id,issue_category,issue_severity,issue_description,recommended_action,blocking,calibration_run_id,created_at
+ISS-DEBF82E9BC48,kpi_003,Shortlisting,Info,Duplicate boundary skipped for kpi_003_Percentile-Based_Calibration_Sensitive,,False,THCAL-8A658BEE5A67,2026-07-27T18:21:51.271436
+ISS-4114C7D49F13,kpi_005,Candidate Validation,Warning,Invalid candidate kpi_005_Median_and_MAD_Calibration_Conservative for kpi_005: Green lower (0.0) >= green upper (0.0).,,False,THCAL-8A658BEE5A67,2026-07-27T18:21:51.297956
+ISS-E069CC4BBC1E,kpi_005,Candidate Validation,Warning,Invalid candidate kpi_005_Median_and_MAD_Calibration_Balanced for kpi_005: Green lower (0.0) >= green upper (0.0).,,False,THCAL-8A658BEE5A67,2026-07-27T18:21:51.297979
+ISS-45DC631D95D6,kpi_005,Candidate Validation,Warning,Invalid candidate kpi_005_Median_and_MAD_Calibration_Sensitive for kpi_005: Green lower (0.0) >= green upper (0.0).,,False,THCAL-8A658BEE5A67,2026-07-27T18:21:51.297991

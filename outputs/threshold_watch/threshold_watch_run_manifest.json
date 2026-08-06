@@ -1,0 +1,75 @@
+{
+  "run_id": "THBREACHWATCH-20260727213903",
+  "step": "2B-2",
+  "processed_at": "2026-07-27T21:39:03.477840",
+  "total_source_records": 17520,
+  "governed_output_records": 17520,
+  "classifiable_calculated_records": 11397,
+  "unavailable_unclassifiable_records": 6123,
+  "governed_breach_output_records": 17520,
+  "actual_breach_events": 2464,
+  "governed_watch_output_records": 17520,
+  "actual_watch_conditions": 9120,
+  "daily_summaries": 2920,
+  "issues": 0,
+  "upstream_checksums": {
+    "config/kpi_threshold_config.csv": "29addaf81430734f16e434e022c3d7a98c5ff1a25d2ed4e70f718b27cfd5b2d0",
+    "config/kpi_threshold_stakeholder_decisions.csv": "ddea248ef5c44301fc2f8c8e26dbbf201fbd885ab3b1ef3fed6b1937399ccea3",
+    "data/analytical/analytical_six_kpi_daily.csv": "32bf96724283c015ac478198528a6ffa05ef6538bc63fe8c66739342935650d7",
+    "data/analytical/analytical_kpi_trend_signals.csv": "60cf1bf721d203ee566fdfe285ef832fd44cc1f795001b5b7f3ee247de712a1a",
+    "data/analytical/analytical_kpi_sustained_movements.csv": "3e5cf65a15c4cfb9d4331b2cde11554c7564c323a72ce73f1d21151aa2b546c0"
+  },
+  "test_results": {
+    "test_file": "tests/test_threshold_breach_watch_engine.py",
+    "total_tests": 22,
+    "passed": 22,
+    "failed": 0,
+    "skipped": 0,
+    "runtime_seconds": 1735,
+    "runtime_formatted": "0:28:55",
+    "execution_mode": "pytest -vv -x",
+    "test_strategy": "Each test independently reloads inputs and re-runs engine logic to guarantee isolation",
+    "status": "ALL_TESTS_PASSED"
+  },
+  "performance_observation": {
+    "observation": "Long runtime observed (~29 minutes for 22 tests)",
+    "severity": "Non-blocking",
+    "root_cause": "Each test independently reloads all inputs and re-runs full breach and watch engine logic over 17,520 records",
+    "impact": "Does not affect correctness, analytical outputs, or closure readiness"
+  },
+  "future_optimization_opportunities": [
+    "Shared module-scoped or session-scoped pytest fixtures for input datasets",
+    "Cached input datasets loaded once per test session",
+    "Reuse classified outputs between tests instead of recomputing",
+    "Avoid repeated full-directory checksum scans in immutability tests",
+    "Separate slow integration tests from fast unit tests using pytest markers"
+  ],
+  "record_reconciliation": {
+    "source_records": 17520,
+    "classifiable_records": 11397,
+    "unavailable_records": 6123,
+    "reconciliation_check": "11397 + 6123 = 17520",
+    "status": "PASS"
+  },
+  "terminology_clarification": {
+    "governed_breach_output_records": "All 17,520 source records receive a governed breach classification output",
+    "actual_breach_events": "Only 2,464 records where breach_flag == True (subset of governed output)",
+    "governed_watch_output_records": "All 17,520 source records receive a governed watch evaluation output",
+    "actual_watch_conditions": "Only 9,120 records where watch_condition_flag == True (subset of governed output)"
+  },
+  "evidence_and_lineage_validation": {
+    "evidence_outputs_generated": true,
+    "lineage_outputs_generated": true,
+    "governance_outputs_generated": true,
+    "status": "PASS"
+  },
+  "upstream_immutability": {
+    "verified": true,
+    "method": "SHA-256 checksums before and after engine execution",
+    "files_monitored": 5,
+    "modifications_detected": 0,
+    "status": "PASS"
+  },
+  "step_2b2_status": "COMPLETE",
+  "step_2b3_readiness": "Ready with Conditions"
+}

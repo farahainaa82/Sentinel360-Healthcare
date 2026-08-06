@@ -1,0 +1,7 @@
+readiness_record_id,kpi_id,kpi_name,stakeholder_decision,promotion_readiness,readiness_reason,missing_fields,decision_valid,candidate_valid,boundary_valid,approver_valid,date_valid,conditional_requirements_met,promotion_run_id,created_at
+RDY-CFB06ECEC622,kpi_001,Staffing Level,Approve Candidate,Ready for Promotion,Decision valid and complete.,,True,True,True,True,True,False,THAPP-32EDF6F03C19,2026-07-27T20:24:05.823682
+RDY-F3E73B1172C1,kpi_002,Staff Absenteeism Rate,Approve Candidate,Ready for Promotion,Decision valid and complete.,,True,True,True,True,True,False,THAPP-32EDF6F03C19,2026-07-27T20:24:05.825250
+RDY-8DC25064BCDE,kpi_003,Bed Occupancy Rate,Conditional Approval,Ready for Conditional Promotion,Conditional approval valid; provisional promotion permitted.,,True,True,True,True,True,True,THAPP-32EDF6F03C19,2026-07-27T20:24:05.826547
+RDY-B913FE42FB28,kpi_004,Average Patient Waiting Time,Approve Candidate,Ready for Promotion,Decision valid and complete.,,True,True,True,True,True,False,THAPP-32EDF6F03C19,2026-07-27T20:24:05.827729
+RDY-C20DEB518782,kpi_005,Patient Complaint Rate,Conditional Approval,Ready for Conditional Promotion,Conditional approval valid; provisional promotion permitted.,,True,True,True,True,True,True,THAPP-32EDF6F03C19,2026-07-27T20:24:05.828925
+RDY-C1373E3147CF,kpi_006,Patient Satisfaction Score,Approve Candidate,Ready for Promotion,Decision valid and complete.,,True,True,True,True,True,False,THAPP-32EDF6F03C19,2026-07-27T20:24:05.830347

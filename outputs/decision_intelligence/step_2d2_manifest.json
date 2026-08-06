@@ -1,0 +1,85 @@
+{
+  "phase": "2D-2",
+  "phase_name": "Decision Package Integration",
+  "execution_timestamp": "2026-07-29T10:28:15.049720",
+  "authority_verification_passed": true,
+  "governance_validation_passed": true,
+  "upstream_phase": "2D-1",
+  "outputs": {
+    "step_2d2_authoritative_input_register.csv": {
+      "checksum": "58154e397ca085f85213edf8991eb985e46651e3e52f7c89cae3758b216e0bc8",
+      "row_count": 15
+    },
+    "step_2d2_decision_package_completeness_register.csv": {
+      "checksum": "a7391785e86560ce6c0143b442dd19050c804d342a39ed5337aa6ec02f9a3be4",
+      "row_count": 646
+    },
+    "step_2d2_decision_package_narrative_register.csv": {
+      "checksum": "46b9afd5095635e1dc81acb9173595b036d1f771cdf259793084eea2715221bd",
+      "row_count": 646
+    },
+    "step_2d2_decision_package_readiness_register.csv": {
+      "checksum": "c73902d2f5defdd7ec52878851ca4f21908521a3fcb503eff9e104a0954cc0ac",
+      "row_count": 646
+    },
+    "step_2d2_decision_package_register.csv": {
+      "checksum": "a8c7435139e4181e38616b1548f60074987a839d852f73790cf2b70116591fd8",
+      "row_count": 646
+    },
+    "step_2d2_decision_package_section_register.csv": {
+      "checksum": "46d762512ba7107a59038c456fabd482fc0366b4fd22dcbba867a45441a5e312",
+      "row_count": 646
+    },
+    "step_2d2_deferred_non_ready_register.csv": {
+      "checksum": "c8d55476234a82b61ed0739f40dc4a2d430ed85348ab46730649c989a07e764e",
+      "row_count": 0
+    },
+    "step_2d2_evidence_register.csv": {
+      "checksum": "7433b6865259a4c34b57538d4d2953dac2524a6189188087dadc5b5bc1fedf4d",
+      "row_count": 646
+    },
+    "step_2d2_export_contract_register.csv": {
+      "checksum": "15a9b8b2f2da61c68a21510b9164272941cbab1f2d091bc19684f1a234c7622e",
+      "row_count": 3876
+    },
+    "step_2d2_governance_register.csv": {
+      "checksum": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "row_count": 0
+    },
+    "step_2d2_issue_register.csv": {
+      "checksum": "effd1378aea50c3078fc2fe83708b8aea1d344596a2bd2e7cfafc46b41145bf9",
+      "row_count": 0
+    },
+    "step_2d2_lineage_register.csv": {
+      "checksum": "79f47f016ec1d7a2066af49802656d0b78265a2e290dfc13c529f9b9776ffbcb",
+      "row_count": 646
+    },
+    "step_2d2_management_action_register.csv": {
+      "checksum": "3d0a1a1c52d236f648f50c24173fafd847e31df946821868e8a1a4f6c09516bb",
+      "row_count": 7106
+    },
+    "step_2d2_management_question_register.csv": {
+      "checksum": "5367521c895ad70d23c0cc0e9ff4e0f912edfc2d311a8159acb5884914474d37",
+      "row_count": 1695
+    },
+    "step_2d2_monitoring_requirement_register.csv": {
+      "checksum": "d6c154d6c8cfc30bc76dd6ee01754d497f1adb854f932238721df702b116c6a4",
+      "row_count": 637
+    },
+    "step_2d2_priority_view_register.csv": {
+      "checksum": "08e39215be9ef5fa0749a4d3d0a356d94d717b2af3cabbcbc9758012b9a5f5e9",
+      "row_count": 646
+    },
+    "step_2d2_required_confirmation_register.csv": {
+      "checksum": "bd8af9e5646211a6a6411c729a5443cf13dc0c80ff7890082f00ac858ec1c046",
+      "row_count": 1314
+    }
+  },
+  "governance_confirmations": {
+    "no_preferred_scenario": true,
+    "no_management_approval": true,
+    "causality_not_confirmed": true,
+    "financial_values_unchanged": true,
+    "scenario_values_unchanged": true
+  }
+}

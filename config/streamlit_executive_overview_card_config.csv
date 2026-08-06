@@ -1,0 +1,7 @@
+card_id,card_name,definition_source,status_field,filter_logic,display_order,colour_rule
+CARD_01,Packages Requiring Attention,management_attention_level in (Immediate Management Attention|Priority Management Review),management_attention_level,contains,1,red
+CARD_02,Critical and High Risk,risk_tier >= 70,risk_tier,>=,2,red
+CARD_03,Ready for Management Review,readiness_status = Ready for Integrated Management Review,readiness_status,equals,3,green
+CARD_04,Ready with Conditions,readiness_status = Ready with Conditions,readiness_status,equals,4,amber
+CARD_05,Monitoring Only,readiness_status = Monitoring Only,readiness_status,equals,5,green
+CARD_06,Pending Management Review,approval_status = Pending Management Review,approval_status,equals,6,amber

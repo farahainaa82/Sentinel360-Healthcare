@@ -1,0 +1,11 @@
+absence_mapping_id,absence_category,planned_absence_flag,operational_absenteeism_flag,staffing_unavailable_flag,include_in_absenteeism_numerator,stakeholder_validation_required,hospital_specific_flag,rule_status,rule_reference,configuration_version,effective_start_date,effective_end_date,active_flag,approval_status,created_datetime,updated_datetime
+acm_001,Sick Leave,false,true,true,true,false,false,Approved,B1,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+acm_002,Emergency Leave,false,true,true,true,true,false,Pending Stakeholder Validation,B2,v1.0-draft,2026-07-25,,true,Draft,2026-07-25T00:00:00,2026-07-25T00:00:00
+acm_003,Annual Leave,true,false,true,false,false,false,Approved,B3,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+acm_004,Unauthorised,false,true,true,true,false,false,Approved,B5,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+acm_005,Training,false,false,true,false,false,true,Approved,B4,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+acm_006,Reassigned,false,false,false,false,false,false,Approved,B7,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+acm_007,Not Scheduled,false,false,false,false,false,false,Approved,B6,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+acm_008,Other,false,false,false,false,false,true,Configurable Placeholder,,v1.0-draft,2026-07-25,,true,Draft,2026-07-25T00:00:00,2026-07-25T00:00:00
+acm_009,Not Applicable,false,false,false,false,false,false,Approved,,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+acm_010,Unknown,false,false,false,false,false,false,Approved,A6,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00

@@ -1,0 +1,15 @@
+setting,value,description
+enable_caching,True,Enable caching for schema and reference data
+cache_ttl_seconds,300,Cache time-to-live in seconds
+max_rows_preview,100,Maximum preview rows allowed
+max_rows_full_load,100000,Maximum rows for full validation load
+chunk_size,10000,Chunk size for large file processing
+use_vectorised_validation,True,Use vectorised pandas operations for validation
+max_issue_rows_per_file,5000,Maximum number of issue rows to store per file
+enable_checksum,True,Enable SHA-256 checksum generation
+enable_encoding_detection,True,Enable file encoding detection
+max_file_size_warn_mb,50,File size warning threshold in MB
+max_file_size_error_mb,200,File size error threshold in MB
+log_level,INFO,Application log level
+log_to_file,True,Write logs to local file
+log_file_path,logs/streamlit_upload.log,Log file path relative to project root

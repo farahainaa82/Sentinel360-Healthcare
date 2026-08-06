@@ -1,0 +1,49 @@
+hospital,department,department_code,kpi_id,kpi_name,valid_daily_observations,valid_historical_months,missing_rate,unit,unit_consistent,calculation_status,eligibility_status,limitation,required_additional_data
+HOSP-001,Administration,DEPT-ADM,kpi_001,Staffing Level,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Administration,DEPT-ADM,kpi_002,Staff Absenteeism Rate,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Diagnostic Services,DEPT-DIAG,kpi_001,Staffing Level,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Diagnostic Services,DEPT-DIAG,kpi_002,Staff Absenteeism Rate,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Emergency Department,DEPT-ED,kpi_001,Staffing Level,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Emergency Department,DEPT-ED,kpi_002,Staff Absenteeism Rate,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_001,Staffing Level,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_002,Staff Absenteeism Rate,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Medical Ward,DEPT-MED,kpi_001,Staffing Level,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Medical Ward,DEPT-MED,kpi_002,Staff Absenteeism Rate,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Outpatient Clinic,DEPT-OPC,kpi_001,Staffing Level,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Outpatient Clinic,DEPT-OPC,kpi_002,Staff Absenteeism Rate,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Patient Experience,DEPT-PEX,kpi_001,Staffing Level,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Patient Experience,DEPT-PEX,kpi_002,Staff Absenteeism Rate,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Surgical Ward,DEPT-SURG,kpi_001,Staffing Level,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Surgical Ward,DEPT-SURG,kpi_002,Staff Absenteeism Rate,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Administration,DEPT-ADM,kpi_003,Bed Occupancy Rate,0,0,1.0,Percent,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Diagnostic Services,DEPT-DIAG,kpi_003,Bed Occupancy Rate,0,0,1.0,Percent,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Emergency Department,DEPT-ED,kpi_003,Bed Occupancy Rate,0,0,1.0,Percent,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_003,Bed Occupancy Rate,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Medical Ward,DEPT-MED,kpi_003,Bed Occupancy Rate,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Outpatient Clinic,DEPT-OPC,kpi_003,Bed Occupancy Rate,0,0,1.0,Percent,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Patient Experience,DEPT-PEX,kpi_003,Bed Occupancy Rate,0,0,1.0,Percent,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Surgical Ward,DEPT-SURG,kpi_003,Bed Occupancy Rate,212,7,0.0,Percent,True,Calculated,ELIGIBLE,,
+HOSP-001,Administration,DEPT-ADM,kpi_004,Average Patient Waiting Time,0,0,1.0,Minutes,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Diagnostic Services,DEPT-DIAG,kpi_004,Average Patient Waiting Time,212,7,0.0,Minutes,True,Calculated,ELIGIBLE,,
+HOSP-001,Emergency Department,DEPT-ED,kpi_004,Average Patient Waiting Time,212,7,0.0,Minutes,True,Calculated,ELIGIBLE,,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_004,Average Patient Waiting Time,0,0,1.0,Minutes,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Medical Ward,DEPT-MED,kpi_004,Average Patient Waiting Time,0,0,1.0,Minutes,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Outpatient Clinic,DEPT-OPC,kpi_004,Average Patient Waiting Time,212,7,0.0,Minutes,True,Calculated,ELIGIBLE,,
+HOSP-001,Patient Experience,DEPT-PEX,kpi_004,Average Patient Waiting Time,0,0,1.0,Minutes,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Surgical Ward,DEPT-SURG,kpi_004,Average Patient Waiting Time,0,0,1.0,Minutes,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Administration,DEPT-ADM,kpi_005,Patient Complaint Rate,0,0,1.0,Complaints per 1000 encounters,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Administration,DEPT-ADM,kpi_006,Patient Satisfaction Score,171,7,0.19339622641509435,Score (1-5 scale),True,Calculated,ELIGIBLE,,
+HOSP-001,Diagnostic Services,DEPT-DIAG,kpi_005,Patient Complaint Rate,188,7,0.11320754716981132,Complaints per 1000 encounters,True,Calculated,ELIGIBLE,,
+HOSP-001,Diagnostic Services,DEPT-DIAG,kpi_006,Patient Satisfaction Score,171,7,0.19339622641509435,Score (1-5 scale),True,Calculated,ELIGIBLE,,
+HOSP-001,Emergency Department,DEPT-ED,kpi_005,Patient Complaint Rate,194,7,0.08490566037735849,Complaints per 1000 encounters,True,Calculated,ELIGIBLE,,
+HOSP-001,Emergency Department,DEPT-ED,kpi_006,Patient Satisfaction Score,181,7,0.14622641509433962,Score (1-5 scale),True,Calculated,ELIGIBLE,,
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_005,Patient Complaint Rate,0,0,1.0,Complaints per 1000 encounters,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Intensive Care Unit,DEPT-ICU,kpi_006,Patient Satisfaction Score,159,7,0.25,Score (1-5 scale),True,Calculated,ELIGIBLE,,
+HOSP-001,Medical Ward,DEPT-MED,kpi_005,Patient Complaint Rate,0,0,1.0,Complaints per 1000 encounters,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Medical Ward,DEPT-MED,kpi_006,Patient Satisfaction Score,173,7,0.18396226415094338,Score (1-5 scale),True,Calculated,ELIGIBLE,,
+HOSP-001,Outpatient Clinic,DEPT-OPC,kpi_005,Patient Complaint Rate,193,7,0.08962264150943396,Complaints per 1000 encounters,True,Calculated,ELIGIBLE,,
+HOSP-001,Outpatient Clinic,DEPT-OPC,kpi_006,Patient Satisfaction Score,178,7,0.16037735849056603,Score (1-5 scale),True,Calculated,ELIGIBLE,,
+HOSP-001,Patient Experience,DEPT-PEX,kpi_005,Patient Complaint Rate,0,0,1.0,Complaints per 1000 encounters,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Patient Experience,DEPT-PEX,kpi_006,Patient Satisfaction Score,174,7,0.1792452830188679,Score (1-5 scale),True,Calculated,ELIGIBLE,,
+HOSP-001,Surgical Ward,DEPT-SURG,kpi_005,Patient Complaint Rate,0,0,1.0,Complaints per 1000 encounters,True,Invalid,INSUFFICIENT HISTORICAL DATA,Below minimum daily observation or month count,Extend historical data or improve data capture
+HOSP-001,Surgical Ward,DEPT-SURG,kpi_006,Patient Satisfaction Score,176,7,0.16981132075471697,Score (1-5 scale),True,Calculated,ELIGIBLE,,

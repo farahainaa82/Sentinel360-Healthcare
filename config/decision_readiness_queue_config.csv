@@ -1,0 +1,16 @@
+configuration_id,queue_id,queue_name,queue_description,final_readiness_status,active_flag,version,governance_note
+CFG-QUEUE-001,QUEUE-001,Integrated Management Review Queue,Packages ready for integrated management review,Ready for Integrated Management Review,True,1.0,Primary queue
+CFG-QUEUE-002,QUEUE-002,Conditional Review Queue,Packages ready with non-blocking conditions,Ready with Conditions,True,1.0,Primary queue
+CFG-QUEUE-003,QUEUE-003,Assumption Validation Queue,Packages requiring assumption validation,Requires Assumption Validation,True,1.0,Primary queue
+CFG-QUEUE-004,QUEUE-004,Baseline Validation Queue,Packages requiring baseline validation,Requires Baseline Validation,True,1.0,Primary queue
+CFG-QUEUE-005,QUEUE-005,Financial Input Queue,Packages requiring financial input,Requires Financial Input,True,1.0,Primary queue
+CFG-QUEUE-006,QUEUE-006,Benefit Validation Queue,Packages requiring benefit validation,Requires Benefit Validation,True,1.0,Primary queue
+CFG-QUEUE-007,QUEUE-007,Budget Information Queue,Packages requiring budget data,Requires Budget Data,True,1.0,Primary queue
+CFG-QUEUE-008,QUEUE-008,Stakeholder Validation Queue,Packages requiring stakeholder confirmation,Requires Stakeholder Validation,True,1.0,Primary queue
+CFG-QUEUE-009,QUEUE-009,Additional Scenario Queue,Packages requiring additional scenario analysis,Requires Additional Scenario Analysis,True,1.0,Primary queue
+CFG-QUEUE-010,QUEUE-010,Evidence Completion Queue,Packages requiring evidence completion,Requires Evidence Completion,True,1.0,Primary queue
+CFG-QUEUE-011,QUEUE-011,Lineage Completion Queue,Packages requiring lineage completion,Requires Lineage Completion,True,1.0,Primary queue
+CFG-QUEUE-012,QUEUE-012,Monitoring Queue,Packages under monitoring,Monitoring Only,True,1.0,Primary queue
+CFG-QUEUE-013,QUEUE-013,Non-Quantitative Review Queue,Non-quantitative packages,Non-Quantitative,True,1.0,Primary queue
+CFG-QUEUE-014,QUEUE-014,Not Suitable Register,Packages not suitable for decision use,Not Suitable for Decision Use,True,1.0,Primary queue
+CFG-QUEUE-015,QUEUE-015,Rejected Register,Rejected packages,Rejected,True,1.0,Primary queue

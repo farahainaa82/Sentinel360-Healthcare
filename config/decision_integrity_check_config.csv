@@ -1,0 +1,8 @@
+configuration_id,checksum_algorithm,object_type,expected_integrity_status,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+INTCHK-001,SHA-256,Source File,Verified,1,True,1.0,Draft Analytical Configuration,True,Governed integrity check
+INTCHK-002,SHA-256,Authoritative Register,Verified,2,True,1.0,Draft Analytical Configuration,True,Governed integrity check
+INTCHK-003,SHA-256,Evidence Register,Verified,3,True,1.0,Draft Analytical Configuration,True,Governed integrity check
+INTCHK-004,SHA-256,Lineage Register,Verified,4,True,1.0,Draft Analytical Configuration,True,Governed integrity check
+INTCHK-005,SHA-256,Audit Contract,Verified,5,True,1.0,Draft Analytical Configuration,True,Governed integrity check
+INTCHK-006,SHA-256,Manifest,Verified,6,True,1.0,Draft Analytical Configuration,True,Governed integrity check
+INTCHK-007,SHA-256,Export Package,Verified,7,True,1.0,Draft Analytical Configuration,True,Governed integrity check

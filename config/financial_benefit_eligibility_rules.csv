@@ -1,0 +1,11 @@
+rule_id,condition_field,condition_operator,condition_value,eligibility_result,configuration_version,approval_status,governance_note
+BEN-ELIG-001,scenario_validation_status,equals,Valid with Conditions,Eligible,v1.0-draft,Draft Analytical Configuration,Valid scenario supports benefit eligibility
+BEN-ELIG-002,comparator_consistency,equals,Consistent,Eligible,v1.0-draft,Draft Analytical Configuration,Consistent comparators support eligibility
+BEN-ELIG-003,operational_effect_supported,equals,True,Eligible,v1.0-draft,Draft Analytical Configuration,Supported operational effect required
+BEN-ELIG-004,financial_relationship_defined,equals,True,Eligible,v1.0-draft,Draft Analytical Configuration,Defined financial relationship required
+BEN-ELIG-005,unit_cost_governed,equals,True,Eligible,v1.0-draft,Draft Analytical Configuration,Governed unit cost required
+BEN-ELIG-006,double_counting_flag,equals,True,Not Eligible,v1.0-draft,Draft Analytical Configuration,Double-counting disqualifies benefit
+BEN-ELIG-007,benefit_period_defined,equals,False,Not Eligible,v1.0-draft,Draft Analytical Configuration,Undefined benefit period disqualifies
+BEN-ELIG-008,causality_overstated,equals,True,Not Eligible,v1.0-draft,Draft Analytical Configuration,Overstated causality disqualifies
+BEN-ELIG-009,stakeholder_validation_required,equals,True,Eligible,v1.0-draft,Draft Analytical Configuration,Validation requirement noted but not blocking
+BEN-ELIG-010,scenario_validation_status,equals,Rejected,Not Eligible,v1.0-draft,Draft Analytical Configuration,Rejected scenario not eligible

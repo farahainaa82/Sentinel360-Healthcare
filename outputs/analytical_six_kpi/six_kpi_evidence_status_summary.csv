@@ -1,0 +1,11 @@
+kpi_id,evidence_status,count
+kpi_001,Complete,2920
+kpi_002,Complete,2920
+kpi_003,Complete,1095
+kpi_003,Unavailable,1825
+kpi_004,Complete,1095
+kpi_004,Unavailable,1825
+kpi_005,Complete,984
+kpi_005,Unavailable,1936
+kpi_006,Complete,2383
+kpi_006,Unavailable,537

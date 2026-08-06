@@ -1,0 +1,7 @@
+kpi_id,kpi_name,readiness_status,blocking_reason,source_dataset_available,required_fields_available,threshold_config_available,approval_status,assessed_at,calculation_run_id,unresolved_rules
+kpi_001,Staffing Level,Conditionally Ready,,False,False,False,Draft,2026-07-27 10:05:34.085582,ARCH-2A1-AC6B181289D3,
+kpi_002,Staff Absenteeism Rate,Conditionally Ready,,False,False,False,Draft,2026-07-27 10:05:34.085591,ARCH-2A1-AC6B181289D3,
+kpi_003,Bed Occupancy Rate,Conditionally Ready,,False,False,False,Draft,2026-07-27 10:05:34.085595,ARCH-2A1-AC6B181289D3,
+kpi_004,Average Patient Waiting Time,Conditionally Ready,,False,False,False,Draft,2026-07-27 10:05:34.085597,ARCH-2A1-AC6B181289D3,
+kpi_005,Patient Complaint Rate,Conditionally Ready,,False,False,False,Draft,2026-07-27 10:05:34.085598,ARCH-2A1-AC6B181289D3,
+kpi_006,Patient Satisfaction Score,Conditionally Ready,,False,False,False,Draft,2026-07-27 10:05:34.085599,ARCH-2A1-AC6B181289D3,

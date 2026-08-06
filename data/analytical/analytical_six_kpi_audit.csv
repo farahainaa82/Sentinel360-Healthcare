@@ -1,0 +1,14 @@
+audit_id,event_type,event_status,kpi_id,calculation_run_id,configuration_version,threshold_version,event_time,details,_source_domain,integration_run_id
+AUD-9EDF9F96,calculation,Success,,WF-KPI-AE9BC170EF5F,v1.0-draft,v1.0-draft,2026-07-27T10:44:31.414586,Calculated 5840 results,workforce,SIX-KPI-8EC2F4190438
+AUD-1C75479E,calculation,Success,,PF-KPI-4E7933DFEF21,v1.0-draft,v1.0-draft,2026-07-27T11:23:42.743797,Calculated 5840 results,patient_flow,SIX-KPI-8EC2F4190438
+AUD-7409B57C,RUN_START,Success,,PEX-KPI-DCF120177644,v1.0-draft,v1.0-draft,2026-07-27T14:43:24.875093,Patient Experience KPI run started: PEX-KPI-DCF120177644,patient_experience,SIX-KPI-8EC2F4190438
+AUD-227F87FE,FORMULA_VERIFICATION,Passed,,PEX-KPI-DCF120177644,v1.0-draft,v1.0-draft,2026-07-27T14:44:04.178001,"{""records_checked"": 3367, ""matches"": 3367, ""mismatches"": 0, ""max_absolute_difference"": 0.0, ""unavailable_records"": 598, ""zero_denominator_records"": 1875, ""rule_pending_records"": 0, ""verification_status"": ""Passed""}",patient_experience,SIX-KPI-8EC2F4190438
+efed2450-b136-4cce-93aa-bcb6bba2a1da,integration_start,started,,,v1.0-draft,v1.0-draft,2026-07-27T15:23:24.967229,Six-KPI integration started,,SIX-KPI-8EC2F4190438
+9883a41d-0c13-405d-9de1-6ce7d6f828e2,load,success,,,v1.0-draft,v1.0-draft,2026-07-27T15:23:25.004730,Loaded workforce daily: 5840 rows,,SIX-KPI-8EC2F4190438
+3a57c34e-2e92-4470-9cf0-ad7177982255,load,success,,,v1.0-draft,v1.0-draft,2026-07-27T15:23:25.076608,Loaded patient_flow daily: 5840 rows,,SIX-KPI-8EC2F4190438
+874ca836-b02d-4453-9a6d-74dc2b257ddd,load,success,,,v1.0-draft,v1.0-draft,2026-07-27T15:23:25.157201,Loaded patient_experience daily: 5840 rows,,SIX-KPI-8EC2F4190438
+efed2450-b136-4cce-93aa-bcb6bba2a1da,integration_start,started,,,v1.0-draft,v1.0-draft,2026-07-27T15:23:24.967229,Six-KPI integration started,,SIX-KPI-8EC2F4190438
+9883a41d-0c13-405d-9de1-6ce7d6f828e2,load,success,,,v1.0-draft,v1.0-draft,2026-07-27T15:23:25.004730,Loaded workforce daily: 5840 rows,,SIX-KPI-8EC2F4190438
+3a57c34e-2e92-4470-9cf0-ad7177982255,load,success,,,v1.0-draft,v1.0-draft,2026-07-27T15:23:25.076608,Loaded patient_flow daily: 5840 rows,,SIX-KPI-8EC2F4190438
+874ca836-b02d-4453-9a6d-74dc2b257ddd,load,success,,,v1.0-draft,v1.0-draft,2026-07-27T15:23:25.157201,Loaded patient_experience daily: 5840 rows,,SIX-KPI-8EC2F4190438
+0730ce15-5e64-43bf-b3fe-922a69e5d85c,integration_complete,completed,,,v1.0-draft,v1.0-draft,2026-07-27T15:23:28.754730,Integrated 17520 records,,SIX-KPI-8EC2F4190438

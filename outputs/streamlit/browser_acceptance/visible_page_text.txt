@@ -1,0 +1,108 @@
+app
+
+Data Upload and Validation
+
+Executive Overview
+
+Deploy
+EXECUTIVE OVERVIEW
+
+Hospital Operational Performance & Decision Support
+
+Hospital
+
+Department
+
+Year
+
+Month
+
+ 
+
+Reset
+
+Priority Management Review — HIGH OPERATIONAL PRESSURE
+
+Staffing Level requires management attention in Patient Experience. Staffing Level, Staff Absenteeism Rate indicators appear alongside this signal. Urgency is Immediate Review.
+
+Staffing Level
+100.0%
+Status: Amber Warning | Confidence: High | Dept: Patient Experience
+Staff Absenteeism Rate
+0.0%
+Status: Red Critical | Confidence: High | Dept: Patient Experience
+Patient Satisfaction Score
+2.5
+Status: Red Critical | Confidence: Medium | Dept: Patient Experience
+Connected Operational Situation
+👥 Workforce Pressure
+Staff Absenteeism Rate: 5.3%
+Staffing Level: 93.8%
+→
+🏥 Service Pressure
+Average Patient Waiting Time: 42 min
+Bed Occupancy Rate: 97.2%
+→
+😊 Patient Experience Pressure
+Patient Complaint Rate: 0.0
+Patient Satisfaction Score: 3.5
+Main affected area: Patient Experience
+Signals appear together in the selected period. Causality is not confirmed.
+Connected Operational Situation
+👥 Workforce Pressure
+Staff Absenteeism Rate: 5.3%
+Staffing Level: 93.8%
+→
+🏥 Service Pressure
+Average Patient Waiting Time: 42 min
+Bed Occupancy Rate: 97.2%
+→
+😊 Patient Experience Pressure
+Patient Complaint Rate: 0.0
+Patient Satisfaction Score: 3.5
+Main affected area: Patient Experience
+Signals appear together in the selected period. Causality is not confirmed.
+Connected Operational Situation
+👥 Workforce Pressure
+Staff Absenteeism Rate: 5.3%
+Staffing Level: 93.8%
+→
+🏥 Service Pressure
+Average Patient Waiting Time: 42 min
+Bed Occupancy Rate: 97.2%
+→
+😊 Patient Experience Pressure
+Patient Complaint Rate: 0.0
+Patient Satisfaction Score: 3.5
+Main affected area: Patient Experience
+Signals appear together in the selected period. Causality is not confirmed.
+MANAGEMENT REVIEW REQUIRED
+
+Patient Experience is experiencing Staffing Level related operational conditions. Management attention required.
+
+Readiness: Requires Assumption Validation
+
+Quantified financial estimate not available for this package.
+
+keyboard_arrow_right
+
+Action Details
+
+SCENARIO COMPARISON
+
+This package is non-quantitative and requires management review of evidence rather than numerical comparison.
+
+Next step: Review evidence
+
+Supporting Detail
+
+What Needs Attention
+
+Evidence and Assumptions
+
+Next Management Steps
+
+No additional attention items for the current selection.
+
+Decision support only. Final action and budget approval remain with authorised management.
+Review: PendingAction selected: NoScenario selected: NoEvidence: nanConfidence: Requires Assumption Validation

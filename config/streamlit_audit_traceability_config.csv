@@ -1,0 +1,14 @@
+audit_field_name,field_type,required_flag,current_default_value,allowed_values,visibility_rule,governance_note
+package_version,string,True,1.0,,Always visible,Current package version
+evidence_completeness,string,True,Complete,Complete;Incomplete;Partial;Missing,Always visible,Evidence completeness status
+lineage_completeness,string,True,Complete,Complete;Incomplete;Partial;Missing,Always visible,Lineage completeness status
+source_to_decision_trace,string,True,Available,Available;Partial;Missing,Always visible,Source-to-decision trace availability
+audit_requirements,string,True,Defined,Defined;Pending;Missing,Always visible,Audit requirements status
+audit_event_status,string,True,Not Executed,Not Executed;Awaiting Management Action;Completed,Always visible,Current audit event status
+actor,string,False,,,Visible if audit_event_status is Completed,Actor who performed audit event
+timestamp,datetime,False,,,Visible if audit_event_status is Completed,Timestamp of audit event
+approval_reference,string,False,,,Visible if audit_event_status is Completed,External approval reference
+integrity_status,string,True,Verified,Verified;Unverified;Failed,Always visible,Integrity check status
+checksum,string,True,,,Always visible,SHA-256 checksum of package
+source_manifest,string,True,,,Always visible,Source manifest reference
+retention_classification,string,True,Governance,Governance;Operational;Audit;Temporary,Always visible,Data retention classification

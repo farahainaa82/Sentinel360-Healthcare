@@ -1,0 +1,26 @@
+{
+  "total_scenarios": 18,
+  "total_packages": 3,
+  "overall_status_counts": {
+    "Valid with Conditions": 18
+  },
+  "scorecard_classifications": {
+    "Weak Validation": 3
+  },
+  "readiness_counts": {
+    "Not Ready": 3
+  },
+  "comparator_inconsistent": 357,
+  "comparator_total": 357,
+  "numerical_valid": 2711,
+  "numerical_total": 2711,
+  "assumption_failed": 0,
+  "assumption_total": 2711,
+  "baseline_invalid": 1120,
+  "baseline_total": 7555,
+  "governance_noncompliant": 0,
+  "governance_total": 17993,
+  "issue_count": 2711,
+  "rejected_count": 0,
+  "revision_count": 18
+}

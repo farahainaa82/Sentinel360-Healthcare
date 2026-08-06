@@ -1,0 +1,3 @@
+validation_id,check,expected,actual,status,detail
+VA-LI-001,lineage_completeness_reconciliation,0,0,PASS,
+VA-LI-002,lineage_flag_consistency,0,0,PASS,

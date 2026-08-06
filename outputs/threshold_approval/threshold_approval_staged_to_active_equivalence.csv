@@ -1,0 +1,16 @@
+comparison_field,staged_value,active_value,match_status
+kpi_id,kpi_001;kpi_002;kpi_003;kpi_004;kpi_005;kpi_006,kpi_001;kpi_002;kpi_003;kpi_004;kpi_005;kpi_006,PASS
+kpi_name,Staffing Level;Staff Absenteeism Rate;Bed Occupancy Rate;Average Patient Waiting Time;Patient Complaint Rate;Patient Satisfaction Score,Staffing Level;Staff Absenteeism Rate;Bed Occupancy Rate;Average Patient Waiting Time;Patient Complaint Rate;Patient Satisfaction Score,PASS
+directionality,Higher is better;Lower is better;Context-sensitive;Lower is better;Lower is better;Higher is better,Higher is better;Lower is better;Context-sensitive;Lower is better;Lower is better;Higher is better,PASS
+threshold_version,v1.0-approved;v1.0-approved;v1.0-provisional-approved;v1.0-approved;v1.0-provisional-approved;v1.0-approved,v1.0-approved;v1.0-approved;v1.0-provisional-approved;v1.0-approved;v1.0-provisional-approved;v1.0-approved,PASS
+approval_status,Approved;Approved;Conditionally Approved;Approved;Conditionally Approved;Approved,Approved;Approved;Conditionally Approved;Approved;Conditionally Approved;Approved,PASS
+threshold_is_provisional,False;False;True;False;True;False,False;False;True;False;True;False,PASS
+green_lower_boundary,84.19668593008033;0.0;86.11897763218477;26.24;0.0;2.803470425318753,84.19668593008033;0.0;86.11897763218477;26.24;0.0;2.803470425318753,PASS
+green_upper_boundary,100.0;15.001220617023437;100.16047931158654;47.24228685036204;14.778812840390938;5.0,100.0;15.001220617023437;100.16047931158654;47.24228685036204;14.778812840390938;5.0,PASS
+lower_red_boundary,80.0;;81.71809841534612;;2.5,80.0;;81.71809841534612;;2.5,PASS
+upper_red_boundary,;19.047619047619047;104.76190476190476;54.08749262536873;19.743739079790338;,19.047619047619047;104.76190476190476;54.08749262536873;19.743739079790338;,PASS
+unit,Percent;Percent;Percent;Minutes;Complaints per 1000 encounters;1-5 Likert Score,Percent;Percent;Percent;Minutes;Complaints per 1000 encounters;1-5 Likert Score,PASS
+boundary_inclusivity_rule,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,Lower boundary inclusive upper exclusive,PASS
+decision_record_id,DEC-001;DEC-002;DEC-003;DEC-004;DEC-005;DEC-006,DEC-001;DEC-002;DEC-003;DEC-004;DEC-005;DEC-006,PASS
+source_candidate_id,CAND-9132137F3353;CAND-401D561CEDE3;CAND-302D7A9F11B5;CAND-B80C86F00895;CAND-F76D963AE6DE;CAND-A643D6F72D76,CAND-9132137F3353;CAND-401D561CEDE3;CAND-302D7A9F11B5;CAND-B80C86F00895;CAND-F76D963AE6DE;CAND-A643D6F72D76,PASS
+overall_equivalence_result,Exact match,Exact match,Exact match,PASS

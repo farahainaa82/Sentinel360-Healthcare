@@ -1,0 +1,7 @@
+config_id,config_type,relationship_id,source_kpi_id,target_kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+STR_NONE,STRENGTH,ALL,ALL,ALL,strength_none_upper,0.15,absolute_correlation,Upper bound for None classification,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+STR_WEAK,STRENGTH,ALL,ALL,ALL,strength_weak_upper,0.35,absolute_correlation,Upper bound for Weak classification,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+STR_MOD,STRENGTH,ALL,ALL,ALL,strength_moderate_upper,0.55,absolute_correlation,Upper bound for Moderate classification,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+STR_STRONG,STRENGTH,ALL,ALL,ALL,strength_strong_upper,0.75,absolute_correlation,Upper bound for Strong classification,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+STR_VSTRONG,STRENGTH,ALL,ALL,ALL,strength_very_strong_lower,0.75,absolute_correlation,Lower bound for Very Strong classification,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+STR_OBS_MIN,STRENGTH,ALL,ALL,ALL,strength_min_observations,15,count,Minimum observations for Strong or Very Strong,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design

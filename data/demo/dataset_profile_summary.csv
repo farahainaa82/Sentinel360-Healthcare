@@ -1,0 +1,14 @@
+dataset_name,file_name,row_count,column_count,primary_key,unique_primary_key_count,duplicate_primary_key_count,required_column_count,missing_required_value_count,total_missing_value_count,earliest_date,latest_date,hospital_count,department_count,source_system_count,upload_id_count,record_version_count,profile_status,profile_notes
+hospital_master,hospital_master.csv,1,14,hospital_id,1,0,14,0,0,,,1.0,,1,,1.0,Passed,No issues observed
+department_master,department_master.csv,8,15,department_id,8,0,15,8,8,,,1.0,8.0,1,,1.0,Passed with Observations,Missing values in required columns: 8
+staff_role_master,staff_role_master.csv,9,11,role_id,9,0,11,0,0,,,,,1,,1.0,Passed,No issues observed
+staff_master,staff_master.csv,180,18,staff_id,180,0,18,1080,1080,,,1.0,8.0,1,,1.0,Passed with Observations,Missing values in required columns: 1080
+staff_roster,staff_roster.csv,41495,15,roster_id,41495,0,15,0,0,2026-01-01 00:00:00,2026-12-31 00:00:00,1.0,8.0,1,,,Passed,No issues observed
+staff_attendance,staff_attendance.csv,41495,16,attendance_id,41495,0,16,88891,88891,2026-01-01 00:00:00,2026-12-31 00:00:00,1.0,8.0,1,,,Passed with Observations,Missing values in required columns: 88891
+staffing_requirement,staffing_requirement.csv,78840,10,requirement_id,78840,0,10,0,0,2026-01-01 00:00:00,2026-12-31 00:00:00,1.0,8.0,1,,,Passed,No issues observed
+patient_encounters,patient_encounters.csv,93958,14,encounter_id,93958,0,14,96712,96712,2026-01-01 00:00:00,2026-12-31 00:00:00,1.0,3.0,1,,,Passed with Observations,Missing values in required columns: 96712
+patient_queue_records,patient_queue_records.csv,1095,15,queue_id,1095,0,15,0,0,2026-01-01 00:00:00,2026-12-31 00:00:00,1.0,3.0,1,,,Passed,No issues observed
+bed_capacity_records,bed_capacity_records.csv,1095,15,record_id,1095,0,15,865,865,2026-01-01 00:00:00,2026-12-31 00:00:00,1.0,3.0,1,,,Passed with Observations,Missing values in required columns: 865
+patient_complaints,patient_complaints.csv,1465,16,complaint_id,1465,0,16,6383,6383,2026-01-01 00:00:00,2026-12-31 00:00:00,1.0,8.0,1,,,Passed with Observations,Missing values in required columns: 6383
+patient_surveys,patient_surveys.csv,5244,12,survey_id,5244,0,12,5649,5649,2026-01-01 00:00:00,2026-12-31 00:00:00,1.0,8.0,1,,,Passed with Observations,Missing values in required columns: 5649
+service_schedule,service_schedule.csv,8760,12,schedule_id,8760,0,12,0,0,2026-01-01 00:00:00,2026-12-31 00:00:00,1.0,8.0,1,,,Passed,No issues observed

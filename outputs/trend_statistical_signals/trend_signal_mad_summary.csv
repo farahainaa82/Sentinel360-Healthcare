@@ -1,0 +1,21 @@
+kpi_id,signal_method,signal_type,count
+kpi_001,mad_signal,Negative Deviation,32
+kpi_001,mad_signal,No Signal,2749
+kpi_001,mad_signal,Positive Deviation,4
+kpi_001,mad_signal,Zero MAD,71
+kpi_002,mad_signal,Negative Deviation,2
+kpi_002,mad_signal,No Signal,2602
+kpi_002,mad_signal,Positive Deviation,31
+kpi_002,mad_signal,Zero MAD,221
+kpi_003,mad_signal,No Signal,1070
+kpi_003,mad_signal,Positive Deviation,1
+kpi_004,mad_signal,Negative Deviation,30
+kpi_004,mad_signal,No Signal,1001
+kpi_004,mad_signal,Positive Deviation,40
+kpi_005,mad_signal,No Signal,357
+kpi_005,mad_signal,Positive Deviation,2
+kpi_005,mad_signal,Zero MAD,601
+kpi_006,mad_signal,Negative Deviation,17
+kpi_006,mad_signal,No Signal,2206
+kpi_006,mad_signal,Positive Deviation,16
+kpi_006,mad_signal,Zero MAD,80

@@ -1,0 +1,111 @@
+kpi_id,comparison_type,calculation_status,count
+kpi_001,Baseline Period Average,Calculated,2912
+kpi_001,Baseline Period Average,Comparison Value Unavailable,8
+kpi_001,Previous Available Day,Calculated,2912
+kpi_001,Previous Available Day,Comparison Value Unavailable,8
+kpi_001,Previous Calendar Day,Calculated,2912
+kpi_001,Previous Calendar Day,Comparison Value Unavailable,8
+kpi_001,Previous Month,Calculated,2704
+kpi_001,Previous Month,Comparison Value Unavailable,216
+kpi_001,Previous Week,Calculated,2864
+kpi_001,Previous Week,Comparison Value Unavailable,56
+kpi_001,Rolling 14-Day Average,Calculated,2920
+kpi_001,Rolling 30-Day Average,Calculated,2920
+kpi_001,Rolling 7-Day Average,Calculated,2920
+kpi_002,Baseline Period Average,Calculated,2912
+kpi_002,Baseline Period Average,Comparison Value Unavailable,8
+kpi_002,Previous Available Day,Calculated,2912
+kpi_002,Previous Available Day,Comparison Value Unavailable,8
+kpi_002,Previous Calendar Day,Calculated,2912
+kpi_002,Previous Calendar Day,Comparison Value Unavailable,8
+kpi_002,Previous Month,Calculated,2704
+kpi_002,Previous Month,Comparison Value Unavailable,216
+kpi_002,Previous Week,Calculated,2864
+kpi_002,Previous Week,Comparison Value Unavailable,56
+kpi_002,Rolling 14-Day Average,Calculated,2920
+kpi_002,Rolling 30-Day Average,Calculated,2920
+kpi_002,Rolling 7-Day Average,Calculated,2920
+kpi_003,Baseline Period Average,Calculated,1092
+kpi_003,Baseline Period Average,Comparison Value Unavailable,3
+kpi_003,Baseline Period Average,Current Value Unavailable,1825
+kpi_003,Previous Available Day,Calculated,1092
+kpi_003,Previous Available Day,Comparison Value Unavailable,3
+kpi_003,Previous Available Day,Current Value Unavailable,1825
+kpi_003,Previous Calendar Day,Calculated,1092
+kpi_003,Previous Calendar Day,Comparison Value Unavailable,3
+kpi_003,Previous Calendar Day,Current Value Unavailable,1825
+kpi_003,Previous Month,Calculated,1014
+kpi_003,Previous Month,Comparison Value Unavailable,81
+kpi_003,Previous Month,Current Value Unavailable,1825
+kpi_003,Previous Week,Calculated,1074
+kpi_003,Previous Week,Comparison Value Unavailable,21
+kpi_003,Previous Week,Current Value Unavailable,1825
+kpi_003,Rolling 14-Day Average,Calculated,1095
+kpi_003,Rolling 14-Day Average,Current Value Unavailable,1825
+kpi_003,Rolling 30-Day Average,Calculated,1095
+kpi_003,Rolling 30-Day Average,Current Value Unavailable,1825
+kpi_003,Rolling 7-Day Average,Calculated,1095
+kpi_003,Rolling 7-Day Average,Current Value Unavailable,1825
+kpi_004,Baseline Period Average,Calculated,1092
+kpi_004,Baseline Period Average,Comparison Value Unavailable,3
+kpi_004,Baseline Period Average,Current Value Unavailable,1825
+kpi_004,Previous Available Day,Calculated,1092
+kpi_004,Previous Available Day,Comparison Value Unavailable,3
+kpi_004,Previous Available Day,Current Value Unavailable,1825
+kpi_004,Previous Calendar Day,Calculated,1092
+kpi_004,Previous Calendar Day,Comparison Value Unavailable,3
+kpi_004,Previous Calendar Day,Current Value Unavailable,1825
+kpi_004,Previous Month,Calculated,1014
+kpi_004,Previous Month,Comparison Value Unavailable,81
+kpi_004,Previous Month,Current Value Unavailable,1825
+kpi_004,Previous Week,Calculated,1074
+kpi_004,Previous Week,Comparison Value Unavailable,21
+kpi_004,Previous Week,Current Value Unavailable,1825
+kpi_004,Rolling 14-Day Average,Calculated,1095
+kpi_004,Rolling 14-Day Average,Current Value Unavailable,1825
+kpi_004,Rolling 30-Day Average,Calculated,1095
+kpi_004,Rolling 30-Day Average,Current Value Unavailable,1825
+kpi_004,Rolling 7-Day Average,Calculated,1095
+kpi_004,Rolling 7-Day Average,Current Value Unavailable,1825
+kpi_005,Baseline Period Average,Calculated,981
+kpi_005,Baseline Period Average,Comparison Value Unavailable,3
+kpi_005,Baseline Period Average,Current Value Unavailable,1936
+kpi_005,Previous Available Day,Calculated,981
+kpi_005,Previous Available Day,Comparison Value Unavailable,3
+kpi_005,Previous Available Day,Current Value Unavailable,1936
+kpi_005,Previous Calendar Day,Calculated,880
+kpi_005,Previous Calendar Day,Comparison Value Unavailable,104
+kpi_005,Previous Calendar Day,Current Value Unavailable,1936
+kpi_005,Previous Month,Calculated,909
+kpi_005,Previous Month,Comparison Value Unavailable,75
+kpi_005,Previous Month,Current Value Unavailable,1936
+kpi_005,Previous Week,Calculated,868
+kpi_005,Previous Week,Comparison Value Unavailable,116
+kpi_005,Previous Week,Current Value Unavailable,1936
+kpi_005,Rolling 14-Day Average,Calculated,984
+kpi_005,Rolling 14-Day Average,Current Value Unavailable,1936
+kpi_005,Rolling 30-Day Average,Calculated,984
+kpi_005,Rolling 30-Day Average,Current Value Unavailable,1936
+kpi_005,Rolling 7-Day Average,Calculated,984
+kpi_005,Rolling 7-Day Average,Current Value Unavailable,1936
+kpi_006,Baseline Period Average,Calculated,2375
+kpi_006,Baseline Period Average,Comparison Value Unavailable,8
+kpi_006,Baseline Period Average,Current Value Unavailable,537
+kpi_006,Previous Available Day,Calculated,2375
+kpi_006,Previous Available Day,Comparison Value Unavailable,8
+kpi_006,Previous Available Day,Current Value Unavailable,537
+kpi_006,Previous Calendar Day,Calculated,1934
+kpi_006,Previous Calendar Day,Comparison Value Unavailable,449
+kpi_006,Previous Calendar Day,Current Value Unavailable,537
+kpi_006,Previous Month,Calculated,2210
+kpi_006,Previous Month,Comparison Value Unavailable,173
+kpi_006,Previous Month,Current Value Unavailable,537
+kpi_006,Previous Week,Calculated,1907
+kpi_006,Previous Week,Comparison Value Unavailable,476
+kpi_006,Previous Week,Current Value Unavailable,537
+kpi_006,Rolling 14-Day Average,Calculated,2383
+kpi_006,Rolling 14-Day Average,Current Value Unavailable,537
+kpi_006,Rolling 30-Day Average,Calculated,2383
+kpi_006,Rolling 30-Day Average,Current Value Unavailable,537
+kpi_006,Rolling 7-Day Average,Calculated,2383
+kpi_006,Rolling 7-Day Average,Current Value Unavailable,537

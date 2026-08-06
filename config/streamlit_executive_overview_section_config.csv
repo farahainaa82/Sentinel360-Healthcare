@@ -1,0 +1,16 @@
+section_id,section_name,display_order,visible_by_default
+SEC_A,Global Filters,1,True
+SEC_B,Executive Status Strip,2,True
+SEC_C,Executive Health Summary,3,True
+SEC_D,KPI Pressure Overview,4,True
+SEC_E,Top Risks and Alerts,5,True
+SEC_F,Decision Readiness,6,True
+SEC_G,Financial Impact Summary,7,True
+SEC_H,Financial Priority Cases,8,True
+SEC_I,Management Attention Queue,9,True
+SEC_J,Top Management Questions,10,True
+SEC_K,Monitoring and Validation Watchlist,11,True
+SEC_L,Evidence Lineage and Governance,12,True
+SEC_M,Executive Priority Table,13,True
+SEC_N,Executive Actions and Navigation,14,True
+SEC_O,Management Decision Boundary,15,True

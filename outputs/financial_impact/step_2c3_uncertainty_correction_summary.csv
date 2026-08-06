@@ -1,0 +1,21 @@
+metric,value
+correction_timestamp,2026-07-29T07:41:12.744389
+cost_components_assessed,8019
+governed_range_mappings_found,11
+unique_financial_input_mappings,11
+eligible_uncertainty_records,7845
+ineligible_actual_fixed_records,0
+ineligible_missing_input_records,0
+records_without_governed_ranges,0
+ambiguous_mappings,0
+unit_mismatches,0
+uncertainty_records_produced,8019
+packages_with_uncertainty_estimates,357
+packages_without_uncertainty_estimates,0
+packages_with_any_uncertainty_record,357
+blocked_multiple_active_ranges,0
+ineligible_not_applicable,174
+unchanged_cost_totals_confirmed,Yes — cost components not recalculated
+unchanged_benefit_totals_confirmed,Yes — benefit components not recalculated
+unchanged_net_impact_totals_confirmed,Yes — net impact not recalculated
+unchanged_roi_status_confirmed,Yes — ROI register not recalculated

@@ -1,0 +1,7 @@
+kpi_id,total_records,calculated,insufficient_data,zero_denominator,other_status,not_assessed_threshold,high_confidence,medium_confidence,unavailable_confidence,integrated,integrated_with_warning,failed_validation
+kpi_001,2920,2920,0,0,0,2920,2920,0,0,0,2920,0
+kpi_002,2920,2920,0,0,0,2920,2920,0,0,0,2920,0
+kpi_003,2920,1095,1825,0,0,2920,1095,0,1825,0,2920,0
+kpi_004,2920,1095,1825,0,0,2920,1095,0,1825,0,2920,0
+kpi_005,2920,984,299,1637,0,2920,0,984,1936,0,2920,0
+kpi_006,2920,2383,299,238,0,2920,0,2383,537,0,2920,0

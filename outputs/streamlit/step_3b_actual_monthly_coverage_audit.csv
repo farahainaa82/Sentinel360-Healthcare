@@ -1,0 +1,49 @@
+hospital,department,kpi_id,kpi_name,first_actual_date,last_actual_date,valid_daily_observations_jan_july,valid_daily_observations_aug_dec,months_with_actual_data,monthly_average_calculable,missing_months_jan_july,notes
+HOSP-001,DEPT-ADM,kpi_001,Staffing Level,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-ADM,kpi_002,Staff Absenteeism Rate,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-ADM,kpi_003,Bed Occupancy Rate,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-ADM,kpi_004,Average Patient Waiting Time,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-ADM,kpi_005,Patient Complaint Rate,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-ADM,kpi_006,Patient Satisfaction Score,2026-01-01,2026-12-31,171,136,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-DIAG,kpi_001,Staffing Level,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-DIAG,kpi_002,Staff Absenteeism Rate,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-DIAG,kpi_003,Bed Occupancy Rate,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-DIAG,kpi_004,Average Patient Waiting Time,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-DIAG,kpi_005,Patient Complaint Rate,2026-01-01,2026-12-31,188,139,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-DIAG,kpi_006,Patient Satisfaction Score,2026-01-01,2026-12-30,171,126,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-ED,kpi_001,Staffing Level,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-ED,kpi_002,Staff Absenteeism Rate,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-ED,kpi_003,Bed Occupancy Rate,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-ED,kpi_004,Average Patient Waiting Time,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-ED,kpi_005,Patient Complaint Rate,2026-01-01,2026-12-31,194,130,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-ED,kpi_006,Patient Satisfaction Score,2026-01-01,2026-12-31,181,124,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-ICU,kpi_001,Staffing Level,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-ICU,kpi_002,Staff Absenteeism Rate,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-ICU,kpi_003,Bed Occupancy Rate,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-ICU,kpi_004,Average Patient Waiting Time,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-ICU,kpi_005,Patient Complaint Rate,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-ICU,kpi_006,Patient Satisfaction Score,2026-01-01,2026-12-31,159,121,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-MED,kpi_001,Staffing Level,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-MED,kpi_002,Staff Absenteeism Rate,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-MED,kpi_003,Bed Occupancy Rate,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-MED,kpi_004,Average Patient Waiting Time,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-MED,kpi_005,Patient Complaint Rate,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-MED,kpi_006,Patient Satisfaction Score,2026-01-01,2026-12-31,173,123,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-OPC,kpi_001,Staffing Level,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-OPC,kpi_002,Staff Absenteeism Rate,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-OPC,kpi_003,Bed Occupancy Rate,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-OPC,kpi_004,Average Patient Waiting Time,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-OPC,kpi_005,Patient Complaint Rate,2026-01-01,2026-12-31,193,140,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-OPC,kpi_006,Patient Satisfaction Score,2026-01-01,2026-12-31,178,125,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-PEX,kpi_001,Staffing Level,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-PEX,kpi_002,Staff Absenteeism Rate,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-PEX,kpi_003,Bed Occupancy Rate,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-PEX,kpi_004,Average Patient Waiting Time,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-PEX,kpi_005,Patient Complaint Rate,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-PEX,kpi_006,Patient Satisfaction Score,2026-01-01,2026-12-31,174,123,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-SURG,kpi_001,Staffing Level,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-SURG,kpi_002,Staff Absenteeism Rate,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-SURG,kpi_003,Bed Occupancy Rate,2026-01-01,2026-12-31,212,153,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."
+HOSP-001,DEPT-SURG,kpi_004,Average Patient Waiting Time,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-SURG,kpi_005,Patient Complaint Rate,None,None,0,0,None,False,"1,2,3,4,5,6,7",No data Aug-Dec.
+HOSP-001,DEPT-SURG,kpi_006,Patient Satisfaction Score,2026-01-01,2026-12-31,176,122,"1,2,3,4,5,6,7",True,None,"Aug-Dec data exists but is actual, not forecast."

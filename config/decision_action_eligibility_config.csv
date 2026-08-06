@@ -1,0 +1,96 @@
+configuration_id,action_id,action_name,readiness_status,eligibility_status,blocking_gate_affected,prerequisite_required,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+ACTELG-001,A001,Review Integrated Decision Package,Ready for Integrated Management Review,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action for Ready status
+ACTELG-002,A002,Compare Scenario Options,Ready for Integrated Management Review,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted for Ready status
+ACTELG-003,A010,Proceed to Limited-Trial Consideration,Ready for Integrated Management Review,Allowed with Conditions,None,True,3,True,1.0,Draft Analytical Configuration,True,Requires explicit management review
+ACTELG-004,A009,Request Stakeholder Review,Ready for Integrated Management Review,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted for Ready status
+ACTELG-005,A013,Defer Decision,Ready for Integrated Management Review,Allowed,None,False,5,True,1.0,Draft Analytical Configuration,True,Permitted for Ready status
+ACTELG-006,A014,Reject Decision Use,Ready for Integrated Management Review,Allowed,None,False,6,True,1.0,Draft Analytical Configuration,True,Permitted for Ready status
+ACTELG-007,A012,Escalate for Immediate Management Attention,Ready for Integrated Management Review,Allowed with Conditions,None,False,7,True,1.0,Draft Analytical Configuration,True,Only where urgency requires
+ACTELG-008,A001,Review Integrated Decision Package,Ready with Conditions,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Permitted for Ready with Conditions
+ACTELG-009,A002,Compare Scenario Options,Ready with Conditions,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted for Ready with Conditions
+ACTELG-010,A003,Validate Assumptions,Ready with Conditions,Allowed,None,False,3,True,1.0,Draft Analytical Configuration,True,Permitted for Ready with Conditions
+ACTELG-011,A004,Validate Baseline,Ready with Conditions,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted for Ready with Conditions
+ACTELG-012,A005,Validate Financial Inputs,Ready with Conditions,Allowed,None,False,5,True,1.0,Draft Analytical Configuration,True,Permitted for Ready with Conditions
+ACTELG-013,A006,Validate Benefit Assumptions,Ready with Conditions,Allowed,None,False,6,True,1.0,Draft Analytical Configuration,True,Permitted for Ready with Conditions
+ACTELG-014,A007,Provide Budget Information,Ready with Conditions,Allowed,None,False,7,True,1.0,Draft Analytical Configuration,True,Permitted for Ready with Conditions
+ACTELG-015,A009,Request Stakeholder Review,Ready with Conditions,Allowed,None,False,8,True,1.0,Draft Analytical Configuration,True,Permitted for Ready with Conditions
+ACTELG-016,A010,Proceed to Limited-Trial Consideration,Ready with Conditions,Allowed with Conditions,Any Mandatory Gate Failed,True,9,True,1.0,Draft Analytical Configuration,True,Blocked when mandatory gate failed
+ACTELG-017,A011,Continue Monitoring,Ready with Conditions,Allowed,None,False,10,True,1.0,Draft Analytical Configuration,True,Permitted for Ready with Conditions
+ACTELG-018,A013,Defer Decision,Ready with Conditions,Allowed,None,False,11,True,1.0,Draft Analytical Configuration,True,Permitted for Ready with Conditions
+ACTELG-019,A003,Validate Assumptions,Requires Assumption Validation,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-020,A009,Request Stakeholder Review,Requires Assumption Validation,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-021,A008,Request Additional Scenario,Requires Assumption Validation,Allowed,None,False,3,True,1.0,Draft Analytical Configuration,True,Permitted where relevant
+ACTELG-022,A011,Continue Monitoring,Requires Assumption Validation,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-023,A013,Defer Decision,Requires Assumption Validation,Allowed,None,False,5,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-024,A012,Escalate for Immediate Management Attention,Requires Assumption Validation,Allowed with Conditions,None,False,6,True,1.0,Draft Analytical Configuration,True,Where operational urgency requires
+ACTELG-025,A010,Proceed to Limited-Trial Consideration,Requires Assumption Validation,Blocked,Assumption Gate,True,7,True,1.0,Draft Analytical Configuration,True,Blocked - assumption validation required first
+ACTELG-026,A004,Validate Baseline,Requires Baseline Validation,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-027,A015,Request Evidence Completion,Requires Baseline Validation,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-028,A011,Continue Monitoring,Requires Baseline Validation,Allowed,None,False,3,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-029,A013,Defer Decision,Requires Baseline Validation,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-030,A012,Escalate for Immediate Management Attention,Requires Baseline Validation,Allowed with Conditions,None,False,5,True,1.0,Draft Analytical Configuration,True,Where operational urgency requires
+ACTELG-031,A002,Compare Scenario Options,Requires Baseline Validation,Blocked,Baseline Gate,True,6,True,1.0,Draft Analytical Configuration,True,Blocked - invalid baseline makes comparison misleading
+ACTELG-032,A010,Proceed to Limited-Trial Consideration,Requires Baseline Validation,Blocked,Baseline Gate,True,7,True,1.0,Draft Analytical Configuration,True,Blocked - baseline validation required first
+ACTELG-033,A005,Validate Financial Inputs,Requires Financial Input,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-034,A007,Provide Budget Information,Requires Financial Input,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-035,A009,Request Stakeholder Review,Requires Financial Input,Allowed,None,False,3,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-036,A011,Continue Monitoring,Requires Financial Input,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-037,A013,Defer Decision,Requires Financial Input,Allowed,None,False,5,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-038,A002,Compare Scenario Options,Requires Financial Input,Allowed with Conditions,Financial Cost Gate,True,6,True,1.0,Draft Analytical Configuration,True,Operationally only with financial limitation visible
+ACTELG-039,A010,Proceed to Limited-Trial Consideration,Requires Financial Input,Blocked,Financial Cost Gate,True,7,True,1.0,Draft Analytical Configuration,True,Blocked when mandatory cost data missing
+ACTELG-040,A006,Validate Benefit Assumptions,Requires Benefit Validation,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-041,A009,Request Stakeholder Review,Requires Benefit Validation,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-042,A002,Compare Scenario Options,Requires Benefit Validation,Allowed with Conditions,Financial Benefit Gate,True,3,True,1.0,Draft Analytical Configuration,True,With benefit limitation visible
+ACTELG-043,A013,Defer Decision,Requires Benefit Validation,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-044,A010,Proceed to Limited-Trial Consideration,Requires Benefit Validation,Blocked,Financial Benefit Gate,True,5,True,1.0,Draft Analytical Configuration,True,Blocked - unsupported benefit claims
+ACTELG-045,A007,Provide Budget Information,Requires Budget Data,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-046,A005,Validate Financial Inputs,Requires Budget Data,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-047,A002,Compare Scenario Options,Requires Budget Data,Allowed with Conditions,Budget Gate,True,3,True,1.0,Draft Analytical Configuration,True,With affordability unknown
+ACTELG-048,A013,Defer Decision,Requires Budget Data,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-049,A010,Proceed to Limited-Trial Consideration,Requires Budget Data,Blocked,Budget Gate,True,5,True,1.0,Draft Analytical Configuration,True,Blocked - affordability-based progression blocked
+ACTELG-050,A009,Request Stakeholder Review,Requires Stakeholder Validation,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-051,A003,Validate Assumptions,Requires Stakeholder Validation,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-052,A005,Validate Financial Inputs,Requires Stakeholder Validation,Allowed,None,False,3,True,1.0,Draft Analytical Configuration,True,Permitted where relevant
+ACTELG-053,A011,Continue Monitoring,Requires Stakeholder Validation,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-054,A013,Defer Decision,Requires Stakeholder Validation,Allowed,None,False,5,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-055,A010,Proceed to Limited-Trial Consideration,Requires Stakeholder Validation,Blocked,Stakeholder Gate,True,6,True,1.0,Draft Analytical Configuration,True,Blocked - unresolved stakeholder confirmation required
+ACTELG-056,A008,Request Additional Scenario,Requires Additional Scenario Analysis,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-057,A003,Validate Assumptions,Requires Additional Scenario Analysis,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-058,A004,Validate Baseline,Requires Additional Scenario Analysis,Allowed,None,False,3,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-059,A011,Continue Monitoring,Requires Additional Scenario Analysis,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-060,A013,Defer Decision,Requires Additional Scenario Analysis,Allowed,None,False,5,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-061,A010,Proceed to Limited-Trial Consideration,Requires Additional Scenario Analysis,Blocked,Scenario Gate,True,6,True,1.0,Draft Analytical Configuration,True,Blocked - incomplete comparator-based progression
+ACTELG-062,A015,Request Evidence Completion,Requires Evidence Completion,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-063,A009,Request Stakeholder Review,Requires Evidence Completion,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-064,A011,Continue Monitoring,Requires Evidence Completion,Allowed,None,False,3,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-065,A013,Defer Decision,Requires Evidence Completion,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-066,A001,Review Integrated Decision Package,Requires Evidence Completion,Blocked,Evidence Gate,True,5,True,1.0,Draft Analytical Configuration,True,Blocked - evidence deficiency is blocking
+ACTELG-067,A016,Request Lineage Completion,Requires Lineage Completion,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-068,A015,Request Evidence Completion,Requires Lineage Completion,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-069,A013,Defer Decision,Requires Lineage Completion,Allowed,None,False,3,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-070,A001,Review Integrated Decision Package,Requires Lineage Completion,Blocked,Lineage Gate,True,4,True,1.0,Draft Analytical Configuration,True,Blocked - not fully auditable
+ACTELG-071,A011,Continue Monitoring,Monitoring Only,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-072,A018,No Action - Monitoring Continues,Monitoring Only,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-073,A012,Escalate for Immediate Management Attention,Monitoring Only,Allowed with Conditions,None,False,3,True,1.0,Draft Analytical Configuration,True,When escalation trigger met
+ACTELG-074,A009,Request Stakeholder Review,Monitoring Only,Allowed with Conditions,None,False,4,True,1.0,Draft Analytical Configuration,True,Where monitoring interpretation requires
+ACTELG-075,A010,Proceed to Limited-Trial Consideration,Monitoring Only,Blocked,Multiple Gates,True,5,True,1.0,Draft Analytical Configuration,True,Blocked for Monitoring Only
+ACTELG-076,A002,Compare Scenario Options,Monitoring Only,Not Applicable,None,False,6,True,1.0,Draft Analytical Configuration,True,Not applicable unless specifically required
+ACTELG-077,A017,Route to Non-Quantitative Review,Non-Quantitative,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-078,A009,Request Stakeholder Review,Non-Quantitative,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-079,A015,Request Evidence Completion,Non-Quantitative,Allowed,None,False,3,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-080,A011,Continue Monitoring,Non-Quantitative,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-081,A013,Defer Decision,Non-Quantitative,Allowed,None,False,5,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-082,A014,Reject Decision Use,Non-Quantitative,Allowed,None,False,6,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-083,A002,Compare Scenario Options,Non-Quantitative,Blocked,None,True,7,True,1.0,Draft Analytical Configuration,True,Blocked - quantitative comparison not applicable
+ACTELG-084,A010,Proceed to Limited-Trial Consideration,Non-Quantitative,Blocked,None,True,8,True,1.0,Draft Analytical Configuration,True,Blocked - quantitative progression not applicable
+ACTELG-085,A014,Reject Decision Use,Not Suitable for Decision Use,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Primary permitted action
+ACTELG-086,A013,Defer Decision,Not Suitable for Decision Use,Allowed,None,False,2,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-087,A015,Request Evidence Completion,Not Suitable for Decision Use,Allowed,None,False,3,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-088,A016,Request Lineage Completion,Not Suitable for Decision Use,Allowed,None,False,4,True,1.0,Draft Analytical Configuration,True,Permitted
+ACTELG-089,A010,Proceed to Limited-Trial Consideration,Not Suitable for Decision Use,Not Permitted,None,True,5,True,1.0,Draft Analytical Configuration,True,Not permitted
+ACTELG-090,A001,Review Integrated Decision Package,Not Suitable for Decision Use,Not Permitted,None,True,6,True,1.0,Draft Analytical Configuration,True,Not permitted
+ACTELG-091,A014,Reject Decision Use,Rejected,Allowed,None,False,1,True,1.0,Draft Analytical Configuration,True,Only permitted action for Rejected
+ACTELG-092,A001,Review Integrated Decision Package,Rejected,Not Permitted,None,True,2,True,1.0,Draft Analytical Configuration,True,Not permitted for Rejected
+ACTELG-093,A002,Compare Scenario Options,Rejected,Not Permitted,None,True,3,True,1.0,Draft Analytical Configuration,True,Not permitted for Rejected
+ACTELG-094,A003,Validate Assumptions,Rejected,Not Permitted,None,True,4,True,1.0,Draft Analytical Configuration,True,Not permitted for Rejected
+ACTELG-095,A010,Proceed to Limited-Trial Consideration,Rejected,Not Permitted,None,True,5,True,1.0,Draft Analytical Configuration,True,Not permitted for Rejected

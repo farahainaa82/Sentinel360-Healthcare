@@ -1,0 +1,7 @@
+rule_id,rule_name,forbidden_phrases,required_phrases,severity,action_if_failed,description
+WORD-001,Absolute Certainty Prohibition,"guaranteed;will certainly;no risk;zero chance;definitely will;impossible to fail",,Error,flag,Management text must not assert absolute certainty
+WORD-002,Speculative Forecasting Prohibition,"predicted to;forecasted to;expected to reach;projected to achieve",,Warning,flag,Avoid speculative future predictions without confidence bands
+WORD-003,Causality Overstatement Prohibition,"proves that;demonstrates that;confirms that",,Warning,flag,Avoid overstating causal evidence
+WORD-004,Comparative Language Requirement,,"compared to;relative to;versus;against baseline",Warning,flag,Management text should include comparative framing
+WORD-005,Confidence Disclosure Requirement,,"confidence level;uncertainty;degree of certainty",Warning,flag,Management text should disclose confidence level
+WORD-006,Actionable Outcome Requirement,,"recommend;consider;monitor;review",Warning,flag,Management text should include actionable recommendation

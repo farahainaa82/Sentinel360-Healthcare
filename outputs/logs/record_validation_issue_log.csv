@@ -1,0 +1,1 @@
+validation_run_id,record_issue_id,issue_id,dataset_name,primary_key_field,primary_key_value,row_number,field_name,observed_value,issue_description,severity,blocks_processing,resolution_status,created_datetime

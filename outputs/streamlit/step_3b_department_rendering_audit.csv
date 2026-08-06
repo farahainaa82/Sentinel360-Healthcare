@@ -1,0 +1,64 @@
+hospital,department,department_code,year,month,page_rendered,chart_section_rendered,management_section_rendered,scenario_section_rendered,financial_section_rendered,error_type,error_message,validation_note
+HOSP-001,All Departments,ALL,2026,1,True,False,True,True,True,,,0 cards built
+HOSP-001,All Departments,ALL,2026,2,True,False,True,True,True,,,0 cards built
+HOSP-001,All Departments,ALL,2026,3,True,False,True,True,True,,,0 cards built
+HOSP-001,All Departments,ALL,2026,4,True,False,True,True,True,,,0 cards built
+HOSP-001,All Departments,ALL,2026,5,True,False,True,True,True,,,0 cards built
+HOSP-001,All Departments,ALL,2026,6,True,False,True,True,True,,,0 cards built
+HOSP-001,All Departments,ALL,2026,7,True,False,True,True,True,,,0 cards built
+HOSP-001,Admissions,DEPT-ADM,2026,1,True,False,True,True,True,,,0 cards built
+HOSP-001,Admissions,DEPT-ADM,2026,2,True,False,True,True,True,,,0 cards built
+HOSP-001,Admissions,DEPT-ADM,2026,3,True,False,True,True,True,,,0 cards built
+HOSP-001,Admissions,DEPT-ADM,2026,4,True,False,True,True,True,,,0 cards built
+HOSP-001,Admissions,DEPT-ADM,2026,5,True,False,True,True,True,,,0 cards built
+HOSP-001,Admissions,DEPT-ADM,2026,6,True,False,True,True,True,,,0 cards built
+HOSP-001,Admissions,DEPT-ADM,2026,7,True,False,True,True,True,,,0 cards built
+HOSP-001,Intensive Care Unit,DEPT-ICU,2026,1,True,False,True,True,True,,,0 cards built
+HOSP-001,Intensive Care Unit,DEPT-ICU,2026,2,True,False,True,True,True,,,0 cards built
+HOSP-001,Intensive Care Unit,DEPT-ICU,2026,3,True,False,True,True,True,,,0 cards built
+HOSP-001,Intensive Care Unit,DEPT-ICU,2026,4,True,False,True,True,True,,,0 cards built
+HOSP-001,Intensive Care Unit,DEPT-ICU,2026,5,True,False,True,True,True,,,0 cards built
+HOSP-001,Intensive Care Unit,DEPT-ICU,2026,6,True,False,True,True,True,,,0 cards built
+HOSP-001,Intensive Care Unit,DEPT-ICU,2026,7,True,False,True,True,True,,,0 cards built
+HOSP-001,Medical Ward,DEPT-MED,2026,1,True,False,True,True,True,,,0 cards built
+HOSP-001,Medical Ward,DEPT-MED,2026,2,True,False,True,True,True,,,0 cards built
+HOSP-001,Medical Ward,DEPT-MED,2026,3,True,False,True,True,True,,,0 cards built
+HOSP-001,Medical Ward,DEPT-MED,2026,4,True,False,True,True,True,,,0 cards built
+HOSP-001,Medical Ward,DEPT-MED,2026,5,True,False,True,True,True,,,0 cards built
+HOSP-001,Medical Ward,DEPT-MED,2026,6,True,False,True,True,True,,,0 cards built
+HOSP-001,Medical Ward,DEPT-MED,2026,7,True,False,True,True,True,,,0 cards built
+HOSP-001,Emergency Department,DEPT-ED,2026,1,True,False,True,True,True,,,0 cards built
+HOSP-001,Emergency Department,DEPT-ED,2026,2,True,False,True,True,True,,,0 cards built
+HOSP-001,Emergency Department,DEPT-ED,2026,3,True,False,True,True,True,,,0 cards built
+HOSP-001,Emergency Department,DEPT-ED,2026,4,True,False,True,True,True,,,0 cards built
+HOSP-001,Emergency Department,DEPT-ED,2026,5,True,False,True,True,True,,,0 cards built
+HOSP-001,Emergency Department,DEPT-ED,2026,6,True,False,True,True,True,,,0 cards built
+HOSP-001,Emergency Department,DEPT-ED,2026,7,True,False,True,True,True,,,0 cards built
+HOSP-001,Diagnostics,DEPT-DIAG,2026,1,True,False,True,True,True,,,0 cards built
+HOSP-001,Diagnostics,DEPT-DIAG,2026,2,True,False,True,True,True,,,0 cards built
+HOSP-001,Diagnostics,DEPT-DIAG,2026,3,True,False,True,True,True,,,0 cards built
+HOSP-001,Diagnostics,DEPT-DIAG,2026,4,True,False,True,True,True,,,0 cards built
+HOSP-001,Diagnostics,DEPT-DIAG,2026,5,True,False,True,True,True,,,0 cards built
+HOSP-001,Diagnostics,DEPT-DIAG,2026,6,True,False,True,True,True,,,0 cards built
+HOSP-001,Diagnostics,DEPT-DIAG,2026,7,True,False,True,True,True,,,0 cards built
+HOSP-001,Outpatient Clinic,DEPT-OPC,2026,1,True,False,True,True,True,,,0 cards built
+HOSP-001,Outpatient Clinic,DEPT-OPC,2026,2,True,False,True,True,True,,,0 cards built
+HOSP-001,Outpatient Clinic,DEPT-OPC,2026,3,True,False,True,True,True,,,0 cards built
+HOSP-001,Outpatient Clinic,DEPT-OPC,2026,4,True,False,True,True,True,,,0 cards built
+HOSP-001,Outpatient Clinic,DEPT-OPC,2026,5,True,False,True,True,True,,,0 cards built
+HOSP-001,Outpatient Clinic,DEPT-OPC,2026,6,True,False,True,True,True,,,0 cards built
+HOSP-001,Outpatient Clinic,DEPT-OPC,2026,7,True,False,True,True,True,,,0 cards built
+HOSP-001,Surgery,DEPT-SURG,2026,1,True,False,True,True,True,,,0 cards built
+HOSP-001,Surgery,DEPT-SURG,2026,2,True,False,True,True,True,,,0 cards built
+HOSP-001,Surgery,DEPT-SURG,2026,3,True,False,True,True,True,,,0 cards built
+HOSP-001,Surgery,DEPT-SURG,2026,4,True,False,True,True,True,,,0 cards built
+HOSP-001,Surgery,DEPT-SURG,2026,5,True,False,True,True,True,,,0 cards built
+HOSP-001,Surgery,DEPT-SURG,2026,6,True,False,True,True,True,,,0 cards built
+HOSP-001,Surgery,DEPT-SURG,2026,7,True,False,True,True,True,,,0 cards built
+HOSP-001,Patient Experience,DEPT-PEX,2026,1,True,False,True,True,True,,,0 cards built
+HOSP-001,Patient Experience,DEPT-PEX,2026,2,True,False,True,True,True,,,0 cards built
+HOSP-001,Patient Experience,DEPT-PEX,2026,3,True,False,True,True,True,,,0 cards built
+HOSP-001,Patient Experience,DEPT-PEX,2026,4,True,False,True,True,True,,,0 cards built
+HOSP-001,Patient Experience,DEPT-PEX,2026,5,True,False,True,True,True,,,0 cards built
+HOSP-001,Patient Experience,DEPT-PEX,2026,6,True,False,True,True,True,,,0 cards built
+HOSP-001,Patient Experience,DEPT-PEX,2026,7,True,False,True,True,True,,,0 cards built

@@ -1,0 +1,7 @@
+dataset_name,row_count,column_count,kpi_ids
+analytical_patient_experience_kpi_daily,5840,26,"kpi_005,kpi_006"
+analytical_patient_experience_kpi_evidence,20440,9,
+analytical_patient_experience_kpi_exclusions,340,9,
+analytical_patient_experience_kpi_lineage,11680,8,
+analytical_patient_experience_kpi_issues,3457,11,
+analytical_patient_experience_kpi_audit,2,9,

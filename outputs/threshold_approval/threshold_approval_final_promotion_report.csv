@@ -1,0 +1,42 @@
+report_field,report_value
+promotion_status,Complete
+promotion_run_id,THAPP-32EDF6F03C19
+step_2b1b_mode_b_status,Complete
+step_2b1b_overall_status,Complete
+overall_promotion_readiness,Ready with Conditions
+step_2b2_readiness,Ready with Conditions
+kpis_promoted,6
+fully_approved_kpis,4
+conditionally_approved_kpis,2
+provisional_kpis,2
+active_config_path,config/kpi_threshold_config.csv
+backup_path,config/archive/kpi_threshold_config_pre_2b1b_promotion.csv
+checksum_before_promotion,da2bd8b93c7737a772f741de146a457aee21e3431e1e4e61d1e32ce979fde54f
+checksum_after_promotion,29addaf81430734f16e434e022c3d7a98c5ff1a25d2ed4e70f718b27cfd5b2d0
+backup_checksum,da2bd8b93c7737a772f741de146a457aee21e3431e1e4e61d1e32ce979fde54f
+active_config_row_count,6
+schema_columns,25
+kpis_covered,kpi_001;kpi_002;kpi_003;kpi_004;kpi_005;kpi_006
+overall_governance_version,v1.0-mixed-governance
+staged_to_active_equivalence,Exact match (all boundary and metadata columns identical)
+post_promotion_total_records,17520
+post_promotion_green,8933
+post_promotion_amber,1242
+post_promotion_red,990
+post_promotion_critical_capacity_pressure,122
+post_promotion_low_utilisation,110
+post_promotion_unavailable,6123
+post_promotion_reconciliation,All counts match staging result exactly
+approval_engine_tests_passed,17
+approval_engine_tests_failed,0
+threshold_calibration_tests_passed,24
+threshold_calibration_tests_failed,0
+rollback_status,Not required
+rollback_executed,False
+rollback_checksum_verified,N/A
+blockers,0
+warnings,0
+promotion_timestamp,2026-07-27T20:29:00
+promotion_executed_by,CodeBuddy Automation
+promotion_flags_used,--promote-active-config --confirm-stakeholder-approval
+next_step,Step 2B-2 (awaiting explicit instruction)

@@ -1,0 +1,17 @@
+dataset_name,hospital_ref_status,department_ref_status,relationship_status
+processed_hospital_master,Passed,N/A,N/A
+processed_department_master,Passed,Passed,Passed
+processed_staff_role_master,N/A,N/A,N/A
+processed_staff_master,Passed,N/A,N/A
+processed_staff_roster,Passed,Passed,Passed
+processed_staff_attendance,Passed,N/A,N/A
+processed_staffing_requirement,Passed,Passed,Passed
+processed_workforce_daily,Passed,Passed,Passed
+processed_patient_encounters,Passed,Passed,Passed
+processed_patient_queue,Passed,Passed,Passed
+processed_bed_capacity,Passed,Passed,Passed
+processed_service_schedule,Passed,Passed,Passed
+processed_patient_flow_daily,Passed,Passed,Passed
+processed_patient_complaints,Passed,Passed,Passed
+processed_patient_surveys,Passed,Passed,Passed
+processed_patient_experience_daily,Passed,Passed,Passed

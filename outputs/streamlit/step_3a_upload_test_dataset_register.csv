@@ -1,0 +1,11 @@
+dataset_name,file_name,demo_directory,purpose,rows_present,status
+Staff Roster,staff_roster.csv,data/demo,Synthetic staff identity and role records,Yes,Available
+Staff Attendance,staff_attendance.csv,data/demo,Synthetic daily attendance and shift records,Yes,Available
+Patient Encounters,patient_encounters.csv,data/demo,Synthetic patient visit records,Yes,Available
+Bed Occupancy,bed_capacity_records.csv,data/demo,Synthetic bed availability records,Yes,Available
+Patient Queue,patient_queue_records.csv,data/demo,Synthetic arrivals and waiting metrics,Yes,Available
+Patient Complaints,patient_complaints.csv,data/demo,Synthetic complaint records,Yes,Available
+Patient Survey,patient_surveys.csv,data/demo,Synthetic survey responses and scores,Yes,Available
+Department Master,department_master.csv,data/demo,Synthetic department reference list,Yes,Available
+Hospital Master,hospital_master.csv,data/demo,Synthetic hospital reference list,Yes,Available
+Service Schedule,service_schedule.csv,data/demo,Synthetic service schedule,Yes,Available

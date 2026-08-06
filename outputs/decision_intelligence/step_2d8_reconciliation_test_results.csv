@@ -1,0 +1,10 @@
+test_id,description,status,detail
+TEST-01,Every Ready-for-Review package has scenario summary or governed Not Applicable reason,PASS,
+TEST-02,No scenario value is recalculated,PASS,
+TEST-03,Missing scenario values are not converted to zero,PASS,
+TEST-04,No preferred scenario is selected,PASS,
+TEST-05,Readiness is not upgraded without evidence (no Streamlit Handover without summary),PASS,
+TEST-06,Streamlit readiness reflects unresolved missing summaries,PASS,
+TEST-07,Evidence and lineage reconcile to frozen upstream source,PASS,
+TEST-08,Frozen upstream scenario outputs remain unchanged,PASS,
+TEST-09,No Step 2D-9 output is created,PASS,

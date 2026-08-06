@@ -1,0 +1,2 @@
+processing_run_id,issue_id,source_dataset_name,processed_dataset_name,source_primary_key,source_row_number,field_name,issue_type,severity,issue_description,source_value,processed_value,resolution_action,exclusion_flag,blocks_processing,created_datetime
+PROC-PE-66BB1B50F384,ISS-C9F9E972A470,patient_encounters,processed_patient_encounters,,0,triage_datetime,Missing Source Column,Warning,Expected source column 'triage_datetime' not found; created empty.,,,,False,False,2026-07-26T07:03:05.834629

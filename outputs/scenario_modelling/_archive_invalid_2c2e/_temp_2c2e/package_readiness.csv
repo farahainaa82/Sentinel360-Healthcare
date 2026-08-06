@@ -1,0 +1,358 @@
+approval_package_id,package_readiness,baseline_validity,comparator_set_status,dominance_validation_status,sensitivity_robustness,displacement_validation_status,interpretation_validation_status,scenario_validation_index
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250108,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250116,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250209,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250328,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250410,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250420,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250506,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250602,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250608,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250721,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250726,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20250822,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20251012,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20251021,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20251127,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20251205,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20251220,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250202,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250206,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250330,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250409,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250524,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250529,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250611,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250620,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250624,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250710,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250716,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250814,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20250925,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20251019,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20251102,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20251114,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20251121,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20251214,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20251225,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250108,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250401,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250417,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250423,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250507,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250511,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250520,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250606,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250610,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250619,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250704,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250723,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250804,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250810,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250901,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20250912,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20251023,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20251031,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20251108,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250122,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250328,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250409,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250422,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250426,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250515,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250521,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250615,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250621,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250626,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250720,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250727,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250910,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250915,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250921,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20250930,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20251015,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20251019,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20251027,Requires Assumption Review,Valid,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20251111,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20251115,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20251126,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20251202,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20251207,Requires Assumption Review,Valid,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20251227,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20250402,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20250412,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20250421,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20250531,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20250614,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20250707,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250107,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250201,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250211,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250303,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250319,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250402,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250502,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250509,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250522,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250531,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250604,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250624,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250705,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250713,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250727,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20250930,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20251008,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20251014,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20251101,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20251113,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_001-20251227,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250106,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250207,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250310,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250421,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250425,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250521,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250603,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250610,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250614,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250626,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250707,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250818,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20250923,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20251005,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20251013,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20251026,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20251102,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20251109,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20251127,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20251212,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_002-20251217,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ED-kpi_004-20250601,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ED-kpi_004-20250606,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ED-kpi_004-20250716,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250106,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250114,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250211,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250216,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250323,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250407,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250426,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250505,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250513,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250528,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250612,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250707,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250801,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250830,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250914,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20250922,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20251105,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20251111,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20251130,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20251227,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250109,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250126,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250219,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250227,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250305,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250315,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250406,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250422,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250429,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250522,Requires Assumption Review,Valid,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250530,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250615,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250630,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250718,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250818,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20250911,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20251014,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20251019,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20251026,Requires Assumption Review,Valid,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20251118,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20251129,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20251207,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20251213,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20251217,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20251231,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250116,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250208,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250330,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250408,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250421,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250502,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250605,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250616,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250717,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250723,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250728,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20250916,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20251008,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20251102,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20251107,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20251219,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-MED-kpi_001-20251228,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250128,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250209,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250222,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250322,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250403,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250411,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250505,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250601,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250608,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250617,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250624,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250701,Requires Assumption Review,Valid,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250709,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20250802,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-MED-kpi_002-20251111,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250107,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250122,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250305,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250314,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250325,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250331,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250405,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250417,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250423,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250428,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250517,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250530,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250616,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250622,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250706,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250815,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250823,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250830,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20250929,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20251008,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20251017,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20251029,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20251110,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20251116,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20251128,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20251203,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20251209,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20251214,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20251219,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20251223,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20250118,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20250319,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20250404,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20250414,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20250421,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20250504,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20250704,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20250826,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20250926,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20251009,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20251030,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20251112,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20251121,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20251226,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20250402,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20250410,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20250509,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20250602,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20250619,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20250629,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20250709,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20250716,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20250721,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250111,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250115,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250203,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250207,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250212,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250326,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250413,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250421,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250502,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250510,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250515,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250521,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250623,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250710,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250727,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250813,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20250915,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20251024,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20251110,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20251229,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250103,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250209,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250221,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250302,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250328,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250406,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250416,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250424,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250430,Requires Assumption Review,Valid,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250519,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250529,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250603,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250613,Requires Assumption Review,Valid,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250704,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250708,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250719,Requires Assumption Review,Valid,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250728,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250911,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20250925,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20251010,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20251018,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20251025,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20251104,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20251214,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250127,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250131,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250209,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250301,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250305,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250311,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250401,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250411,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250415,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250429,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250504,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250517,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250521,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250529,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250606,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250613,Requires Assumption Review,Partial,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.281
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250618,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250702,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250709,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250726,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250802,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250822,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250903,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250916,Requires Assumption Review,Valid,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20250929,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20251020,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20251026,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20251111,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20251127,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20251203,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed,Not Assessable,Weakly Supported,Valid,0.406
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250120,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250125,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250214,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250226,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250304,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250314,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250319,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250422,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250502,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250509,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250602,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250621,Requires Assumption Review,Valid,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250704,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250724,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250824,Requires Assumption Review,Valid,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250908,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20250912,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20251004,Requires Assumption Review,Valid,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20251018,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20251030,Requires Assumption Review,Valid with Conditions,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.438
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20251219,Requires Assumption Review,Partial,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312
+PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20251230,Requires Assumption Review,Unrepresentative,Inconsistent,Confirmed with Conditions,Not Assessable,Weakly Supported,Valid,0.312

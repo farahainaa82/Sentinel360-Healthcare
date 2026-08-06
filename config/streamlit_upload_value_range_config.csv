@@ -1,0 +1,18 @@
+dataset_type,field_name,min_value,max_value,unit,schema_profile
+Staff Roster,planned_hours,0.5,24.0,hours,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,occupancy_rate,0.0,150.0,percentage,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,bed_licensed,0,10000,beds,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,bed_staffed,0,10000,beds,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,bed_operational,0,10000,beds,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,bed_occupied,0,10000,beds,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,avg_wait_minutes,0.0,1440.0,minutes,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,max_wait_minutes,0.0,1440.0,minutes,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,arrivals_count,0,10000,patients,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,score_value,1.0,5.0,score,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,planned_hours,0.5,24.0,hours,GENERIC_UPLOAD
+Bed Occupancy,beds_total,0,10000,beds,GENERIC_UPLOAD
+Bed Occupancy,beds_occupied,0,10000,beds,GENERIC_UPLOAD
+Patient Queue,avg_wait_min,0.0,1440.0,minutes,GENERIC_UPLOAD
+Patient Queue,arrivals,0,10000,patients,GENERIC_UPLOAD
+Patient Survey,satisfaction_score,1.0,5.0,score,GENERIC_UPLOAD
+Patient Survey,n_responses,0,10000,responses,GENERIC_UPLOAD

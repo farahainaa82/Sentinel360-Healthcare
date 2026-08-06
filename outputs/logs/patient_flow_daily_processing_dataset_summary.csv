@@ -1,0 +1,2 @@
+processing_run_id,validation_run_id,source_dataset_name,processed_dataset_name,source_row_count,processed_row_count,excluded_row_count,transformed_field_count,warning_count,error_count,dataset_status,output_file_name,transformation_version,processed_datetime,notes
+PROC-PFD-52B503B5DA53,VAL-C62B370EC6C3,combined_processed_inputs,processed_patient_flow_daily,104908,2920,0,31,0,0,Processed,processed_patient_flow_daily.csv,2D-3C-1.0.0,2026-07-26T10:39:24.408102,

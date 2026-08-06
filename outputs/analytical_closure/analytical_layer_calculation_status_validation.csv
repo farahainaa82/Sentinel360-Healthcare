@@ -1,0 +1,8 @@
+check_name,status,message,details
+calculation_availability:kpi_001,Passed,"kpi_001 calculated=2920 (exp 2920), unavailable=0 (exp 0)","{""calculated"": 2920, ""unavailable"": 0}"
+calculation_availability:kpi_002,Passed,"kpi_002 calculated=2920 (exp 2920), unavailable=0 (exp 0)","{""calculated"": 2920, ""unavailable"": 0}"
+calculation_availability:kpi_003,Passed,"kpi_003 calculated=1095 (exp 1095), unavailable=1825 (exp 1825)","{""calculated"": 1095, ""unavailable"": 1825}"
+calculation_availability:kpi_004,Passed,"kpi_004 calculated=1095 (exp 1095), unavailable=1825 (exp 1825)","{""calculated"": 1095, ""unavailable"": 1825}"
+calculation_availability:kpi_005,Passed,"kpi_005 calculated=984 (exp 984), unavailable=1936 (exp 1936)","{""calculated"": 984, ""unavailable"": 1936}"
+calculation_availability:kpi_006,Passed,"kpi_006 calculated=2383 (exp 2383), unavailable=537 (exp 537)","{""calculated"": 2383, ""unavailable"": 537}"
+value_status_consistency,Passed,Value-status inconsistencies = 0 (expected 0),"{""inconsistencies"": 0}"

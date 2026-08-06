@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Testing
+.pytest_cache/
+
+# CodeBuddy / IDE
+.codebuddy/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Backup files
+*.backup
+
+# Runtime logs
+*.log
+
+# Scratch / temporary Python files
+_*.py
+debug_*.py
+
+# Debug and test text outputs
+_*.txt
+test_err.txt
+test_detail.txt
+test_3a_failed.txt
+approval_*.txt
+approval_runner_output.txt
+browser_*.txt
+browser_out*.txt
+pytest_*.txt
+dry_run_*.txt
+
+# Local test JSON outputs
+runner_*.json
+
+# Verification screenshots
+_*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Additional Sentinel360 root development artefacts
+
+browser_*.png
+debug_*.txt
+export_*.txt
+fail_*.txt
+full_*.txt
+pf_test_*.txt
+run_*.txt
+runner_*.txt
+schemas.txt
+smoke_*.txt
+status_distributions.txt
+streamlit_*.txt
+test_*.txt
+validate_*.txt
+validation_*.txt
+verify_*.txt
+wf_test.txt
+
+test_*.csv
+
+smoke_test_*.py
+verify_*.py
+
+_phase3d_final_shots/
+_cs3_todos.json
+_streamlit_*.err
+
+home.py
+Executive_Overview_UI_Reference_v2_HomeStyle.py
+# Additional temporary runtime artefacts
+*.log.err
+outputs/decision_intelligence/_tmp_2d9/
+outputs/decision_intelligence/execution_lock.txt

@@ -1,0 +1,7 @@
+period_id,period_name,days_equivalent,annualisation_allowed,annualisation_basis,configuration_version,approval_status,governance_note
+PER-SHIFT,per shift,1,false,,v1.0-draft,Draft Analytical Configuration,Single shift
+PER-DAY,per day,1,false,,v1.0-draft,Draft Analytical Configuration,Single day
+PER-WEEK,per week,7,true,52 weeks,v1.0-draft,Draft Analytical Configuration,Standard week
+PER-MONTH,per month,30,true,12 months,v1.0-draft,Draft Analytical Configuration,Standard month approximation
+PER-INTERVENTION,per intervention period,variable,false,,v1.0-draft,Draft Analytical Configuration,Duration from scenario assumption
+PER-ANNUAL,annualised,365,true,365 days,v1.0-draft,Draft Analytical Configuration,Full year approximation

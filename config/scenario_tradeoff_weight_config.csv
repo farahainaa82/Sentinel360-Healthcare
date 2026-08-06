@@ -1,0 +1,13 @@
+weight_id,criteria_id,weight_value,configuration_status,version,active_flag
+WT-PRIMARY-KPI,CRIT-PRIMARY-KPI,0.20,Draft Analytical Configuration,v1.0,True
+WT-SUPPORTING-KPI,CRIT-SUPPORTING-KPI,0.10,Draft Analytical Configuration,v1.0,True
+WT-CONFIDENCE,CRIT-CONFIDENCE,0.15,Draft Analytical Configuration,v1.0,True
+WT-CONTRADICTION,CRIT-CONTRADICTION,0.10,Draft Analytical Configuration,v1.0,True
+WT-BASELINE-COMPLETENESS,CRIT-BASELINE-COMPLETENESS,0.08,Draft Analytical Configuration,v1.0,True
+WT-ASSUMPTION-EXTREMITY,CRIT-ASSUMPTION-EXTREMITY,0.07,Draft Analytical Configuration,v1.0,True
+WT-ADVERSE-EFFECTS,CRIT-ADVERSE-EFFECTS,0.10,Draft Analytical Configuration,v1.0,True
+WT-DISPLACEMENT,CRIT-DISPLACEMENT,0.08,Draft Analytical Configuration,v1.0,True
+WT-COMPLEXITY,CRIT-COMPLEXITY,0.05,Draft Analytical Configuration,v1.0,True
+WT-REVERSIBILITY,CRIT-REVERSIBILITY,0.05,Draft Analytical Configuration,v1.0,True
+WT-MONITORING,CRIT-MONITORING,0.05,Draft Analytical Configuration,v1.0,True
+WT-GOVERNANCE,CRIT-GOVERNANCE,0.07,Draft Analytical Configuration,v1.0,True

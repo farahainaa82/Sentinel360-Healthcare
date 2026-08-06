@@ -1,0 +1,10 @@
+role_approval_id,management_role,intervention_family,approval_permission,expenditure_limit,escalation_role,stakeholder_validation_required,active_flag,configuration_version,effective_start_date,effective_end_date,approval_status,validation_status,created_datetime,updated_datetime
+rac_001,Chief Operating Officer,All,Approve,Medical Director,false,true,v1.0-draft,2026-07-25,,Draft,Stakeholder Validation Required,2026-07-25T00:00:00,2026-07-25T00:00:00
+rac_002,General Manager,All,Approve,,Chief Operating Officer,false,true,v1.0-draft,2026-07-25,,Draft,Stakeholder Validation Required,2026-07-25T00:00:00,2026-07-25T00:00:00
+rac_003,Medical Director,Patient Safety Related,Approve,,Chief Operating Officer,false,true,v1.0-draft,2026-07-25,,Draft,Stakeholder Validation Required,2026-07-25T00:00:00,2026-07-25T00:00:00
+rac_004,Nursing Director,Staffing Related,Approve,,Chief Operating Officer,false,true,v1.0-draft,2026-07-25,,Draft,Stakeholder Validation Required,2026-07-25T00:00:00,2026-07-25T00:00:00
+rac_005,Department Head,Department Level,Recommend,,Nursing Director;Chief Operating Officer,false,true,v1.0-draft,2026-07-25,,Draft,Stakeholder Validation Required,2026-07-25T00:00:00,2026-07-25T00:00:00
+rac_006,Patient Experience Lead,Patient Experience,Approve,,Chief Operating Officer,false,true,v1.0-draft,2026-07-25,,Draft,Stakeholder Validation Required,2026-07-25T00:00:00,2026-07-25T00:00:00
+rac_007,Finance Approver,Financial Impact,Review,,Chief Operating Officer,false,true,v1.0-draft,2026-07-25,,Draft,Stakeholder Validation Required,2026-07-25T00:00:00,2026-07-25T00:00:00
+rac_008,Data or Analytics Owner,Configuration Integrity,Technical Validation,,Chief Operating Officer,false,true,v1.0-draft,2026-07-25,,Draft,Stakeholder Validation Required,2026-07-25T00:00:00,2026-07-25T00:00:00
+rac_009,Authorised Operational Manager,Operational,Implement,,Chief Operating Officer;General Manager,false,true,v1.0-draft,2026-07-25,,Draft,Stakeholder Validation Required,2026-07-25T00:00:00,2026-07-25T00:00:00

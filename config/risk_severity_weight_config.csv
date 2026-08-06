@@ -1,0 +1,18 @@
+config_id,config_type,kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+SW_THR_GRN,THRESHOLD_SEVERITY,ALL,Green,0,score_points,No risk contribution from Green state,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_THR_AMB,THRESHOLD_SEVERITY,ALL,Amber,25,score_points,Moderate contribution from Amber state,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_THR_LAM,THRESHOLD_SEVERITY,ALL,Lower_Amber,20,score_points,Moderate contribution from Lower Amber,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_THR_UAM,THRESHOLD_SEVERITY,ALL,Upper_Amber,25,score_points,Moderate contribution from Upper Amber,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_THR_RED,THRESHOLD_SEVERITY,ALL,Red,60,score_points,High contribution from Red state,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_THR_CCP,THRESHOLD_SEVERITY,ALL,Critical_Capacity_Pressure,80,score_points,Maximum contribution from Critical Capacity Pressure,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_THR_LUT,THRESHOLD_SEVERITY,ALL,Low_Utilisation,15,score_points,Context-sensitive low utilisation contribution,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_THR_NOB,THRESHOLD_SEVERITY,ALL,Normal_Operating_Band,0,score_points,No risk contribution from normal band,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_BRH_NOB,BREACH_SEVERITY,ALL,No_Breach,0,score_points,No breach contribution,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_BRH_PRV,BREACH_SEVERITY,ALL,Provisional_Breach,50,score_points,Provisional breach severity,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_BRH_UNA,BREACH_SEVERITY,ALL,Unavailable,NaN,score_points,Unavailable breach status,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_WCH_NON,WATCH_SEVERITY,ALL,None,0,score_points,No watch contribution,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_WCH_INF,WATCH_SEVERITY,ALL,Informational,5,score_points,Minimal watch contribution,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_WCH_LOW,WATCH_SEVERITY,ALL,Low,10,score_points,Small watch contribution,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_WCH_MOD,WATCH_SEVERITY,ALL,Moderate,20,score_points,Meaningful watch contribution,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_WCH_HIG,WATCH_SEVERITY,ALL,High,40,score_points,Strong watch contribution,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+SW_WCH_CRI,WATCH_SEVERITY,ALL,Critical,70,score_points,Maximum watch contribution,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design

@@ -1,0 +1,29 @@
+kpi_id,mathematical_trend_direction,count
+kpi_001,Decreasing,10562
+kpi_001,Increasing,11291
+kpi_001,Insufficient History,296
+kpi_001,Stable,1211
+kpi_002,Decreasing,11065
+kpi_002,Increasing,10454
+kpi_002,Insufficient History,296
+kpi_002,Stable,1545
+kpi_003,Decreasing,4007
+kpi_003,Increasing,4486
+kpi_003,Insufficient History,111
+kpi_003,Stable,156
+kpi_003,Unavailable,14600
+kpi_004,Decreasing,4073
+kpi_004,Increasing,4567
+kpi_004,Insufficient History,111
+kpi_004,Stable,9
+kpi_004,Unavailable,14600
+kpi_005,Decreasing,3451
+kpi_005,Increasing,2995
+kpi_005,Insufficient History,301
+kpi_005,Stable,1125
+kpi_005,Unavailable,15488
+kpi_006,Decreasing,8249
+kpi_006,Increasing,7944
+kpi_006,Insufficient History,1114
+kpi_006,Stable,1757
+kpi_006,Unavailable,4296

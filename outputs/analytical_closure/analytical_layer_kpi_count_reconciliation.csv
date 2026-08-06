@@ -1,0 +1,7 @@
+kpi_id,kpi_name,source_dataset,source_row_count,integrated_row_count,closure_row_count,calculated_count,unavailable_count,duplicate_count,missing_count,count_difference,reconciliation_status
+kpi_001,Staffing Level,analytical_workforce_kpi_daily.csv,2920,2920,2920,,,0,0,0,Reconciled
+kpi_002,Staff Absenteeism Rate,analytical_workforce_kpi_daily.csv,2920,2920,2920,,,0,0,0,Reconciled
+kpi_003,Bed Occupancy Rate,analytical_patient_flow_kpi_daily.csv,2920,2920,2920,,,0,0,0,Reconciled
+kpi_004,Average Patient Waiting Time,analytical_patient_flow_kpi_daily.csv,2920,2920,2920,,,0,0,0,Reconciled
+kpi_005,Patient Complaint Rate,analytical_patient_experience_kpi_daily.csv,2920,2920,2920,,,0,0,0,Reconciled
+kpi_006,Patient Satisfaction Score,analytical_patient_experience_kpi_daily.csv,2920,2920,2920,,,0,0,0,Reconciled

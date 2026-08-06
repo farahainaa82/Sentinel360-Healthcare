@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-CO-001,contradiction_warning_visible,0,0,PASS,
+VA-CO-002,provisional_warning_visible,True,True,PASS,
+VA-CO-003,causality_not_confirmed,True,True,PASS,

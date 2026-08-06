@@ -1,0 +1,505 @@
+action_block_id,decision_action_routing_id,action_id,action_name,blocking_condition_id,blocking_reason,blocking_severity,source_phase,source_record_id,resolution_required,responsible_role,current_status
+BLK-EC8A0CD6,DAR-CF860C38,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-F06B47C8,DAR-23F2E917,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-6BA0D57D,DAR-23F2E917,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-85161177,DAR-814A2C66,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-EF85FB4C,DAR-0CCD9938,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-B0AD5D4B,DAR-C0188C2C,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-DC4E3356,DAR-0065947D,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-B96B293C,DAR-CB286D43,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-CE62D678,DAR-FA923347,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-2EEB2D95,DAR-82C838CB,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-5B5A32A7,DAR-1E4C9848,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-A21F598E,DAR-AF9E3D40,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-148AB478,DAR-AF9E3D40,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-AE28C43A,DAR-76298A2F,A010,Proceed to Limited-Trial Consideration,ACTBLK-004,Action blocked due to missing mandatory cost data,Critical,2D-4,,True,,Active
+BLK-2C133272,DAR-117F321A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-1093999B,DAR-013487F9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C2174F51,DAR-5051D7C0,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-FD5690AC,DAR-54DCC5FC,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F5B331BC,DAR-D0CF523E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-44F07482,DAR-17D71F53,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-5E5371B1,DAR-30C436A8,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-35E46694,DAR-1DE76F65,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-B6713E2E,DAR-1A845D8D,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-E3374326,DAR-CB39AB43,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-4CF6381C,DAR-6ED1DB35,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C6B3CCFA,DAR-7F544C2C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-D6C99235,DAR-0F51E482,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-AFCE0B11,DAR-28B6521A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-09372D06,DAR-9DFEFBA3,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-4901E2BA,DAR-D30299F7,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-99521A55,DAR-577044F9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-50A9940A,DAR-3A1905CA,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-E6A29238,DAR-74B2FAB6,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-5960AA84,DAR-65FFC947,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-B250908F,DAR-F69D881E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C3C30123,DAR-A088C72F,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-D961AD45,DAR-1FC88CEB,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-CAAE985E,DAR-85B425D8,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-E497A460,DAR-FA6D78BA,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-DD7A1F73,DAR-0B68089C,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-D431D68C,DAR-98726969,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-5A80FC03,DAR-43A3A727,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-06D224F3,DAR-4E0233B3,A010,Proceed to Limited-Trial Consideration,ACTBLK-005,Action blocked due to unsupported benefit claims,Critical,2D-4,,True,,Active
+BLK-015E48E4,DAR-A2184B45,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-EF151A46,DAR-8E139A61,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-3A02EF80,DAR-8E139A61,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-AA59FD45,DAR-2C86E20D,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-94B51DC4,DAR-72920AE5,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-04D4241C,DAR-D86AFFC3,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-9866BA59,DAR-D86AFFC3,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-8DA69EA6,DAR-A8A39E5D,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-691383B5,DAR-B041DB80,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-8142E03B,DAR-8A48496A,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-30735BA1,DAR-DCA573F0,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-0050BF8A,DAR-8F07C192,A001,Review Integrated Decision Package,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-C037EF84,DAR-8F07C192,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-F9D07586,DAR-B668EB93,A010,Proceed to Limited-Trial Consideration,ACTBLK-004,Action blocked due to missing mandatory cost data,Critical,2D-4,,True,,Active
+BLK-D169CF74,DAR-7FBB55CE,A010,Proceed to Limited-Trial Consideration,ACTBLK-005,Action blocked due to unsupported benefit claims,Critical,2D-4,,True,,Active
+BLK-59CBC207,DAR-EE146E46,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-BE5A2ED4,DAR-4F92C8DE,A001,Review Integrated Decision Package,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-E5BD6C72,DAR-4F92C8DE,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-7CF53930,DAR-501FE4B7,A002,Compare Scenario Options,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-2DF366E9,DAR-501FE4B7,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-4A57DBE4,DAR-BFD757FA,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-F3D188CC,DAR-DE25D0B9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-5D0BDAA1,DAR-0BCF969E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-BDF98C54,DAR-431CEE4A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C5E26EB0,DAR-E28A4AD1,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F5CD2BFD,DAR-7FEF4848,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-26481372,DAR-A8046561,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-9BF446A0,DAR-4F657D8C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-1A7F2324,DAR-A28849F1,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-61100F11,DAR-32CA4EF9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-54593918,DAR-4F1EEB63,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-51E9B6A7,DAR-F440C1BB,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-ED0E1253,DAR-F4DDBC83,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-17AA7FB9,DAR-0D1B0882,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2010A141,DAR-172F03A0,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-3E1F7D68,DAR-5E15B5D2,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-8CD39411,DAR-6D67FDDB,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-83BEB333,DAR-3379CCB4,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-EFA6EB7C,DAR-89AFC945,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-B171238C,DAR-F7CB6300,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-31A871B7,DAR-41FB30F8,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-7C01F967,DAR-0DAA31F9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-3B5C008C,DAR-FF13F1EB,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-223E2791,DAR-077ECD22,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-52073201,DAR-1AB43FDD,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-E4B0B1A6,DAR-A0994D45,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-20014CBB,DAR-4449D247,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-AF5F2061,DAR-AC9C2B20,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-E51E7ED5,DAR-7EA3EFC1,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F9394834,DAR-DDD52643,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-5B43F5E6,DAR-568427E5,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-02551E64,DAR-030C7287,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-88218345,DAR-75C333A4,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F8B16F84,DAR-F88EFD84,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-24BD2BC4,DAR-162D4463,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-7EBB8C6B,DAR-0EB1D6E9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-E5C9ED6C,DAR-28449140,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-46F76620,DAR-2449106E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-B85F452D,DAR-067AD019,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-4AAFBDD9,DAR-9A7C353E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-A8819F23,DAR-91B6EBBA,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-AD57768E,DAR-92BF60FE,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-BD15CFD6,DAR-92A1DF16,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-09CA80D5,DAR-36F71515,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-50157014,DAR-262E2F28,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F4962AE0,DAR-6F15DE85,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-034883B7,DAR-BA5941DA,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-8D03C951,DAR-71A17654,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-4238301D,DAR-BD126845,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-3A0F1A5F,DAR-1BABE2C9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-B8E4D67B,DAR-8C498731,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-31A69085,DAR-40E0245C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-0FD9AC06,DAR-9A8C252D,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-27EF89B3,DAR-092C1912,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-BC421CD7,DAR-9D6EE3D4,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-5920F5A4,DAR-3F9E90FC,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-34D400E5,DAR-EDB766BC,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-96DF5832,DAR-1D80DDAB,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-AC72950C,DAR-CBC6E85A,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-09567F2B,DAR-FD378110,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-1FAFDEA0,DAR-439789D9,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-58CFECE3,DAR-2EBE8DDB,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-07A150EB,DAR-6FD4EC73,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-F85DCC5E,DAR-6FD4EC73,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-1BD13B1D,DAR-C32C913C,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-CBD65490,DAR-6CB3BECC,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-06C2FC5C,DAR-5073CA0D,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-7BBA9CB5,DAR-EC066580,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-688B2FA1,DAR-EC066580,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-A335D21B,DAR-9E5250FD,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-D5FEE98E,DAR-03517CCE,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-C7AFEA03,DAR-03517CCE,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-3FE85A34,DAR-C932E734,A010,Proceed to Limited-Trial Consideration,ACTBLK-006,Action blocked due to missing budget data,Critical,2D-4,,True,,Active
+BLK-458E761E,DAR-C1D36465,A010,Proceed to Limited-Trial Consideration,ACTBLK-004,Action blocked due to missing mandatory cost data,Critical,2D-4,,True,,Active
+BLK-C2DD67C2,DAR-45463007,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-FE7E9773,DAR-B161261C,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-03EB0BC2,DAR-B161261C,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-797EF5F3,DAR-0CD46927,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-FADFD9D5,DAR-01347A85,A002,Compare Scenario Options,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-E6B6778B,DAR-01347A85,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-9A52B703,DAR-832A6985,A002,Compare Scenario Options,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-AC2BBE8A,DAR-832A6985,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-7CA5DB01,DAR-61AD89AF,A002,Compare Scenario Options,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-1D67E71E,DAR-61AD89AF,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-B0B4CC96,DAR-CD63524D,A002,Compare Scenario Options,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-3F923122,DAR-CD63524D,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-9FC33BAC,DAR-14887707,A002,Compare Scenario Options,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-C3E0B1CC,DAR-14887707,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-B15287BA,DAR-47B56421,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-768F21BD,DAR-65BDDDF7,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-5B2FB6B9,DAR-C211BF75,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-44AA28DA,DAR-EFCD8144,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2ED75963,DAR-B4576CA9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-36971873,DAR-16F53E03,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-9B90B0D7,DAR-5F5E8A92,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-BF6058AF,DAR-4E8EAFD4,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-4135ADEB,DAR-0B4B5A9A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-68E63E1D,DAR-43B6DB98,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-72D320E1,DAR-66CE9BE2,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-79A6B35D,DAR-229F792C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-68A74A60,DAR-253443A3,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F1BB2E4B,DAR-E81A008F,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-AB890B57,DAR-38B19406,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F93F2CD5,DAR-72D49F6A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-A6CADB30,DAR-2216A943,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C0332C00,DAR-70D964BE,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-72D9A1B5,DAR-874C02AB,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-6FFEB630,DAR-ECB93E7D,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F57DE880,DAR-9E1146B7,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-88D7170F,DAR-C37629BD,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-1999ADBB,DAR-058EDE83,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-AA5F8953,DAR-16529290,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-FFD195FF,DAR-81BFB53F,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-7850A863,DAR-0D14F1CE,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-996CAB6C,DAR-9A82C15C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-FBBF82A5,DAR-B15AE9BF,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-5C4EDDE0,DAR-23903C67,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2F91EF0A,DAR-A4CCDD3C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-FE5B458B,DAR-3B804E65,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-D6E9758B,DAR-E2774DBE,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-FD8AFF0E,DAR-59AC99F6,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-5963F592,DAR-59AC99F6,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-B0422602,DAR-D4561A14,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-28D697A2,DAR-C93AEC4F,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-5667C74E,DAR-A5CDD6AF,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-922413A5,DAR-55B09005,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-8C037D19,DAR-FF5F6430,A010,Proceed to Limited-Trial Consideration,ACTBLK-006,Action blocked due to missing budget data,Critical,2D-4,,True,,Active
+BLK-85401E30,DAR-8F58D4A6,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-86A9ADBE,DAR-CD88FFF7,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-01254AD7,DAR-1F3A5A77,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-6FE8E7B8,DAR-49CFA213,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-50EFEFFF,DAR-EB6DB77C,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-FA45E3AE,DAR-442626F9,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-D76CEEED,DAR-F0343E73,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-9EBF7BF7,DAR-A8841B38,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-2E120E14,DAR-3AF15BF3,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-D3F96AE8,DAR-C2B5BAD4,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-CEC77233,DAR-EE7F041C,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-B7429C8E,DAR-4A210C49,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-8CE3F457,DAR-4A210C49,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-C31B290E,DAR-C38067B5,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-BED05CEB,DAR-0D703D49,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-0F194A27,DAR-DA1A4CF2,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-8824CFDD,DAR-F991DDBC,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-AEC138FB,DAR-D78BF714,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-A0D42CF6,DAR-AFCDB9D6,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-87DB4872,DAR-E7678D13,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-BF896257,DAR-27191DC1,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-23D8983C,DAR-E760C1BD,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-EA3652EB,DAR-5666C2FE,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-D5E4653D,DAR-FE4BEED2,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-82914442,DAR-FA48EE25,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-6772374A,DAR-A54F1C46,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-5F271B29,DAR-E9A79A09,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-42408C63,DAR-405F62F0,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-4BC1B006,DAR-4881A844,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-D0C633C9,DAR-E1B65DF8,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-07F57D60,DAR-7EA8C5F6,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-FBB91609,DAR-A4772225,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2320A4E3,DAR-F857BB12,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C6347D5D,DAR-9C0116DB,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-7DEB194E,DAR-91E73187,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-91E039CB,DAR-42ECE7B2,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-EB7A39EB,DAR-AD1F47AE,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-512B6746,DAR-FE9A11DB,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-4F7B1CCF,DAR-5CB86B57,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2257C569,DAR-3945D05F,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-9DCAD57C,DAR-230E6257,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-70472E49,DAR-BDACF543,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-3D41C640,DAR-2C12C57C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-D4CF63C4,DAR-942A5D94,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-FC1383E0,DAR-257DA3D5,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-D36CD8B9,DAR-43AF3329,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-035F72E0,DAR-AE66E7D4,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-00C2DEFD,DAR-4F29CA80,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F2E41EDC,DAR-D907246E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-9489C471,DAR-B34ED18D,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-1D69EDE1,DAR-DB446FFA,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C9E9F4DA,DAR-7B683739,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-29E897B9,DAR-01BC7F88,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-8EA136C2,DAR-261F58D6,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-8C5EED5E,DAR-B4E4F0EC,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-0F11C0FD,DAR-96805EF5,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-319B1C8F,DAR-1C08A3A4,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-82F060C7,DAR-0ACE79DD,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-85C685D2,DAR-E34A6E17,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-4372E09E,DAR-62C93CCD,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-0FE7DF42,DAR-4987729E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2CEFE544,DAR-2ADFF6B3,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-DDE5B855,DAR-26705AC5,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-8F176523,DAR-0BBE09FC,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-4D855A99,DAR-2D9B3621,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-A04C3396,DAR-AB4009FA,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C1535B26,DAR-3C74B5C5,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-91FFE1E7,DAR-5F51FB89,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-FE7E46D9,DAR-79771E48,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-3B4744CA,DAR-F8B73CA9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-A34A9CEB,DAR-E7431B6F,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-B7CC1C19,DAR-E605D8D3,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-A9598428,DAR-E605D8D3,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-6D63B35E,DAR-0ED11F75,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-046490B0,DAR-64F562FC,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-1D64FA39,DAR-49076815,A010,Proceed to Limited-Trial Consideration,ACTBLK-005,Action blocked due to unsupported benefit claims,Critical,2D-4,,True,,Active
+BLK-63F2CF0D,DAR-D32ECEA5,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-FF930B38,DAR-5312D8A3,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-5DA3A690,DAR-B40F0EA3,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-1BF94E4A,DAR-B40F0EA3,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-1AFADCDA,DAR-8679C0B3,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-754DF20D,DAR-AFC76DD5,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-3C7D5093,DAR-AFC76DD5,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-573E9E0A,DAR-7D935A78,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-1D47FBD9,DAR-7D935A78,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-876213CF,DAR-085E4166,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-5DA7B0BA,DAR-4343723C,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-CEA222F9,DAR-83E86EF6,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-2EF34ACE,DAR-9BFF5838,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-D0EE463A,DAR-B5ED7C2C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-0B7A6923,DAR-A0AB822C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-64B0AFBE,DAR-CAEE9730,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2F65EE2C,DAR-BF840961,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-E350FCD4,DAR-0A64507D,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-97892D4B,DAR-9B80F7C6,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-186650D0,DAR-23D5D874,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-8F325706,DAR-6E63C959,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-CC92142C,DAR-E9BD62E8,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-14E60D51,DAR-ACE02453,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-992CAC96,DAR-F501B1EC,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2FB90617,DAR-ABB8588C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-D2E3B66F,DAR-3DA7AA0E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-E11E9A9D,DAR-55D93A86,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-6FF9B135,DAR-271C04DC,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-791F0B21,DAR-A679E660,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-50EBDE47,DAR-5F3D529C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-00E18F78,DAR-CE6447FF,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-976B4900,DAR-C714F76B,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F9DBE0C9,DAR-9BF095C5,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-BA88AE21,DAR-0F9CBF90,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-75721C0F,DAR-ABC6B02B,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-3BD77932,DAR-FBE8834F,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-1B9A8230,DAR-669416D0,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-73DF5312,DAR-04016886,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-4EF77C14,DAR-C1718EA0,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-97F10E18,DAR-AA4FB234,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C26F823E,DAR-DD7260E8,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-83E08C92,DAR-9ABA22BF,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C1286236,DAR-3FEB44CC,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-A336B397,DAR-151A4D5B,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-927EF188,DAR-772B508D,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C8D7C6DD,DAR-DAEF5320,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-A6A90206,DAR-88D7219F,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-6143EE5E,DAR-EC9FF5B4,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-DF43C76E,DAR-8CE27755,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-1D1765E6,DAR-CD119622,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-10AE2236,DAR-2A10F2BD,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-BDC2814F,DAR-709F8738,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-46795287,DAR-2D83F753,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-7FB9F72B,DAR-CD223EA3,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-8CCB1E46,DAR-607EF7DD,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-4E6A4349,DAR-E185A2D3,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-7406F2A0,DAR-EDC9CDBA,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-0F7053FA,DAR-EDC9CDBA,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-FDE78E09,DAR-A7576593,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-2D57FB36,DAR-83045F60,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-F52AC9F8,DAR-2693D786,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-C49DCFD0,DAR-44A1869D,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-28464763,DAR-4E924C75,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-DDAF1554,DAR-C0047D29,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-52C373EC,DAR-4A4831A3,A010,Proceed to Limited-Trial Consideration,ACTBLK-006,Action blocked due to missing budget data,Critical,2D-4,,True,,Active
+BLK-11B922B3,DAR-A531B511,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-1F647181,DAR-F3DD26A0,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-51C92FF6,DAR-E9ADAC44,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-A17F0DB6,DAR-768884EE,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-37E7E8E5,DAR-94C1E348,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-76C8B5E2,DAR-2CA720DF,A010,Proceed to Limited-Trial Consideration,ACTBLK-006,Action blocked due to missing budget data,Critical,2D-4,,True,,Active
+BLK-42DFFACD,DAR-45744F6E,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-FB1A668D,DAR-2FA00D42,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-639BEB3D,DAR-579843BD,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-5DE79BBD,DAR-CFD7E5D6,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-02A0FB19,DAR-CFD7E5D6,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-1992466C,DAR-A80678B9,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-F9DDE9AF,DAR-9D173217,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-473F561D,DAR-98A3056A,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-13BEC209,DAR-98A3056A,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-2D71E19C,DAR-D637E4D5,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-A3B7CC5F,DAR-4B27E726,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-099A220C,DAR-8786A152,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-80B2B9A8,DAR-702A86AC,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-B5164A40,DAR-BE2E413C,A010,Proceed to Limited-Trial Consideration,ACTBLK-006,Action blocked due to missing budget data,Critical,2D-4,,True,,Active
+BLK-6F50D726,DAR-B6904B30,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-EEA708DE,DAR-B6904B30,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-12BFC65C,DAR-13302777,A002,Compare Scenario Options,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-29C309ED,DAR-13302777,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-DCFEF8C9,DAR-B193B83A,A002,Compare Scenario Options,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-9DFA48AB,DAR-B193B83A,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-258E5959,DAR-DD7D5326,A002,Compare Scenario Options,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-8BB62370,DAR-DD7D5326,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-617B8D2A,DAR-8E141922,A001,Review Integrated Decision Package,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-D41CD58A,DAR-8E141922,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-3F5510C2,DAR-9D8EE118,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-CDDE9626,DAR-BB627492,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-7FEF88F3,DAR-5FA84122,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-005F9D9A,DAR-2F052166,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-8BC67CEB,DAR-D3E2D020,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2FC29806,DAR-E92BBF5A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-591745C5,DAR-6F94AF95,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-3CEFECC4,DAR-5B29121D,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-43817B0A,DAR-5A9D2A1A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-521C038F,DAR-FA9D5418,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F0AA1C41,DAR-60E864A0,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-B77014AD,DAR-C28BEDE4,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-E9796C8A,DAR-4DD779B5,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-BEC1C653,DAR-75F685D4,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-AD857616,DAR-E108DFAA,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F8AFF394,DAR-89FF9A00,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-7F57DD5E,DAR-39E716E6,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-7A970A68,DAR-C3E2F410,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-B69D6E94,DAR-011B9BEF,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-1EAC5D3B,DAR-7EDBEC74,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-5C93D7F6,DAR-D70E7695,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-6B36D6F2,DAR-16C3C92C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-7BE80D30,DAR-2325718B,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-848040A6,DAR-5177B10C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-8606A5B5,DAR-A5F75B70,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2615F115,DAR-79B648D9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-16ECF609,DAR-91132CD8,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-68565C23,DAR-85BE6AB8,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-C9E0C2CB,DAR-5E72DD37,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-F5DFFB7D,DAR-BD554CF0,A010,Proceed to Limited-Trial Consideration,ACTBLK-004,Action blocked due to missing mandatory cost data,Critical,2D-4,,True,,Active
+BLK-C6F2326D,DAR-BC81DEE3,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-F483E497,DAR-56A8C75D,A010,Proceed to Limited-Trial Consideration,ACTBLK-005,Action blocked due to unsupported benefit claims,Critical,2D-4,,True,,Active
+BLK-55C18BC3,DAR-0B636B36,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-918858AF,DAR-017794B2,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-F26663B6,DAR-4D3397CA,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-2F74E27B,DAR-57A63AEB,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-032233FC,DAR-C895CF39,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-3EA0B5CD,DAR-B1534D7C,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-4337E3D1,DAR-067BBE3A,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-B4A40A9B,DAR-845120DB,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-9F72039B,DAR-41EC1F94,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-6ABDDD50,DAR-6671F7E6,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-BC688356,DAR-F883E475,A010,Proceed to Limited-Trial Consideration,ACTBLK-005,Action blocked due to unsupported benefit claims,Critical,2D-4,,True,,Active
+BLK-B7302315,DAR-82FF9346,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-E4A5949F,DAR-72E13BF2,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-674969DD,DAR-02BE61BA,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-B3B2BABE,DAR-02BE61BA,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-9E3B089F,DAR-9157CEC0,A010,Proceed to Limited-Trial Consideration,ACTBLK-004,Action blocked due to missing mandatory cost data,Critical,2D-4,,True,,Active
+BLK-39A3BC20,DAR-3BC4781E,A010,Proceed to Limited-Trial Consideration,ACTBLK-006,Action blocked due to missing budget data,Critical,2D-4,,True,,Active
+BLK-EA967A7E,DAR-1C309785,A001,Review Integrated Decision Package,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-53711CBF,DAR-1C309785,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-EA4B0FF0,DAR-573F14E9,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-0AAE0C6F,DAR-573F14E9,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-DBC1EA7F,DAR-105F67D6,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-35E7ED15,DAR-6C009BE9,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-01E0E875,DAR-2F98846C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-28E0B98E,DAR-59C011AE,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-8EAD302A,DAR-6D176FA1,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-8C188EC3,DAR-6F52AB4D,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-24E26ED8,DAR-ABE54BC8,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-A5BEEFDE,DAR-94A8124A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-05FA89A5,DAR-4152488A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-93D61D7F,DAR-E83F332E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-55A4D730,DAR-ABF7005F,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-DECA9666,DAR-F478CDDD,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-CB5CA3C1,DAR-C77E9C9A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-0F4B7C1F,DAR-723BDBA2,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-116D68A8,DAR-7D642AEB,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-869354FF,DAR-6107C21A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-9A3AB4B3,DAR-C17134B2,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-9D9CBD59,DAR-4DB86EB3,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C487171F,DAR-93EE4994,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-4C8F7D59,DAR-ED564EA1,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2B55A0C1,DAR-6AAB93D9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F61320B7,DAR-E21BF951,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C296D4A6,DAR-F9CD00DB,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-1EC4D000,DAR-94B74FF2,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-BE181396,DAR-882E9987,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-EF3FBEDC,DAR-122243DB,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-D151F2A2,DAR-D4F053B1,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-1602DEE4,DAR-DD5492F2,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-CB5325D3,DAR-73469D08,A010,Proceed to Limited-Trial Consideration,ACTBLK-006,Action blocked due to missing budget data,Critical,2D-4,,True,,Active
+BLK-01F84F96,DAR-28169661,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-30617F9E,DAR-DE83967F,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-F9EB5E56,DAR-D8F16A41,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-9827DC39,DAR-C5D71BB2,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-6056DEFD,DAR-821A79B5,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-8A3A06CB,DAR-7039BD26,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-50014EFA,DAR-30907247,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-504F0E19,DAR-7A3D6830,A002,Compare Scenario Options,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-3A9FDB59,DAR-7A3D6830,A010,Proceed to Limited-Trial Consideration,ACTBLK-003,Action blocked due to invalid baseline,Critical,2D-4,,True,,Active
+BLK-9DC6255D,DAR-67B68C07,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-ECE7D0FE,DAR-9739DA27,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-2963FC47,DAR-20656E67,A001,Review Integrated Decision Package,ACTBLK-009,Action blocked due to evidence deficiency,Critical,2D-4,,True,,Active
+BLK-FEB6888A,DAR-51F39760,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-368FD48B,DAR-15057934,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-F3A1C1EA,DAR-596246CF,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-EFF34805,DAR-C3F1A180,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-6B9BC195,DAR-B0F9ABE0,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-21518F7A,DAR-65082F7A,A010,Proceed to Limited-Trial Consideration,ACTBLK-002,Action blocked due to unresolved assumption issues,Critical,2D-4,,True,,Active
+BLK-A7AFDB76,DAR-B3C2E998,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-8CC1CD1F,DAR-0E65789B,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-B44E8DE7,DAR-C07CB25D,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-120C3A73,DAR-02DF1924,A010,Proceed to Limited-Trial Consideration,ACTBLK-008,Action blocked due to incomplete scenario analysis,Critical,2D-4,,True,,Active
+BLK-B7F9382E,DAR-77B5EE58,A001,Review Integrated Decision Package,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-E1C3D491,DAR-77B5EE58,A010,Proceed to Limited-Trial Consideration,UNKNOWN,Blocked due to nan,Critical,2D-4,,True,,Active
+BLK-6C705B30,DAR-95B8A848,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-2EE8C725,DAR-B2062893,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-38D5BFC2,DAR-33455E2F,A010,Proceed to Limited-Trial Consideration,ACTBLK-007,Action blocked due to unresolved stakeholder confirmation,Critical,2D-4,,True,,Active
+BLK-B119B261,DAR-4F06A506,A001,Review Integrated Decision Package,ACTBLK-010,Action blocked due to lineage deficiency,Critical,2D-4,,True,,Active
+BLK-3993778A,DAR-EC563043,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C56E6512,DAR-0B4C4141,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-3E567652,DAR-8C219A6E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-9A095A7E,DAR-EC8DC8D1,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-59C94DFF,DAR-DE81E8AC,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-75490324,DAR-3D9D2EA3,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-BCE15C24,DAR-22A116C9,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-6F4E45A7,DAR-966E9E6B,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-FCAA95C9,DAR-4E8C9D82,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F8173876,DAR-179B0B85,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-F5236B31,DAR-50187F50,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-75FDBF18,DAR-39C5317E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-C1CBFAE8,DAR-2F84955A,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-D3DF1647,DAR-C131D1B3,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-405AD101,DAR-7DE5A642,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-0112BE9C,DAR-28D1CA61,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-A93B9F1F,DAR-B74AF76C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-AEDC33F0,DAR-D519F794,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-648428D6,DAR-F5016DBB,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-94204031,DAR-0457E95C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2A5F7D16,DAR-045AE68E,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-646FD27C,DAR-222D5C8B,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-42515189,DAR-66E36FD3,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-05E23646,DAR-4BC7B26C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-B0C996A3,DAR-8F7677D5,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-E5080077,DAR-9B05F649,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-3D599C80,DAR-3053D96C,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-257AD412,DAR-0AE415AF,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-2DBE2036,DAR-323AB6D4,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-3FA5788B,DAR-CF1543E6,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-FF41996B,DAR-C303CB6D,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-3DCA5B3C,DAR-5F93B50B,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active
+BLK-B191F178,DAR-21D8F676,A010,Proceed to Limited-Trial Consideration,ACTBLK-011,Action blocked due to multiple gate failures,Critical,2D-4,,True,,Active

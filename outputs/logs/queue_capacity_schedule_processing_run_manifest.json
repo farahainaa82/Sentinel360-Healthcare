@@ -1,0 +1,65 @@
+{
+  "processing_run_id": "PROC-QCS-92010F32B162",
+  "validation_run_id": "VAL-C62B370EC6C3",
+  "source_type": "synthetic_demo",
+  "input_directory": "data\\demo",
+  "output_directory": "data\\processed",
+  "processing_started_datetime": "2026-07-26T00:37:02.093545Z",
+  "processing_completed_datetime": "2026-07-26T00:37:03.138507Z",
+  "engine_version": "1.0.0",
+  "transformation_version": "2D-3B-1.0.0",
+  "configuration_version": "",
+  "source_datasets": [
+    "patient_queue_records",
+    "bed_capacity_records",
+    "service_schedule"
+  ],
+  "processed_datasets": [
+    "processed_patient_queue",
+    "processed_bed_capacity",
+    "processed_service_schedule"
+  ],
+  "source_record_counts": {
+    "patient_queue_records": 1095,
+    "bed_capacity_records": 1095,
+    "service_schedule": 8760
+  },
+  "processed_record_counts": {
+    "processed_patient_queue": 1095,
+    "processed_bed_capacity": 1095,
+    "processed_service_schedule": 8760
+  },
+  "excluded_record_counts": {
+    "processed_patient_queue": 0,
+    "processed_bed_capacity": 0,
+    "processed_service_schedule": 0
+  },
+  "issue_counts_by_severity": {
+    "Information": 1349
+  },
+  "warning_count": 0,
+  "error_count": 0,
+  "run_status": "Completed",
+  "processing_allowed_flag": true,
+  "source_checksums": {
+    "patient_queue_records": "775df8fd166d26e2562d9fa7bc57714cdf0849be19bb231b3c13f31485253fd6",
+    "bed_capacity_records": "fbb36f73c8b78c583538cc0a0ea1589b29410b937e2f69805f43ab10aa7f0652",
+    "service_schedule": "6fb2ffc491946396928dad6512e6cb2cc781526e7140d0eed6438e15e8d15530"
+  },
+  "processed_checksums": {
+    "processed_patient_queue": "035ae7d548904327e74cfada45dba329bf072e3e58f3f37db7e86a3771a78591",
+    "processed_bed_capacity": "239fe6b282a9933952e5b17c933ae10d03a2caf5bdf1bdcdcae5dcb4ce543a1b",
+    "processed_service_schedule": "7778444350ad50fbcf6a67c1fe37e08ca66eee507b93ad96d6b7d6febde71c29"
+  },
+  "output_files": [
+    "data\\processed\\processed_patient_queue.csv",
+    "data\\processed\\processed_bed_capacity.csv",
+    "data\\processed\\processed_service_schedule.csv"
+  ],
+  "unresolved_rules": [],
+  "known_limitations": [
+    "Average Patient Waiting Time KPI is not calculated in this step.",
+    "Bed Occupancy Rate KPI is not calculated in this step.",
+    "Official wait-stage eligibility may require clinical rule refinement."
+  ]
+}

@@ -1,0 +1,16 @@
+dataset,field,present
+analytical_six_kpi_daily,integration_record_id,True
+analytical_six_kpi_daily,analytical_record_id,True
+analytical_six_kpi_daily,hospital_id,True
+analytical_six_kpi_daily,department_id,True
+analytical_six_kpi_daily,reporting_date,True
+analytical_six_kpi_daily,kpi_id,True
+analytical_six_kpi_daily,kpi_name,True
+analytical_six_kpi_daily,domain,True
+analytical_six_kpi_daily,kpi_value,True
+analytical_six_kpi_daily,calculation_status,True
+analytical_six_kpi_daily,threshold_status,True
+analytical_six_kpi_daily,data_confidence_level,True
+analytical_six_kpi_daily,integration_status,True
+analytical_six_kpi_daily,evidence_status,True
+analytical_six_kpi_daily,lineage_status,True

@@ -1,0 +1,2 @@
+score_field,response_count_field,score_scale,valid_score_range,source_rows,valid_response_count,invalid_response_count,weighted_calculation_supported,calculation_readiness,blocking_reason
+satisfaction_score_numeric,response_count,1-5,1.0 to 5.0,5244,4839,405,True,Calculable,

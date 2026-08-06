@@ -1,0 +1,7 @@
+kpi_id,kpi_name,source_dataset,threshold_field,trend_field,status
+KPI_01,Staffing Level,kpi_dashboard,threshold_status,trend,Active
+KPI_02,Staff Absenteeism Rate,kpi_dashboard,threshold_status,trend,Active
+KPI_03,Bed Occupancy Rate,kpi_dashboard,threshold_status,trend,Active
+KPI_04,Average Patient Waiting Time,kpi_dashboard,threshold_status,trend,Active
+KPI_05,Patient Complaint Rate,kpi_dashboard,threshold_status,trend,Active
+KPI_06,Patient Satisfaction Score,kpi_dashboard,threshold_status,trend,Active

@@ -1,0 +1,5 @@
+confidence_rule_id,rule_name,minimum_valid_observations,minimum_coverage_percentage,source_data_confidence_required,trend_confidence_level,confidence_reason,approval_status,version,notes
+C-001,High Confidence,15,75,High,High,Sufficient history and coverage with high source confidence,Draft,v1.0-draft,Requires at least 15 valid observations and 75% coverage and High source confidence
+C-002,Medium Confidence,8,50,Medium or High,Medium,Sufficient minimum history with partial coverage,Draft,v1.0-draft,Requires at least 8 valid observations and 50% coverage
+C-003,Low Confidence,4,25,Any,Low,Minimum history barely met or sparse observations,Draft,v1.0-draft,Requires at least 4 valid observations and 25% coverage
+C-004,Unavailable Confidence,0,0,Any,Unavailable,Trend not calculated or insufficient data,Draft,v1.0-draft,Default when history or coverage is below minimum thresholds

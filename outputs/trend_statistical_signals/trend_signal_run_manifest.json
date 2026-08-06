@@ -1,0 +1,51 @@
+{
+  "trend_run_id": "TREND-79BED8FC382A",
+  "run_type": "trend_and_signal_processing",
+  "start_time": null,
+  "end_time": null,
+  "status": "Success",
+  "kpi_ids": [
+    "kpi_001",
+    "kpi_002",
+    "kpi_003",
+    "kpi_004",
+    "kpi_005",
+    "kpi_006"
+  ],
+  "period_types": [
+    "Daily"
+  ],
+  "comparison_types": [
+    "Previous Available Day",
+    "Previous Calendar Day",
+    "Previous Week",
+    "Previous Month",
+    "Same Period Previous Month",
+    "Rolling 7-Day Average",
+    "Rolling 14-Day Average",
+    "Rolling 30-Day Average",
+    "Rolling 3-Month Average",
+    "Baseline Period Average"
+  ],
+  "signal_methods": [
+    "z_score",
+    "mad_signal",
+    "trend_slope",
+    "volatility_change",
+    "sustained_movement"
+  ],
+  "issue_count": 0,
+  "exclusion_count": 0,
+  "output_datasets": [
+    "analytical_kpi_period_comparisons.csv",
+    "analytical_kpi_rolling_statistics.csv",
+    "analytical_kpi_trend_signals.csv",
+    "analytical_kpi_sustained_movements.csv"
+  ],
+  "phase2a_immutability_verified": true,
+  "configuration_files": [
+    "config/trend_analysis_config.csv",
+    "config/statistical_signal_config.csv",
+    "config/trend_confidence_config.csv"
+  ]
+}

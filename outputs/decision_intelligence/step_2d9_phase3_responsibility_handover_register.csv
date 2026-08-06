@@ -1,0 +1,19 @@
+task_id,phase3_task,owner,reviewer,required_input,expected_output,dependency,handover_status,acceptance_criterion,governance_note
+TASK-01,Healthcare analytics logic,Farah,Kadir,KPI definitions and business rules,Validated KPI calculations,,Complete,Calculations match business rules,Core analytical logic ownership
+TASK-02,Synthetic data generation,Farah,Kadir,Data schema and constraints,Synthetic dataset matching schema,,Complete,Data passes schema validation,Data ownership
+TASK-03,Simulation assumptions,Farah,Kadir,Scenario parameters and ranges,Governed assumption sets,,Complete,Assumptions documented and approved,Scenario ownership
+TASK-04,Financial-impact logic,Farah,Kadir,Cost and benefit formulas,Validated financial calculations,,Complete,Formulas match finance rules,Financial logic ownership
+TASK-05,Business rules documentation,Farah,Kadir,All business rule definitions,Rule register with governance notes,,Complete,All rules documented,Business rules ownership
+TASK-06,WorkBuddy prompts,Farah,Kadir,Prompt templates and test cases,Validated prompt outputs,,Complete,Prompts produce consistent results,Prompt ownership
+TASK-07,Business testing,Farah,Kadir,Test cases and acceptance criteria,Test results and sign-off,All Farah tasks,Pending,All tests pass,Business testing ownership
+TASK-08,Analytical validation,Farah,Kadir,Analytical outputs and benchmarks,Validation report with findings,All Farah tasks,Pending,Validation findings addressed,Validation ownership
+TASK-09,Management narrative review,Farah,Kadir,Management briefs and narratives,Reviewed and approved narratives,All Farah tasks,Pending,Narratives approved by stakeholders,Narrative ownership
+TASK-10,Governance acceptance,Farah,Kadir,Governance checklist and evidence,Governance sign-off,All Farah tasks,Pending,All governance criteria met,Governance ownership
+TASK-11,CodeBuddy development,Kadir,Farah,Repository and tooling setup,Working development environment,,Complete,Environment stable,Development ownership
+TASK-12,Streamlit UI implementation,Kadir,Farah,Page contracts and datasets,Implemented Streamlit pages,All page datasets,Pending,All pages render correctly,UI ownership
+TASK-13,Module integration,Kadir,Farah,Engine modules and interfaces,Integrated module pipeline,All modules,Pending,All modules compile and run,Integration ownership
+TASK-14,Scenario controls,Kadir,Farah,Scenario lab contract,Interactive scenario controls,PAGE-06,Pending,Controls match contract,Scenario UI ownership
+TASK-15,Filters and slicers,Kadir,Farah,Filter selector contract,Implemented filters,All pages,Pending,Filters match contract,Filter ownership
+TASK-16,Report exports,Kadir,Farah,Report export contract,Export functionality,All pages,Pending,Exports match contract,Export ownership
+TASK-17,Debugging and testing,Kadir,Farah,Test cases and bug reports,Resolved issues,All Kadir tasks,Pending,All critical bugs resolved,QA ownership
+TASK-18,Deployment preparation,Kadir,Farah,Deployment checklist,Deployment-ready build,All Kadir tasks,Pending,Build passes deployment checks,Deployment ownership

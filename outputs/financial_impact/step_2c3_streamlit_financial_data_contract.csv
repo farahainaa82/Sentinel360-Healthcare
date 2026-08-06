@@ -1,0 +1,15 @@
+field_name,data_type,streamlit_capability
+hospital_id,string,Filter hospital
+department_id,string,Filter department
+episode_id,string,Filter episode
+scenario_family,string,Filter scenario family
+comparator_type,string,Display comparator
+total_scenario_cost,float,Display scenario cost
+total_estimated_benefit,float,Display benefit
+net_financial_impact,float,Display net impact
+cost_completeness_status,string,Display completeness
+roi_status,string,Display ROI status
+payback_status,string,Display payback status
+financial_confidence,string,Display confidence
+governance_warning,string,Display warnings
+missing_input_flag,boolean,Show missing inputs

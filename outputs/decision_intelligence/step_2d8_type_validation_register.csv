@@ -1,0 +1,3 @@
+validation_id,check,expected,actual,status,detail
+VA-TY-001,brief_type_reconciles_with_readiness,0,0,PASS,
+VA-TY-002,type_register_row_count,646,646,PASS,

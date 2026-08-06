@@ -1,0 +1,37 @@
+metric,value
+packages_assessed,1640
+baselines_created,1640
+baselines_available,63
+baselines_available_with_conditions,1017
+baselines_partial,0
+baselines_missing,560
+scenario_runs_attempted,2711
+scenario_runs_completed,1428
+scenario_runs_completed_with_warnings,0
+scenarios_blocked_by_missing_baseline,0
+scenarios_blocked_by_missing_assumption,0
+scenarios_blocked_by_invalid_assumption,0
+monitoring_only_records,560
+validation_required_records,0
+staffing_scenarios_completed,696
+absenteeism_scenarios_completed,660
+patient_flow_scenarios_completed,72
+combined_scenarios_completed,0
+baseline_comparators_completed,357
+conservative_comparators_completed,357
+expected_comparators_completed,357
+higher_intensity_comparators_completed,357
+moderate_confidence_results,72
+low_confidence_results,1356
+insufficient_evidence_results,1283
+material_contradiction_results,0
+provisional_warning_results,0
+evidence_linkage_result,1988
+lineage_result,1988
+test_results,Pending
+upstream_immutability_result,Not Verified
+no_financial_calculations,True
+readiness_for_2c2d,Ready for Step 2C-2D Multi-KPI Impact and Trade-Off Analysis
+engine_version,2C-2C-1.0
+run_timestamp,2026-07-28T14:58:28.494705+00:00
+timing_seconds,"{'input_loading': 0.6827436999883503, 'baseline_construction': 28.360160399985034, 'scenario_calculations': 14.26358640001854}"

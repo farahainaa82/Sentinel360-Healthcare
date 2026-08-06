@@ -1,0 +1,14 @@
+file,status,message
+data/analytical/analytical_six_kpi_daily.csv,Passed,Found: data/analytical/analytical_six_kpi_daily.csv
+data/analytical/analytical_six_kpi_evidence.csv,Passed,Found: data/analytical/analytical_six_kpi_evidence.csv
+data/analytical/analytical_six_kpi_exclusions.csv,Passed,Found: data/analytical/analytical_six_kpi_exclusions.csv
+data/analytical/analytical_six_kpi_lineage.csv,Passed,Found: data/analytical/analytical_six_kpi_lineage.csv
+data/analytical/analytical_six_kpi_issues.csv,Passed,Found: data/analytical/analytical_six_kpi_issues.csv
+data/analytical/analytical_six_kpi_audit.csv,Passed,Found: data/analytical/analytical_six_kpi_audit.csv
+data/analytical/analytical_six_kpi_coverage_daily.csv,Passed,Found: data/analytical/analytical_six_kpi_coverage_daily.csv
+data/analytical/analytical_workforce_kpi_daily.csv,Passed,Found: data/analytical/analytical_workforce_kpi_daily.csv
+data/analytical/analytical_patient_flow_kpi_daily.csv,Passed,Found: data/analytical/analytical_patient_flow_kpi_daily.csv
+data/analytical/analytical_patient_experience_kpi_daily.csv,Passed,Found: data/analytical/analytical_patient_experience_kpi_daily.csv
+config/kpi_definition_config.csv,Passed,Found: config/kpi_definition_config.csv
+config/kpi_threshold_config.csv,Passed,Found: config/kpi_threshold_config.csv
+config/data_confidence_config.csv,Passed,Found: config/data_confidence_config.csv

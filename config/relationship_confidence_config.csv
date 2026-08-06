@@ -1,0 +1,7 @@
+config_id,config_type,relationship_id,source_kpi_id,target_kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+CONF_HIGH_MIN,CONFIDENCE,ALL,ALL,ALL,high_confidence_min_obs,20,count,Minimum observations for High confidence,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CONF_HIGH_AGR,CONFIDENCE,ALL,ALL,ALL,high_confidence_method_agreement,0.80,proportion,Minimum Pearson-Spearman agreement for High confidence,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CONF_HIGH_STAB,CONFIDENCE,ALL,ALL,ALL,high_confidence_stability_required,True,boolean,Department stability required for High confidence,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CONF_MOD_MIN,CONFIDENCE,ALL,ALL,ALL,moderate_confidence_min_obs,10,count,Minimum observations for Moderate confidence,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CONF_LOW_MIN,CONFIDENCE,ALL,ALL,ALL,low_confidence_min_obs,5,count,Minimum observations for Low confidence,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CONF_INSUF,CONFIDENCE,ALL,ALL,ALL,insufficient_confidence_max_obs,4,count,Maximum observations for Insufficient Evidence,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design

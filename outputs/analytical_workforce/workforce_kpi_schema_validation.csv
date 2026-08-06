@@ -1,0 +1,7 @@
+dataset_name,schema_valid,missing_columns,extra_columns
+analytical_workforce_kpi_daily,True,,
+analytical_workforce_kpi_evidence,True,,
+analytical_workforce_kpi_exclusions,True,,
+analytical_workforce_kpi_lineage,True,,
+analytical_workforce_kpi_issues,True,,
+analytical_workforce_kpi_audit,True,,

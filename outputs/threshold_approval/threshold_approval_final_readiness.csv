@@ -1,0 +1,18 @@
+readiness_item,readiness_value,kpi_count,status
+Overall Promotion Readiness,Ready with Conditions,6,PASS
+Step 2B-2 Readiness,Ready with Conditions,6,PASS
+Fully Approved KPIs,Ready for Promotion,4,PASS
+Conditionally Approved KPIs,Ready for Conditional Promotion,2,PASS
+Pending Decisions,None,0,PASS
+Rejected KPIs,None,0,PASS
+Deferred KPIs,None,0,PASS
+Blocking Issues,None,0,PASS
+Warnings,None,0,PASS
+Active Config Modified,Yes,6,PASS
+Backup Created,Yes,1,PASS
+Sandbox Classification Reconciled,Yes,17520,PASS
+Boundary Cases Verified,Yes,12,PASS
+Staged-to-Active Equivalence,Exact Match,6,PASS
+Tests Passed,41,41,PASS
+Tests Failed,0,0,PASS
+Rollback Status,Not Required,N/A,PASS

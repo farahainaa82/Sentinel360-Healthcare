@@ -1,0 +1,26 @@
+configuration_id,attention_level,readiness_status,escalation_status,operational_escalation_status,risk_tier,urgency,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+ATT-001,Immediate Management Attention,Ready for Integrated Management Review,Priority Review,Operational Escalation,Critical,Immediate Review,1,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-002,Immediate Management Attention,Ready with Conditions,Priority Review,Operational Escalation,Critical,Immediate Review,2,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-003,Priority Management Review,Ready for Integrated Management Review,Standard Review,No Escalation,High,Prompt Review,3,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-004,Priority Management Review,Ready with Conditions,Priority Review,No Escalation,High,Prompt Review,4,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-005,Standard Management Review,Ready for Integrated Management Review,Standard Review,No Escalation,Moderate,Standard Review,5,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-006,Standard Management Review,Ready with Conditions,Standard Review,No Escalation,Moderate,Standard Review,6,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-007,Conditional Review,Requires Assumption Validation,Standard Review,No Escalation,Moderate,Standard Review,7,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-008,Conditional Review,Requires Baseline Validation,Standard Review,No Escalation,Moderate,Standard Review,8,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-009,Conditional Review,Requires Financial Input,Standard Review,No Escalation,Low,Standard Review,9,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-010,Conditional Review,Requires Benefit Validation,Standard Review,No Escalation,Low,Standard Review,10,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-011,Conditional Review,Requires Budget Information,Standard Review,No Escalation,Low,Standard Review,11,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-012,Conditional Review,Requires Stakeholder Validation,Standard Review,No Escalation,Moderate,Standard Review,12,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-013,Conditional Review,Requires Additional Scenario,Standard Review,No Escalation,Moderate,Standard Review,13,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-014,Conditional Review,Requires Evidence Completion,Standard Review,No Escalation,Low,Standard Review,14,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-015,Conditional Review,Requires Lineage Completion,Standard Review,No Escalation,Low,Standard Review,15,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-016,Monitoring,Monitoring Only,Standard Review,No Escalation,Low,Monitoring,16,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-017,Non-Quantitative Review,Non-Quantitative,Standard Review,No Escalation,Low,Standard Review,17,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-018,Not Suitable,Not Suitable,No Escalation,No Escalation,Low,Not Applicable,18,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-019,Rejected,Rejected,No Escalation,No Escalation,Low,Not Applicable,19,True,1.0,Draft Analytical Configuration,True,Attention level mapping
+ATT-020,Immediate Management Attention,Requires Assumption Validation,Priority Review,Operational Escalation,Critical,Immediate Review,20,True,1.0,Draft Analytical Configuration,True,Blocked but high risk
+ATT-021,Immediate Management Attention,Requires Baseline Validation,Priority Review,Operational Escalation,Critical,Immediate Review,21,True,1.0,Draft Analytical Configuration,True,Blocked but high risk
+ATT-022,Immediate Management Attention,Requires Evidence Completion,Priority Review,Operational Escalation,Critical,Immediate Review,22,True,1.0,Draft Analytical Configuration,True,Blocked but high risk
+ATT-023,Immediate Management Attention,Requires Lineage Completion,Priority Review,Operational Escalation,Critical,Immediate Review,23,True,1.0,Draft Analytical Configuration,True,Blocked but high risk
+ATT-024,Priority Management Review,Ready for Integrated Management Review,Priority Review,No Escalation,High,Prompt Review,24,True,1.0,Draft Analytical Configuration,True,Priority mapping
+ATT-025,Priority Management Review,Ready with Conditions,Standard Review,No Escalation,High,Prompt Review,25,True,1.0,Draft Analytical Configuration,True,Priority mapping

@@ -1,0 +1,7 @@
+anomaly_config_id,kpi_id,primary_method,fallback_method,minimum_history_periods,sensitivity_level,primary_threshold,lower_iqr_multiplier,upper_iqr_multiplier,zero_variation_rule,insufficient_history_rule,enabled_flag,parameter_json,configuration_version,effective_start_date,effective_end_date,approval_status,validation_status,created_datetime,updated_datetime
+adc_001,kpi_001,Modified Z-Score,Interquartile Range,,,,,,Return Not Available,Return Not Available,false,,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+adc_002,kpi_002,Modified Z-Score,Interquartile Range,,,,,,Return Not Available,Return Not Available,false,,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+adc_003,kpi_003,Modified Z-Score,Interquartile Range,,,,,,Return Not Available,Return Not Available,false,,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+adc_004,kpi_004,Modified Z-Score,Interquartile Range,,,,,,Return Not Available,Return Not Available,false,,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+adc_005,kpi_005,Modified Z-Score,Interquartile Range,,,,,,Return Not Available,Return Not Available,false,,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+adc_006,kpi_006,Modified Z-Score,Interquartile Range,,,,,,Return Not Available,Return Not Available,false,,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00

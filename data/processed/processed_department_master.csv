@@ -1,0 +1,9 @@
+department_id,hospital_id,department_name,department_type,parent_department_id,bed_based_flag,queue_based_flag,patient_experience_flag,active_flag,effective_start_date,effective_end_date,source_primary_key,source_row_number,processing_run_id,validation_run_id,transformation_version,processed_datetime
+DEPT-ED,HOSP-001,Emergency Department,Clinical,,False,False,False,True,2020-01-01,2099-12-31,DEPT-ED,1,PROC-226787338905,VAL-C62B370EC6C3,2D-2.1.0,2026-07-25T22:46:24.920684
+DEPT-OPC,HOSP-001,Outpatient Clinic,Clinical,,False,False,False,True,2020-01-01,2099-12-31,DEPT-OPC,2,PROC-226787338905,VAL-C62B370EC6C3,2D-2.1.0,2026-07-25T22:46:24.920684
+DEPT-MED,HOSP-001,Medical Ward,Clinical,,False,False,False,True,2020-01-01,2099-12-31,DEPT-MED,3,PROC-226787338905,VAL-C62B370EC6C3,2D-2.1.0,2026-07-25T22:46:24.920684
+DEPT-SURG,HOSP-001,Surgical Ward,Clinical,,False,False,False,True,2020-01-01,2099-12-31,DEPT-SURG,4,PROC-226787338905,VAL-C62B370EC6C3,2D-2.1.0,2026-07-25T22:46:24.920684
+DEPT-ICU,HOSP-001,Intensive Care Unit,Clinical,,False,False,False,True,2020-01-01,2099-12-31,DEPT-ICU,5,PROC-226787338905,VAL-C62B370EC6C3,2D-2.1.0,2026-07-25T22:46:24.920684
+DEPT-DIAG,HOSP-001,Diagnostic Services,Clinical,,False,False,False,True,2020-01-01,2099-12-31,DEPT-DIAG,6,PROC-226787338905,VAL-C62B370EC6C3,2D-2.1.0,2026-07-25T22:46:24.920684
+DEPT-PEX,HOSP-001,Patient Experience,Administrative,,False,False,False,True,2020-01-01,2099-12-31,DEPT-PEX,7,PROC-226787338905,VAL-C62B370EC6C3,2D-2.1.0,2026-07-25T22:46:24.920684
+DEPT-ADM,HOSP-001,Administration,Administrative,,False,False,False,True,2020-01-01,2099-12-31,DEPT-ADM,8,PROC-226787338905,VAL-C62B370EC6C3,2D-2.1.0,2026-07-25T22:46:24.920684

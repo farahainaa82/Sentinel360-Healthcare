@@ -1,0 +1,177 @@
+{
+  "acceptance_status": "PASSED",
+  "departments": {
+    "All Departments": {
+      "dominant_issue": "",
+      "kpi_values": {
+        "Staffing Level": "\u2014 (Status: Monitoring)",
+        "Staff Absenteeism Rate": "\u2014 (Status: Monitoring)",
+        "Bed Occupancy Rate": "\u2014 (Status: Monitoring)",
+        "Average Patient Waiting Time": "\u2014 (Status: Monitoring)",
+        "Patient Complaint Rate": "No Data (Unit: Data Not Available | Status: Awaiting Complaint Data)",
+        "Patient Satisfaction Score": "\u2014 (Status: Monitoring)"
+      },
+      "kpi_statuses": {
+        "Staffing Level": "Monitoring",
+        "Staff Absenteeism Rate": "Monitoring",
+        "Bed Occupancy Rate": "Monitoring",
+        "Average Patient Waiting Time": "Monitoring",
+        "Patient Complaint Rate": "Monitoring",
+        "Patient Satisfaction Score": "Monitoring"
+      },
+      "operational_banner": "ROUTINE MONITORING \u2014 STABLE OPERATIONS",
+      "management_action": "Primary permitted action: No material operational breach. Continue routine monitoring.",
+      "consistency_ok": true
+    },
+    "Outpatient Clinic": {
+      "dominant_issue": "For Outpatient Clinic on 2026-12-01 00:00:00, the dominant issue is Staff Absenteeism Rate (Amber). Recommended action: Elevated absenteeism. Monitor trends; review absence reasons; prepare contingency cover.",
+      "kpi_values": {
+        "Staff Absenteeism Rate": "16.7 (Status: Warning)",
+        "Staffing Level": "91.7 (Status: Acceptable)",
+        "Average Patient Waiting Time": "42.8 (Status: Acceptable)",
+        "Bed Occupancy Rate": "\u2014 (Status: Monitoring)",
+        "Patient Complaint Rate": "No Data (Unit: Data Not Available | Status: Awaiting Complaint Data)",
+        "Patient Satisfaction Score": "\u2014 (Status: Monitoring)"
+      },
+      "kpi_statuses": {
+        "Staff Absenteeism Rate": "Amber",
+        "Staffing Level": "Green",
+        "Average Patient Waiting Time": "Green",
+        "Bed Occupancy Rate": "Monitoring",
+        "Patient Complaint Rate": "Monitoring",
+        "Patient Satisfaction Score": "Monitoring"
+      },
+      "operational_banner": "Priority Management Review \u2014 OPERATIONAL ATTENTION REQUIRED",
+      "management_action": "For Outpatient Clinic on 2026-12-01 00:00:00, the dominant issue is Staff Absenteeism Rate (Amber). Recommended action: Elevated absenteeism. Monitor trends; review absence reasons; prepare contingency cover.",
+      "consistency_ok": true
+    },
+    "Diagnostics": {
+      "dominant_issue": "For Diagnostics on 2026-12-01 00:00:00, the dominant issue is Staff Absenteeism Rate (Red). Recommended action: High absenteeism. Review absence patterns; arrange relief staffing; assess roster resilience; escalate to HR.",
+      "kpi_values": {
+        "Staff Absenteeism Rate": "21.4 (Status: Critical)",
+        "Staffing Level": "92.9 (Status: Acceptable)",
+        "Average Patient Waiting Time": "41.1 (Status: Acceptable)",
+        "Bed Occupancy Rate": "\u2014 (Status: Monitoring)",
+        "Patient Complaint Rate": "0.0 (Status: Acceptable)",
+        "Patient Satisfaction Score": "3.0 (Status: Acceptable)"
+      },
+      "kpi_statuses": {
+        "Staff Absenteeism Rate": "Red",
+        "Staffing Level": "Green",
+        "Average Patient Waiting Time": "Green",
+        "Bed Occupancy Rate": "Monitoring",
+        "Patient Complaint Rate": "Green",
+        "Patient Satisfaction Score": "Green"
+      },
+      "operational_banner": "Priority Management Review \u2014 PRIORITY MANAGEMENT REVIEW",
+      "management_action": "For Diagnostics on 2026-12-01 00:00:00, the dominant issue is Staff Absenteeism Rate (Red). Recommended action: High absenteeism. Review absence patterns; arrange relief staffing; assess roster resilience; escalate to HR.",
+      "consistency_ok": true
+    },
+    "Emergency Department": {
+      "dominant_issue": "For Emergency Department on 2026-12-01 00:00:00, the dominant issue is Staffing Level (Red). Recommended action: Critical staffing shortfall. Adjust roster; deploy temporary staffing; redistribute shifts; escalate to workforce planning.",
+      "kpi_values": {
+        "Staffing Level": "80.0 (Status: Critical)",
+        "Staff Absenteeism Rate": "13.3 (Status: Acceptable)",
+        "Average Patient Waiting Time": "40.4 (Status: Acceptable)",
+        "Bed Occupancy Rate": "\u2014 (Status: Monitoring)",
+        "Patient Complaint Rate": "0.0 (Status: Acceptable)",
+        "Patient Satisfaction Score": "3.5 (Status: Acceptable)"
+      },
+      "kpi_statuses": {
+        "Staffing Level": "Red",
+        "Staff Absenteeism Rate": "Green",
+        "Average Patient Waiting Time": "Green",
+        "Bed Occupancy Rate": "Monitoring",
+        "Patient Complaint Rate": "Green",
+        "Patient Satisfaction Score": "Green"
+      },
+      "operational_banner": "Priority Management Review \u2014 PRIORITY MANAGEMENT REVIEW",
+      "management_action": "For Emergency Department on 2026-12-01 00:00:00, the dominant issue is Staffing Level (Red). Recommended action: Critical staffing shortfall. Adjust roster; deploy temporary staffing; redistribute shifts; escalate to workforce planning.",
+      "consistency_ok": true
+    },
+    "Intensive Care Unit": {
+      "dominant_issue": "For Intensive Care Unit on 2026-12-01 00:00:00, the dominant issue is Staff Absenteeism Rate (Amber). Recommended action: Elevated absenteeism. Monitor trends; review absence reasons; prepare contingency cover.",
+      "kpi_values": {
+        "Staff Absenteeism Rate": "15.4 (Status: Warning)",
+        "Staffing Level": "84.6 (Status: Acceptable)",
+        "Bed Occupancy Rate": "90.0 (Status: Acceptable)",
+        "Average Patient Waiting Time": "\u2014 (Status: Monitoring)",
+        "Patient Complaint Rate": "No Data (Unit: Data Not Available | Status: Awaiting Complaint Data)",
+        "Patient Satisfaction Score": "3.5 (Status: Acceptable)"
+      },
+      "kpi_statuses": {
+        "Staff Absenteeism Rate": "Amber",
+        "Staffing Level": "Green",
+        "Bed Occupancy Rate": "Green",
+        "Average Patient Waiting Time": "Monitoring",
+        "Patient Complaint Rate": "Monitoring",
+        "Patient Satisfaction Score": "Green"
+      },
+      "operational_banner": "Priority Management Review \u2014 OPERATIONAL ATTENTION REQUIRED",
+      "management_action": "For Intensive Care Unit on 2026-12-01 00:00:00, the dominant issue is Staff Absenteeism Rate (Amber). Recommended action: Elevated absenteeism. Monitor trends; review absence reasons; prepare contingency cover.",
+      "consistency_ok": true
+    },
+    "Patient Experience": {
+      "dominant_issue": "For Patient Experience on 2026-12-01 00:00:00, the dominant issue is Patient Satisfaction Score (Red). Recommended action: Low patient satisfaction. Launch experience review; implement quality intervention; improve communication; follow up patient feedback.",
+      "kpi_values": {
+        "Patient Satisfaction Score": "2.5 (Status: Critical)",
+        "Staffing Level": "100.0 (Status: Acceptable)",
+        "Staff Absenteeism Rate": "0.0 (Status: Acceptable)",
+        "Bed Occupancy Rate": "\u2014 (Status: Monitoring)",
+        "Average Patient Waiting Time": "\u2014 (Status: Monitoring)",
+        "Patient Complaint Rate": "No Data (Unit: Data Not Available | Status: Awaiting Complaint Data)"
+      },
+      "kpi_statuses": {
+        "Patient Satisfaction Score": "Red",
+        "Staffing Level": "Green",
+        "Staff Absenteeism Rate": "Green",
+        "Bed Occupancy Rate": "Monitoring",
+        "Average Patient Waiting Time": "Monitoring",
+        "Patient Complaint Rate": "Monitoring"
+      },
+      "operational_banner": "Priority Management Review \u2014 PRIORITY MANAGEMENT REVIEW",
+      "management_action": "For Patient Experience on 2026-12-01 00:00:00, the dominant issue is Patient Satisfaction Score (Red). Recommended action: Low patient satisfaction. Launch experience review; implement quality intervention; improve communication; follow up patient feedback.",
+      "consistency_ok": true
+    },
+    "Surgery": {
+      "dominant_issue": "For Surgery on 2026-12-01 00:00:00, the dominant issue is Bed Occupancy Rate (Amber). Recommended action: High bed occupancy. Review discharge coordination; assess ward balancing; monitor elective scheduling.",
+      "kpi_values": {
+        "Staff Absenteeism Rate": "15.4 (Status: Warning)",
+        "Bed Occupancy Rate": "103.2 (Status: Warning)",
+        "Staffing Level": "84.6 (Status: Acceptable)",
+        "Average Patient Waiting Time": "\u2014 (Status: Monitoring)",
+        "Patient Complaint Rate": "No Data (Unit: Data Not Available | Status: Awaiting Complaint Data)",
+        "Patient Satisfaction Score": "4.0 (Status: Acceptable)"
+      },
+      "kpi_statuses": {
+        "Staff Absenteeism Rate": "Amber",
+        "Bed Occupancy Rate": "Amber",
+        "Staffing Level": "Green",
+        "Average Patient Waiting Time": "Monitoring",
+        "Patient Complaint Rate": "Monitoring",
+        "Patient Satisfaction Score": "Green"
+      },
+      "operational_banner": "Priority Management Review \u2014 OPERATIONAL ATTENTION REQUIRED",
+      "management_action": "For Surgery on 2026-12-01 00:00:00, the dominant issue is Bed Occupancy Rate (Amber). Recommended action: High bed occupancy. Review discharge coordination; assess ward balancing; monitor elective scheduling.",
+      "consistency_ok": true
+    }
+  },
+  "screenshots": [
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\full_page_all_departments.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\dept_all_departments.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\trend_row_all_departments.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\dept_outpatient_clinic.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\trend_row_outpatient_clinic.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\dept_diagnostics.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\trend_row_diagnostics.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\dept_emergency_department.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\trend_row_emergency_department.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\dept_intensive_care_unit.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\trend_row_intensive_care_unit.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\dept_patient_experience.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\trend_row_patient_experience.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\dept_surgery.png",
+    "c:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\streamlit\\browser_acceptance\\trend_row_surgery.png"
+  ],
+  "issues": []
+}

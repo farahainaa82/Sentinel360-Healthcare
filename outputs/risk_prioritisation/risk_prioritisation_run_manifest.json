@@ -1,0 +1,43 @@
+{
+  "run_id": "RISKPRIOR-20260728062026",
+  "step": "2B-3",
+  "processed_at": "2026-07-28T06:20:26.487194",
+  "total_source_kpi_records": 17520,
+  "kpi_risk_records": 17520,
+  "assessable_kpi_records": 11397,
+  "unavailable_kpi_records": 6123,
+  "department_date_records": 2920,
+  "hospital_date_records": 365,
+  "issues": 0,
+  "upstream_checksums_before": {
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_threshold_classification_daily.csv": "d8212094f69a053a26f8e073eefc390a0219170535e3ad72dbbff42daca5a665",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_breach_events.csv": "003c42c0d21981053bba4cb356e36e7ada1cb26cc18667257ce06d364d1a7da6",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_conditions.csv": "0dfcda76ef8a769ea5da7857f0a485400a6909e117cb62bc878fe925e1445024",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_persistence.csv": "b036bce0d80eed91aa0a79468ace200ac655e359355277fff3d9d824e153ecb5",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_breach_trend_integration.csv": "5b66f579cffbac1cb4c86439ba2b88bd0a4df6894ac73e53171036cb88f22d12",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_evidence.csv": "66fbcad01ee1052fb5d3299a4100c94301ca07eb1ddce23b3947f22e0dfee27a",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_lineage.csv": "d8c2964a95220c42aef740759d2e7e3aa71fca3ed75cfb36ec33557714bc74ac",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_governance.csv": "5eae0f86936f39454bd20b2ed8d18dd9d65a64973c14052c366f48c8cacd4154",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_issues.csv": "03576ff093e065431335ac099afe325a382edf63189f8c1f870ee41ffb829c41",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_daily_summary.csv": "b4a5d09535577f4ae55993d6c017b81cfd5a2b72d37e5738654e70c53a8037c6",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\config/kpi_threshold_config.csv": "29addaf81430734f16e434e022c3d7a98c5ff1a25d2ed4e70f718b27cfd5b2d0",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\config/kpi_threshold_stakeholder_decisions.csv": "ddea248ef5c44301fc2f8c8e26dbbf201fbd885ab3b1ef3fed6b1937399ccea3"
+  },
+  "upstream_checksums_after": {
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_threshold_classification_daily.csv": "d8212094f69a053a26f8e073eefc390a0219170535e3ad72dbbff42daca5a665",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_breach_events.csv": "003c42c0d21981053bba4cb356e36e7ada1cb26cc18667257ce06d364d1a7da6",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_conditions.csv": "0dfcda76ef8a769ea5da7857f0a485400a6909e117cb62bc878fe925e1445024",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_persistence.csv": "b036bce0d80eed91aa0a79468ace200ac655e359355277fff3d9d824e153ecb5",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_breach_trend_integration.csv": "5b66f579cffbac1cb4c86439ba2b88bd0a4df6894ac73e53171036cb88f22d12",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_evidence.csv": "66fbcad01ee1052fb5d3299a4100c94301ca07eb1ddce23b3947f22e0dfee27a",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_lineage.csv": "d8c2964a95220c42aef740759d2e7e3aa71fca3ed75cfb36ec33557714bc74ac",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_governance.csv": "5eae0f86936f39454bd20b2ed8d18dd9d65a64973c14052c366f48c8cacd4154",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_issues.csv": "03576ff093e065431335ac099afe325a382edf63189f8c1f870ee41ffb829c41",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data/analytical/analytical_kpi_watch_daily_summary.csv": "b4a5d09535577f4ae55993d6c017b81cfd5a2b72d37e5738654e70c53a8037c6",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\config/kpi_threshold_config.csv": "29addaf81430734f16e434e022c3d7a98c5ff1a25d2ed4e70f718b27cfd5b2d0",
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\config/kpi_threshold_stakeholder_decisions.csv": "ddea248ef5c44301fc2f8c8e26dbbf201fbd885ab3b1ef3fed6b1937399ccea3"
+  },
+  "upstream_modified": false,
+  "step_2b3_status": "COMPLETE",
+  "step_2b4_readiness": "Ready with Conditions"
+}

@@ -1,0 +1,11 @@
+configuration_id,display_term,allowed_status,prohibited_status,display_colour,display_icon,display_priority,active_flag,version,approval_status,provisional_flag,governance_note
+DG-001,Pending Management Review,True,False,grey,clock,1,True,1.0,Draft Analytical Configuration,True,Display governance
+DG-002,Not Confirmed,True,False,amber,alert-circle,2,True,1.0,Draft Analytical Configuration,True,Display governance
+DG-003,Awaiting Management Action,True,False,blue,hourglass,3,True,1.0,Draft Analytical Configuration,True,Display governance
+DG-004,Complete,True,False,green,check-circle,4,True,1.0,Draft Analytical Configuration,True,Display governance
+DG-005,Partial,True,False,orange,alert-triangle,5,True,1.0,Draft Analytical Configuration,True,Display governance
+DG-006,Incomplete,True,False,red,x-circle,6,True,1.0,Draft Analytical Configuration,True,Display governance
+DG-007,Not Selected,True,False,grey,minus-circle,7,True,1.0,Draft Analytical Configuration,True,Display governance
+DG-008,Blocked,True,False,red,shield,8,True,1.0,Draft Analytical Configuration,True,Display governance
+DG-009,Monitoring,True,False,blue,activity,9,True,1.0,Draft Analytical Configuration,True,Display governance
+DG-010,Conditional,True,False,amber,alert-circle,10,True,1.0,Draft Analytical Configuration,True,Display governance

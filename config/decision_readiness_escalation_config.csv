@@ -1,0 +1,9 @@
+configuration_id,escalation_rule_id,risk_tier,urgency_level,readiness_status,escalation_status,management_attention_required,active_flag,version,governance_note
+CFG-ESC-001,ESC-001,High,Immediate,Any,Immediate Management Attention,True,True,1.0,High risk requires attention regardless of readiness
+CFG-ESC-002,ESC-002,High,High,Any,Priority Review,True,True,1.0,High risk with high urgency
+CFG-ESC-003,ESC-003,Moderate,High,Any,Priority Review,True,True,1.0,Moderate risk with high urgency
+CFG-ESC-004,ESC-004,Moderate,Moderate,Any,Standard Review,False,True,1.0,Standard processing
+CFG-ESC-005,ESC-005,Low,Moderate,Any,Standard Review,False,True,1.0,Standard processing
+CFG-ESC-006,ESC-006,Low,Low,Any,Monitoring,False,True,1.0,Low priority monitoring
+CFG-ESC-007,ESC-007,Not Assessable,Any,Any,Not Assessable,False,True,1.0,Cannot assess escalation
+CFG-ESC-008,ESC-008,Any,Monitoring Only,Monitoring,Monitoring,False,True,1.0,Monitoring packages

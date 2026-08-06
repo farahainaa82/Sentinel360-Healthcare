@@ -1,0 +1,7 @@
+kpi_id,total_records,calculated_records,unavailable_records,breach_events,watch_conditions
+kpi_001,2920,2920,0,549,2131
+kpi_002,2920,2920,0,590,2237
+kpi_003,2920,1095,1825,512,943
+kpi_004,2920,1095,1825,218,737
+kpi_005,2920,984,1936,208,689
+kpi_006,2920,2383,537,387,2383

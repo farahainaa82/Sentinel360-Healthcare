@@ -1,0 +1,7 @@
+config_id,config_name,check_type,threshold_value,allowed_values,action_if_failed,description
+ASSUMP-001,Hard Limit Violation,boolean,FALSE,,reject,Any hard limit violation invalidates assumptions
+ASSUMP-002,Soft Limit Violation Rate,numeric,0.2,,flag,More than 20% soft limit violations trigger review
+ASSUMP-003,Validation Outcome Allowlist,categorical,,Valid;Adjusted;Accepted with Warning,flag,Outcomes outside allowlist require review
+ASSUMP-004,Adjustment Magnitude Cap,numeric,0.5,,flag,Adjustments >50% of original value are flagged
+ASSUMP-005,Assumption Set Completeness,numeric,1.0,,flag,All assumptions in set must be validated
+ASSUMP-006,Orphan Validation Flag,boolean,FALSE,,flag,Assumption validation records without scenario linkage are flagged

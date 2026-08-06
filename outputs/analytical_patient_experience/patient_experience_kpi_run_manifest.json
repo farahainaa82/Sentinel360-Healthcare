@@ -1,0 +1,201 @@
+{
+  "calculation_run_id": "PEX-KPI-DCF120177644",
+  "execution_timestamp": "2026-07-27T14:43:24.726125",
+  "engine_version": "2A-4-1.0.0",
+  "configuration_version": "v1.0-draft",
+  "threshold_version": "v1.0-draft",
+  "source_dataset_checksums": {
+    "data/processed/processed_operational_daily.csv": {
+      "baseline": "0994fe112dd2d50936e2990f97ab6fa528e5c3d99600ec27ab46ca6e7522150d",
+      "current": "0994fe112dd2d50936e2990f97ab6fa528e5c3d99600ec27ab46ca6e7522150d",
+      "match": true
+    },
+    "data/processed/processed_workforce_daily.csv": {
+      "baseline": "a5cd78b09d8aa4f4784aeea1735a5979e129c52e461faf09e2c896247607a3d2",
+      "current": "a5cd78b09d8aa4f4784aeea1735a5979e129c52e461faf09e2c896247607a3d2",
+      "match": true
+    },
+    "data/processed/processed_staff_attendance.csv": {
+      "baseline": "ace920f1b59672484ed111375171a742eb5d0b8e0160d7ec7cf1dc7c80ba4043",
+      "current": "ace920f1b59672484ed111375171a742eb5d0b8e0160d7ec7cf1dc7c80ba4043",
+      "match": true
+    },
+    "data/processed/processed_staff_roster.csv": {
+      "baseline": "c0c532f17ad0cd76591b4f19cff0e12020dcbf7a43804b71a08e50d9b5e3aa0e",
+      "current": "c0c532f17ad0cd76591b4f19cff0e12020dcbf7a43804b71a08e50d9b5e3aa0e",
+      "match": true
+    },
+    "data/processed/processed_staffing_requirement.csv": {
+      "baseline": "3489a21aab6c4626d0268d176d0129f8266cafe7e9f914271e8f498959fe932d",
+      "current": "3489a21aab6c4626d0268d176d0129f8266cafe7e9f914271e8f498959fe932d",
+      "match": true
+    },
+    "data/processed/processed_staff_master.csv": {
+      "baseline": "24cc5ba2b71e8719d1cf99a7cfd7ebeb81789029d6c7737005bcb2576de5cb6b",
+      "current": "24cc5ba2b71e8719d1cf99a7cfd7ebeb81789029d6c7737005bcb2576de5cb6b",
+      "match": true
+    },
+    "data/processed/processed_staff_role_master.csv": {
+      "baseline": "5542710f419a1b3b7a5a46c7a48519096967a221a15b1220d84999cd8ded5be6",
+      "current": "5542710f419a1b3b7a5a46c7a48519096967a221a15b1220d84999cd8ded5be6",
+      "match": true
+    },
+    "data/processed/processed_patient_encounters.csv": {
+      "baseline": "7d75a4e43f8e3b47ae3298ae1337ed1cdcc422287a8ad5ac5febd2bb350e490f",
+      "current": "7d75a4e43f8e3b47ae3298ae1337ed1cdcc422287a8ad5ac5febd2bb350e490f",
+      "match": true
+    },
+    "data/processed/processed_patient_flow_daily.csv": {
+      "baseline": "cf31c8ac27d9fd0e83e9cf3c175b364c2b3d9be0e7f85a887285390bc2a6c778",
+      "current": "cf31c8ac27d9fd0e83e9cf3c175b364c2b3d9be0e7f85a887285390bc2a6c778",
+      "match": true
+    },
+    "data/processed/processed_patient_queue.csv": {
+      "baseline": "035ae7d548904327e74cfada45dba329bf072e3e58f3f37db7e86a3771a78591",
+      "current": "035ae7d548904327e74cfada45dba329bf072e3e58f3f37db7e86a3771a78591",
+      "match": true
+    },
+    "data/processed/processed_bed_capacity.csv": {
+      "baseline": "239fe6b282a9933952e5b17c933ae10d03a2caf5bdf1bdcdcae5dcb4ce543a1b",
+      "current": "239fe6b282a9933952e5b17c933ae10d03a2caf5bdf1bdcdcae5dcb4ce543a1b",
+      "match": true
+    },
+    "data/processed/processed_service_schedule.csv": {
+      "baseline": "7778444350ad50fbcf6a67c1fe37e08ca66eee507b93ad96d6b7d6febde71c29",
+      "current": "7778444350ad50fbcf6a67c1fe37e08ca66eee507b93ad96d6b7d6febde71c29",
+      "match": true
+    },
+    "data/processed/processed_patient_complaints.csv": {
+      "baseline": "cc0d7b547281fcb533cb5f16a3419f5372644cfff4399ccead974a476f48b57f",
+      "current": "cc0d7b547281fcb533cb5f16a3419f5372644cfff4399ccead974a476f48b57f",
+      "match": true
+    },
+    "data/processed/processed_patient_surveys.csv": {
+      "baseline": "baa11611c03683d019c6cfb00c545202e6d48fbd89140d3e9c1c334e681ba056",
+      "current": "baa11611c03683d019c6cfb00c545202e6d48fbd89140d3e9c1c334e681ba056",
+      "match": true
+    },
+    "data/processed/processed_patient_experience_daily.csv": {
+      "baseline": "acf8e3fc88992317f82fa52431510728a6c5ffc72606c51abab13cd93321e7d4",
+      "current": "acf8e3fc88992317f82fa52431510728a6c5ffc72606c51abab13cd93321e7d4",
+      "match": true
+    },
+    "outputs/analytical_governance/kpi_governance_registry.csv": {
+      "baseline": "faa13c4792772c5832950644fa40b385b5f61b54e7021a20621168aaccdb3673",
+      "current": "faa13c4792772c5832950644fa40b385b5f61b54e7021a20621168aaccdb3673",
+      "match": true
+    },
+    "outputs/analytical_governance/kpi_readiness_summary.csv": {
+      "baseline": "3a05d2438e1fc277b4ef02e5c498ecc7a2351e4c10ad8348b73cc8e919458074",
+      "current": "3a05d2438e1fc277b4ef02e5c498ecc7a2351e4c10ad8348b73cc8e919458074",
+      "match": true
+    },
+    "outputs/analytical_governance/kpi_source_field_mapping.csv": {
+      "baseline": "2c47a15ad93596f394b2cd66cc8b24eb06af1f3c9f6fd8080535178a7d04e72d",
+      "current": "2c47a15ad93596f394b2cd66cc8b24eb06af1f3c9f6fd8080535178a7d04e72d",
+      "match": true
+    },
+    "outputs/analytical_governance/kpi_configuration_validation.csv": {
+      "baseline": "c139a4dbbca7805a780cbc21a6154c897dc49051c81407e22255e4cdf5d48cbc",
+      "current": "c139a4dbbca7805a780cbc21a6154c897dc49051c81407e22255e4cdf5d48cbc",
+      "match": true
+    },
+    "outputs/analytical_governance/kpi_threshold_validation.csv": {
+      "baseline": "994718a8788b3251cfbeea71a16eeefd0ceca3591a5654332a5059c1605721ee",
+      "current": "994718a8788b3251cfbeea71a16eeefd0ceca3591a5654332a5059c1605721ee",
+      "match": true
+    },
+    "outputs/analytical_governance/analytical_schema_summary.csv": {
+      "baseline": "b309459ef78225ccbb694b06e7c26a2308b458b279506c18286594388022d4d5",
+      "current": "b309459ef78225ccbb694b06e7c26a2308b458b279506c18286594388022d4d5",
+      "match": true
+    },
+    "outputs/analytical_governance/analytical_governance_issue_log.csv": {
+      "baseline": "f2f893125be78007c916efba5d0192175452e1b1ce57b3965cf05fb064338223",
+      "current": "f2f893125be78007c916efba5d0192175452e1b1ce57b3965cf05fb064338223",
+      "match": true
+    },
+    "outputs/analytical_governance/phase1_immutability_verification.csv": {
+      "baseline": "48bdaad021a1383803a168a0cd3bdbf343720d6d8d53b9ee1032ac0cf5e20640",
+      "current": "48bdaad021a1383803a168a0cd3bdbf343720d6d8d53b9ee1032ac0cf5e20640",
+      "match": true
+    },
+    "data/analytical/analytical_workforce_kpi_daily.csv": {
+      "baseline": "efb5315bdfc4cdcc1796d3d2abb951203f3ce24558e54ae2ac3fbfba36c5fd27",
+      "current": "efb5315bdfc4cdcc1796d3d2abb951203f3ce24558e54ae2ac3fbfba36c5fd27",
+      "match": true
+    },
+    "data/analytical/analytical_workforce_kpi_evidence.csv": {
+      "baseline": "78fb36e86aefcb6b4d25dc86ac39c4e71a5e7cde8d7ef7755d98d0bc25d66ac5",
+      "current": "78fb36e86aefcb6b4d25dc86ac39c4e71a5e7cde8d7ef7755d98d0bc25d66ac5",
+      "match": true
+    },
+    "data/analytical/analytical_workforce_kpi_exclusions.csv": {
+      "baseline": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "current": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "match": true
+    },
+    "data/analytical/analytical_workforce_kpi_lineage.csv": {
+      "baseline": "26bb75375baaf5cdf41f2ca91e37f192fb3f6068795b97142148cdf8de6c6c65",
+      "current": "26bb75375baaf5cdf41f2ca91e37f192fb3f6068795b97142148cdf8de6c6c65",
+      "match": true
+    },
+    "data/analytical/analytical_workforce_kpi_issues.csv": {
+      "baseline": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "current": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "match": true
+    },
+    "data/analytical/analytical_workforce_kpi_audit.csv": {
+      "baseline": "fb4918fbb0c4dad966e527cce0a159dbf8bf798fb59653e4899fcd4ee5f1f315",
+      "current": "fb4918fbb0c4dad966e527cce0a159dbf8bf798fb59653e4899fcd4ee5f1f315",
+      "match": true
+    },
+    "data/analytical/analytical_patient_flow_kpi_daily.csv": {
+      "baseline": "9e615815f5882320dce9e3ba7e77328dd6f31ef082dedb97f5c631c7106437e0",
+      "current": "9e615815f5882320dce9e3ba7e77328dd6f31ef082dedb97f5c631c7106437e0",
+      "match": true
+    },
+    "data/analytical/analytical_patient_flow_kpi_evidence.csv": {
+      "baseline": "b5574bff0b7d7f9b8ce24d07385a4450318cc6b04c8c5c73c6897aecf236dafe",
+      "current": "b5574bff0b7d7f9b8ce24d07385a4450318cc6b04c8c5c73c6897aecf236dafe",
+      "match": true
+    },
+    "data/analytical/analytical_patient_flow_kpi_exclusions.csv": {
+      "baseline": "f1aba2d8a543ff613c186744618aa7192456a580f2c088f68778d318974685ab",
+      "current": "f1aba2d8a543ff613c186744618aa7192456a580f2c088f68778d318974685ab",
+      "match": true
+    },
+    "data/analytical/analytical_patient_flow_kpi_lineage.csv": {
+      "baseline": "68484bf3cd035ec84918f183d07534fdeaab9e24dfa7ad92c9a104d3eac40e6e",
+      "current": "68484bf3cd035ec84918f183d07534fdeaab9e24dfa7ad92c9a104d3eac40e6e",
+      "match": true
+    },
+    "data/analytical/analytical_patient_flow_kpi_issues.csv": {
+      "baseline": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "current": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "match": true
+    },
+    "data/analytical/analytical_patient_flow_kpi_audit.csv": {
+      "baseline": "8484c1879b350a72ae91f5565b21cedf6f01fe818dc8a3105fab3949b60c197e",
+      "current": "8484c1879b350a72ae91f5565b21cedf6f01fe818dc8a3105fab3949b60c197e",
+      "match": true
+    }
+  },
+  "output_dataset_checksums": {},
+  "row_counts": {
+    "analytical_patient_experience_kpi_daily": 5840,
+    "analytical_patient_experience_kpi_evidence": 20440,
+    "analytical_patient_experience_kpi_exclusions": 340,
+    "analytical_patient_experience_kpi_lineage": 11680,
+    "analytical_patient_experience_kpi_issues": 3457,
+    "analytical_patient_experience_kpi_audit": 2
+  },
+  "calculated_counts": 3367,
+  "unavailable_counts": 598,
+  "zero_denominator_counts": 1875,
+  "issue_counts_by_severity": {
+    "Info": 984,
+    "Warning": 2473
+  },
+  "final_run_status": "Passed"
+}

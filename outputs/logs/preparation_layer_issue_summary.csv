@@ -1,0 +1,2 @@
+issue_id,severity,category,message,dataset_name,field_name,rule_id
+45b57482,Warning,Broken lineage references,2920 rows with missing source_record_id (expected for workforce_daily with staff_role_id dimension),,,

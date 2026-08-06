@@ -1,0 +1,11 @@
+rule_id,display_field,allowed_value,prohibited_value,configuration_version,approval_status,governance_note
+DISP-001,scenario_cost_label,Estimated cost,Actual cost,v1.0-draft,Draft Analytical Configuration,Always label as estimated
+DISP-002,benefit_label,Estimated avoided cost,Guaranteed savings,v1.0-draft,Draft Analytical Configuration,No guaranteed language
+DISP-003,net_impact_label,Estimated Net Financial Impact,Profit,v1.0-draft,Draft Analytical Configuration,Do not label as profit
+DISP-004,roi_label,Estimated ROI (%),Proven ROI,v1.0-draft,Draft Analytical Configuration,No proven language
+DISP-005,confidence_label,Moderate,High,v1.0-draft,Draft Analytical Configuration,No High confidence
+DISP-006,causality_label,Not Confirmed,Confirmed,v1.0-draft,Draft Analytical Configuration,Causality remains not confirmed
+DISP-007,readiness_label,Ready with Financial Conditions,Approved,v1.0-draft,Draft Analytical Configuration,No approval language
+DISP-008,exposure_label,Estimated Operational Financial Exposure,Definite Cost,v1.0-draft,Draft Analytical Configuration,No definite language
+DISP-009,assumption_label,Governed Analytical Assumption,Fact,v1.0-draft,Draft Analytical Configuration,Assumptions are not facts
+DISP-010,action_label,Pending Management Review,Approved,v1.0-draft,Draft Analytical Configuration,No approval language

@@ -1,0 +1,19 @@
+configuration_id,stage_number,stage_name,stage_description,source_phase,source_step,expected_per_package,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+LNSTG-001,1,Raw or Synthetic Source Data,Original data source,1,1,1,1,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-002,2,Processed Operational Data,Cleaned and processed data,1,2,1,2,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-003,3,KPI Calculation,Key performance indicator calculation,2A,3,1,3,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-004,4,Threshold and Trend Analysis,Threshold and trend analysis,2B,4,1,4,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-005,5,Risk Prioritisation,Risk prioritisation,2B,5,1,5,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-006,6,Contributing-Factor Analysis,Contributing factor analysis,2B,6,1,6,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-007,7,Recommendation Generation,Recommendation generation,2C-1,7,1,7,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-008,8,Recommendation Validation,Recommendation validation,2C-1,8,1,8,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-009,9,Approval-Package Preparation,Approval package preparation,2D-2,9,1,9,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-010,10,Scenario Modelling,Scenario modelling,2C-2,10,1,10,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-011,11,Scenario Validation,Scenario validation,2C-2,11,1,11,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-012,12,Financial Analysis,Financial analysis,2C-3,12,1,12,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-013,13,Decision Integration,Decision integration,2D-1,13,1,13,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-014,14,Decision Package,Decision package,2D-2,14,1,14,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-015,15,Decision Scorecard,Decision scorecard,2D-3,15,1,15,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-016,16,Decision Readiness,Decision readiness,2D-4,16,1,16,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-017,17,Action Routing,Action routing,2D-5,17,1,17,True,1.0,Draft Analytical Configuration,True,Governed lineage stage
+LNSTG-018,18,Audit Contract,Audit contract,2D-6,18,1,18,True,1.0,Draft Analytical Configuration,True,Governed lineage stage

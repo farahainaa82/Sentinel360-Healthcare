@@ -1,0 +1,7 @@
+watch_severity,count
+None,8400
+Low,3980
+Moderate,3236
+High,1167
+Critical,482
+Informational,255

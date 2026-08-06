@@ -1,0 +1,13 @@
+term,context,required
+Estimated,financial_fields,True
+Potential,scenario_fields,True
+May improve,recommendation_fields,True
+Could reduce,recommendation_fields,True
+Suggested,action_fields,True
+Permitted,action_fields,True
+Under review,status_fields,True
+Pending,status_fields,True
+Governed,all_text,False
+Conditional,all_text,False
+Approximate,financial_fields,False
+Projected,scenario_fields,False

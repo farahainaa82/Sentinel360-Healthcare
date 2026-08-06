@@ -1,0 +1,19 @@
+kpi_id,signal_method,signal_type,count
+kpi_001,volatility_change,Insufficient History,64
+kpi_001,volatility_change,No Signal,2237
+kpi_001,volatility_change,Volatility Increase,555
+kpi_002,volatility_change,Insufficient History,64
+kpi_002,volatility_change,No Signal,2090
+kpi_002,volatility_change,Volatility Increase,702
+kpi_003,volatility_change,Insufficient History,24
+kpi_003,volatility_change,No Signal,802
+kpi_003,volatility_change,Volatility Increase,245
+kpi_004,volatility_change,Insufficient History,24
+kpi_004,volatility_change,No Signal,644
+kpi_004,volatility_change,Volatility Increase,403
+kpi_005,volatility_change,Insufficient History,24
+kpi_005,volatility_change,No Signal,696
+kpi_005,volatility_change,Volatility Increase,240
+kpi_006,volatility_change,Insufficient History,64
+kpi_006,volatility_change,No Signal,1783
+kpi_006,volatility_change,Volatility Increase,472

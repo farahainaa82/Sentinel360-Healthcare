@@ -1,0 +1,17 @@
+dataset_name,status,duplicates
+processed_hospital_master,Passed,0
+processed_department_master,Passed,0
+processed_staff_role_master,Passed,0
+processed_staff_master,Passed,0
+processed_staff_roster,Passed,0
+processed_staff_attendance,Passed,0
+processed_staffing_requirement,Passed,0
+processed_workforce_daily,Passed,0
+processed_patient_encounters,Passed,0
+processed_patient_queue,Passed,0
+processed_bed_capacity,Passed,0
+processed_service_schedule,Passed,0
+processed_patient_flow_daily,Passed,0
+processed_patient_complaints,Passed,0
+processed_patient_surveys,Passed,0
+processed_patient_experience_daily,Passed,0

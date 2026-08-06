@@ -1,0 +1,5 @@
+validation_id,check,expected,actual,status,detail
+VA-ST-001,streamlit_row_count,646,646,PASS,
+VA-ST-002,required_fields_present,5,5,PASS,
+VA-ST-003,decision_package_id_not_null,0,0,PASS,
+VA-ST-004,approval_status_pending,True,True,PASS,

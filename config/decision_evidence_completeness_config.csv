@@ -1,0 +1,6 @@
+configuration_id,completeness_rule,expected_category_count,minimum_available_count,minimum_coverage_pct,completeness_status_if_met,completeness_status_if_below,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+EVCMP-001,Full Coverage,28,25,90,Complete,Partial,1,True,1.0,Draft Analytical Configuration,True,Governed completeness rule
+EVCMP-002,Conditional Coverage,28,20,75,Complete with Conditions,Partial,2,True,1.0,Draft Analytical Configuration,True,Governed completeness rule
+EVCMP-003,Partial Coverage,28,15,55,Partial,Limited,3,True,1.0,Draft Analytical Configuration,True,Governed completeness rule
+EVCMP-004,Minimum Coverage,28,10,40,Limited,Missing Critical Evidence,4,True,1.0,Draft Analytical Configuration,True,Governed completeness rule
+EVCMP-005,No Coverage,28,0,0,Not Applicable,Missing Critical Evidence,5,True,1.0,Draft Analytical Configuration,True,Governed completeness rule

@@ -1,0 +1,383 @@
+{
+  "closure_phase": "2C-2F",
+  "closure_timestamp": "2026-07-29T15:56:45.032419",
+  "frozen_status": "Frozen",
+  "correction_history": {
+    "comparator_correction_applied": true,
+    "comparator_correction_version": "2C-2E-PostCorrection",
+    "correction_date": "2026-07-28"
+  },
+  "authoritative_inputs": {
+    "analytical_scenario_baselines.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_baselines.csv",
+      "checksum": "e1f27fc3d919c45b370a5f48afabb6a8f24b6f665a7a1d3af43da6ead63a4162",
+      "row_count": 1640,
+      "column_count": 34,
+      "timestamp": "2026-07-28T22:59:12.042899"
+    },
+    "analytical_scenario_runs.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_runs.csv",
+      "checksum": "8935dcf8d705f3733df4bc859bbc7e40c4d8cdede4eeab1937112608e6ce1b20",
+      "row_count": 2711,
+      "column_count": 44,
+      "timestamp": "2026-07-28T22:59:12.514706"
+    },
+    "analytical_scenario_kpi_impacts.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_kpi_impacts.csv",
+      "checksum": "fa9b61525871f62672db069dd6a5bc47247c8c1b4789423224d024583e2ecf64",
+      "row_count": 2711,
+      "column_count": 9,
+      "timestamp": "2026-07-28T22:59:12.579384"
+    },
+    "analytical_scenario_assumption_validation.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_assumption_validation.csv",
+      "checksum": "f0a000506e7d4da280fa0ed1cc61fae55996cb0049233e78dcd0a93cb625cfe3",
+      "row_count": 5409,
+      "column_count": 9,
+      "timestamp": "2026-07-28T22:59:12.723540"
+    },
+    "analytical_scenario_confidence.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_confidence.csv",
+      "checksum": "c0f3b79bdefde2fb2243771eb15bc01b6ce89226eb9b72dfcd35c6488b5bec25",
+      "row_count": 2711,
+      "column_count": 6,
+      "timestamp": "2026-07-28T22:59:13.598150"
+    },
+    "analytical_scenario_non_quantitative_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_non_quantitative_register.csv",
+      "checksum": "d4affe3436a9c4bac9f734fe151704da5e7a7bf35e8f21061672380e222187fd",
+      "row_count": 1283,
+      "column_count": 44,
+      "timestamp": "2026-07-28T22:59:13.715722"
+    },
+    "analytical_scenario_evidence.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_evidence.csv",
+      "checksum": "6382bc2135b30e766fb551cfdf635828af66d151d7adb500c98e66fee0102129",
+      "row_count": 14616,
+      "column_count": 9,
+      "timestamp": "2026-07-28T22:59:14.055414"
+    },
+    "analytical_scenario_lineage.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_lineage.csv",
+      "checksum": "c40dc121065595f3cf9adbbe68de9ab20b532963a15283bc581e41b3df35bd54",
+      "row_count": 14616,
+      "column_count": 7,
+      "timestamp": "2026-07-28T22:59:14.476629"
+    },
+    "analytical_scenario_governance.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_governance.csv",
+      "checksum": "c0d5360232a5e332ca1073d73d6251cbb668e785fa94264fdc2e1b717598092c",
+      "row_count": 21420,
+      "column_count": 8,
+      "timestamp": "2026-07-28T22:59:14.930062"
+    },
+    "analytical_scenario_primary_impacts.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_primary_impacts.csv",
+      "checksum": "4560e5f38e217c405bd1ef73678bdd75ca9f9094a40b9cec7618580ae95b12b8",
+      "row_count": 1428,
+      "column_count": 16,
+      "timestamp": "2026-07-28T23:00:11.386633"
+    },
+    "analytical_scenario_supporting_kpi_impacts.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_supporting_kpi_impacts.csv",
+      "checksum": "4f3e540b2161e4b432f4f63a43434d93ed58246ffcb05c19b5dc736a5e097b20",
+      "row_count": 1428,
+      "column_count": 9,
+      "timestamp": "2026-07-28T23:00:11.396682"
+    },
+    "analytical_scenario_effect_classification.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_effect_classification.csv",
+      "checksum": "dec8cb1c6d5ee76d10cc56f0c29adb89c02acf5138116d0cb25513beef0aba1b",
+      "row_count": 1428,
+      "column_count": 13,
+      "timestamp": "2026-07-28T23:00:11.411201"
+    },
+    "analytical_scenario_risk_displacement.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_risk_displacement.csv",
+      "checksum": "c982a204f7009c24a2d8f208941e40cc3974811f3ce422f0f9514e14e4d90627",
+      "row_count": 1602,
+      "column_count": 15,
+      "timestamp": "2026-07-28T23:00:11.445709"
+    },
+    "analytical_scenario_comparator_analysis.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_comparator_analysis.csv",
+      "checksum": "815c9e11b1e66fbfbe5d5965ba6e7d718c67e715683f95b192b5737e97ec4421",
+      "row_count": 1785,
+      "column_count": 13,
+      "timestamp": "2026-07-28T23:00:11.473960"
+    },
+    "analytical_scenario_diminishing_returns.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_diminishing_returns.csv",
+      "checksum": "e68c5db4218b708ba834748845b127775aa6a60dc5ba12e7b637c6c41b395cf6",
+      "row_count": 357,
+      "column_count": 6,
+      "timestamp": "2026-07-28T23:00:11.481494"
+    },
+    "analytical_scenario_dominance.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_dominance.csv",
+      "checksum": "d79fa21531efb0ac27591316741eec7784989d76f4999b51c562fc5b85a211ec",
+      "row_count": 2142,
+      "column_count": 9,
+      "timestamp": "2026-07-28T23:00:11.508893"
+    },
+    "analytical_scenario_sensitivity.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_sensitivity.csv",
+      "checksum": "4df6f183a2f06bcaae493ec56d5a88084dfb508da02afe78e0a9edf9ddeed922",
+      "row_count": 357,
+      "column_count": 11,
+      "timestamp": "2026-07-28T23:00:11.515146"
+    },
+    "analytical_scenario_tradeoff_profiles.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_tradeoff_profiles.csv",
+      "checksum": "08b4d5b22b8e1189b388a7465a66568f6e67e0c414b5ef189fc6ef223614c0ff",
+      "row_count": 1428,
+      "column_count": 9,
+      "timestamp": "2026-07-28T23:00:11.550676"
+    },
+    "analytical_scenario_management_interpretation.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_management_interpretation.csv",
+      "checksum": "4ad12bf0930abb58c580655efeb7926eca3d1e329597d680ddf7923e3fe85938",
+      "row_count": 357,
+      "column_count": 17,
+      "timestamp": "2026-07-28T23:00:11.561405"
+    },
+    "analytical_scenario_tradeoff_evidence.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_tradeoff_evidence.csv",
+      "checksum": "6c13c6beb7cd14ec45c188d742859f75b745f7045878acc0142f90db69d0e1e5",
+      "row_count": 1428,
+      "column_count": 8,
+      "timestamp": "2026-07-28T23:00:11.565980"
+    },
+    "analytical_scenario_tradeoff_lineage.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_tradeoff_lineage.csv",
+      "checksum": "fade3c7e4828fb172c03dc75b1bbefa362311b7d5238c21f2838f167afd9b785",
+      "row_count": 1428,
+      "column_count": 7,
+      "timestamp": "2026-07-28T23:00:11.580127"
+    },
+    "analytical_scenario_non_comparable_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_non_comparable_register.csv",
+      "checksum": "d4affe3436a9c4bac9f734fe151704da5e7a7bf35e8f21061672380e222187fd",
+      "row_count": 1283,
+      "column_count": 44,
+      "timestamp": "2026-07-28T23:00:11.635567"
+    },
+    "analytical_scenario_validation_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_validation_register.csv",
+      "checksum": "8af95834d4a8ae0dd09030fd39eb51266624409a4f5dc57de7cca437692c3863",
+      "row_count": 18,
+      "column_count": 16,
+      "timestamp": "2026-07-29T15:55:34.346528"
+    },
+    "analytical_scenario_assumption_challenge.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_assumption_challenge.csv",
+      "checksum": "93401e843a6659525713bf270181dfeda419225be06de4825b3cd9530ef212a0",
+      "row_count": 2711,
+      "column_count": 15,
+      "timestamp": "2026-07-29T15:55:32.777535"
+    },
+    "analytical_scenario_baseline_validation.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_baseline_validation.csv",
+      "checksum": "f2c3debf46f0823fd51e0b97204d4f179242d32734ced66b31d4f711b65ca65b",
+      "row_count": 7555,
+      "column_count": 14,
+      "timestamp": "2026-07-29T15:55:33.216829"
+    },
+    "analytical_scenario_numerical_validation.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_numerical_validation.csv",
+      "checksum": "45cf1c234e6e5161fc6ec21f0752e49883b4cae74c10c689aa0a408500adf892",
+      "row_count": 2711,
+      "column_count": 18,
+      "timestamp": "2026-07-29T15:55:33.418445"
+    },
+    "analytical_scenario_comparator_validation.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_comparator_validation.csv",
+      "checksum": "f86702c90288342f06b7e2fc0ed2281a4cf7d3afdea52dd4c17d60505e10981c",
+      "row_count": 357,
+      "column_count": 11,
+      "timestamp": "2026-07-29T15:55:33.636515"
+    },
+    "analytical_scenario_dominance_validation.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_dominance_validation.csv",
+      "checksum": "28058ed4d4cc4ffdeac223d1e0dbcec6b53e489e35489c625db7924ad9a1d664",
+      "row_count": 2142,
+      "column_count": 12,
+      "timestamp": "2026-07-29T15:55:33.755237"
+    },
+    "analytical_scenario_diminishing_return_validation.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_diminishing_return_validation.csv",
+      "checksum": "9ba75abd5e566f5878cd5294a9ea847acf90b0a333d2f3cac536591957748be6",
+      "row_count": 357,
+      "column_count": 14,
+      "timestamp": "2026-07-29T15:55:33.809466"
+    },
+    "analytical_scenario_sensitivity_validation.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_sensitivity_validation.csv",
+      "checksum": "95ad07cd34bf80a973e2ca41cabaa71b08d17ea140616950655b091212ade987",
+      "row_count": 357,
+      "column_count": 10,
+      "timestamp": "2026-07-29T15:55:33.778290"
+    },
+    "analytical_scenario_displacement_validation.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_displacement_validation.csv",
+      "checksum": "bd3ad3260dcdde3c25c0ab063a59138b4245be5ce102aa6e45f4880dbdfed9da",
+      "row_count": 1602,
+      "column_count": 14,
+      "timestamp": "2026-07-29T15:55:33.894268"
+    },
+    "analytical_scenario_management_interpretation_validation.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_management_interpretation_validation.csv",
+      "checksum": "d60837de4410f5a50c4bf6ea40e53d849964a9e97adf3933f939a8b85cf530fd",
+      "row_count": 357,
+      "column_count": 13,
+      "timestamp": "2026-07-29T15:55:33.922817"
+    },
+    "analytical_scenario_package_readiness.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_package_readiness.csv",
+      "checksum": "fd3c177b6f6377940ab688fb01bc7bb66ad548e2b6c304e99f89e680c55037f3",
+      "row_count": 3,
+      "column_count": 10,
+      "timestamp": "2026-07-29T15:55:34.326808"
+    },
+    "analytical_scenario_validation_scorecard.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_validation_scorecard.csv",
+      "checksum": "f833e42360fb0d63de1de01ef060047861b5cd4108022a3730d4be758ac2db9a",
+      "row_count": 3,
+      "column_count": 15,
+      "timestamp": "2026-07-29T15:55:34.102064"
+    },
+    "analytical_scenario_revision_log.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_revision_log.csv",
+      "checksum": "1e364164523288e50e742cac71093feff5e69be50980ff64acd33a918c854437",
+      "row_count": 18,
+      "column_count": 19,
+      "timestamp": "2026-07-29T15:55:34.353532"
+    },
+    "analytical_scenario_rejected_register.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_rejected_register.csv",
+      "checksum": "5d05e110793718724ddb2fe2516ba715a699fc1c78ccaf07e912541230c059c8",
+      "row_count": 0,
+      "column_count": 18,
+      "timestamp": "2026-07-29T15:55:34.350531"
+    },
+    "analytical_scenario_validation_evidence.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_validation_evidence.csv",
+      "checksum": "25a130dad0060c8c400221a21b99557d25901f096117896af1aa4364a6e11e98",
+      "row_count": 3068,
+      "column_count": 9,
+      "timestamp": "2026-07-29T15:55:34.245384"
+    },
+    "analytical_scenario_validation_lineage.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_validation_lineage.csv",
+      "checksum": "bf5ce46b679a935b0bcc637a7a88c22340d5d398915f1e711953aaeeec593add",
+      "row_count": 20863,
+      "column_count": 7,
+      "timestamp": "2026-07-29T15:55:34.232201"
+    },
+    "analytical_scenario_validation_governance.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_validation_governance.csv",
+      "checksum": "66cc731e3e97d12089eea0aa500699486163b408312db65fb89f78e290617428",
+      "row_count": 16977,
+      "column_count": 8,
+      "timestamp": "2026-07-29T15:55:34.299512"
+    },
+    "analytical_scenario_validation_issues.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\analytical\\analytical_scenario_validation_issues.csv",
+      "checksum": "f6b94cbceeeaf49d925c0518fbe0c4a6c324262407690430e83644fe6a04baa6",
+      "row_count": 2711,
+      "column_count": 8,
+      "timestamp": "2026-07-29T15:55:34.312450"
+    },
+    "scenario_assumption_profile_config.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\config\\scenario_assumption_profile_config.csv",
+      "checksum": "7de220ec8b66486aad738846b2631fd487dbbd260beb2cc86711ce88e7c5e6e5",
+      "row_count": 51,
+      "column_count": 14,
+      "timestamp": "2026-07-28T22:48:34.350564"
+    },
+    "scenario_comparator_config.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\config\\scenario_comparator_config.csv",
+      "checksum": "f3b1a1150cceb0ccaaf5a9bd21aac11f62c99c09bb8f9abb8f42451075cd9119",
+      "row_count": 18,
+      "column_count": 8,
+      "timestamp": "2026-07-28T22:55:37.214402"
+    },
+    "step_2c2_comparator_profile_revision_log.csv": {
+      "path": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\outputs\\scenario_modelling\\step_2c2_comparator_profile_revision_log.csv",
+      "checksum": "e860f2ef79cf6239d36d459be46e0b953eda528a6976bf5a2a076f4e307d80fa",
+      "row_count": 4293,
+      "column_count": 12,
+      "timestamp": "2026-07-28T22:49:28.486619"
+    }
+  },
+  "closure_outputs": {
+    "step_2c2f_authoritative_file_register.csv": {
+      "checksum": "228a2f6e6a3863d61160fd3dc2507b2c27a6f23f50ceb266966e484692336161",
+      "row_count": 50
+    },
+    "step_2c2f_package_closure_register.csv": {
+      "checksum": "9ec16865de30293bbc8da3a63a25b744d61f50dd5a251b010edeb49b15b7463c",
+      "row_count": 646
+    },
+    "step_2c2f_scenario_run_closure_register.csv": {
+      "checksum": "03a383b5f37b36c45ecab04d7608ca1028d3ef2e6b517e822b7bcdd96e2abbdd",
+      "row_count": 2711
+    },
+    "step_2c2f_comparator_closure_register.csv": {
+      "checksum": "35b5fb22697ab3969eb671f0f6fb64b4e2ce241801c2063dfe6bd3d98547c28c",
+      "row_count": 357
+    },
+    "step_2c2f_management_scenario_package_register.csv": {
+      "checksum": "5e41b4150c694559978c0a2ab98e0bde7f2b9d64f6bd29134562bcc5fa7009d2",
+      "row_count": 311
+    },
+    "step_2c2f_financial_input_requirement_register.csv": {
+      "checksum": "4e8f862be2eac2578428dd35f912a23aae6622eea50f045f49b4f7090683228f",
+      "row_count": 622
+    },
+    "step_2c2f_streamlit_scenario_data_contract.csv": {
+      "checksum": "03b4d65fa84806148d37260bc6726b5f5c59415f92301209529806a6b41c4708",
+      "row_count": 20
+    },
+    "step_2c2f_streamlit_management_action_contract.csv": {
+      "checksum": "4e7aef9c1670ad5124dc1d88f06e6aa720e457d54e38a1b09374420ea1b3e1e6",
+      "row_count": 7
+    },
+    "step_2c2f_scenario_audit_traceability_register.csv": {
+      "checksum": "b54548d2b420d1e6d6c985776c6737ff023fdd59ae311963b34eec10fe73cb15",
+      "row_count": 2711
+    },
+    "step_2c2f_deferred_and_non_ready_register.csv": {
+      "checksum": "ca8f13291febbc7f9b33000bddeace5d9daf2785af416554f48a8410d3549ec4",
+      "row_count": 335
+    },
+    "step_2c2f_rejected_scenario_register.csv": {
+      "checksum": "60ab5cfeebdc2ab94da291c6f6d0539d8d727aa8071a06a893939ad1d52f7250",
+      "row_count": 0
+    },
+    "step_2c2f_closure_issue_register.csv": {
+      "checksum": "012317feae37f6492dabcbe4f0e8a67c30ade1629dc5bd7ba74687ffc2344693",
+      "row_count": 48
+    },
+    "step_2c2f_execution_summary.csv": {
+      "checksum": "e30f08cf5d92caa8641afb391bf58e99db7120155edf23aa5490a1027595dc39",
+      "row_count": 40
+    }
+  },
+  "superseded_outputs": [],
+  "approved_future_consumers": [
+    "Step 2C-3 Financial-Impact Analysis",
+    "Streamlit Scenario Lab",
+    "Management Decision Interface",
+    "Approval Workflow",
+    "Reporting and Export"
+  ],
+  "governance_notes": [
+    "Frozen Step 2C-2 outputs must not be modified by downstream phases.",
+    "Downstream corrections must create new versions, not overwrite frozen outputs.",
+    "No preferred scenario was selected.",
+    "No management approval was recorded.",
+    "No financial impact was calculated.",
+    "causality_status remains Not Confirmed."
+  ]
+}

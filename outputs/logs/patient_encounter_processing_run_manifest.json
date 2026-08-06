@@ -1,0 +1,42 @@
+{
+  "processing_run_id": "PROC-PE-66BB1B50F384",
+  "validation_run_id": "VAL-C62B370EC6C3",
+  "source_type": "synthetic_demo",
+  "input_directory": "data\\demo",
+  "output_directory": "data\\processed",
+  "processing_started_datetime": "2026-07-25T23:03:05.356717Z",
+  "processing_completed_datetime": "2026-07-25T23:03:13.593732Z",
+  "engine_version": "1.0.0",
+  "transformation_version": "2D-3A-1.0",
+  "configuration_version": "",
+  "source_dataset": "patient_encounters",
+  "processed_dataset": "processed_patient_encounters",
+  "source_record_count": 93958,
+  "processed_record_count": 93958,
+  "excluded_record_count": 2754,
+  "analytically_ineligible_record_count": 2754,
+  "issue_counts_by_severity": {
+    "Warning": 1
+  },
+  "warning_count": 1,
+  "error_count": 0,
+  "run_status": "Completed",
+  "processing_allowed_flag": true,
+  "source_checksum": "2520d2fa45d15cffa3a4679a40413ff67a14c07a8b787a0c04f0c482a96ae0a8",
+  "processed_checksum": "7d75a4e43f8e3b47ae3298ae1337ed1cdcc422287a8ad5ac5febd2bb350e490f",
+  "output_files": [
+    "outputs\\logs\\patient_encounter_processing_run_manifest.json",
+    "outputs\\logs\\patient_encounter_processing_dataset_summary.csv",
+    "outputs\\logs\\patient_encounter_processing_issue_log.csv",
+    "outputs\\logs\\patient_encounter_processing_lineage.csv",
+    "outputs\\logs\\patient_encounter_processing_exclusion_register.csv",
+    "outputs\\logs\\patient_encounter_processing_audit_log.csv"
+  ],
+  "unresolved_rules": [
+    "Official wait-stage definition may require clinical review for encounters without triage."
+  ],
+  "known_limitations": [
+    "Wait-time KPI percentages are not calculated in this step.",
+    "Official wait-stage eligibility may require clinical rule refinement."
+  ]
+}

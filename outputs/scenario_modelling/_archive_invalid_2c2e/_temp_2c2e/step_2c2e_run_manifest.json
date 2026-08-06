@@ -1,0 +1,130 @@
+{
+  "step": "2C-2E",
+  "description": "Scenario Validation and Challenge",
+  "timestamp": "2026-07-28T21:53:03.307057",
+  "input_checksums": {
+    "runs": "421b20423d660d7a6152f946724a169fbaefd7aa69fb0b051150e2ee18b77187",
+    "baselines": "50e8e9658cc22a93026a4db33066af8824468e3cf57b6bbd8f02086528674829",
+    "kpi_impacts": "efe0a3abeb5789252ff0d64de024eb112f93398761eb15f7c96d575b526fcdb2",
+    "assumption_validation": "47d73e7a4084067f9583d1ccbc9c96ed94aa4369a224d8584c2d6c5926da9706",
+    "confidence": "c0f3b79bdefde2fb2243771eb15bc01b6ce89226eb9b72dfcd35c6488b5bec25",
+    "non_comparable": "276cb5d19823e1a5583c0de9fb10aea6718a8b835ff342e14cbfc2345bc28707",
+    "primary_impacts": "6a2d2080e30124b30a7d6835175998afc9174270cb29c0f090b0152b5310be4c",
+    "supporting_kpi": "4f3e540b2161e4b432f4f63a43434d93ed58246ffcb05c19b5dc736a5e097b20",
+    "effect_classification": "4f7270dce91b1b3580a923348567a9dcb9c09b12b1cae84a0e72068d0f871659",
+    "risk_displacement": "2da21633f67b987ac227b33ba774ae9dfe019df08c4ba4e27bc1c04f11f776e3",
+    "comparator_analysis": "0fa19b00b63b55dd9d970b18240a6dfd7c2bb91708c5da841034c8af6eea02ec",
+    "diminishing_returns": "0e6c3348bda0f4bf4e1a97ea125cf06d27319b9a70cd5114113de4273747344a",
+    "dominance": "fa0932aa02c76e7f702f7241d383969b853f6fc81f8aad08a062b6fabc141dda",
+    "sensitivity": "d20359e17d1073561232ae1cb192311c7a1bc4e3e3d01da69e140383056dacd9",
+    "tradeoff_profiles": "617252b98d3aec972a077799a33a3e927bd0744fd5a1f4175b44e7f9bfdde8e7",
+    "management_interpretation": "d8ef8626b808bde3e759076db60edd455a881df00d44a26cfd0035376c6f89ad",
+    "non_comparable_register": "276cb5d19823e1a5583c0de9fb10aea6718a8b835ff342e14cbfc2345bc28707"
+  },
+  "timing_log": [
+    {
+      "stage": "input_loading",
+      "start_time": "2026-07-28T21:52:47.738103",
+      "end_time": "2026-07-28T21:52:48.270936",
+      "elapsed_seconds": 0.533,
+      "records_processed": 17
+    },
+    {
+      "stage": "baseline_validation",
+      "start_time": "2026-07-28T21:52:48.280661",
+      "end_time": "2026-07-28T21:52:48.348857",
+      "elapsed_seconds": 0.068,
+      "records_processed": 357
+    },
+    {
+      "stage": "assumption_challenge",
+      "start_time": "2026-07-28T21:52:48.348884",
+      "end_time": "2026-07-28T21:52:50.636506",
+      "elapsed_seconds": 2.288,
+      "records_processed": 1428
+    },
+    {
+      "stage": "numerical_validation",
+      "start_time": "2026-07-28T21:52:50.636539",
+      "end_time": "2026-07-28T21:52:50.704178",
+      "elapsed_seconds": 0.068,
+      "records_processed": 1428
+    },
+    {
+      "stage": "comparator_validation",
+      "start_time": "2026-07-28T21:52:50.704242",
+      "end_time": "2026-07-28T21:52:53.439352",
+      "elapsed_seconds": 2.735,
+      "records_processed": 357
+    },
+    {
+      "stage": "dominance_validation",
+      "start_time": "2026-07-28T21:52:53.439379",
+      "end_time": "2026-07-28T21:52:53.479991",
+      "elapsed_seconds": 0.041,
+      "records_processed": 2142
+    },
+    {
+      "stage": "sensitivity_validation",
+      "start_time": "2026-07-28T21:52:53.480014",
+      "end_time": "2026-07-28T21:52:53.709678",
+      "elapsed_seconds": 0.23,
+      "records_processed": 357
+    },
+    {
+      "stage": "displacement_validation",
+      "start_time": "2026-07-28T21:52:53.709703",
+      "end_time": "2026-07-28T21:52:53.758147",
+      "elapsed_seconds": 0.048,
+      "records_processed": 1950
+    },
+    {
+      "stage": "interpretation_validation",
+      "start_time": "2026-07-28T21:52:53.758193",
+      "end_time": "2026-07-28T21:52:53.774763",
+      "elapsed_seconds": 0.017,
+      "records_processed": 357
+    },
+    {
+      "stage": "governance_validation",
+      "start_time": "2026-07-28T21:52:53.774794",
+      "end_time": "2026-07-28T21:52:53.821763",
+      "elapsed_seconds": 0.047,
+      "records_processed": 1428
+    },
+    {
+      "stage": "scorecard_generation",
+      "start_time": "2026-07-28T21:52:53.821794",
+      "end_time": "2026-07-28T21:53:00.523218",
+      "elapsed_seconds": 6.701,
+      "records_processed": 357
+    },
+    {
+      "stage": "package_readiness",
+      "start_time": "2026-07-28T21:53:00.523243",
+      "end_time": "2026-07-28T21:53:03.165233",
+      "elapsed_seconds": 2.642,
+      "records_processed": 357
+    },
+    {
+      "stage": "total_execution",
+      "start_time": "2026-07-28T21:52:47.737910",
+      "end_time": "2026-07-28T21:53:03.215284",
+      "elapsed_seconds": 15.477,
+      "records_processed": 0
+    }
+  ],
+  "output_files": [
+    "validation_register",
+    "assumption_challenge",
+    "baseline_validation",
+    "numerical_validation",
+    "comparator_validation",
+    "dominance_validation",
+    "sensitivity_validation",
+    "displacement_validation",
+    "interpretation_validation",
+    "package_readiness",
+    "validation_scorecard"
+  ]
+}

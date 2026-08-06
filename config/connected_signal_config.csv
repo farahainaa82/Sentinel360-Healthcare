@@ -1,0 +1,7 @@
+relationship_id,from_kpi_id,from_kpi_name,to_kpi_id,to_kpi_name,expected_direction,enabled
+CS_001,kpi_002,Staff Absenteeism Rate,kpi_001,Staffing Level,INVERSE,True
+CS_002,kpi_001,Staffing Level,kpi_004,Average Patient Waiting Time,INVERSE,True
+CS_003,kpi_003,Bed Occupancy Rate,kpi_004,Average Patient Waiting Time,POSITIVE,True
+CS_004,kpi_004,Average Patient Waiting Time,kpi_005,Patient Complaint Rate,POSITIVE,True
+CS_005,kpi_004,Average Patient Waiting Time,kpi_006,Patient Satisfaction Score,INVERSE,True
+CS_006,kpi_005,Patient Complaint Rate,kpi_006,Patient Satisfaction Score,INVERSE,True

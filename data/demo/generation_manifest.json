@@ -1,0 +1,214 @@
+{
+  "generation_run_id": "RUN-20260806020640-360",
+  "generator_name": "SyntheticHospitalDataGenerator",
+  "generator_version": "1.0.0-step2b",
+  "generation_datetime": "2026-08-06T02:06:40.878874",
+  "random_seed": 360,
+  "configured_start_date": "2026-01-01",
+  "configured_end_date": "2026-12-31",
+  "number_of_hospitals": 1,
+  "demonstration_hospital_id": "HOSP-001",
+  "demonstration_hospital_name": "Sentinel Demo Hospital",
+  "dataset_count": 13,
+  "generated_dataset_names": [
+    "hospital_master",
+    "department_master",
+    "staff_role_master",
+    "staff_master",
+    "staff_roster",
+    "staff_attendance",
+    "staffing_requirement",
+    "patient_encounters",
+    "patient_queue_records",
+    "bed_capacity_records",
+    "patient_complaints",
+    "patient_surveys",
+    "service_schedule"
+  ],
+  "row_count_by_dataset": {
+    "hospital_master": 1,
+    "department_master": 8,
+    "staff_role_master": 9,
+    "staff_master": 180,
+    "staffing_requirement": 78840,
+    "service_schedule": 8760,
+    "staff_roster": 41495,
+    "staff_attendance": 41495,
+    "patient_encounters": 93958,
+    "patient_queue_records": 1095,
+    "bed_capacity_records": 1095,
+    "patient_complaints": 1465,
+    "patient_surveys": 5244
+  },
+  "date_range_by_dataset": {
+    "hospital_master": {
+      "earliest": "2020-01-01",
+      "latest": "2020-01-01"
+    },
+    "department_master": {
+      "earliest": "2020-01-01",
+      "latest": "2020-01-01"
+    },
+    "staff_role_master": {
+      "earliest": "2020-01-01",
+      "latest": "2020-01-01"
+    },
+    "staff_master": {
+      "earliest": null,
+      "latest": null
+    },
+    "staffing_requirement": {
+      "earliest": "2026-01-01",
+      "latest": "2026-12-31"
+    },
+    "service_schedule": {
+      "earliest": "2026-01-01",
+      "latest": "2026-12-31"
+    },
+    "staff_roster": {
+      "earliest": "2026-01-01",
+      "latest": "2026-12-31"
+    },
+    "staff_attendance": {
+      "earliest": "2026-01-01",
+      "latest": "2026-12-31"
+    },
+    "patient_encounters": {
+      "earliest": "2026-01-01",
+      "latest": "2026-12-31"
+    },
+    "patient_queue_records": {
+      "earliest": "2026-01-01",
+      "latest": "2026-12-31"
+    },
+    "bed_capacity_records": {
+      "earliest": "2026-01-01",
+      "latest": "2026-12-31"
+    },
+    "patient_complaints": {
+      "earliest": "2026-01-01",
+      "latest": "2026-12-31"
+    },
+    "patient_surveys": {
+      "earliest": "2026-01-01",
+      "latest": "2026-12-31"
+    }
+  },
+  "storyline_phase_definitions": [
+    {
+      "phase_id": "P1",
+      "phase_name": "Stable period",
+      "phase_order": 1,
+      "start_month": 1,
+      "end_month": 2,
+      "description": "Normal operations with low absenteeism and standard demand.",
+      "absence_probability_factor": 1.0,
+      "patient_volume_factor": 1.0,
+      "wait_time_factor": 1.0,
+      "complaint_probability_factor": 1.0,
+      "satisfaction_mean_factor": 1.0,
+      "bed_demand_factor": 1.0
+    },
+    {
+      "phase_id": "P2",
+      "phase_name": "Early pressure period",
+      "phase_order": 2,
+      "start_month": 3,
+      "end_month": 3,
+      "description": "Slight rise in absence and minor demand increase.",
+      "absence_probability_factor": 1.3,
+      "patient_volume_factor": 1.1,
+      "wait_time_factor": 1.15,
+      "complaint_probability_factor": 1.2,
+      "satisfaction_mean_factor": 0.98,
+      "bed_demand_factor": 1.05
+    },
+    {
+      "phase_id": "P3",
+      "phase_name": "Deterioration period",
+      "phase_order": 3,
+      "start_month": 4,
+      "end_month": 5,
+      "description": "Flu spike and multiple absences; service pressure builds.",
+      "absence_probability_factor": 1.8,
+      "patient_volume_factor": 1.25,
+      "wait_time_factor": 1.4,
+      "complaint_probability_factor": 1.6,
+      "satisfaction_mean_factor": 0.92,
+      "bed_demand_factor": 1.15
+    },
+    {
+      "phase_id": "P4",
+      "phase_name": "Critical pressure period",
+      "phase_order": 4,
+      "start_month": 6,
+      "end_month": 7,
+      "description": "Peak absenteeism, long waits, high complaints, low satisfaction.",
+      "absence_probability_factor": 2.2,
+      "patient_volume_factor": 1.3,
+      "wait_time_factor": 1.7,
+      "complaint_probability_factor": 2.2,
+      "satisfaction_mean_factor": 0.85,
+      "bed_demand_factor": 1.25
+    },
+    {
+      "phase_id": "P5",
+      "phase_name": "Intervention or recovery period",
+      "phase_order": 5,
+      "start_month": 8,
+      "end_month": 12,
+      "description": "Temporary staff, mitigation, gradual recovery.",
+      "absence_probability_factor": 1.4,
+      "patient_volume_factor": 1.15,
+      "wait_time_factor": 1.25,
+      "complaint_probability_factor": 1.4,
+      "satisfaction_mean_factor": 0.94,
+      "bed_demand_factor": 1.1
+    }
+  ],
+  "defect_injection_enabled": false,
+  "defect_types_enabled": [],
+  "configuration_source": "src/demo_generation_config.py",
+  "source_schema_reference": "docs/data_dictionary_source.md",
+  "python_version": "3.14.6",
+  "pandas_version": "3.0.3",
+  "numpy_version": "2.5.1",
+  "output_directory": "C:\\Users\\DELL\\OneDrive\\Desktop\\Sentinel360_Dynamic\\data\\demo",
+  "file_name_by_dataset": {
+    "hospital_master": "hospital_master.csv",
+    "department_master": "department_master.csv",
+    "staff_role_master": "staff_role_master.csv",
+    "staff_master": "staff_master.csv",
+    "staff_roster": "staff_roster.csv",
+    "staff_attendance": "staff_attendance.csv",
+    "staffing_requirement": "staffing_requirement.csv",
+    "patient_encounters": "patient_encounters.csv",
+    "patient_queue_records": "patient_queue_records.csv",
+    "bed_capacity_records": "bed_capacity_records.csv",
+    "patient_complaints": "patient_complaints.csv",
+    "patient_surveys": "patient_surveys.csv",
+    "service_schedule": "service_schedule.csv"
+  },
+  "file_checksum_by_dataset": {
+    "hospital_master": "f0468feac3611c855062b6e3778c5c2a0beaa74e57791ea24bc6dca279777de0",
+    "department_master": "de303c81c0f978cb1dd50a53e57abc3a8ceb22f8d4426cefaa8d7d9f542ac669",
+    "staff_role_master": "b738c7bc91fcbad9d4a469d9823f531e690c42dc13096166f26f158f3e04403b",
+    "staff_master": "dc81203ac60e7bf8c93071fddd7940876db3cec022b4afc338f1fa7743188a4c",
+    "staff_roster": "3f6f59bf32eaa25245180534fe42f867f2e36a5521f6fdfe898c44b05d3b51fb",
+    "staff_attendance": "1a7c9d8df0b2f2dc607fe26c70ee058170226059867129551ead3e470ce0421e",
+    "staffing_requirement": "48fc54f587825473f553bfb8b4146f26a3d39314741d0f284fd5ff4bf4b1723e",
+    "patient_encounters": "c1cb244a3cce8ecb8e2b7ba08a81e346caa9a05e5fca937935d9761e18487639",
+    "patient_queue_records": "e46d9834270321b645d20ae7e5850ad444cc0db8235bd3589090472be0ec7418",
+    "bed_capacity_records": "9d35092527306b7b1f7224a245246ff54fc01b45912a7b9ed25cd1cb12b33c7c",
+    "patient_complaints": "d66fbbc8a7e8dd3ecb2bd6aa34a6daf59d641e3d17a6c1bb064110f472b7daf2",
+    "patient_surveys": "65691bb1888497d60c799d440fc308835d21d6e54700b76569c7c9e957eef783",
+    "service_schedule": "80ede3eb0f22068ea4026168be4cb4a34a25fd545eebae1932143b4f7acaf1f5"
+  },
+  "export_status": "Success",
+  "known_limitations": [
+    "Single hospital only; multi-hospital support is logical but not yet exercised.",
+    "Queue records are daily aggregates; shift-level aggregation not yet implemented.",
+    "Survey scale defaults to 5-point; mixed-scale support requires additional metadata.",
+    "Staff replacement references are symbolic; no additional roster records are generated for replacements."
+  ]
+}

@@ -1,0 +1,37 @@
+kpi_id,rolling_window,calculation_status,count
+kpi_001,7,Calculated,2896
+kpi_001,7,Insufficient History,24
+kpi_001,14,Calculated,2872
+kpi_001,14,Insufficient History,48
+kpi_001,30,Calculated,2808
+kpi_001,30,Insufficient History,112
+kpi_002,7,Calculated,2896
+kpi_002,7,Insufficient History,24
+kpi_002,14,Calculated,2872
+kpi_002,14,Insufficient History,48
+kpi_002,30,Calculated,2808
+kpi_002,30,Insufficient History,112
+kpi_003,7,Calculated,1086
+kpi_003,7,Insufficient History,9
+kpi_003,14,Calculated,1077
+kpi_003,14,Insufficient History,18
+kpi_003,30,Calculated,1053
+kpi_003,30,Insufficient History,42
+kpi_004,7,Calculated,1086
+kpi_004,7,Insufficient History,9
+kpi_004,14,Calculated,1077
+kpi_004,14,Insufficient History,18
+kpi_004,30,Calculated,1053
+kpi_004,30,Insufficient History,42
+kpi_005,7,Calculated,975
+kpi_005,7,Insufficient History,9
+kpi_005,14,Calculated,966
+kpi_005,14,Insufficient History,18
+kpi_005,30,Calculated,942
+kpi_005,30,Insufficient History,42
+kpi_006,7,Calculated,2338
+kpi_006,7,Insufficient History,45
+kpi_006,14,Calculated,2330
+kpi_006,14,Insufficient History,53
+kpi_006,30,Calculated,2271
+kpi_006,30,Insufficient History,112

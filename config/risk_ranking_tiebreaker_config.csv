@@ -1,0 +1,10 @@
+config_id,config_type,kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+TIE_01,TIEBREAKER,ALL,higher_risk_score,1,priority_order,First: higher normalized risk score,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIE_02,TIEBREAKER,ALL,higher_priority_tier,2,priority_order,Second: higher priority tier,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIE_03,TIEBREAKER,ALL,critical_before_red,3,priority_order,Third: Critical before Red,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIE_04,TIEBREAKER,ALL,red_before_amber,4,priority_order,Fourth: Red before Amber,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIE_05,TIEBREAKER,ALL,greater_persistence,5,priority_order,Fifth: greater persistence count,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIE_06,TIEBREAKER,ALL,deteriorating_before_stable,6,priority_order,Sixth: deteriorating before stable,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIE_07,TIEBREAKER,ALL,higher_confidence,7,priority_order,Seventh: higher confidence level,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIE_08,TIEBREAKER,ALL,non_provisional_before_provisional,8,priority_order,Eighth: non-provisional before provisional,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TIE_09,TIEBREAKER,ALL,deterministic_kpi_id,9,priority_order,Ninth: deterministic KPI ID order,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design

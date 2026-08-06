@@ -1,0 +1,16 @@
+rule_id,condition_field,condition_operator,condition_value,resulting_confidence,configuration_version,approval_status,governance_note
+CONF-001,input_status,equals,Actual Observed,Moderate,v1.0-draft,Draft Analytical Configuration,Actual observed inputs allow Moderate confidence
+CONF-002,input_status,equals,Authoritative Rate,Moderate,v1.0-draft,Draft Analytical Configuration,Authoritative rate allows Moderate confidence
+CONF-003,input_status,equals,Stakeholder Validated,Moderate,v1.0-draft,Draft Analytical Configuration,Stakeholder validation allows Moderate confidence
+CONF-004,input_status,equals,Governed Analytical Assumption,Low,v1.0-draft,Draft Analytical Configuration,Assumed inputs limit confidence to Low
+CONF-005,input_status,equals,Derived from Governed Inputs,Low,v1.0-draft,Draft Analytical Configuration,Derived inputs limit confidence to Low
+CONF-006,input_status,equals,Missing,Very Low,v1.0-draft,Draft Analytical Configuration,Missing inputs reduce confidence to Very Low
+CONF-007,input_status,equals,Not Applicable,Not Assessable,v1.0-draft,Draft Analytical Configuration,Not applicable inputs are not assessable
+CONF-008,input_status,equals,Not Permitted,Not Assessable,v1.0-draft,Draft Analytical Configuration,Not permitted inputs are not assessable
+CONF-009,cost_completeness,equals,Complete Cost Estimate,Moderate,v1.0-draft,Draft Analytical Configuration,Complete cost supports Moderate confidence
+CONF-010,cost_completeness,equals,Complete with Governed Assumptions,Low,v1.0-draft,Draft Analytical Configuration,Assumption-dependent cost limits confidence
+CONF-011,cost_completeness,equals,Partial Cost Estimate,Very Low,v1.0-draft,Draft Analytical Configuration,Partial cost reduces confidence
+CONF-012,cost_completeness,equals,Insufficient Financial Inputs,Very Low,v1.0-draft,Draft Analytical Configuration,Insufficient inputs reduce confidence
+CONF-013,benefit_eligibility,equals,Eligible,Low,v1.0-draft,Draft Analytical Configuration,Eligible benefit supports at least Low
+CONF-014,benefit_eligibility,equals,Not Eligible,Very Low,v1.0-draft,Draft Analytical Configuration,Ineligible benefit reduces confidence
+CONF-015,scenario_validation,not equals,Valid with Conditions,Very Low,v1.0-draft,Draft Analytical Configuration,Invalid scenario reduces confidence

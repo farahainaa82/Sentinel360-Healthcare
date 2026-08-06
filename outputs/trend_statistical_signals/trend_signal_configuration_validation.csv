@@ -1,0 +1,4 @@
+file,status
+config/trend_analysis_config.csv,Passed
+config/statistical_signal_config.csv,Passed
+config/trend_confidence_config.csv,Passed

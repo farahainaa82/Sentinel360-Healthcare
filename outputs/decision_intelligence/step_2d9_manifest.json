@@ -1,0 +1,131 @@
+{
+  "step": "2d9",
+  "phase": "Phase 2D Closure and Streamlit Handover",
+  "timestamp": "2026-07-29T22:03:35.816092",
+  "outputs": {
+    "step_2d9_authoritative_input_register.csv": {
+      "sha256": "c4d93a02ebc0ede9e53cbde07e9f08bca38e4c5224a266eea4517fb90e092d84",
+      "rows": 19
+    },
+    "step_2d9_phase2d_output_inventory.csv": {
+      "sha256": "8cfe26996d7ac58abfe96674cc199fd1e58020ecae670556c86c4cf61298f0ac",
+      "rows": 19
+    },
+    "step_2d9_population_reconciliation_register.csv": {
+      "sha256": "94b85d7f5d7a42eb215e5b2a4da81f2d363c53f591dd9a69c9947cf17957e753",
+      "rows": 23
+    },
+    "step_2d9_phase2d_master_package_index.csv": {
+      "sha256": "9c74f5eede0f29565c974aa5c19acab92db04c30fd18930effcb839e7e450eb9",
+      "rows": 646
+    },
+    "step_2d9_streamlit_page_architecture_contract.csv": {
+      "sha256": "17019493e4c90c048f354fb842614076085ca9032ecb8780122a8a852436f2bf",
+      "rows": 12
+    },
+    "step_2d9_streamlit_page_field_contract.csv": {
+      "sha256": "185085600fb3af14efe24c62ca9de768d8edf7a9a8f24ecab0e2ed6ec140d669",
+      "rows": 15
+    },
+    "step_2d9_executive_overview_dataset.csv": {
+      "sha256": "02f84d4b57db1d6bcd2eb20360e82d56a20f90911e0e4edda0678856f85a1869",
+      "rows": 646
+    },
+    "step_2d9_kpi_dashboard_dataset.csv": {
+      "sha256": "163e77ab829891a7b5e1bba6829a7afebddeaf6c1ec1765f25e910b4a38ee506",
+      "rows": 3876
+    },
+    "step_2d9_risk_alert_dataset.csv": {
+      "sha256": "c0481bc2beed6bfbe7560d6872020175297eb5a7ab046125c50de035895fb12a",
+      "rows": 646
+    },
+    "step_2d9_recommendation_dataset.csv": {
+      "sha256": "3468bef514f5964650fbabf8f932e34ded9ac1232554094538688b44f09f0fdc",
+      "rows": 646
+    },
+    "step_2d9_scenario_comparison_dataset.csv": {
+      "sha256": "6cf728520a73fdb6b6fe9350763e3ff0ef2409236fd9fa9648ff872807a73836",
+      "rows": 646
+    },
+    "step_2d9_financial_impact_dataset.csv": {
+      "sha256": "d4200001d98ca811c8ee5cce1a632eddc10921e80df469ea4d94d352973ded17",
+      "rows": 646
+    },
+    "step_2d9_integrated_decision_dataset.csv": {
+      "sha256": "f4cd9ef7347f177297b507dfa687b4426da416ba706cf0fca21a5ed1644aebf0",
+      "rows": 646
+    },
+    "step_2d9_management_action_contract_dataset.csv": {
+      "sha256": "70b8643d0121f4479217d2a30fc7e268d95e1b785ff3fdf6085f5e99b8c6c47b",
+      "rows": 646
+    },
+    "step_2d9_management_question_confirmation_dataset.csv": {
+      "sha256": "1319834dd1a76f95c79ed1702ba10bb05508b0221ed776da33381ce9775b5f52",
+      "rows": 646
+    },
+    "step_2d9_monitoring_escalation_dataset.csv": {
+      "sha256": "973ce888f2653aaefcb04d8f878c35a68195e946d3e43489083d83eb817eede8",
+      "rows": 646
+    },
+    "step_2d9_audit_traceability_dataset.csv": {
+      "sha256": "96ec50519d2147232315901cee11a59b719eaad6193fed0a2ad7862663a381ea",
+      "rows": 646
+    },
+    "step_2d9_report_export_contract.csv": {
+      "sha256": "5f5785ecff055b7853667b98f3659104feb5ab48fb36efff13f21ce8eb93bf0e",
+      "rows": 12
+    },
+    "step_2d9_filter_selector_contract.csv": {
+      "sha256": "c196aebf22314fbb636d4ba289b3f3a35792c6e7417a81416af13ce1d5d62624",
+      "rows": 18
+    },
+    "step_2d9_navigation_drilldown_contract.csv": {
+      "sha256": "ec2156be9899ed2b120a38e00c0b9a3c1b6935bc3ede54a3d828eb13c18b85fc",
+      "rows": 12
+    },
+    "step_2d9_data_refresh_contract.csv": {
+      "sha256": "48f7a441b5e97653eebb6beb61b6daf0d17f45a20d7e6cac032cfe1393f2f121",
+      "rows": 7
+    },
+    "step_2d9_handover_issue_register.csv": {
+      "sha256": "b7e86880295bfe5cdf852673be3a93962a1c3e9d23ca53f7823e8dbee3cbd9f7",
+      "rows": 1216
+    },
+    "step_2d9_phase3_implementation_priority_register.csv": {
+      "sha256": "d58c3c6d30f5fa64526cb2e1c750d628286484d599793db0a8d1d33b607efcd9",
+      "rows": 15
+    },
+    "step_2d9_phase3_responsibility_handover_register.csv": {
+      "sha256": "36113fb89ec5f31e8a94752b8c5b8ef32d59ec9b876a75a04173a7056376c520",
+      "rows": 18
+    },
+    "step_2d9_phase2d_freeze_register.csv": {
+      "sha256": "a322128e559e9d1071727f6d44c88e29001683ea33564bf097a5a1b49f49498a",
+      "rows": 19
+    },
+    "step_2d9_superseded_file_register.csv": {
+      "sha256": "1d1a9ea6e38d8adff13b911f9b44235c7c79b4978219dcff749b5b24fa7949c4",
+      "rows": 0
+    },
+    "step_2d9_phase3_entry_criteria_register.csv": {
+      "sha256": "fbf5a9de3e7ce5ba7af084487f4f95ff0e5825a374d341902e07ef86576c556c",
+      "rows": 18
+    },
+    "step_2d9_closure_governance_register.csv": {
+      "sha256": "b4e7bf26869fa949712b797e8ed630f84b65206d602c29a9063c48a8c2559f7e",
+      "rows": 12
+    },
+    "step_2d9_closure_issue_register.csv": {
+      "sha256": "ae41af86912496d8c7e9c711f6bad7288fe5ec77336c3c91ec19294374d18b99",
+      "rows": 570
+    },
+    "step_2d9_execution_summary.csv": {
+      "sha256": "8364ac7225da7ed9daf130d7c96ec568290bfa20c3350baffc90c324dc7db565",
+      "rows": 1
+    },
+    "step_2d9_streamlit_handover_validation_register.csv": {
+      "sha256": "44a2454154b95d097f16be40c0c0c63357c9c04fd7052fe4a949a730d985e172",
+      "rows": 60
+    }
+  }
+}

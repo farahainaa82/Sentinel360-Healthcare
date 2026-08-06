@@ -1,0 +1,6 @@
+config_id,config_type,kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+TRD_IMP,TREND,ALL,Improving,-5,score_points,Slight risk reduction for improving trend,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TRD_STB,TREND,ALL,Stable,0,score_points,Neutral for stable trend,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TRD_DET,TREND,ALL,Deteriorating,15,score_points,Increased contribution for deterioration,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TRD_VOL,TREND,ALL,Volatile,10,score_points,Moderate contribution for volatile trend,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+TRD_INS,TREND,ALL,Insufficient_Evidence,0,score_points,Neutral for insufficient evidence,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design

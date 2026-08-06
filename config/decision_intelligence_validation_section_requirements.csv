@@ -1,0 +1,18 @@
+section_name,section_code,required_for_all,max_length
+Executive Headline,SEC-01,True,200
+One-Line Summary,SEC-02,True,120
+Short Summary,SEC-03,True,300
+Current Issue and Risk,SEC-04,True,1000
+Evidence Summary,SEC-05,True,500
+Recommendation Overview,SEC-06,True,500
+Scenario Options,SEC-07,False,500
+Tradeoffs and Impacts,SEC-08,False,500
+Financial Summary,SEC-09,False,500
+Readiness and Conditions,SEC-10,True,500
+Management Actions,SEC-11,True,500
+Management Questions,SEC-12,True,300
+Confirmations Required,SEC-13,True,300
+Monitoring and Escalation,SEC-14,True,500
+Governance and Limitations,SEC-15,True,500
+Audit and Traceability,SEC-16,True,500
+Management Decision Boundary,SEC-17,True,500

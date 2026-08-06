@@ -1,0 +1,14 @@
+action_control_id,action_control_name,control_type,default_value,allowed_values,editable_flag,required_flag,visibility_rule,governance_note
+CTRL-01,selected_action,dropdown,,Immediate;Near-term;Preventive;Monitoring;Escalation;Non-Quantitative Review,True,False,Always visible,Action selection remains blank until management review
+CTRL-02,selected_scenario,dropdown,,Baseline;Conservative;Expected;Higher Intensity,True,False,Always visible,Scenario selection remains blank until management review
+CTRL-03,review_outcome,dropdown,Pending,Pending;Approve with Conditions;Defer;Reject;Request Additional Evidence,True,False,Always visible,Review outcome defaults to Pending
+CTRL-04,management_comment,text_area,,,True,False,Always visible,Free-text management comment
+CTRL-05,conditions_imposed,text_area,,,True,False,Visible if review outcome is Approve with Conditions,Conditions imposed on approval
+CTRL-06,reviewer_role,dropdown,,Board;Executive Committee;CEO;CFO;COO;Division Head;Department Head;Manager,True,False,Always visible,Reviewer role selection
+CTRL-07,approval_reference,text,,,True,False,Visible if review outcome is Approved,External approval reference number
+CTRL-08,confirmation_checkbox,boolean,False,True;False,True,False,Visible before submit,Management must confirm review before submission
+CTRL-09,defer_reason,text_area,,,True,False,Visible if review outcome is Defer,Reason for deferral
+CTRL-10,reject_reason,text_area,,,True,False,Visible if review outcome is Reject,Reason for rejection
+CTRL-11,request_evidence_type,dropdown,,Source Data;Analytical Validation;Financial Input;Scenario Update;Stakeholder Input,True,False,Visible if review outcome is Request Additional Evidence,Type of evidence requested
+CTRL-12,route_to_monitoring,boolean,False,True;False,True,False,Always visible,Route package to monitoring queue
+CTRL-13,route_to_non_quantitative,boolean,False,True;False,True,False,Always visible,Route package to non-quantitative review queue

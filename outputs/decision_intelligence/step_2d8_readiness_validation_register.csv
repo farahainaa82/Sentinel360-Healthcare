@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-RE-001,readiness_upstream_reconciliation,0,0,PASS,
+VA-RE-002,ready_retains_pending,True,True,PASS,
+VA-RE-003,conditions_retains_pending,True,True,PASS,

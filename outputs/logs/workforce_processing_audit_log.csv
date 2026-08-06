@@ -1,0 +1,38 @@
+processing_run_id,event,details,timestamp
+PROC-0c4fc23f00fd,Processing Started,run_id=PROC-0c4fc23f00fd,2026-07-26T20:37:06.953448
+PROC-0c4fc23f00fd,Validation Gate Passed,"accepted=['hospital_master', 'department_master', 'staff_role_master', 'staff_master', 'staff_roster', 'staff_attendance', 'staffing_requirement', 'patient_encounters', 'patient_queue_records', 'bed_capacity_records', 'patient_complaints', 'patient_surveys', 'service_schedule']",2026-07-26T20:37:06.961590
+PROC-0c4fc23f00fd,Source Datasets Loaded,count=7,2026-07-26T20:37:07.376113
+PROC-0c4fc23f00fd,Dataset Transformation Started,processed_hospital_master,2026-07-26T20:37:07.376118
+PROC-0c4fc23f00fd,Dataset Transformation Completed,processed_hospital_master: rows=1,2026-07-26T20:37:07.386113
+PROC-0c4fc23f00fd,Processed Schema Validated,processed_hospital_master,2026-07-26T20:37:07.386116
+PROC-0c4fc23f00fd,Dataset Transformation Started,processed_department_master,2026-07-26T20:37:07.387076
+PROC-0c4fc23f00fd,Dataset Transformation Completed,processed_department_master: rows=8,2026-07-26T20:37:07.400301
+PROC-0c4fc23f00fd,Processed Schema Validated,processed_department_master,2026-07-26T20:37:07.400304
+PROC-0c4fc23f00fd,Dataset Transformation Started,processed_staff_role_master,2026-07-26T20:37:07.401045
+PROC-0c4fc23f00fd,Dataset Transformation Completed,processed_staff_role_master: rows=9,2026-07-26T20:37:07.413852
+PROC-0c4fc23f00fd,Processed Schema Validated,processed_staff_role_master,2026-07-26T20:37:07.413855
+PROC-0c4fc23f00fd,Dataset Transformation Started,processed_staff_master,2026-07-26T20:37:07.414525
+PROC-0c4fc23f00fd,Dataset Transformation Completed,processed_staff_master: rows=180,2026-07-26T20:37:07.480618
+PROC-0c4fc23f00fd,Processed Schema Validated,processed_staff_master,2026-07-26T20:37:07.480622
+PROC-0c4fc23f00fd,Dataset Transformation Started,processed_staff_roster,2026-07-26T20:37:07.481421
+PROC-0c4fc23f00fd,Dataset Transformation Completed,processed_staff_roster: rows=41495,2026-07-26T20:38:03.033176
+PROC-0c4fc23f00fd,Processed Schema Validated,processed_staff_roster,2026-07-26T20:38:03.033191
+PROC-0c4fc23f00fd,Dataset Transformation Started,processed_staff_attendance,2026-07-26T20:38:03.051323
+PROC-0c4fc23f00fd,Dataset Transformation Completed,processed_staff_attendance: rows=41495,2026-07-26T20:38:36.962632
+PROC-0c4fc23f00fd,Processed Schema Validated,processed_staff_attendance,2026-07-26T20:38:36.962640
+PROC-0c4fc23f00fd,Dataset Transformation Started,processed_staffing_requirement,2026-07-26T20:38:36.969468
+PROC-0c4fc23f00fd,Dataset Transformation Completed,processed_staffing_requirement: rows=78840,2026-07-26T20:38:54.388171
+PROC-0c4fc23f00fd,Processed Schema Validated,processed_staffing_requirement,2026-07-26T20:38:54.388179
+PROC-0c4fc23f00fd,Dataset Transformation Started,processed_workforce_daily,2026-07-26T20:38:54.398259
+PROC-0c4fc23f00fd,Dataset Transformation Completed,processed_workforce_daily: rows=26280,2026-07-26T20:38:55.076620
+PROC-0c4fc23f00fd,Lineage Generated,records=162028,2026-07-26T20:38:55.083219
+PROC-0c4fc23f00fd,Exclusion Register Generated,records=0,2026-07-26T20:38:55.083334
+PROC-0c4fc23f00fd,Output Exported,processed_hospital_master,2026-07-26T20:38:55.115117
+PROC-0c4fc23f00fd,Output Exported,processed_department_master,2026-07-26T20:38:55.141500
+PROC-0c4fc23f00fd,Output Exported,processed_staff_role_master,2026-07-26T20:38:55.170331
+PROC-0c4fc23f00fd,Output Exported,processed_staff_master,2026-07-26T20:38:55.204166
+PROC-0c4fc23f00fd,Output Exported,processed_staff_roster,2026-07-26T20:38:55.451581
+PROC-0c4fc23f00fd,Output Exported,processed_staff_attendance,2026-07-26T20:38:55.814866
+PROC-0c4fc23f00fd,Output Exported,processed_staffing_requirement,2026-07-26T20:38:56.204817
+PROC-0c4fc23f00fd,Output Exported,processed_workforce_daily,2026-07-26T20:38:56.473379
+PROC-0c4fc23f00fd,Source Checksum Confirmed,all sources unchanged,2026-07-26T20:38:56.492407

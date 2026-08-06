@@ -1,0 +1,9 @@
+processing_run_id,validation_run_id,source_dataset_name,processed_dataset_name,source_row_count,processed_row_count,excluded_row_count,transformed_field_count,warning_count,error_count,dataset_status,output_file_name,transformation_version,processed_datetime,notes
+PROC-0c4fc23f00fd,VAL-C62B370EC6C3,hospital_master,processed_hospital_master,1,1,0,0,0,0,Processed,,1.0.0,2026-07-25T22:46:24.906625,
+PROC-0c4fc23f00fd,VAL-C62B370EC6C3,department_master,processed_department_master,8,8,0,0,0,0,Processed,,1.0.0,2026-07-25T22:46:24.920684,
+PROC-0c4fc23f00fd,VAL-C62B370EC6C3,staff_role_master,processed_staff_role_master,9,9,0,0,0,0,Processed,,1.0.0,2026-07-25T22:46:24.931486,
+PROC-0c4fc23f00fd,VAL-C62B370EC6C3,staff_master,processed_staff_master,180,180,0,0,0,0,Processed,,1.0.0,2026-07-25T22:46:24.975563,
+PROC-0c4fc23f00fd,VAL-C62B370EC6C3,staff_roster,processed_staff_roster,41495,41495,0,0,0,0,Processed,,1.0.0,2026-07-25T22:46:43.866098,
+PROC-0c4fc23f00fd,VAL-C62B370EC6C3,staff_attendance,processed_staff_attendance,41495,41495,0,0,0,0,Processed,,1.0.0,2026-07-25T22:46:53.358896,
+PROC-0c4fc23f00fd,VAL-C62B370EC6C3,staffing_requirement,processed_staffing_requirement,78840,78840,0,0,0,0,Processed,,1.0.0,2026-07-25T22:47:20.112452,
+PROC-0c4fc23f00fd,VAL-C62B370EC6C3,workforce_daily,processed_workforce_daily,0,26280,0,0,0,0,Processed,,1.0.0,2026-07-25T22:47:22.870681,

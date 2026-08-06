@@ -1,0 +1,2 @@
+official_wait_field_found,eligibility_field_found,total_encounters,eligible_encounters,valid_wait_minute_records,invalid_wait_minute_records,negative_intervals,excluded_records,calculation_readiness,blocking_reason,final_kpi_004_status
+True,True,93958,91204,91204,0,0,2754,Calculable,,Calculated

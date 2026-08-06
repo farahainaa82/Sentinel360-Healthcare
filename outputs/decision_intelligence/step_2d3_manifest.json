@@ -1,0 +1,82 @@
+{
+  "phase": "2D-3",
+  "phase_name": "Decision Scorecard",
+  "execution_timestamp": "2026-07-29T10:55:41.359234",
+  "authority_verification_passed": true,
+  "governance_validation_passed": true,
+  "upstream_phase": "2D-2",
+  "outputs": {
+    "step_2d3_authoritative_input_register.csv": {
+      "checksum": "fad443f18045b1fb8d73caea740abffb162ecc7f6edb3ccb0400deb9d928d2a3",
+      "row_count": 19
+    },
+    "step_2d3_decision_scorecard_register.csv": {
+      "checksum": "adfe4989b72d50649691787c2bd344f4d6a18a951b1784b8e218953741ef61ff",
+      "row_count": 646
+    },
+    "step_2d3_scorecard_condition_flag_register.csv": {
+      "checksum": "e86df1369d9c649e5859840b82a5a649e7b50e56ddbd9045b20db151fc56aa18",
+      "row_count": 8398
+    },
+    "step_2d3_scorecard_detailed_view_register.csv": {
+      "checksum": "5572c2e266d518bd9a707918d612c718524ed749533040b16eb7c2a65ce5655f",
+      "row_count": 646
+    },
+    "step_2d3_scorecard_dimension_register.csv": {
+      "checksum": "aef43f53d3429a412714c4ddfb32cfb201c460790c80b2735d628cb2c43dfab7",
+      "row_count": 646
+    },
+    "step_2d3_scorecard_display_level_register.csv": {
+      "checksum": "d5ef2c64cb48692319eb14b218ebd045ecf6b799e6fed556b802c324d91b0550",
+      "row_count": 646
+    },
+    "step_2d3_scorecard_evidence_register.csv": {
+      "checksum": "aad9d181965ac9830040feb0232818baf576b7a255b590d1c4e09e2e4959aae0",
+      "row_count": 646
+    },
+    "step_2d3_scorecard_executive_view_register.csv": {
+      "checksum": "80bb14f2fe6a9d8e6f550c5bca13bf3abe5bd073a45f9278628b3248e7cead9f",
+      "row_count": 646
+    },
+    "step_2d3_scorecard_governance_burden_register.csv": {
+      "checksum": "cc9762548ab9c2ab73b26ff12e2ee91dbe169d4acb526d18a5f96b66e8fa9052",
+      "row_count": 646
+    },
+    "step_2d3_scorecard_governance_register.csv": {
+      "checksum": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+      "row_count": 0
+    },
+    "step_2d3_scorecard_issue_register.csv": {
+      "checksum": "effd1378aea50c3078fc2fe83708b8aea1d344596a2bd2e7cfafc46b41145bf9",
+      "row_count": 0
+    },
+    "step_2d3_scorecard_lineage_register.csv": {
+      "checksum": "5448f8747e0673d07a1b6b33be64bfd1f24a0de3a8f8cd48e86644910b74438d",
+      "row_count": 646
+    },
+    "step_2d3_scorecard_management_interpretation_register.csv": {
+      "checksum": "6bf214cb13655963f5ca880230c783d8317237f7acc541e7840d5e711bd2db77",
+      "row_count": 646
+    },
+    "step_2d3_scorecard_management_readiness_register.csv": {
+      "checksum": "568c179579eba6362b5cfc14b37b838e2d91ac55c36c084e9cb80f70ee4c35e9",
+      "row_count": 646
+    },
+    "step_2d3_scorecard_priority_view_register.csv": {
+      "checksum": "fd593cf428971a56b6899b015911b5b0755ed75225a8acd978c92a07d6e4df08",
+      "row_count": 646
+    },
+    "step_2d3_scorecard_streamlit_data_contract.csv": {
+      "checksum": "52803c80d143750aa8f8dbf6087b9e3702d2a773d6b6927215a99f3278ac6021",
+      "row_count": 4522
+    }
+  },
+  "governance_confirmations": {
+    "no_preferred_scenario": true,
+    "no_management_approval": true,
+    "causality_not_confirmed": true,
+    "financial_values_unchanged": true,
+    "scenario_values_unchanged": true,
+    "no_opaque_ai_score": true
+  }
+}

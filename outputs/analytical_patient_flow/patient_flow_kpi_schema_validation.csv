@@ -1,0 +1,7 @@
+dataset_name,schema_valid,missing_columns,extra_columns
+analytical_patient_flow_kpi_daily,True,,
+analytical_patient_flow_kpi_evidence,True,,
+analytical_patient_flow_kpi_exclusions,True,,
+analytical_patient_flow_kpi_lineage,True,,
+analytical_patient_flow_kpi_issues,True,,
+analytical_patient_flow_kpi_audit,True,,

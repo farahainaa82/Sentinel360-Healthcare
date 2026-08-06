@@ -1,0 +1,4 @@
+check_name,status,message
+duplicate_grain_check,Passed,Duplicate hospital-department-date-kpi grains = 0
+unique_integration_record_id,Passed,integration_record_id unique = 17520/17520
+deterministic_id_prefix,Passed,integration_record_id without IKPI- prefix = 0

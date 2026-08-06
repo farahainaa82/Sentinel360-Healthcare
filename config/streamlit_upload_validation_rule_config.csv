@@ -1,0 +1,49 @@
+dataset_type,rule_name,rule_description,issue_category,issue_severity,blocking_flag,schema_profile
+Staff Roster,roster_id_unique,Roster ID must be unique,Duplicate Record,Error,Non-blocking,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,staff_id_present,Staff ID must be present,Missing Value,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,department_id_present,Department ID must be present,Missing Value,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,roster_date_valid,Roster date must be valid,Invalid Date,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,planned_hours_positive,Planned hours must be positive,Value Range,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,attendance_id_unique,Attendance ID must be unique,Duplicate Record,Error,Non-blocking,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,staff_id_present,Staff ID must be present,Missing Value,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,attendance_date_valid,Attendance date must be valid,Invalid Date,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Staff Attendance,status_valid,Status must be valid enum,Invalid Value,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,encounter_id_unique,Encounter ID must be unique,Duplicate Record,Error,Non-blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,patient_id_present,Patient ID must be present,Missing Value,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,encounter_date_valid,Encounter date must be valid,Invalid Date,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Encounters,arrival_datetime_valid,Arrival datetime must be valid,Invalid Date,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,record_id_unique,Record ID must be unique,Duplicate Record,Error,Non-blocking,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,record_date_valid,Record date must be valid,Invalid Date,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,occupancy_rate_range,Occupancy rate must be 0-1,Value Range,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Bed Occupancy,bed_counts_positive,Bed counts must be non-negative,Value Range,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,queue_id_unique,Queue ID must be unique,Duplicate Record,Error,Non-blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,queue_date_valid,Queue date must be valid,Invalid Date,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,avg_wait_positive,Average wait time must be non-negative,Value Range,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Queue,arrivals_positive,Arrival counts must be non-negative,Value Range,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,complaint_id_unique,Complaint ID must be unique,Duplicate Record,Error,Non-blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,complaint_date_valid,Complaint date must be valid,Invalid Date,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Complaints,resolution_status_valid,Resolution status must be valid enum,Invalid Value,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,survey_id_unique,Survey ID must be unique,Duplicate Record,Error,Non-blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,survey_date_valid,Survey date must be valid,Invalid Date,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Patient Survey,score_value_range,Score must be 1-5,Value Range,Error,Blocking,SENTINEL360_SYNTHETIC_DEMO
+Staff Roster,staff_name_present,Staff name must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Staff Roster,role_present,Role must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Staff Roster,department_present,Department must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Staff Attendance,date_present,Date must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Staff Attendance,shift_present,Shift must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Staff Attendance,attendance_status_present,Attendance status must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Encounters,date_present,Date must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Encounters,department_present,Department must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Encounters,patient_type_present,Patient type must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Bed Occupancy,date_present,Date must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Bed Occupancy,ward_present,Ward must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Bed Occupancy,beds_total_present,Total beds must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Queue,date_present,Date must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Queue,department_present,Department must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Queue,arrivals_present,Arrivals must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Complaints,date_present,Date must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Complaints,category_present,Category must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Complaints,severity_present,Severity must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Survey,date_present,Date must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Survey,department_present,Department must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD
+Patient Survey,n_responses_present,Response count must be present,Missing Value,Error,Blocking,GENERIC_UPLOAD

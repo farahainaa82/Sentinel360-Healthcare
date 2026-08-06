@@ -1,0 +1,2 @@
+hospital_id,hospital_name,hospital_short_name,hospital_type,bed_licensed_total,region,country,status,effective_from,effective_to,source_system,record_version,record_created_datetime,record_updated_datetime
+HOSP-001,Sentinel Demo Hospital,Sentinel Demo,General Hospital,450,Central Region,Demo Country,Active,2020-01-01,2099-12-31,SENTINEL_DEMO_MASTER,1,2025-01-01,2025-01-01

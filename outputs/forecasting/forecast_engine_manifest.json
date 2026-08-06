@@ -1,0 +1,77 @@
+{
+  "engine_name": "Sentinel360 Indicative KPI Forecasting Engine",
+  "engine_version": "1.0.0-indicative",
+  "generation_timestamp": "2026-07-31T21:59:01.088673",
+  "input_files": [
+    "data/analytical/analytical_six_kpi_daily.csv",
+    "config/kpi_threshold_config.csv",
+    "config/intervention_catalogue.csv"
+  ],
+  "output_files": {
+    "monthly_history": "outputs/forecasting\\kpi_monthly_actual_history.csv",
+    "eligibility_audit": "outputs/forecasting\\kpi_forecast_eligibility_audit.csv",
+    "method_selection": "outputs/forecasting\\kpi_forecast_method_selection.csv",
+    "method_validation": "outputs/forecasting\\kpi_forecast_method_validation.csv",
+    "forecasts": "outputs/forecasting\\analytical_kpi_monthly_forecast.csv",
+    "forecast_status": "outputs/forecasting\\analytical_kpi_forecast_status.csv",
+    "warning_signals": "outputs/forecasting\\analytical_kpi_forecast_warning_signals.csv",
+    "integrity_check": "outputs/forecasting\\forecast_frozen_file_integrity_check.csv"
+  },
+  "historical_cutoff": "2026-07-31",
+  "forecast_horizon": [
+    "2026-08",
+    "2026-09",
+    "2026-10",
+    "2026-11",
+    "2026-12"
+  ],
+  "candidate_methods": [
+    "Naive Last Value",
+    "Three-Month Moving Average",
+    "Linear Trend",
+    "Simple Exponential Smoothing",
+    "Holt Linear Trend"
+  ],
+  "validation_approach": "Rolling-origin one-step-ahead validation",
+  "KPI_coverage": [
+    "Staffing Level",
+    "Staff Absenteeism Rate",
+    "Bed Occupancy Rate",
+    "Average Patient Waiting Time",
+    "Patient Complaint Rate",
+    "Patient Satisfaction Score"
+  ],
+  "department_coverage": [
+    "Administration",
+    "Diagnostic Services",
+    "Emergency Department",
+    "Intensive Care Unit",
+    "Medical Ward",
+    "Outpatient Clinic",
+    "Patient Experience",
+    "Surgical Ward"
+  ],
+  "eligible_combinations": 33,
+  "ineligible_combinations": 15,
+  "selected_method_counts": {
+    "Holt Linear Trend": 19,
+    "Linear Trend": 6,
+    "Simple Exponential Smoothing": 4,
+    "Naive Last Value": 2,
+    "Three-Month Moving Average": 2
+  },
+  "warning_signal_counts": {
+    "Monitoring": 99,
+    "Emerging Warning": 35,
+    "Escalating Warning": 22,
+    "High Early Warning": 9
+  },
+  "known_limitations": [
+    "Seven months of history are insufficient for reliable seasonal modelling.",
+    "Forecasts are indicative operational estimates only.",
+    "No causal inference is performed."
+  ],
+  "disclaimer": "These forecasts are indicative operational estimates generated from available synthetic historical data. They support early-warning demonstration and require further validation before operational deployment.",
+  "approval_status": "Indicative Prototype",
+  "frozen_file_integrity": "No modifications detected"
+}

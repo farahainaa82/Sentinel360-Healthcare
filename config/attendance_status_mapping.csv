@@ -1,0 +1,11 @@
+attendance_mapping_id,source_status,staffing_availability_treatment,absenteeism_treatment,department_attribution_rule,requires_actual_hours,availability_factor,missing_record_flag,stakeholder_validation_required,rule_status,rule_reference,configuration_version,effective_start_date,effective_end_date,active_flag,approval_status,created_datetime,updated_datetime
+asm_001,Present,Count verified actual hours,Not absent,Scheduled department,true,,false,false,Approved,A1,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+asm_002,Partial,Count verified actual hours worked,Absent for lost hours if eligible,Scheduled department,true,,false,false,Approved,A2,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+asm_003,Reassigned,Count verified actual hours in destination department only,Not absent,Destination department only,true,,false,false,Approved,A3,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+asm_004,Late,Count verified actual hours after arrival,Not absent,Scheduled department,true,,false,false,Approved,A1,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+asm_005,Training,Do not count unless on-the-job service-contributing,Not absent,Scheduled department,true,,false,false,Approved with Modification,B4,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+asm_006,Leave,Do not count as available,Not absent planned,Scheduled department,false,,false,false,Approved,B3,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+asm_007,Absent,Do not count as available,Absent if unplanned classification,Scheduled department,false,,false,false,Approved,B1,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+asm_008,Not Scheduled,Exclude entirely,Exclude entirely,N/A,false,,false,false,Approved,B6,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+asm_009,Missing,Do not count as available,Do not count as absent,Unknown,false,,true,false,Approved,A6,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00
+asm_010,Unknown,Do not count as available,Do not count as absent,Unknown,false,,true,false,Approved,A6,v1.0-draft,2026-07-25,,true,Approved,2026-07-25T00:00:00,2026-07-25T00:00:00

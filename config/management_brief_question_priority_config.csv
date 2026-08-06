@@ -1,0 +1,9 @@
+configuration_id,question_category,blocking_flag,mandatory_flag,readiness_relevance,action_relevance,urgency_relevance,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+QP-001,Blocking,True,True,High,High,High,1,True,1.0,Draft Analytical Configuration,True,Question priority rule
+QP-002,Blocking,True,False,High,High,High,2,True,1.0,Draft Analytical Configuration,True,Question priority rule
+QP-003,Non-Blocking,False,True,High,High,High,3,True,1.0,Draft Analytical Configuration,True,Question priority rule
+QP-004,Non-Blocking,False,True,High,Medium,Medium,4,True,1.0,Draft Analytical Configuration,True,Question priority rule
+QP-005,Non-Blocking,False,False,High,High,High,5,True,1.0,Draft Analytical Configuration,True,Question priority rule
+QP-006,Non-Blocking,False,False,Medium,High,High,6,True,1.0,Draft Analytical Configuration,True,Question priority rule
+QP-007,Non-Blocking,False,False,Medium,Medium,Medium,7,True,1.0,Draft Analytical Configuration,True,Question priority rule
+QP-008,Non-Blocking,False,False,Low,Low,Low,8,True,1.0,Draft Analytical Configuration,True,Question priority rule

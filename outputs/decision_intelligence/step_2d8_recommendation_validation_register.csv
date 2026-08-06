@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-RC-001,recommendation_confidence_range,0,0,PASS,
+VA-RC-002,recommendation_readiness_present,True,True,PASS,
+VA-RC-003,no_pre_approved_recommendation,0,0,PASS,

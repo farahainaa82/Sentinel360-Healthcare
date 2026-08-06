@@ -1,0 +1,14 @@
+financial_assumption_id,intervention_id,assumption_code,assumption_name,financial_category,unit,default_value,minimum_value,maximum_value,currency_code,source_reference,confidence_level,editable_flag,stakeholder_validation_required,configuration_version,effective_start_date,effective_end_date,approval_status,validation_status,created_datetime,updated_datetime
+fac_001,int_001,INT_COST,Intervention Cost,Total Intervention Cost,MYR,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_002,int_001,TEMP_LABOUR,Temporary Labour Cost,Direct Cost,MYR per staff per day,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_003,int_001,OVERTIME,Overtime Cost,Direct Cost,MYR per hour,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_004,int_002,EXT_HOUR_COST,Additional Service Hour Cost,Direct Cost,MYR per hour,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_005,int_003,REDIR_COST,Redirection Implementation Cost,Direct Cost,MYR,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_006,int_004,RESCHED_COST,Rescheduling Implementation Cost,Direct Cost,MYR,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_007,int_005,CAP_RESTORE_COST,Temporary Capacity Restoration Cost,Direct Cost,MYR,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_008,int_006,PEAK_COMM_COST,Communication Support Cost,Direct Cost,MYR,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_009,,REV_EXPOSURE,Estimated Revenue Exposure,Financial Exposure,MYR,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_010,,AVOIDED_LOSS,Avoided Loss,Benefit,MYR,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_011,,SRV_RECOVERY,Service Recovery Benefit,Benefit,MYR,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_012,,PENALTY_EXP,Penalty or Escalation Exposure,Financial Exposure,MYR,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00
+fac_013,,NET_BENEFIT,Expected Net Benefit,Net Benefit,MYR,,,,MYR,,,true,false,v1.0-draft,2026-07-25,,Draft,Configurable Placeholder,2026-07-25T00:00:00,2026-07-25T00:00:00

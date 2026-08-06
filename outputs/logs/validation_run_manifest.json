@@ -1,0 +1,55 @@
+{
+  "validation_run_id": "VAL-C62B370EC6C3",
+  "source_type": "synthetic_demo",
+  "input_directory": "data\\demo",
+  "validation_started_datetime": "2026-07-25T16:52:54.444230",
+  "validation_completed_datetime": "2026-07-25T16:53:02.408988",
+  "engine_version": "1.0.0",
+  "configuration_version": "1.0.0",
+  "expected_dataset_count": 13,
+  "discovered_dataset_count": 17,
+  "validated_dataset_count": 13,
+  "run_status": "Passed",
+  "processing_allowed_flag": true,
+  "issue_counts_by_severity": {
+    "Information": 4,
+    "Warning": 0,
+    "Error": 0,
+    "Critical": 0
+  },
+  "issue_counts_by_outcome": {
+    "Observed": 4,
+    "Passed": 0,
+    "Failed": 0
+  },
+  "blocking_issue_count": 0,
+  "manual_override_count": 0,
+  "output_file_names": [
+    "dataset_validation_summary.csv",
+    "validation_issue_log.csv",
+    "record_validation_issue_log.csv",
+    "relationship_validation_summary.csv",
+    "manual_override_register.csv",
+    "validation_audit_log.csv"
+  ],
+  "source_file_checksums": {
+    "hospital_master": "f0468feac3611c855062b6e3778c5c2a0beaa74e57791ea24bc6dca279777de0",
+    "department_master": "de303c81c0f978cb1dd50a53e57abc3a8ceb22f8d4426cefaa8d7d9f542ac669",
+    "staff_role_master": "b738c7bc91fcbad9d4a469d9823f531e690c42dc13096166f26f158f3e04403b",
+    "staff_master": "75bf267dcfc8e5d28f4d359f211b8fb8301c3aa1d88033b9acb30a326af20431",
+    "staff_roster": "a8dba2564e3582ead9a966c94cf1bf49b7e14c6ad3c9da93fca2431c0db09493",
+    "staff_attendance": "81c88547bacb3231110cf6b25ff6041da0c0e65df8a48862d8dc6b58379a75e6",
+    "staffing_requirement": "630c5073a431e17f25c9577984e61fab0e24b85c3326d447c546216618f9c307",
+    "patient_encounters": "2520d2fa45d15cffa3a4679a40413ff67a14c07a8b787a0c04f0c482a96ae0a8",
+    "patient_queue_records": "775df8fd166d26e2562d9fa7bc57714cdf0849be19bb231b3c13f31485253fd6",
+    "bed_capacity_records": "fbb36f73c8b78c583538cc0a0ea1589b29410b937e2f69805f43ab10aa7f0652",
+    "patient_complaints": "4a3f9430e969cdb6c67c257f45e535f0fc87d0e13638d13fab35e2f14d6f5749",
+    "patient_surveys": "abda74db75741729279c403e66181b5464451fc12af22b76e43e6e8dc8d1e58b",
+    "service_schedule": "6fb2ffc491946396928dad6512e6cb2cc781526e7140d0eed6438e15e8d15530"
+  },
+  "known_limitations": [
+    "Validation does not prove business meaning of source records.",
+    "Manual overrides require explicit approval workflow outside this engine.",
+    "Record-level examples are limited by technical display limit."
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "scenario_runs": {
+    "filename": "analytical_scenario_runs.csv",
+    "rows": 2711,
+    "pk_cols": [
+      "scenario_run_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id",
+      "approval_package_id",
+      "episode_id",
+      "scenario_template_id",
+      "comparator_id",
+      "baseline_id"
+    ],
+    "has_confidence_field": true,
+    "has_causality_field": true,
+    "has_baseline_status_field": true,
+    "has_comparator_type_field": true
+  },
+  "scenario_baselines": {
+    "filename": "analytical_scenario_baselines.csv",
+    "rows": 1640,
+    "pk_cols": [
+      "baseline_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "approval_package_id",
+      "episode_id",
+      "scenario_template_id",
+      "baseline_id"
+    ],
+    "has_confidence_field": true,
+    "has_causality_field": false,
+    "has_baseline_status_field": true,
+    "has_comparator_type_field": false
+  },
+  "scenario_assumption_validation": {
+    "filename": "analytical_scenario_assumption_validation.csv",
+    "rows": 3870,
+    "pk_cols": [
+      "validation_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_confidence": {
+    "filename": "analytical_scenario_confidence.csv",
+    "rows": 2711,
+    "pk_cols": [
+      "scenario_run_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id"
+    ],
+    "has_confidence_field": true,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_comparator_analysis": {
+    "filename": "analytical_scenario_comparator_analysis.csv",
+    "rows": 1785,
+    "pk_cols": [
+      "comparison_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "approval_package_id",
+      "episode_id",
+      "scenario_template_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_effect_classification": {
+    "filename": "analytical_scenario_effect_classification.csv",
+    "rows": 1428,
+    "pk_cols": [
+      "effect_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id",
+      "approval_package_id",
+      "episode_id"
+    ],
+    "has_confidence_field": true,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_dominance": {
+    "filename": "analytical_scenario_dominance.csv",
+    "rows": 2142,
+    "pk_cols": [
+      "dominance_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "approval_package_id",
+      "scenario_template_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_sensitivity": {
+    "filename": "analytical_scenario_sensitivity.csv",
+    "rows": 357,
+    "pk_cols": [
+      "sensitivity_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "approval_package_id",
+      "scenario_template_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_diminishing_returns": {
+    "filename": "analytical_scenario_diminishing_returns.csv",
+    "rows": 357,
+    "pk_cols": [
+      "diminishing_return_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "approval_package_id",
+      "scenario_template_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_risk_displacement": {
+    "filename": "analytical_scenario_risk_displacement.csv",
+    "rows": 1950,
+    "pk_cols": [
+      "displacement_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id",
+      "approval_package_id",
+      "episode_id"
+    ],
+    "has_confidence_field": true,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_management_interpretation": {
+    "filename": "analytical_scenario_management_interpretation.csv",
+    "rows": 357,
+    "pk_cols": [
+      "interpretation_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "approval_package_id",
+      "episode_id",
+      "scenario_template_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_evidence": {
+    "filename": "analytical_scenario_evidence.csv",
+    "rows": 14616,
+    "pk_cols": [
+      "evidence_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_governance": {
+    "filename": "analytical_scenario_governance.csv",
+    "rows": 21420,
+    "pk_cols": [
+      "governance_id"
+    ],
+    "pk_unique": false,
+    "present_join_keys": [
+      "scenario_run_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_lineage": {
+    "filename": "analytical_scenario_lineage.csv",
+    "rows": 14616,
+    "pk_cols": [
+      "lineage_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_non_comparable_register": {
+    "filename": "analytical_scenario_non_comparable_register.csv",
+    "rows": 1283,
+    "pk_cols": [
+      "scenario_run_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id",
+      "approval_package_id",
+      "episode_id",
+      "scenario_template_id",
+      "comparator_id",
+      "baseline_id"
+    ],
+    "has_confidence_field": true,
+    "has_causality_field": true,
+    "has_baseline_status_field": true,
+    "has_comparator_type_field": true
+  },
+  "scenario_kpi_impacts": {
+    "filename": "analytical_scenario_kpi_impacts.csv",
+    "rows": 2711,
+    "pk_cols": [
+      "scenario_run_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_primary_impacts": {
+    "filename": "analytical_scenario_primary_impacts.csv",
+    "rows": 1428,
+    "pk_cols": [
+      "primary_impact_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id",
+      "approval_package_id",
+      "episode_id"
+    ],
+    "has_confidence_field": true,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": true
+  },
+  "scenario_supporting_kpi_impacts": {
+    "filename": "analytical_scenario_supporting_kpi_impacts.csv",
+    "rows": 1428,
+    "pk_cols": [
+      "supporting_impact_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id",
+      "approval_package_id",
+      "episode_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_tradeoff_profiles": {
+    "filename": "analytical_scenario_tradeoff_profiles.csv",
+    "rows": 1428,
+    "pk_cols": [
+      "profile_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id",
+      "approval_package_id",
+      "episode_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_tradeoff_evidence": {
+    "filename": "analytical_scenario_tradeoff_evidence.csv",
+    "rows": 1428,
+    "pk_cols": [
+      "evidence_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  },
+  "scenario_tradeoff_lineage": {
+    "filename": "analytical_scenario_tradeoff_lineage.csv",
+    "rows": 1428,
+    "pk_cols": [
+      "lineage_id"
+    ],
+    "pk_unique": true,
+    "present_join_keys": [
+      "scenario_run_id"
+    ],
+    "has_confidence_field": false,
+    "has_causality_field": false,
+    "has_baseline_status_field": false,
+    "has_comparator_type_field": false
+  }
+}

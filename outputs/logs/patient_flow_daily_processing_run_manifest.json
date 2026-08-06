@@ -1,0 +1,59 @@
+{
+  "processing_run_id": "PROC-PFD-52B503B5DA53",
+  "validation_run_id": "VAL-C62B370EC6C3",
+  "input_processing_run_ids": {
+    "patient_encounter": "PROC-PE-66BB1B50F384",
+    "queue_capacity_schedule": "PROC-QCS-92010F32B162"
+  },
+  "source_type": "processed_synthetic_demo",
+  "input_directory": "data\\processed",
+  "output_directory": "data\\processed",
+  "processing_started_datetime": "2026-07-26T10:36:58.390158",
+  "processing_completed_datetime": "2026-07-26T10:39:24.408114",
+  "engine_version": "Sentinel360-Phase1-2D-3C",
+  "transformation_version": "2D-3C-1.0.0",
+  "configuration_version": "Sentinel360-Phase1-2D-3C",
+  "input_datasets": [
+    "processed_patient_encounters",
+    "processed_patient_queue",
+    "processed_bed_capacity",
+    "processed_service_schedule"
+  ],
+  "output_dataset": "processed_patient_flow_daily.csv",
+  "input_record_counts": {
+    "processed_patient_encounters": 93958,
+    "processed_patient_queue": 1095,
+    "processed_bed_capacity": 1095,
+    "processed_service_schedule": 8760
+  },
+  "output_record_count": 2920,
+  "exclusion_count": 0,
+  "issue_counts_by_severity": {},
+  "warning_count": 0,
+  "error_count": 0,
+  "run_status": "success",
+  "processing_allowed_flag": true,
+  "input_checksums": {
+    "processed_patient_encounters": "7d75a4e43f8e3b47ae3298ae1337ed1cdcc422287a8ad5ac5febd2bb350e490f",
+    "processed_patient_queue": "035ae7d548904327e74cfada45dba329bf072e3e58f3f37db7e86a3771a78591",
+    "processed_bed_capacity": "239fe6b282a9933952e5b17c933ae10d03a2caf5bdf1bdcdcae5dcb4ce543a1b",
+    "processed_service_schedule": "7778444350ad50fbcf6a67c1fe37e08ca66eee507b93ad96d6b7d6febde71c29"
+  },
+  "output_checksum": "cf31c8ac27d9fd0e83e9cf3c175b364c2b3d9be0e7f85a887285390bc2a6c778",
+  "output_files": [
+    "processed_patient_flow_daily.csv",
+    "patient_flow_daily_processing_run_manifest.json",
+    "patient_flow_daily_processing_dataset_summary.csv",
+    "patient_flow_daily_processing_issue_log.csv",
+    "patient_flow_daily_processing_lineage.csv",
+    "patient_flow_daily_processing_exclusion_register.csv",
+    "patient_flow_daily_processing_audit_log.csv"
+  ],
+  "unresolved_rules": [
+    "Pending Review"
+  ],
+  "known_limitations": [
+    "Queue aggregation uses explicit summary flag only."
+  ],
+  "inputs_unchanged": true
+}

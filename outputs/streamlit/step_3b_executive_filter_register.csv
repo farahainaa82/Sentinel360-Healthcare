@@ -1,0 +1,13 @@
+filter_id,filter_name,source_column,widget_type,default_value,status
+FIL_01,Hospital,hospital_name,multiselect,All,Active
+FIL_02,Department,department_name,multiselect,All,Active
+FIL_03,Year,year,multiselect,All,Active
+FIL_04,Month,month,multiselect,All,Active
+FIL_05,Reporting Date,reporting_date,multiselect,All,Active
+FIL_06,KPI,dominant_kpi_name,multiselect,All,Active
+FIL_07,Risk Tier,risk_tier,slider,All,Active
+FIL_08,Urgency,urgency,multiselect,All,Active
+FIL_09,Readiness Status,readiness_status,multiselect,All,Active
+FIL_10,Management Attention Level,management_attention_level,multiselect,All,Active
+FIL_11,Primary Queue,primary_queue,multiselect,All,Active
+FIL_12,Validation Outcome,validation_outcome,multiselect,All,Active

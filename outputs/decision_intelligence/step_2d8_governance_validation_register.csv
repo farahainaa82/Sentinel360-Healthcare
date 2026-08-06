@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-GO-001,management_decision_boundary_present,True,True,PASS,
+VA-GO-002,governance_issue_count,0,,PASS,Governance register or governance_issue_count unavailable
+VA-GO-003,prohibited_term_count_zero,0,,PASS,prohibited_term_count column not present

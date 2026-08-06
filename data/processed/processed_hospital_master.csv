@@ -1,0 +1,2 @@
+hospital_id,hospital_name,hospital_type,active_flag,effective_start_date,effective_end_date,source_system,source_record_version,source_primary_key,source_row_number,processing_run_id,validation_run_id,transformation_version,processed_datetime
+HOSP-001,Sentinel Demo Hospital,General Hospital,True,2020-01-01,2099-12-31,SENTINEL_DEMO_MASTER,1,HOSP-001,1,PROC-226787338905,VAL-C62B370EC6C3,2D-2.1.0,2026-07-25T22:46:24.906625

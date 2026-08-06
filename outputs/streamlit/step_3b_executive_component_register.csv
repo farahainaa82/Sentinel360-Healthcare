@@ -1,0 +1,17 @@
+component_id,component_name,source_file,status,notes
+COMP_01,Global Filters,pages/02_Executive_Overview.py,Active,multiselect filters with Apply/Reset
+COMP_02,Executive Status Strip,pages/02_Executive_Overview.py,Active,six metric cards
+COMP_03,Executive Health Summary,pages/02_Executive_Overview.py,Active,narrative text
+COMP_04,KPI Pressure Overview,pages/02_Executive_Overview.py,Active,six KPI cards
+COMP_05,Top Risks and Alerts,pages/02_Executive_Overview.py,Active,top-N table
+COMP_06,Decision Readiness,pages/02_Executive_Overview.py,Active,bar chart + table
+COMP_07,Financial Impact Summary,pages/02_Executive_Overview.py,Active,four metric cards
+COMP_08,Financial Priority Cases,pages/02_Executive_Overview.py,Active,top-5 table
+COMP_09,Management Attention Queue,pages/02_Executive_Overview.py,Active,queue summary table
+COMP_10,Top Management Questions,pages/02_Executive_Overview.py,Active,top-5 table
+COMP_11,Monitoring Watchlist,pages/02_Executive_Overview.py,Active,monitoring table
+COMP_12,Validation Watchlist,pages/02_Executive_Overview.py,Active,validation table
+COMP_13,Evidence Lineage Governance,pages/02_Executive_Overview.py,Active,governance cards
+COMP_14,Executive Priority Table,pages/02_Executive_Overview.py,Active,priority table
+COMP_15,Navigation Actions,pages/02_Executive_Overview.py,Active,page links and disabled buttons
+COMP_16,Management Decision Boundary,pages/02_Executive_Overview.py,Active,warning banner

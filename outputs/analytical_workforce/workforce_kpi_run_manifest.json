@@ -1,0 +1,58 @@
+{
+  "calculation_run_id": "WF-KPI-AE9BC170EF5F",
+  "execution_timestamp": "2026-07-27T10:44:26.340888",
+  "engine_version": "2A-2-1.0.0",
+  "configuration_version": "v1.0-draft",
+  "threshold_version": "v1.0-draft",
+  "source_dataset_checksums": {
+    "processed_operational_daily.csv": {
+      "baseline": "0994fe112dd2d50936e2990f97ab6fa528e5c3d99600ec27ab46ca6e7522150d",
+      "current": "0994fe112dd2d50936e2990f97ab6fa528e5c3d99600ec27ab46ca6e7522150d",
+      "match": true
+    },
+    "processed_workforce_daily.csv": {
+      "baseline": "a5cd78b09d8aa4f4784aeea1735a5979e129c52e461faf09e2c896247607a3d2",
+      "current": "a5cd78b09d8aa4f4784aeea1735a5979e129c52e461faf09e2c896247607a3d2",
+      "match": true
+    },
+    "processed_staff_attendance.csv": {
+      "baseline": "ace920f1b59672484ed111375171a742eb5d0b8e0160d7ec7cf1dc7c80ba4043",
+      "current": "ace920f1b59672484ed111375171a742eb5d0b8e0160d7ec7cf1dc7c80ba4043",
+      "match": true
+    },
+    "processed_staff_roster.csv": {
+      "baseline": "c0c532f17ad0cd76591b4f19cff0e12020dcbf7a43804b71a08e50d9b5e3aa0e",
+      "current": "c0c532f17ad0cd76591b4f19cff0e12020dcbf7a43804b71a08e50d9b5e3aa0e",
+      "match": true
+    },
+    "processed_staffing_requirement.csv": {
+      "baseline": "3489a21aab6c4626d0268d176d0129f8266cafe7e9f914271e8f498959fe932d",
+      "current": "3489a21aab6c4626d0268d176d0129f8266cafe7e9f914271e8f498959fe932d",
+      "match": true
+    },
+    "processed_staff_master.csv": {
+      "baseline": "24cc5ba2b71e8719d1cf99a7cfd7ebeb81789029d6c7737005bcb2576de5cb6b",
+      "current": "24cc5ba2b71e8719d1cf99a7cfd7ebeb81789029d6c7737005bcb2576de5cb6b",
+      "match": true
+    },
+    "processed_staff_role_master.csv": {
+      "baseline": "5542710f419a1b3b7a5a46c7a48519096967a221a15b1220d84999cd8ded5be6",
+      "current": "5542710f419a1b3b7a5a46c7a48519096967a221a15b1220d84999cd8ded5be6",
+      "match": true
+    }
+  },
+  "output_dataset_checksums": {},
+  "row_counts": {
+    "analytical_workforce_kpi_daily": 5840,
+    "analytical_workforce_kpi_evidence": 11680,
+    "analytical_workforce_kpi_exclusions": 0,
+    "analytical_workforce_kpi_lineage": 5840,
+    "analytical_workforce_kpi_issues": 0,
+    "analytical_workforce_kpi_audit": 1
+  },
+  "calculated_counts": 0,
+  "unavailable_counts": 0,
+  "zero_denominator_counts": 0,
+  "issue_counts_by_severity": {},
+  "final_run_status": "Completed"
+}

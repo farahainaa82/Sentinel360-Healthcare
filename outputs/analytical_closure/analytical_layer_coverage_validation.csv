@@ -1,0 +1,4 @@
+check_name,status,message
+coverage_grain_count,Passed,Coverage grains = 2920 (expected 2920)
+coverage_all_complete,Passed,Complete grains = 2920 (expected 2920)
+coverage_missing_kpis,Passed,Missing KPI rows across all grains = 0 (expected 0)

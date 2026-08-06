@@ -1,0 +1,16 @@
+{
+  "data/analytical/analytical_six_kpi_daily.csv": "32bf96724283c015ac478198528a6ffa05ef6538bc63fe8c66739342935650d7",
+  "data/analytical/analytical_kpi_period_comparisons.csv": "d4773408ed749a4d0e7647d9e38da4a214a00be238d957ae6df7a570b1182baa",
+  "data/analytical/analytical_kpi_rolling_statistics.csv": "6e55898de94efe1d5811d1121cfc57995a7f5b879f6b3e0a4e33afe359878e61",
+  "data/analytical/analytical_kpi_trend_signals.csv": "60cf1bf721d203ee566fdfe285ef832fd44cc1f795001b5b7f3ee247de712a1a",
+  "data/analytical/analytical_kpi_sustained_movements.csv": "3e5cf65a15c4cfb9d4331b2cde11554c7564c323a72ce73f1d21151aa2b546c0",
+  "config/kpi_threshold_config.csv": "da2bd8b93c7737a772f741de146a457aee21e3431e1e4e61d1e32ce979fde54f",
+  "config/kpi_definition_config.csv": "4fef3ad42732588e36583694cbd8f6de2a9d293be9ab2e4a4e49215f9d161962",
+  "src/analytical_models.py": "ee4ba9df1e327ebdf59c560df60a57b6d651fe18d2fcb6db1ed4c52ef80c72ab",
+  "src/analytical_contracts.py": "c71c58466d9d64b97dbf0653b6a31879936a111129b23a91d8e2c895e7ae69fa",
+  "src/kpi_registry.py": "9f9b20941d0a9f4424cdf6108f05bbc5e9e85c03046301548195f2155ecb21c3",
+  "src/analytical_schema_registry.py": "f2b472c04715f3a76d86a6f40f551ea703b6e6da6a3fecd1c89bde2e76b24e72",
+  "src/six_kpi_integration_engine.py": "725f95b889afa1f7ba1ad833c75f2d3a055e185860595bd11d2c774d9534ef4d",
+  "src/trend_analytical_models.py": "dbf67a76ba14ad8f41955d6a9b390973223ab03b3376f3c5837db82d5ece4813",
+  "src/trend_statistical_signal_engine.py": "1f016b49281d9f302d822d71b327ff8478a0691fcae746b5dc9b44d9c8dab27c"
+}

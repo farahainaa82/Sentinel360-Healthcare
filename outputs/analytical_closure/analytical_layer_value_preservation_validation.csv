@@ -1,0 +1,2 @@
+check_name,status,message,details
+kpi_value_preserved,Passed,KPI value mismatches = 0 (expected 0),"{""mismatches"": 0, ""sample"": []}"

@@ -1,0 +1,16 @@
+configuration_id,precedence_rank,status_name,status_category,blocking_flag,description,active_flag,version,governance_note
+CFG-PREC-001,1,Rejected,Exclusion,True,Authoritative prior rejection,True,1.0,Strongest exclusion
+CFG-PREC-002,2,Not Suitable for Decision Use,Exclusion,True,Materially incomplete or incompatible,True,1.0,Strong exclusion
+CFG-PREC-003,3,Non-Quantitative,Exclusion,False,Cannot be quantified,True,1.0,Valid governed outcome
+CFG-PREC-004,4,Monitoring Only,Deferred,False,Observation required,True,1.0,Valid governed outcome
+CFG-PREC-005,5,Requires Evidence Completion,Blocking,True,Evidence defects are blocking,True,1.0,Evidence must not be hidden
+CFG-PREC-006,6,Requires Lineage Completion,Blocking,True,Lineage defects are blocking,True,1.0,Lineage must not be hidden
+CFG-PREC-007,7,Requires Baseline Validation,Blocking,True,Baseline is blocking,True,1.0,Baseline must be valid
+CFG-PREC-008,8,Requires Assumption Validation,Blocking,True,Assumptions are blocking,True,1.0,Assumptions must be confirmed
+CFG-PREC-009,9,Requires Additional Scenario Analysis,Blocking,True,Scenarios are blocking,True,1.0,Comparators must be complete
+CFG-PREC-010,10,Requires Financial Input,Blocking,True,Financial input is blocking,True,1.0,Mandatory financial input required
+CFG-PREC-011,11,Requires Benefit Validation,Blocking,True,Benefit is blocking,True,1.0,Benefit must be validated
+CFG-PREC-012,12,Requires Budget Data,Blocking,True,Budget is blocking,True,1.0,Authoritative budget required
+CFG-PREC-013,13,Requires Stakeholder Validation,Blocking,True,Stakeholder is blocking,True,1.0,Stakeholder confirmation required
+CFG-PREC-014,14,Ready with Conditions,Conditional,False,Review possible with conditions,True,1.0,Non-blocking conditions remain visible
+CFG-PREC-015,15,Ready for Integrated Management Review,Advanced,False,All mandatory gates pass,True,1.0,Does not mean approved

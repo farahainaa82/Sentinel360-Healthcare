@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-CL-001,evidence_lineage_alignment,0,0,PASS,
+VA-CL-002,readiness_score_range,0,0,PASS,
+VA-CL-003,governance_issue_count,0,0,PASS,

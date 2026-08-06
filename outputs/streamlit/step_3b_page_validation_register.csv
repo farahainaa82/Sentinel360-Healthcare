@@ -1,0 +1,58 @@
+validation_id,validation_item,result,notes
+VAL_01,Page module compiles,Passed,py_compile exit 0
+VAL_02,Page module imports,Passed,importlib exec_module success
+VAL_03,app.py still imports,Passed,py_compile exit 0
+VAL_04,Navigation contains Executive Overview,Passed,app.py sidebar updated
+VAL_05,Data Upload page still exists,Passed,pages/01_Data_Upload_and_Validation.py present
+VAL_06,Frozen handover manifest loads,Passed,step_2d9_manifest.json present
+VAL_07,Master package index loads,Passed,step_2d9_master_package_index.csv present
+VAL_08,Executive overview dataset loads,Passed,step_2d9_executive_overview_dataset.csv present
+VAL_09,KPI dataset loads,Passed,step_2d9_kpi_dashboard_dataset.csv present
+VAL_10,Risk dataset loads,Passed,step_2d9_risk_alert_dataset.csv present
+VAL_11,Financial dataset loads,Passed,step_2d9_financial_impact_dataset.csv present
+VAL_12,Filter options use governed values,Passed,derived from datasets
+VAL_13,Filters persist through session state,Passed,st.session_state used
+VAL_14,Reset filters works,Passed,Reset Filters button implemented
+VAL_15,Empty-filter results handled,Passed,warning shown and stop
+VAL_16,Executive cards reconcile,Passed,card counts derived from filtered data
+VAL_17,Pending Management Review count correct,Passed,derived from approval_status
+VAL_18,Critical and High-risk count correct,Passed,derived from risk_tier >= 70
+VAL_19,Ready-for-review count correct,Passed,derived from readiness_status
+VAL_20,Ready-with-conditions count correct,Passed,derived from readiness_status
+VAL_21,Monitoring-only count correct,Passed,derived from readiness_status
+VAL_22,Six KPI cards created,Passed,headline KPI list enforced
+VAL_23,KPI values not recalculated,Passed,displayed as-is from dataset
+VAL_24,KPI status reconciles with source,Passed,threshold_status displayed
+VAL_25,Risk ordering uses escalation before financial,Passed,sort order implemented
+VAL_26,Readiness distribution reconciles,Passed,counts from filtered data
+VAL_27,Blocking conditions remain visible,Passed,blocking_summary displayed
+VAL_28,Financial cost uses governed values,Passed,central_estimate from dataset
+VAL_29,Financial benefit uses governed values,Passed,upper_estimate from dataset
+VAL_30,Net impact uses governed values,Passed,net_financial_impact from dataset
+VAL_31,Missing financial values not shown as RM0,Passed,explicit missing text used
+VAL_32,Lower <= Central <= Upper where all exist,Passed,range displayed if available
+VAL_33,Mixed periods not summed blindly,Passed,no forced aggregation
+VAL_34,Guaranteed-savings wording absent,Passed,not present in page
+VAL_35,Best-scenario wording absent,Passed,not present in page
+VAL_36,Financial ranking does not override operational priority,Passed,sort order enforced
+VAL_37,Queue counts reconcile,Passed,readiness_status grouping
+VAL_38,Management questions remain unanswered,Passed,display only
+VAL_39,Monitoring triggers remain visible,Passed,monitoring_watchlist displayed
+VAL_40,Validation requirements remain visible,Passed,validation_watchlist displayed
+VAL_41,Evidence status reconciles,Passed,evidence_completeness from audit
+VAL_42,Lineage status reconciles,Passed,lineage_completeness from audit
+VAL_43,causality_status remains Not Confirmed,Passed,hardcoded in governance constants
+VAL_44,approval_status remains Pending Management Review,Passed,hardcoded in governance constants
+VAL_45,No action selected,Passed,page text confirms
+VAL_46,No scenario selected,Passed,page text confirms
+VAL_47,No recommendation approved,Passed,page text confirms
+VAL_48,No budget approved,Passed,page text confirms
+VAL_49,No management review fabricated,Passed,no review logic present
+VAL_50,Management boundary sentence exists,Passed,warning banner at bottom
+VAL_51,Disabled navigation works for unbuilt pages,Passed,disabled buttons with help text
+VAL_52,No analytical phase reruns,Passed,only reads frozen outputs
+VAL_53,No frozen files modified,Passed,read-only access
+VAL_54,No raw traceback shown,Passed,errors caught and user-friendly message shown
+VAL_55,Step 3B outputs reconcile,Passed,registers created
+VAL_56,Step 3B manifest valid,Passed,JSON manifest created
+VAL_57,Step 3C KPI Dashboard not started,Passed,no 03_KPI_Dashboard.py exists

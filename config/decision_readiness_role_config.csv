@@ -1,0 +1,12 @@
+configuration_id,role_id,responsible_role,role_scope,role_description,active_flag,version,governance_note
+CFG-ROLE-001,ROLE-001,Hospital COO / General Manager,Operational,Overall operational oversight,True,1.0,Governed role
+CFG-ROLE-002,ROLE-002,Medical Director,Clinical,Clinical oversight and validation,True,1.0,Governed role
+CFG-ROLE-003,ROLE-003,Department Head,Departmental,Department-level decision authority,True,1.0,Governed role
+CFG-ROLE-004,ROLE-004,Operations Manager,Operational,Day-to-day operations management,True,1.0,Governed role
+CFG-ROLE-005,ROLE-005,Finance,Financial,Financial validation and budgeting,True,1.0,Governed role
+CFG-ROLE-006,ROLE-006,Human Resources,Workforce,Workforce and staffing matters,True,1.0,Governed role
+CFG-ROLE-007,ROLE-007,Data Owner,Data,Data quality and availability,True,1.0,Governed role
+CFG-ROLE-008,ROLE-008,Analytics Team,Analytical,Analytical modelling and validation,True,1.0,Governed role
+CFG-ROLE-009,ROLE-009,Clinical Lead,Clinical,Clinical pathway validation,True,1.0,Governed role
+CFG-ROLE-010,ROLE-010,Facilities / Maintenance,Facilities,Facilities and infrastructure,True,1.0,Governed role
+CFG-ROLE-011,ROLE-011,Stakeholder Owner,Stakeholder,Stakeholder confirmation and input,True,1.0,Governed role

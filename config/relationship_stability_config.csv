@@ -1,0 +1,6 @@
+config_id,config_type,relationship_id,source_kpi_id,target_kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+STAB_DEPT_MIN,STABILITY,ALL,ALL,ALL,department_min_departments,3,count,Minimum departments for stability assessment,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+STAB_DEPT_PCT,STABILITY,ALL,ALL,ALL,department_consistency_threshold,0.70,proportion,Minimum direction consistency for Stable Across Departments,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+STAB_DEPT_MOD,STABILITY,ALL,ALL,ALL,department_moderate_threshold,0.50,proportion,Minimum direction consistency for Moderately Stable,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+STAB_TIME_MIN,STABILITY,ALL,ALL,ALL,time_min_periods,2,count,Minimum periods for time stability,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+STAB_TIME_PCT,STABILITY,ALL,ALL,ALL,time_consistency_threshold,0.70,proportion,Minimum direction consistency for Stable Over Time,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design

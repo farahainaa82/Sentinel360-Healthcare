@@ -1,0 +1,4 @@
+issue_id,issue_type,issue_description,config_file
+bde1b7c5,Error,"KPI definition missing columns: ['domain', 'numerator_field', 'denominator_field', 'directionality', 'grain', 'effective_date']",
+6b481bda,Error,"KPI threshold config missing columns: ['threshold_id', 'threshold_name', 'threshold_value', 'threshold_direction', 'severity', 'effective_date']",
+b076b89f,Error,"Data confidence config missing columns: ['kpi_id', 'confidence_level', 'completeness_threshold', 'freshness_threshold_days']",

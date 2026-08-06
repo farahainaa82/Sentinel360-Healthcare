@@ -1,0 +1,2 @@
+hospital_id,total_records,calculated_records,unavailable_records,breach_events,watch_conditions
+HOSP-001,17520,11397,6123,2464,9120

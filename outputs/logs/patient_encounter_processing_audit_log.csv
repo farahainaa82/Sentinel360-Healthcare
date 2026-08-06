@@ -1,0 +1,7 @@
+processing_run_id,event,details,timestamp
+PROC-PE-66BB1B50F384,Source Dataset Loaded,"{""source_path"": ""data\\demo\\patient_encounters.csv"", ""rows"": 93958}",2026-07-25T23:03:05.830452Z
+PROC-PE-66BB1B50F384,Encounter Transformation Started,"{""source_rows"": 93958}",2026-07-25T23:03:05.830526Z
+PROC-PE-66BB1B50F384,Timestamp Parsing Completed,{},2026-07-25T23:03:06.003373Z
+PROC-PE-66BB1B50F384,Disposition Classification Completed,{},2026-07-25T23:03:06.523457Z
+PROC-PE-66BB1B50F384,Wait Intervals Calculated,{},2026-07-25T23:03:06.541034Z
+PROC-PE-66BB1B50F384,Wait Eligibility Derived,{},2026-07-25T23:03:06.558165Z

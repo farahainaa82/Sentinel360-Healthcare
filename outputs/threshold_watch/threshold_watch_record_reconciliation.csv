@@ -1,0 +1,8 @@
+check,expected,actual,status,notes
+Total source records,17520,17520,PASS,All source KPI records from analytical_six_kpi_daily
+Classifiable/calculated records,11397,11397,PASS,Records with calculation_status == 'Calculated'
+Unavailable/unclassifiable records,6123,6123,PASS,Records with calculation_status != 'Calculated' (not a failure)
+Governed breach output records,17520,17520,PASS,Every source record receives a governed breach classification
+Actual breach events,2464,2464,PASS,Only rows where breach_flag == True
+Governed watch output records,17520,17520,PASS,Every source record receives a governed watch evaluation
+Actual watch conditions,9120,9120,PASS,Only rows where watch_condition_flag == True

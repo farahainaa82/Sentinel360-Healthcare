@@ -1,0 +1,2 @@
+event_type,event_status,closure_run_id,event_time,details
+closure_validation,Passed with Warning,P2A-CLOSURE-20260727155856,2026-07-27T15:58:56.659058,"{""checks"": 70, ""passed"": 67, ""warnings"": 3, ""failed"": 0}"

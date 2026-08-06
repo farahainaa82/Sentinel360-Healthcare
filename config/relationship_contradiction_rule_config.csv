@@ -1,0 +1,7 @@
+config_id,config_type,relationship_id,source_kpi_id,target_kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+CON_OPPDIR,CONTRADICTION,ALL,ALL,ALL,opposite_direction_threshold,-0.30,correlation,Opposite direction pooled correlation threshold,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CON_POOLDEPT,CONTRADICTION,ALL,ALL,ALL,pooled_vs_dept_threshold,0.40,proportion,Max direction consistency for pooled-vs-department contradiction,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CON_HIGHRISK,CONTRADICTION,ALL,ALL,ALL,high_risk_disappears,True,boolean,Flag if relationship disappears in high-risk periods,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CON_PRECEDE,CONTRADICTION,ALL,ALL,ALL,target_precedes_source_threshold,0.60,proportion,Target precedes source rate triggering contradiction,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CON_PROV,CONTRADICTION,ALL,ALL,ALL,provisional_dominates_flag,True,boolean,Flag if provisional KPI dominates relationship,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+CON_TREND,CONTRADICTION,ALL,ALL,ALL,opposing_trend_rate_threshold,0.50,proportion,Opposing trend rate triggering contradiction,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design

@@ -1,0 +1,7 @@
+governance_item,source_column,expected_value,display_label,status
+G_01,causality_status,Not Confirmed,causality_status,Active
+G_02,approval_status,Pending Management Review,approval_status,Active
+G_03,future_audit_status,Awaiting Management Action,future_audit_status,Active
+G_04,evidence_completeness,1.0,Evidence Complete,Active
+G_05,lineage_completeness,1.0,Lineage Complete,Active
+G_06,integrity_status,Verified,Integrity Verified,Active

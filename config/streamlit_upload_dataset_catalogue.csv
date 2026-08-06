@@ -1,0 +1,18 @@
+dataset_type,description,schema_profile,required,source_category
+Staff Roster,Staff roster and shift planning data,SENTINEL360_SYNTHETIC_DEMO,Optional,Operational
+Staff Attendance,Staff attendance and actual hours worked,SENTINEL360_SYNTHETIC_DEMO,Required,Operational
+Patient Encounters,Patient encounter and service event records,SENTINEL360_SYNTHETIC_DEMO,Optional,Clinical
+Bed Occupancy,Bed capacity and occupancy tracking,SENTINEL360_SYNTHETIC_DEMO,Required,Operational
+Patient Queue,Patient queue and waiting time metrics,SENTINEL360_SYNTHETIC_DEMO,Required,Operational
+Patient Complaints,Patient complaints and resolution tracking,SENTINEL360_SYNTHETIC_DEMO,Required,Operational
+Patient Survey,Patient satisfaction survey results,SENTINEL360_SYNTHETIC_DEMO,Required,Operational
+Scenario Baseline,Frozen scenario baseline configuration,STANDARD,Required,Configuration
+KPI Configuration,Frozen KPI threshold configuration,STANDARD,Required,Configuration
+Other Supporting Data,Additional supplementary datasets,GENERIC_UPLOAD,Optional,Supporting
+Staff Roster,Generic staff roster template for user uploads,GENERIC_UPLOAD,Optional,Operational
+Staff Attendance,Generic staff attendance template for user uploads,GENERIC_UPLOAD,Required,Operational
+Patient Encounters,Generic patient encounters template for user uploads,GENERIC_UPLOAD,Optional,Clinical
+Bed Occupancy,Generic bed occupancy template for user uploads,GENERIC_UPLOAD,Required,Operational
+Patient Queue,Generic patient queue template for user uploads,GENERIC_UPLOAD,Required,Operational
+Patient Complaints,Generic patient complaints template for user uploads,GENERIC_UPLOAD,Required,Operational
+Patient Survey,Generic patient survey template for user uploads,GENERIC_UPLOAD,Required,Operational

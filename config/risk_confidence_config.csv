@@ -1,0 +1,9 @@
+config_id,config_type,kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+CNF_HIG,CONFIDENCE,ALL,High,0.95,confidence_score,High confidence threshold,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+CNF_MOD,CONFIDENCE,ALL,Moderate,0.70,confidence_score,Moderate confidence threshold,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+CNF_LOW,CONFIDENCE,ALL,Low,0.40,confidence_score,Low confidence threshold,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+CNF_INS,CONFIDENCE,ALL,Insufficient_Evidence,0.0,confidence_score,Insufficient evidence threshold,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+CNF_ADJ_HIG,CONFIDENCE_ADJUSTMENT,ALL,high_adjustment_multiplier,1.0,multiplier,No adjustment for high confidence,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+CNF_ADJ_MOD,CONFIDENCE_ADJUSTMENT,ALL,moderate_adjustment_multiplier,0.95,multiplier,Slight reduction for moderate confidence,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+CNF_ADJ_LOW,CONFIDENCE_ADJUSTMENT,ALL,low_adjustment_multiplier,0.85,multiplier,Reduction for low confidence,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+CNF_ADJ_INS,CONFIDENCE_ADJUSTMENT,ALL,insufficient_adjustment_multiplier,0.7,multiplier,Reduction for insufficient evidence,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design

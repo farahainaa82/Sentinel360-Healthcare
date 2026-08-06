@@ -1,0 +1,32 @@
+{
+  "integration_run_id": "SIX-KPI-8EC2F4190438",
+  "timestamp": "2026-07-27T15:23:32.050657",
+  "total_integrated": 17520,
+  "duplicate_count": 0,
+  "inconsistency_count": 0,
+  "issue_count": 0,
+  "coverage_complete": 2920,
+  "coverage_partial": 0,
+  "immutability": {
+    "phase1": {
+      "changed_files": [],
+      "status": "Passed"
+    },
+    "step_2a1": {
+      "changed_files": [],
+      "status": "Passed"
+    },
+    "step_2a2": {
+      "changed_files": [],
+      "status": "Passed"
+    },
+    "step_2a3": {
+      "changed_files": [],
+      "status": "Passed"
+    },
+    "step_2a4": {
+      "changed_files": [],
+      "status": "Passed"
+    }
+  }
+}

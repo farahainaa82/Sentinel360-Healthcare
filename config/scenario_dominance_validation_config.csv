@@ -1,0 +1,6 @@
+config_id,config_name,check_type,threshold_value,allowed_values,action_if_failed,description
+DOM-001,Dominance Requires Non-Identical Values,boolean,TRUE,,downgrade,Dominance claim is invalid if comparator values are identical
+DOM-002,Dominance Classification Allowlist,categorical,,Dominant;Non-Dominated;Incomparable,flag,Unknown dominance classifications are rejected
+DOM-003,Dominance Conditions Met JSON,boolean,TRUE,,flag,Dominance record must include conditions_met_json
+DOM-004,Dominance Rationale Presence,boolean,TRUE,,flag,Dominance classification must include rationale
+DOM-005,Dominance Pair Completeness,boolean,TRUE,,flag,Every package should have dominance pairs for all comparator combinations

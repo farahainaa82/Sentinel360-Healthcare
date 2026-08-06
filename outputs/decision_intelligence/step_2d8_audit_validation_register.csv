@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-AU-001,future_audit_status_awaiting,True,True,PASS,
+VA-AU-002,no_audit_event_executed,0,,PASS,audit_event_status column not present
+VA-AU-003,audit_traceability_present,True,True,PASS,

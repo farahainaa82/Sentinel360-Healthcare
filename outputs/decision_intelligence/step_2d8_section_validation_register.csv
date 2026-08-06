@@ -1,0 +1,4 @@
+validation_id,check,expected,actual,status,detail
+VA-SE-001,section_row_count,10982,10982.0,PASS,
+VA-SE-002,seventeen_sections_per_package,0,0.0,PASS,
+VA-SE-003,mandatory_sections_present,14,,PASS,section_code column not present

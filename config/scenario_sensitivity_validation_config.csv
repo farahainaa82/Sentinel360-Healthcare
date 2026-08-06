@@ -1,0 +1,7 @@
+config_id,config_name,check_type,threshold_value,allowed_values,action_if_failed,description
+SENS-001,Direction Stability Check,boolean,TRUE,,flag,Sensitivity requires stable direction across comparators
+SENS-002,Magnitude Variation Detectable,boolean,TRUE,,flag,Magnitude variation must be non-zero for meaningful sensitivity
+SENS-003,Warning Increase Consistency,boolean,TRUE,,flag,Warning increases should align with assumption changes
+SENS-004,Confidence Change Direction,boolean,TRUE,,flag,Confidence changes should be explainable
+SENS-005,Direction Reversal Flag,boolean,FALSE,,flag,Direction reversals require explicit justification
+SENS-006,Sensitivity Classification Allowlist,categorical,,Stable;Unstable;Highly Sensitive;Non-Comparable,flag,Unknown sensitivity classifications are rejected

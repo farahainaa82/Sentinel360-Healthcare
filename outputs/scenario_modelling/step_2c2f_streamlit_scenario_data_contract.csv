@@ -1,0 +1,21 @@
+field_name,data_type,streamlit_capability,source_column
+hospital_id,string,Filter: select hospital,scenario_runs.hospital_id
+department_id,string,Filter: select department,scenario_runs.department_id
+episode_id,string,Filter: select episode,scenario_runs.episode_id
+scenario_family,string,Filter: select scenario family,scenario_runs.scenario_family
+comparator_type,string,Display: Baseline / Conservative / Expected / Higher Intensity,scenario_runs.comparator_type
+assumption_profile,string,Display: assumption profile ID and values,scenario_runs.assumption_profile
+primary_kpi_id,string,Display: primary KPI identifier,scenario_runs.primary_kpi_id
+baseline_primary_kpi_value,float,Display: baseline value,scenario_runs.baseline_primary_kpi_value
+scenario_primary_kpi_value,float,Display: scenario estimated value,scenario_runs.scenario_primary_kpi_value
+absolute_change,float,Display: absolute change,scenario_runs.absolute_change
+percentage_change,float,Display: percentage change,scenario_runs.percentage_change
+direction_of_change,string,Display: direction (increase / decrease / neutral),scenario_runs.direction_of_change
+tradeoff_classification,string,Display: trade-off category,effect_classification.classification
+displacement_risk_flag,boolean,Display: displacement warning,risk_displacement.displacement_risk_flag
+final_scenario_confidence,string,Display: confidence level,scenario_runs.final_scenario_confidence
+contradiction_severity,string,Display: contradiction warning,scenario_runs.contradiction_severity
+provisional_warning,string,Display: provisional warning,scenario_runs.provisional_warning
+validation_status,string,Display: validation status,validation_register.overall_validation_status
+closure_status,string,Display: closure status,run_closure.closure_status
+management_questions,string,Display: questions for management,management_packages.management_questions

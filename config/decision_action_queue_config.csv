@@ -1,0 +1,16 @@
+configuration_id,readiness_status,primary_queue,secondary_queue,tertiary_queue,queue_priority,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+ACTQUE-001,Ready for Integrated Management Review,Integrated Management Review Queue,,,High,1,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-002,Ready with Conditions,Conditional Review Queue,Integrated Management Review Queue,,Medium-High,2,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-003,Requires Assumption Validation,Assumption Validation Queue,,,Medium,3,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-004,Requires Baseline Validation,Baseline Validation Queue,,,Medium,4,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-005,Requires Financial Input,Financial Input Queue,,,Medium,5,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-006,Requires Benefit Validation,Benefit Validation Queue,,,Medium,6,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-007,Requires Budget Data,Budget Information Queue,,,Medium,7,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-008,Requires Stakeholder Validation,Stakeholder Validation Queue,,,Medium,8,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-009,Requires Additional Scenario Analysis,Additional Scenario Queue,,,Medium,9,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-010,Requires Evidence Completion,Evidence Completion Queue,,,Medium,10,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-011,Requires Lineage Completion,Lineage Completion Queue,,,Medium,11,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-012,Monitoring Only,Monitoring Queue,,,Low-Medium,12,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-013,Non-Quantitative,Non-Quantitative Review Queue,,,Medium,13,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-014,Not Suitable for Decision Use,Not Suitable Register,,,Low,14,True,1.0,Draft Analytical Configuration,True,Governed queue assignment
+ACTQUE-015,Rejected,Rejected Register,,,Low,15,True,1.0,Draft Analytical Configuration,True,Governed queue assignment

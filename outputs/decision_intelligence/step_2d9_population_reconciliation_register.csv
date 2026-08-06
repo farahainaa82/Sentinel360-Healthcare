@@ -1,0 +1,24 @@
+population_name,expected_count,actual_count,reconciled_flag,source_file,governing_key,duplicate_count,missing_count,orphan_count,governance_note
+integrated_decisions,646,646,True,step_2d*_integrated_decisions.csv,integrated_decision_id,0,0,0,Reconciled
+decision_packages,646,646,True,step_2d*_decision_packages.csv,decision_package_id,0,0,0,Reconciled
+scorecards,646,646,True,step_2d*_scorecards.csv,decision_scorecard_id,0,0,0,Reconciled
+readiness_records,646,0,False,step_2d*_readiness_records.csv,decision_readiness_id,0,646,0,"Mismatch: expected 646, actual 0"
+action_routing_packages,646,0,False,step_2d*_action_routing_packages.csv,decision_action_routing_id,0,646,0,"Mismatch: expected 646, actual 0"
+evidence_profiles,646,0,False,step_2d*_evidence_profiles.csv,decision_evidence_profile_id,0,646,0,"Mismatch: expected 646, actual 0"
+lineage_profiles,646,0,False,step_2d*_lineage_profiles.csv,decision_lineage_profile_id,0,646,0,"Mismatch: expected 646, actual 0"
+management_briefs,646,646,True,step_2d*_management_briefs.csv,integrated_management_brief_id,0,0,0,Reconciled
+validation_profiles,646,646,True,step_2d*_validation_profiles.csv,decision_intelligence_validation_id,0,0,0,Reconciled
+readiness_monitoring_only,280,280,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Monitoring Only = 280
+readiness_ready_with_conditions,101,101,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Ready with Conditions = 101
+readiness_ready_for_integrated_management_review,76,76,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Ready for Integrated Management Review = 76
+readiness_requires_assumption_validation,46,46,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Requires Assumption Validation = 46
+readiness_requires_stakeholder_validation,36,36,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Requires Stakeholder Validation = 36
+readiness_requires_evidence_completion,23,23,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Requires Evidence Completion = 23
+readiness_requires_baseline_validation,21,21,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Requires Baseline Validation = 21
+readiness_requires_lineage_completion,20,20,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Requires Lineage Completion = 20
+readiness_requires_additional_scenario_analysis,12,12,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Requires Additional Scenario Analysis = 12
+readiness_non-quantitative,9,9,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Non-Quantitative = 9
+readiness_requires_budget_data,7,7,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Requires Budget Data = 7
+readiness_requires_financial_input,5,5,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Requires Financial Input = 5
+readiness_requires_benefit_validation,5,5,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Requires Benefit Validation = 5
+readiness_not_suitable_for_decision_use,5,5,True,step_2d7_integrated_management_brief_register.csv,final_readiness_status,0,0,0,Actual authoritative distribution: Not Suitable for Decision Use = 5

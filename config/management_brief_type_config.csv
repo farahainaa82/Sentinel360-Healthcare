@@ -1,0 +1,18 @@
+configuration_id,brief_type,readiness_status,source_value,mapped_value,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+BT-001,Integrated Management Review Brief,Ready for Integrated Management Review,Ready for Integrated Management Review,Integrated Management Review Brief,1,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-002,Conditional Management Review Brief,Ready with Conditions,Ready with Conditions,Conditional Management Review Brief,2,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-003,Assumption Validation Brief,Requires Assumption Validation,Requires Assumption Validation,Assumption Validation Brief,3,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-004,Baseline Validation Brief,Requires Baseline Validation,Requires Baseline Validation,Baseline Validation Brief,4,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-005,Financial Input Brief,Requires Financial Input,Requires Financial Input,Financial Input Brief,5,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-006,Benefit Validation Brief,Requires Benefit Validation,Requires Benefit Validation,Benefit Validation Brief,6,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-007,Budget Information Brief,Requires Budget Information,Requires Budget Information,Budget Information Brief,7,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-008,Stakeholder Validation Brief,Requires Stakeholder Validation,Requires Stakeholder Validation,Stakeholder Validation Brief,8,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-009,Additional Scenario Brief,Requires Additional Scenario,Requires Additional Scenario,Additional Scenario Brief,9,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-010,Evidence Completion Brief,Requires Evidence Completion,Requires Evidence Completion,Evidence Completion Brief,10,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-011,Lineage Completion Brief,Requires Lineage Completion,Requires Lineage Completion,Lineage Completion Brief,11,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-012,Monitoring Brief,Monitoring Only,Monitoring Only,Monitoring Brief,12,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-013,Non-Quantitative Review Brief,Non-Quantitative,Non-Quantitative,Non-Quantitative Review Brief,13,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-014,Not Suitable Brief,Not Suitable,Not Suitable,Not Suitable Brief,14,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-015,Rejected Brief,Rejected,Rejected,Rejected Brief,15,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type
+BT-016,Integrated Management Review Brief,Requires Comparator Validation,Requires Comparator Validation,Integrated Management Review Brief,16,True,1.0,Draft Analytical Configuration,True,Fallback mapping
+BT-017,Integrated Management Review Brief,Requires Lineage and Evidence Completion,Requires Lineage and Evidence Completion,Lineage Completion Brief,17,True,1.0,Draft Analytical Configuration,True,Map readiness to brief type

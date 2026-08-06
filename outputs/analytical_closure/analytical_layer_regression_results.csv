@@ -1,0 +1,6 @@
+test,status,message
+smoke_six_kpi_shape,Passed,OK
+smoke_coverage_complete,Passed,OK
+smoke_load_analytical_workforce_kpi_daily.csv,Passed,5840 rows
+smoke_load_analytical_patient_flow_kpi_daily.csv,Passed,5840 rows
+smoke_load_analytical_patient_experience_kpi_daily.csv,Passed,5840 rows

@@ -1,0 +1,2 @@
+run_id,processed_at,pairwise_relationship_records,lag_relationship_records,stability_records,contributing_factor_records,hypothesis_records,network_edges,department_summaries,evidence_records,lineage_records,issue_records
+RELCF-20260728043649,2026-07-28T04:36:49.589063,135,120,13,135,0,15,1468,390,7,68

@@ -1,0 +1,399 @@
+{
+  "closure_run_id": "PROC-2D5-9812E3D4E1F5",
+  "closure_version": "2D-5-1.0.0",
+  "engine_version": "Sentinel360-Phase1-2D-5",
+  "start_time": "2026-07-27T08:24:58.211886",
+  "end_time": "2026-07-27T08:28:45.307467",
+  "closure_status": "Passed with Warnings",
+  "issue_count": 1,
+  "issue_breakdown": {
+    "Information": 0,
+    "Warning": 1,
+    "Error": 0,
+    "Critical": 0
+  },
+  "exclusion_count": 0,
+  "lineage_count": 8461,
+  "operational_daily_row_count": 2920,
+  "reconciliation": {
+    "processed_workforce_daily_row_count": 26280,
+    "processed_workforce_daily_unique_keys": 2920,
+    "processed_patient_flow_daily_row_count": 2920,
+    "processed_patient_flow_daily_unique_keys": 2920,
+    "processed_patient_experience_daily_row_count": 2621,
+    "processed_patient_experience_daily_unique_keys": 2621,
+    "operational_daily_row_count": 2920,
+    "operational_daily_unique_keys": 2920
+  },
+  "cross_domain": {
+    "union_count": 2920,
+    "intersection_count": 2621,
+    "domain_key_counts": {
+      "processed_workforce_daily": 2920,
+      "processed_patient_flow_daily": 2920,
+      "processed_patient_experience_daily": 2621
+    }
+  },
+  "lineage_coverage": 1.0,
+  "lineage_gaps": 0,
+  "operational_daily_checksum": "0994fe112dd2d50936e2990f97ab6fa528e5c3d99600ec27ab46ca6e7522150d",
+  "schema_results": {
+    "processed_hospital_master": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_department_master": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_staff_role_master": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_staff_master": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_staff_roster": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_staff_attendance": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_staffing_requirement": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_workforce_daily": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_patient_encounters": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_patient_queue": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_bed_capacity": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_service_schedule": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_patient_flow_daily": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_patient_complaints": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_patient_surveys": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    },
+    "processed_patient_experience_daily": {
+      "status": "Passed",
+      "missing_required": [],
+      "extra_fields": []
+    }
+  },
+  "business_key_results": {
+    "processed_hospital_master": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_department_master": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_staff_role_master": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_staff_master": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_staff_roster": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_staff_attendance": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_staffing_requirement": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_workforce_daily": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_patient_encounters": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_patient_queue": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_bed_capacity": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_service_schedule": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_patient_flow_daily": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_patient_complaints": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_patient_surveys": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_patient_experience_daily": {
+      "status": "Passed",
+      "duplicates": 0
+    }
+  },
+  "daily_grain_results": {
+    "processed_workforce_daily": {
+      "status": "Passed (staff_role_id dimension)",
+      "duplicates": 23360
+    },
+    "processed_patient_flow_daily": {
+      "status": "Passed",
+      "duplicates": 0
+    },
+    "processed_patient_experience_daily": {
+      "status": "Passed",
+      "duplicates": 0
+    }
+  },
+  "hospital_reference_results": {
+    "processed_hospital_master": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_department_master": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_staff_master": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_staff_roster": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_staff_attendance": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_staffing_requirement": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_workforce_daily": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_encounters": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_queue": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_bed_capacity": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_service_schedule": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_flow_daily": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_complaints": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_surveys": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_experience_daily": {
+      "status": "Passed",
+      "orphans": []
+    }
+  },
+  "department_reference_results": {
+    "processed_department_master": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_staff_roster": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_staffing_requirement": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_workforce_daily": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_encounters": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_queue": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_bed_capacity": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_service_schedule": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_flow_daily": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_complaints": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_surveys": {
+      "status": "Passed",
+      "orphans": []
+    },
+    "processed_patient_experience_daily": {
+      "status": "Passed",
+      "orphans": []
+    }
+  },
+  "date_validation_results": {
+    "processed_staff_roster": {
+      "status": "Passed",
+      "bad_dates": 0
+    },
+    "processed_staff_attendance": {
+      "status": "Passed",
+      "bad_dates": 0
+    },
+    "processed_staffing_requirement": {
+      "status": "Passed",
+      "bad_dates": 0
+    },
+    "processed_workforce_daily": {
+      "status": "Passed",
+      "bad_dates": 0
+    },
+    "processed_patient_encounters": {
+      "status": "Passed",
+      "bad_dates": 0
+    },
+    "processed_patient_queue": {
+      "status": "Passed",
+      "bad_dates": 0
+    },
+    "processed_bed_capacity": {
+      "status": "Passed",
+      "bad_dates": 0
+    },
+    "processed_service_schedule": {
+      "status": "Passed",
+      "bad_dates": 0
+    },
+    "processed_patient_flow_daily": {
+      "status": "Passed",
+      "bad_dates": 0
+    },
+    "processed_patient_experience_daily": {
+      "status": "Passed",
+      "bad_dates": 0
+    }
+  },
+  "month_year_results": {
+    "processed_staff_roster": {
+      "status": "Passed",
+      "mismatches": 0
+    },
+    "processed_staff_attendance": {
+      "status": "Passed",
+      "mismatches": 0
+    },
+    "processed_staffing_requirement": {
+      "status": "Passed",
+      "mismatches": 0
+    },
+    "processed_workforce_daily": {
+      "status": "Passed",
+      "mismatches": 0
+    },
+    "processed_patient_encounters": {
+      "status": "Passed",
+      "mismatches": 0
+    },
+    "processed_patient_queue": {
+      "status": "Passed",
+      "mismatches": 0
+    },
+    "processed_bed_capacity": {
+      "status": "Passed",
+      "mismatches": 0
+    },
+    "processed_service_schedule": {
+      "status": "Passed",
+      "mismatches": 0
+    },
+    "processed_patient_flow_daily": {
+      "status": "Passed",
+      "mismatches": 0
+    },
+    "processed_patient_experience_daily": {
+      "status": "Passed",
+      "mismatches": 0
+    }
+  },
+  "prohibited_fields": []
+}

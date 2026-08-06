@@ -1,0 +1,71 @@
+domain,check_name,status,severity,message
+File Validation,required_file_exists:data/analytical/analytical_six_kpi_daily.csv,Passed,Information,Found: data/analytical/analytical_six_kpi_daily.csv
+File Validation,required_file_exists:data/analytical/analytical_six_kpi_evidence.csv,Passed,Information,Found: data/analytical/analytical_six_kpi_evidence.csv
+File Validation,required_file_exists:data/analytical/analytical_six_kpi_exclusions.csv,Passed,Information,Found: data/analytical/analytical_six_kpi_exclusions.csv
+File Validation,required_file_exists:data/analytical/analytical_six_kpi_lineage.csv,Passed,Information,Found: data/analytical/analytical_six_kpi_lineage.csv
+File Validation,required_file_exists:data/analytical/analytical_six_kpi_issues.csv,Passed,Information,Found: data/analytical/analytical_six_kpi_issues.csv
+File Validation,required_file_exists:data/analytical/analytical_six_kpi_audit.csv,Passed,Information,Found: data/analytical/analytical_six_kpi_audit.csv
+File Validation,required_file_exists:data/analytical/analytical_six_kpi_coverage_daily.csv,Passed,Information,Found: data/analytical/analytical_six_kpi_coverage_daily.csv
+File Validation,required_file_exists:data/analytical/analytical_workforce_kpi_daily.csv,Passed,Information,Found: data/analytical/analytical_workforce_kpi_daily.csv
+File Validation,required_file_exists:data/analytical/analytical_patient_flow_kpi_daily.csv,Passed,Information,Found: data/analytical/analytical_patient_flow_kpi_daily.csv
+File Validation,required_file_exists:data/analytical/analytical_patient_experience_kpi_daily.csv,Passed,Information,Found: data/analytical/analytical_patient_experience_kpi_daily.csv
+File Validation,required_file_exists:config/kpi_definition_config.csv,Passed,Information,Found: config/kpi_definition_config.csv
+File Validation,required_file_exists:config/kpi_threshold_config.csv,Passed,Information,Found: config/kpi_threshold_config.csv
+File Validation,required_file_exists:config/data_confidence_config.csv,Passed,Information,Found: config/data_confidence_config.csv
+KPI Registry,kpi_registry_six_kpis,Passed,Information,"Expected {'kpi_005', 'kpi_003', 'kpi_002', 'kpi_006', 'kpi_004', 'kpi_001'}, missing set(), extra set()"
+KPI Registry,six_kpi_set_integrated,Passed,Information,"Integrated KPI IDs: {'kpi_005', 'kpi_003', 'kpi_002', 'kpi_006', 'kpi_004', 'kpi_001'}, missing: set()"
+Counts,source_count:kpi_001,Passed,Information,kpi_001 source count = 2920 (expected 2920)
+Counts,source_count:kpi_002,Passed,Information,kpi_002 source count = 2920 (expected 2920)
+Counts,source_count:kpi_003,Passed,Information,kpi_003 source count = 2920 (expected 2920)
+Counts,source_count:kpi_004,Passed,Information,kpi_004 source count = 2920 (expected 2920)
+Counts,source_count:kpi_005,Passed,Information,kpi_005 source count = 2920 (expected 2920)
+Counts,source_count:kpi_006,Passed,Information,kpi_006 source count = 2920 (expected 2920)
+Counts,integrated_total_count,Passed,Information,Integrated total = 17520 (expected 17520)
+Counts,integrated_count:kpi_001,Passed,Information,kpi_001 integrated count = 2920 (expected 2920)
+Counts,integrated_count:kpi_002,Passed,Information,kpi_002 integrated count = 2920 (expected 2920)
+Counts,integrated_count:kpi_003,Passed,Information,kpi_003 integrated count = 2920 (expected 2920)
+Counts,integrated_count:kpi_004,Passed,Information,kpi_004 integrated count = 2920 (expected 2920)
+Counts,integrated_count:kpi_005,Passed,Information,kpi_005 integrated count = 2920 (expected 2920)
+Counts,integrated_count:kpi_006,Passed,Information,kpi_006 integrated count = 2920 (expected 2920)
+Integration Reconciliation,reconcile:kpi_001,Passed,Information,kpi_001 source=2920 integrated=2920 diff=0
+Integration Reconciliation,reconcile:kpi_002,Passed,Information,kpi_002 source=2920 integrated=2920 diff=0
+Integration Reconciliation,reconcile:kpi_003,Passed,Information,kpi_003 source=2920 integrated=2920 diff=0
+Integration Reconciliation,reconcile:kpi_004,Passed,Information,kpi_004 source=2920 integrated=2920 diff=0
+Integration Reconciliation,reconcile:kpi_005,Passed,Information,kpi_005 source=2920 integrated=2920 diff=0
+Integration Reconciliation,reconcile:kpi_006,Passed,Information,kpi_006 source=2920 integrated=2920 diff=0
+Calculation Status,calculation_availability:kpi_001,Passed,Information,"kpi_001 calculated=2920 (exp 2920), unavailable=0 (exp 0)"
+Calculation Status,calculation_availability:kpi_002,Passed,Information,"kpi_002 calculated=2920 (exp 2920), unavailable=0 (exp 0)"
+Calculation Status,calculation_availability:kpi_003,Passed,Information,"kpi_003 calculated=1095 (exp 1095), unavailable=1825 (exp 1825)"
+Calculation Status,calculation_availability:kpi_004,Passed,Information,"kpi_004 calculated=1095 (exp 1095), unavailable=1825 (exp 1825)"
+Calculation Status,calculation_availability:kpi_005,Passed,Information,"kpi_005 calculated=984 (exp 984), unavailable=1936 (exp 1936)"
+Calculation Status,calculation_availability:kpi_006,Passed,Information,"kpi_006 calculated=2383 (exp 2383), unavailable=537 (exp 537)"
+Calculation Status,value_status_consistency,Passed,Information,Value-status inconsistencies = 0 (expected 0)
+Threshold Governance,all_not_assessed,Passed,Information,all_not_assessed: OK
+Threshold Governance,all_provisional,Passed,Information,all_provisional: OK
+Threshold Governance,no_green,Passed,Information,no_green: OK
+Threshold Governance,no_amber,Passed,Information,no_amber: OK
+Threshold Governance,no_red,Passed,Information,no_red: OK
+Threshold Governance,draft_not_approved,Passed,Information,draft_not_approved: OK
+Threshold Governance,provisional_threshold_warning,Passed with Warning,Warning,"Phase 2A KPI calculations are complete, but performance classification remains provisional until thresholds are formally approved."
+Confidence Governance,unavailable_not_high_confidence,Passed,Information,Unavailable records with High confidence = 0 (expected 0)
+Evidence,calculated_has_evidence,Passed,Information,Calculated records without Complete evidence = 0
+Evidence,unavailable_evidence_status_valid,Passed,Information,Unavailable records with invalid evidence status = 0
+Evidence,evidence_dataset_reconciles,Passed,Information,Evidence dataset has 36500 rows.
+Lineage,calculated_lineage_not_broken,Passed,Information,Calculated records with broken/missing lineage = 0
+Lineage,source_dataset_linkage,Passed,Information,Records missing source_analytical_dataset = 0
+Lineage,lineage_dataset_reconciles,Passed,Information,Lineage dataset has 23360 rows.
+Coverage,coverage_grain_count,Passed,Information,Coverage grains = 2920 (expected 2920)
+Coverage,coverage_all_complete,Passed,Information,Complete grains = 2920 (expected 2920)
+Coverage,coverage_missing_kpis,Passed,Information,Missing KPI rows across all grains = 0 (expected 0)
+Schema,daily_required_fields,Passed,Information,Missing fields: []
+Schema,reporting_date_parse,Passed,Information,reporting_date parses as datetime
+Keys,duplicate_grain_check,Passed,Information,Duplicate hospital-department-date-kpi grains = 0
+Keys,unique_integration_record_id,Passed,Information,integration_record_id unique = 17520/17520
+Keys,deterministic_id_prefix,Passed,Information,integration_record_id without IKPI- prefix = 0
+Issues and Exclusions,issues_present,Passed with Warning,Warning,Issue log has 3457 rows; review required.
+Issues and Exclusions,exclusions_present,Passed,Information,Exclusion dataset has 3990 rows.
+Audit,audit_rows,Passed,Information,Audit dataset has 13 rows.
+Documentation,required_documentation,Passed,Information,All required documentation present.
+Value Preservation,kpi_value_preserved,Passed,Information,KPI value mismatches = 0 (expected 0)
+Formula Evidence,formula_evidence_exists,Passed with Warning,Warning,Patient experience formula verification evidence not found; relying on accepted status.
+Immutability,immutability_check,Passed,Information,All accepted files unchanged.

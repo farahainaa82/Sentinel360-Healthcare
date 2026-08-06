@@ -1,0 +1,7 @@
+{
+  "data/analytical/analytical_kpi_risk_scores_daily.csv": "e183ca99ca81bc9b",
+  "data/analytical/analytical_kpi_risk_components.csv": "8ce154e866a67dd2",
+  "data/analytical/analytical_department_risk_governance.csv": "f468d28fb4f4473a",
+  "config/kpi_threshold_config.csv": "29addaf81430734f",
+  "config/kpi_risk_weight_config.csv": "60e6ec4881d3075f"
+}

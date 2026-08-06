@@ -1,0 +1,9 @@
+config_id,config_type,kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+URG_RTM,URGENCY,ALL,Routine_Monitoring_max,25,normalized_score,Upper bound for Routine Monitoring,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+URG_RSN,URGENCY,ALL,Review_Soon_max,45,normalized_score,Upper bound for Review Soon,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+URG_PRV,URGENCY,ALL,Prompt_Review_max,70,normalized_score,Upper bound for Prompt Review,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+URG_IMM,URGENCY,ALL,Immediate_Review_min,70,normalized_score,Lower bound for Immediate Review,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+URG_RSN_RPT,URGENCY,ALL,Review_Soon_repeated_amber,True,boolean,Repeated Amber triggers Review Soon,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+URG_PRV_RED,URGENCY,ALL,Prompt_Review_red_breach,True,boolean,Red breach triggers Prompt Review,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+URG_IMM_CCP,URGENCY,ALL,Immediate_Review_critical_capacity,True,boolean,Critical Capacity triggers Immediate Review,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+URG_IMM_CRI,URGENCY,ALL,Immediate_Review_critical_watch,True,boolean,Critical watch triggers Immediate Review,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design

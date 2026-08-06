@@ -1,0 +1,2 @@
+phase_2b_readiness,closure_status,blocking_count,warning_count,conditions
+Ready with Conditions,Passed with Warning,0,3,"Stakeholder approval of threshold boundaries remains pending.; Threshold-based Green, Amber and Red classifications remain unavailable.; Phase 2B may proceed with period comparisons, trends, anomaly detection and relationship analysis.; Threshold-breach logic must remain provisional or disabled until approved."

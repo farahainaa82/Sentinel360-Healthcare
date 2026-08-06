@@ -1,0 +1,7 @@
+kpi_id,kpi_name,domain,description,numerator_definition,denominator_definition,formula_text,unit,directionality,grain,calculation_frequency,authoritative_input_dataset,required_fields,eligibility_rules,exclusion_rules,null_treatment,zero_denominator_treatment,minimum_denominator,threshold_config_reference,data_confidence_rule_reference,config_version,approval_requirement,readiness_status,unresolved_rules,effective_date,approval_status
+kpi_001,Staffing Level,,,,,,Percent,,,,,,,,,,,,,,,Conditionally Ready,,,Draft
+kpi_002,Staff Absenteeism Rate,,,,,,Percent,,,,,,,,,,,,,,,Conditionally Ready,,,Draft
+kpi_003,Bed Occupancy Rate,,,,,,Percent,,,,,,,,,,,,,,,Conditionally Ready,,,Draft
+kpi_004,Average Patient Waiting Time,,,,,,Minutes,,,,,,,,,,,,,,,Conditionally Ready,,,Draft
+kpi_005,Patient Complaint Rate,,,,,,Complaints per 1000 encounters,,,,,,,,,,,,,,,Conditionally Ready,,,Draft
+kpi_006,Patient Satisfaction Score,,,,,,Normalised Percent Score,,,,,,,,,,,,,,,Conditionally Ready,,,Draft

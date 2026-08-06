@@ -1,0 +1,14 @@
+relationship_id,source_kpi_id,target_kpi_id,departments_assessed,departments_positive,departments_negative,departments_none_detected,direction_consistency_rate,median_department_correlation,department_stability,simpsons_paradox_risk_flag,pooled_correlation,engine_run_id,processed_at
+kpi_001_kpi_002,kpi_001,kpi_002,8,8,0,0,1.0,0.697,Stable Across Departments,True,0.6899,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_001_kpi_003,kpi_001,kpi_003,3,1,0,2,0.3333,0.0957,Department-Specific,False,0.0843,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_001_kpi_004,kpi_001,kpi_004,3,3,0,0,1.0,0.1573,Stable Across Departments,False,0.1578,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_001_kpi_005,kpi_001,kpi_005,3,1,0,2,0.3333,0.071,Department-Specific,False,0.0425,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_001_kpi_006,kpi_001,kpi_006,8,0,0,8,0.0,0.059,Unstable,False,0.0469,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_002_kpi_003,kpi_002,kpi_003,3,2,0,1,0.6667,0.1107,Moderately Stable,True,0.1034,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_002_kpi_004,kpi_002,kpi_004,3,3,0,0,1.0,0.2014,Stable Across Departments,False,0.209,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_002_kpi_005,kpi_002,kpi_005,3,1,0,2,0.3333,0.0072,Department-Specific,False,0.0268,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_002_kpi_006,kpi_002,kpi_006,8,2,0,6,0.25,0.0427,Unstable,False,0.0547,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_003_kpi_006,kpi_003,kpi_006,3,1,0,2,0.3333,0.0883,Department-Specific,True,0.086,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_004_kpi_005,kpi_004,kpi_005,3,3,0,0,1.0,0.1965,Stable Across Departments,False,0.1709,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_004_kpi_006,kpi_004,kpi_006,3,3,0,0,1.0,0.2607,Stable Across Departments,True,0.2408,RELCF-20260728043649,2026-07-28T04:36:50.467368
+kpi_005_kpi_006,kpi_005,kpi_006,3,0,0,3,0.0,0.0595,Unstable,False,0.035,RELCF-20260728043649,2026-07-28T04:36:50.467368

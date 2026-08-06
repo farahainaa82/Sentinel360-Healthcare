@@ -1,0 +1,10 @@
+threshold_state,breach_type,count
+Amber,Provisional Breach,962
+Critical Capacity Pressure,Provisional Breach,122
+Green,No Breach,8350
+Low Utilisation,Provisional Breach,110
+Lower Amber,Provisional Breach,172
+Normal Operating Band,No Breach,583
+Red,Provisional Breach,990
+Unavailable,Unavailable,6123
+Upper Amber,Provisional Breach,108

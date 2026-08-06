@@ -1,0 +1,33 @@
+rule_id,rule_name,rule_dimension,severity,check_type,description
+VR-001,Checksum Verification,Authority,Critical,integrity,Verify SHA-256 checksums of all frozen 2D-7 outputs before any validation
+VR-002,File Existence Check,Authority,Critical,existence,Confirm all expected 2D-7 register files exist and are readable
+VR-003,Row Count Reconciliation,Population,Critical,count,Confirm exactly 646 packages in every 1:1 register
+VR-004,Uniqueness Check,Identity,Critical,uniqueness,Verify integrated_management_brief_id is unique across all 646 packages
+VR-005,Foreign Key Integrity,Identity,Critical,referential,Verify decision_package_id and approval_package_id are present and non-null
+VR-006,No Cartesian Joins,Identity,Critical,referential,Confirm decision_package_id count equals 646 with no duplicates
+VR-007,KPI Risk Tier Consistency,KPI/Risk,High,consistency,High or Critical risk tier must not be silently downgraded
+VR-008,Scenario Summary Availability,Scenario,Medium,completeness,Verify scenario summaries are present for non-monitoring packages
+VR-009,Financial Value Immutability,Financial,High,immutability,Confirm no 2D-7 financial values have been modified or recalculated
+VR-010,Readiness Status Frozen,Readiness,High,immutability,Final readiness status must match upstream 2D-4 exactly
+VR-011,Approval Status Pending,Action Routing,Critical,boundary,All approval_status values must remain Pending Management Review
+VR-012,No Action Selected,Action Routing,Critical,boundary,selected_action must be blank across all 646 packages
+VR-013,No Scenario Selected,Action Routing,Critical,boundary,selected_scenario must be blank across all 646 packages
+VR-014,Evidence Completeness Reconciliation,Evidence,High,consistency,evidence_completeness_status must match 2D-6 upstream
+VR-015,Lineage Completeness Reconciliation,Lineage,High,consistency,lineage_completeness_status must match 2D-6 upstream
+VR-016,Audit Status Awaiting,Audit,Medium,completeness,future_audit_status must be Awaiting Management Action
+VR-017,Narrative Length Governance,Narrative,Medium,format,one_line_summary <=120 chars; short_summary <=300 chars
+VR-018,Prohibited Term Check,Wording Governance,High,terminology,No prohibited terms in any narrative or summary field
+VR-019,Allowed Term Compliance,Wording Governance,Medium,terminology,Required allowed terms present where applicable
+VR-020,Contradiction Warning Visibility,Contradictions,Medium,completeness,contradiction_warning must be visible when contradiction_severity is not None
+VR-021,Cross-Layer Consistency,Cross-Layer,High,consistency,All layer statuses must be logically consistent within a package
+VR-022,Streamlit Contract Readiness,Streamlit,Medium,completeness,All Streamlit contract fields must be populated
+VR-023,Question Blocking Count,Questions,Low,completeness,blocking_question_count must be non-negative integer
+VR-024,Confirmation Pending,Confirmations,Low,completeness,Required confirmations must show pending status
+VR-025,Monitoring Trigger Present,Monitoring,Medium,completeness,Monitoring packages must have trigger_condition defined
+VR-026,Governance Issue Count,Governance,Medium,completeness,governance_issue_count must be zero or documented
+VR-027,Recommendation Confidence Valid,Recommendations,Medium,range,recommendation_confidence must be between 0 and 1
+VR-028,Tradeoff Severity Consistency,Tradeoffs,Medium,consistency,tradeoff_severity must align with scenario_family
+VR-029,Export Contract Completeness,Export,Low,completeness,All 8 export types must be present per package
+VR-030,Priority Queue Ordering,Priority/Queue,Low,ordering,Escalation packages must appear before general queue
+VR-031,Section Count,Sections,Medium,count,Exactly 17 sections per package
+VR-032,Type Reconciliation,Types,Medium,consistency,brief_type must reconcile with final_readiness_status

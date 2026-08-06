@@ -1,0 +1,5 @@
+validation_id,check,expected,actual,status,detail
+VA-NA-001,one_line_max_words_40,0,0,PASS,
+VA-NA-002,short_summary_max_words_130,0,0,PASS,
+VA-NA-003,issue_title_max_length_150,0,0,PASS,
+VA-NA-004,executive_headline_max_length_200,0,0,PASS,

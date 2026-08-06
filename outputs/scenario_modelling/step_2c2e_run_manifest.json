@@ -1,0 +1,99 @@
+{
+  "step": "2C-2E",
+  "run_timestamp": "2026-08-02T17:46:55.071808",
+  "smoke_test": true,
+  "engine_version": "2C-2E-1.0",
+  "stage_timings_seconds": {
+    "load_inputs": 0.03953862190246582,
+    "assumption_challenge": 0.17278385162353516,
+    "baseline_validation": 0.4213995933532715,
+    "numerical_validation": 0.17478060722351074,
+    "comparator_validation": 0.2013711929321289,
+    "dominance_validation": 0.11297178268432617,
+    "sensitivity_validation": 0.017311811447143555,
+    "diminishing_returns_validation": 0.024783611297607422,
+    "displacement_validation": 0.07987141609191895,
+    "management_interpretation": 0.02707648277282715,
+    "governance_validator": 0.14963507652282715,
+    "scorecard": 0.022449970245361328,
+    "evidence_aggregation": 0.1945505142211914,
+    "package_readiness": 0.01086115837097168,
+    "validation_register": 0.01686573028564453,
+    "rejected_and_revision": 0.006553173065185547,
+    "atomic_move": 0.03845787048339844
+  },
+  "outputs": {
+    "analytical_scenario_assumption_challenge.csv": {
+      "checksum_sha256": "71ddc489b495a567d08a43a50331d0d13c8b752c0b7c38b44283245783f9d3c3",
+      "size_bytes": 986831
+    },
+    "analytical_scenario_baseline_validation.csv": {
+      "checksum_sha256": "1fa5b5cab4b77ebc3866037a339fbe48ce8294494e1fbbe49e7e1209b060720a",
+      "size_bytes": 1914881
+    },
+    "analytical_scenario_comparator_validation.csv": {
+      "checksum_sha256": "5fb386e877e66555dec29484acc4afab26b9920ff46f693db91116b10075b26d",
+      "size_bytes": 51681
+    },
+    "analytical_scenario_diminishing_return_validation.csv": {
+      "checksum_sha256": "18795169b0b2c663dc29e884473f7af7cc23aaa822403771d1a4155ab5a7d9ff",
+      "size_bytes": 113931
+    },
+    "analytical_scenario_displacement_validation.csv": {
+      "checksum_sha256": "963864af0f8f07630df931dcaac6dbdcf10bcd28c11c2fc1ee713a10ad228b5e",
+      "size_bytes": 562546
+    },
+    "analytical_scenario_dominance_validation.csv": {
+      "checksum_sha256": "d5a24ff20b81427876a96b1383620063cd82320c3809953b5474b2a30d3e56be",
+      "size_bytes": 736242
+    },
+    "analytical_scenario_management_interpretation_validation.csv": {
+      "checksum_sha256": "217d0cf8197da9727880332394d42a15848f2656d747e9d15b570b17da1de3e3",
+      "size_bytes": 125023
+    },
+    "analytical_scenario_numerical_validation.csv": {
+      "checksum_sha256": "87162df566ae8f2c17e73342823c3c0d26e7dace2c46017adff13292ec057ec0",
+      "size_bytes": 974437
+    },
+    "analytical_scenario_package_readiness.csv": {
+      "checksum_sha256": "3440e271a064ae4ad4fdb590543ba80e86183b62e77adc704ccbe0a85d9736f2",
+      "size_bytes": 751
+    },
+    "analytical_scenario_rejected_register.csv": {
+      "checksum_sha256": "5d05e110793718724ddb2fe2516ba715a699fc1c78ccaf07e912541230c059c8",
+      "size_bytes": 370
+    },
+    "analytical_scenario_revision_log.csv": {
+      "checksum_sha256": "b76cda1724cd6f28d669e19267d7da0f7c32afd2c8f3f1efd915bc7422d0a3ab",
+      "size_bytes": 7464
+    },
+    "analytical_scenario_sensitivity_validation.csv": {
+      "checksum_sha256": "80e3d76757dd5751c63dc47096ad86bfbadf6e21d5c98f9ce55c3d76f06588c2",
+      "size_bytes": 114542
+    },
+    "analytical_scenario_validation_evidence.csv": {
+      "checksum_sha256": "0c8ac045a3091cd456a58be89a7b4521fa4c2d3bac848f68c063d18ce35c7b61",
+      "size_bytes": 664890
+    },
+    "analytical_scenario_validation_governance.csv": {
+      "checksum_sha256": "3ad5b81d83e3611fc15ee83caa616471a974e49346182ffeb698957312e1a123",
+      "size_bytes": 2774315
+    },
+    "analytical_scenario_validation_issues.csv": {
+      "checksum_sha256": "dbd2e52b719ce9e7cfab143eddb14754856452b5aaccca6a565490e042b08b93",
+      "size_bytes": 736720
+    },
+    "analytical_scenario_validation_lineage.csv": {
+      "checksum_sha256": "987e2bcdb6808792b079a49ba15b260d6e1744c45fd2aca9bb853a78ad7496fe",
+      "size_bytes": 3725957
+    },
+    "analytical_scenario_validation_register.csv": {
+      "checksum_sha256": "12be7461209b84b80658aa338863eae73d7daf0379e0a2d19c36fe5351f8909b",
+      "size_bytes": 6531
+    },
+    "analytical_scenario_validation_scorecard.csv": {
+      "checksum_sha256": "fdf30044aed41b7b913a5b74e16c38ad11b520d0965ad751a598261fee2930c9",
+      "size_bytes": 879
+    }
+  }
+}

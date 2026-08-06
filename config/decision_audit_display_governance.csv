@@ -1,0 +1,19 @@
+configuration_id,rule_name,field_name,permitted_values,prohibited_values,enforcement_required,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+AUDDSP-001,Evidence Status Wording,evidence_status,"Available,Available with Conditions,Partial,Missing,Not Applicable,Superseded,Rejected",,True,1,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-002,Lineage Status Wording,lineage_status,"Complete,Complete with Conditions,Partial,Missing,Not Applicable,Superseded",,True,2,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-003,Audit Event Status,event_status,"Not Executed,Awaiting Management Action",,True,3,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-004,Review Status,review_status,"Pending Management Review",,True,4,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-005,History Status,history_status,"Initial Governed State",,True,5,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-006,Prohibited Wording - Audited,any_field,,Audited and Approved,True,6,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-007,Prohibited Wording - Reviewed,any_field,,Management Reviewed,True,7,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-008,Prohibited Wording - Completed,any_field,,Action Completed,True,8,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-009,Prohibited Wording - Approved,any_field,,Approved Decision,True,9,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-010,Prohibited Wording - Final,any_field,,Final Approval,True,10,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-011,Prohibited Wording - Verified,any_field,,Verified by Management,True,11,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-012,Prohibited Wording - Implemented,any_field,,Implemented,True,12,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-013,Prohibited Wording - Resolved,any_field,,Resolved,True,13,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-014,Permitted Wording - Awaiting,any_field,Awaiting Management Action,,True,14,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-015,Permitted Wording - Pending,any_field,Pending Management Review,,True,15,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-016,Permitted Wording - Initial,any_field,Initial Governed State,,True,16,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-017,Permitted Wording - Verified,any_field,Verified,,True,17,True,1.0,Draft Analytical Configuration,True,Governed display rule
+AUDDSP-018,Permitted Wording - Traceable,any_field,Traceable,,True,18,True,1.0,Draft Analytical Configuration,True,Governed display rule

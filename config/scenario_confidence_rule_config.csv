@@ -1,0 +1,13 @@
+confidence_rule_id,factor,condition,multiplier_or_penalty,confidence_effect,governance_rationale
+RULE-BASELINE-HIGH,Baseline completeness,baseline_status='Available' AND calculation_status='Calculated' AND data_confidence='High',1.0,No reduction,High-confidence calculated baseline provides strongest foundation for scenario estimation.
+RULE-BASELINE-PARTIAL-MEDIUM,Baseline completeness,baseline_status='Partial' AND data_confidence='Medium',0.85,Moderate reduction,Partial Medium-confidence baseline reduces reliability of scenario estimates.
+RULE-COMBINED-PENALTY,Combined scenario complexity,scenario_mode='Combined Intervention',0.8,Moderate reduction,Cross-domain effects are association-based only; no validated causal model exists.
+RULE-CONTRA-MINOR,Contradiction severity,contradiction_severity='Minor',0.95,Minor reduction,Minor contradiction suggests some inconsistency but does not block estimation.
+RULE-CONTRA-MATERIAL-PENALTY,Contradiction severity,contradiction_severity='Material',0.8,Material reduction,Material contradiction indicates meaningful inconsistency between pooled and department-level evidence.
+RULE-CONTRA-MAJOR-BLOCK,Contradiction severity,contradiction_severity='Major',0.0,Blocks execution,Major contradiction indicates severe pooled-vs-department mismatch or reversed temporal precedence. Scenario execution blocked.
+RULE-PROV-NONE,Provisional KPI involvement,no provisional KPI in scenario scope,1.0,No reduction,All KPIs in scope are approved; no provisional penalty.
+RULE-PROV-SUPPORTING-WARNING,Provisional KPI involvement,provisional KPI present only as supporting KPI,0.9,Minor reduction,Provisional KPI involved only as supporting factor; primary KPI is approved.
+RULE-PROV-BLOCKED,Provisional KPI involvement,provisional KPI is primary affected KPI,0.0,Blocks execution,Primary affected KPI is provisional and has insufficient baseline data. Quantitative scenario blocked.
+RULE-ASSUM-EXTREME,Assumption extremity,any user assumption at soft_warning_limit or beyond,0.9,Minor reduction,Extreme assumptions increase uncertainty in estimated outcomes.
+RULE-MISSING-DATA,Missing supporting data,supporting_kpi_baseline_completeness < 0.60,0.85,Moderate reduction,Incomplete supporting data reduces confidence in cross-KPI effect estimates.
+RULE-INSUFFICIENT,Overall sufficiency,monitoring_only OR unsupported_family OR blocked_by_major_contra OR blocked_by_provisional,0.0,Insufficient Evidence,Scenario cannot produce quantitative estimates under current conditions.

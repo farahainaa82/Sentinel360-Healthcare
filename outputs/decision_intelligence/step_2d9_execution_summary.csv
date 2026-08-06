@@ -1,0 +1,2 @@
+step,engine,status,pass_count,fail_count,total_packages,elapsed_seconds,governance_note
+2D-9,phase2d_closure,COMPLETE,60,0,646,3.34,Phase 2D closure and Streamlit handover complete

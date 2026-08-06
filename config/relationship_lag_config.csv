@@ -1,0 +1,8 @@
+config_id,config_type,relationship_id,source_kpi_id,target_kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+LAG_SAME,LAG,ALL,ALL,ALL,lag_same_period,0,periods,Same-period association,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+LAG_1D,LAG,ALL,ALL,ALL,lag_1_period,1,periods,One-period lag,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+LAG_2D,LAG,ALL,ALL,ALL,lag_2_period,2,periods,Two-period lag,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+LAG_3D,LAG,ALL,ALL,ALL,lag_3_period,3,periods,Three-period lag,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+LAG_7D,LAG,ALL,ALL,ALL,lag_7_days,7,days,Seven-calendar-day lag,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+LAG_14D,LAG,ALL,ALL,ALL,lag_14_days,14,days,Fourteen-calendar-day lag,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design
+LAG_MINOBS,LAG,ALL,ALL,ALL,lag_minimum_observations,8,count,Minimum observations for lag analysis,True,v1.0-draft,Technical Rule,2026-07-28,2026-12-31,Step 2B-4 Technical Design

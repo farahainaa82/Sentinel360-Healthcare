@@ -1,0 +1,3 @@
+check_name,status,message
+kpi_registry_six_kpis,Passed,"Expected {'kpi_005', 'kpi_003', 'kpi_002', 'kpi_006', 'kpi_004', 'kpi_001'}, missing set(), extra set()"
+six_kpi_set_integrated,Passed,"Integrated KPI IDs: {'kpi_005', 'kpi_003', 'kpi_002', 'kpi_006', 'kpi_004', 'kpi_001'}, missing: set()"

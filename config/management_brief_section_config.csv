@@ -1,0 +1,18 @@
+configuration_id,section_name,section_code,required_flag,display_order,maximum_length,active_flag,version,approval_status,provisional_flag,governance_note
+SEC-001,Executive Headline,A,True,1,200,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-002,What Is Happening,B,True,2,500,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-003,Why It Matters,C,True,3,500,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-004,Evidence Summary,D,True,4,500,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-005,Contributing Factors,E,True,5,400,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-006,Recommendation Options,F,True,6,600,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-007,Scenario Options,G,True,7,600,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-008,Trade-off and Impact Summary,H,True,8,500,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-009,Financial Summary,I,True,9,500,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-010,Readiness and Conditions,J,True,10,500,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-011,Permitted Management Actions,K,True,11,500,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-012,Management Questions,L,True,12,400,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-013,Required Confirmations,M,True,13,400,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-014,Monitoring and Escalation,N,True,14,400,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-015,Governance and Limitations,O,True,15,500,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-016,Audit and Traceability,P,True,16,400,True,1.0,Draft Analytical Configuration,True,Required brief section
+SEC-017,Management Decision Boundary,Q,True,17,300,True,1.0,Draft Analytical Configuration,True,Required brief section

@@ -1,0 +1,8 @@
+configuration_id,governed_object_type,version_status,initial_version,version_increment_rule,immutable_flag,display_order,active_flag,version,approval_status,provisional_flag,governance_note
+VERCTL-001,Decision Package,Current,1.0,Minor increment on change,False,1,True,1.0,Draft Analytical Configuration,True,Governed version control
+VERCTL-002,Decision Scorecard,Current,1.0,Minor increment on change,False,2,True,1.0,Draft Analytical Configuration,True,Governed version control
+VERCTL-003,Decision Readiness,Current,1.0,Minor increment on change,False,3,True,1.0,Draft Analytical Configuration,True,Governed version control
+VERCTL-004,Action Routing,Current,1.0,Minor increment on change,False,4,True,1.0,Draft Analytical Configuration,True,Governed version control
+VERCTL-005,Evidence Profile,Current,1.0,Minor increment on change,False,5,True,1.0,Draft Analytical Configuration,True,Governed version control
+VERCTL-006,Lineage Profile,Current,1.0,Minor increment on change,False,6,True,1.0,Draft Analytical Configuration,True,Governed version control
+VERCTL-007,Audit Contract,Current,1.0,Minor increment on change,False,7,True,1.0,Draft Analytical Configuration,True,Governed version control

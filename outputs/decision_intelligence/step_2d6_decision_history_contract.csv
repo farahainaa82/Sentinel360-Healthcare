@@ -1,0 +1,647 @@
+decision_history_id,decision_package_id,current_package_version,current_readiness_status,current_primary_action,current_queue,current_approval_status,prior_version,prior_readiness_status,prior_primary_action,prior_queue,prior_approval_status,change_reason,changed_by,changed_timestamp,change_event_id,history_status,governance_note
+HST-63D6AD72,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260108,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4A49808B,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260116,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F679BFA3,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260209,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-07E356DB,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260328,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BC036F24,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260410,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-61770F38,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260420,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6D3E16D3,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260506,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-49DC5B8D,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260602,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3DA6222F,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260608,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7A4AA7AF,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260721,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-ECBD6AFD,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260726,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-316A5F84,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20260822,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0A93C111,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261012,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-193AB63C,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261021,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-131C7DB8,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261127,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3003B8CE,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261205,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6F5AC1FF,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_001-20261220,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B520F935,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260202,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-85D44F38,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260206,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2B11D20B,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260330,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6B847051,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260409,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-064183B5,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260524,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4DC880F3,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260529,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7AAAC7CA,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260611,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DE98420F,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260620,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E6B85100,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260624,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-28B6B8AC,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260710,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-AC23CE85,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260716,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-06F0B20E,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260814,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3196E25C,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20260925,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5E841476,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261019,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7ED4A1D0,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261102,1.0,Requires Financial Input,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-49992E11,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261114,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-09CAAD42,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261121,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DD8FF38C,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261214,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-49774CF7,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_002-20261225,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0626266A,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260130,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BC2F1C10,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260214,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E1896091,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260325,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F87940E5,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260404,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-12ED96CF,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260408,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D9D0259A,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260413,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7DCBE0E4,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260424,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8C5147EA,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260509,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-22B3AD6D,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260618,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4B472038,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260623,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1E1BEEE0,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260629,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8EA4902C,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260703,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-53906ACE,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260709,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6F2EE6CE,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260719,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5840EAC8,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260809,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-9FAA6207,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260824,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-280BE113,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260904,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-91DECF12,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260923,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-75FD16F3,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20260928,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8E4B1DAB,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261007,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-79CD3497,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261023,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E1984359,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261027,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-327C85D8,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261202,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3F613E2A,DPKG-PKG-EP-HOSP-001-DEPT-ADM-kpi_006-20261218,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B90C7E47,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260108,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A8E66962,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260401,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EE9541B8,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260417,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E81305A6,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260423,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D5AE33AC,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260507,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C7242D29,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260511,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-AB05FDCE,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260520,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B6E66068,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260606,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2E58FF07,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260610,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EBC123C1,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260619,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-418EFCDE,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260704,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E4E29AFC,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260723,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B1D7D18D,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260804,1.0,Requires Benefit Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-ABF56216,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260810,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6E4E4216,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260901,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BAC7A036,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20260912,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EB81F940,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261023,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BFD9C0A4,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261031,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EBC2401E,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_001-20261108,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5B024C1E,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260122,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-920CE991,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260328,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7078B8FB,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260409,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C8FFF6AD,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260422,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-97966E26,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260426,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-07193267,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260515,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-98BEDE8E,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260521,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7D4297D8,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260615,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C9D3EA68,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260621,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-82337418,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260626,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2378A8C5,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260720,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C7A8CAA1,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260727,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6F16CFC1,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260910,1.0,Not Suitable for Decision Use,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8054D0D2,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260915,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E26BB0BA,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260921,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-27A84875,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20260930,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-77F5B128,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261015,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2AD46377,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261019,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-27406133,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261027,1.0,Requires Financial Input,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2F46BDA0,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261111,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-50D36361,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261115,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-221F20FD,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261126,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-436BCC12,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261202,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8B555102,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261207,1.0,Requires Benefit Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FD50CFA5,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_002-20261227,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-05D55BD5,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260402,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-66CF1A4D,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260412,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2E31C682,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260421,1.0,Not Suitable for Decision Use,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-61A643C4,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260428,1.0,Non-Quantitative,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1F90963F,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260531,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-90B45E8E,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260614,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-39CEA02A,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_004-20260707,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-299A4312,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260107,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B8173EFA,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260116,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-94BA9C38,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260123,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EADBF5DD,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260130,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CCA0696C,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260207,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F2DA9A1E,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260213,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BECC2517,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260220,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6620E414,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260302,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-12463B32,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260317,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E41D3A40,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260324,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F3D2FC5D,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260410,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-269462BE,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260420,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1B865201,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260506,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F83DB881,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260528,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-55C9586D,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260629,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B379C516,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260817,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BC7DD7C0,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260830,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-258051E2,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260904,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2CD3552B,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260911,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-29BD8DC4,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20260923,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EACFAC37,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261003,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CD444A27,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261009,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0918E930,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261014,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F07A8148,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261026,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-68893C3D,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261102,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-87D465D4,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261119,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-20830258,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261125,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-785DC686,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261205,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BEBB89FB,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261209,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-AC135DD0,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_005-20261219,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-87AC787D,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260126,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2D91095F,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260218,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CF7ACE50,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260224,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BDEA17A6,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260319,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-9BA11C63,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260331,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A99C78B4,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260416,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-997158DE,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260425,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-461D4011,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260504,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-19483E99,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260523,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6330671F,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260611,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CD4BBE67,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260702,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-48AB342B,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260728,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BD110124,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260813,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7CB2ADA4,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260828,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E0C1F318,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260902,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C4EE3DAA,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260920,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-49FD197B,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20260925,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7C484E40,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261007,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D5F24888,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261025,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7E2F56AA,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261114,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5BA9D1B8,DPKG-PKG-EP-HOSP-001-DEPT-DIAG-kpi_006-20261206,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-18FA021D,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260107,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1EAF4588,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260201,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-787BB6AB,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260211,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7EDA8980,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260303,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-48F83B72,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260319,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-96643797,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260402,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4390E8B1,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260502,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B6F9F239,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260509,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7BDB2802,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260522,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B8077BE0,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260531,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-956F743B,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260604,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8B9D9B26,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260624,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B654CE90,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260705,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DFEF1C6F,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260713,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-036D37BE,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260727,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8EED2041,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20260930,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-97FF7155,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261008,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-21D6A2A5,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261014,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-ABC985DD,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261101,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FB7FB195,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261113,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F3A21663,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_001-20261227,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DFFD8B6D,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260106,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F4221745,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260207,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-37EFE7D1,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260310,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E6868DED,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260421,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-40FCACA5,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260425,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-988CFBA6,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260521,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-57D1ED96,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260603,1.0,Requires Budget Data,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8C0FB2E9,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260610,1.0,Requires Financial Input,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-18F23A30,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260614,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B0D1E534,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260626,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C00AB4AA,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260707,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3B0A8D1B,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260818,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C55B68B9,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20260923,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-31621BCF,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261005,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4212754C,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261013,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-9D2D02FC,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261026,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-AB670245,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261102,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F4DDFC33,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261109,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-851C3F9F,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261127,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-13762006,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261212,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C1190E25,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_002-20261217,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F480660A,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260404,1.0,Non-Quantitative,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D6A77ABA,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260413,1.0,Non-Quantitative,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0C29F181,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260427,1.0,Non-Quantitative,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F434BA4D,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260503,1.0,Non-Quantitative,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3DB5D0BB,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260508,1.0,Non-Quantitative,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7B2FAB0B,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260601,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B04C470F,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260606,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8FCD6323,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_004-20260716,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E885D687,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260209,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-23722CE2,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260216,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3AD97079,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260312,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8F1916FD,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260510,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6FA1BBFA,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260719,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3B550580,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260913,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-66433F6D,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20260917,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0968DB0C,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_005-20261116,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A45452F7,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260128,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4C59A399,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260309,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BE0170C8,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260318,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A8CC287E,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260323,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F17B14D3,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260330,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-00BE4168,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260412,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DDF93EF5,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260702,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5DBA259F,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260712,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7D89B877,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260731,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-975D18E7,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260805,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-AED987F1,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260902,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-620767EF,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260909,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0508CADD,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260914,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EB71BA6F,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20260921,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CDB7008B,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261004,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-AA324BB7,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261111,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-616CEA1E,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261118,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A4E17E2B,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261129,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0CC42624,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261203,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D95585B7,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261210,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2176BEAF,DPKG-PKG-EP-HOSP-001-DEPT-ED-kpi_006-20261224,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B20F2B7E,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260106,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-80C17326,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260114,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2C4DA785,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260211,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8F06096C,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260216,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2CC46575,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260323,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-49C5BB85,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260407,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-99482BA9,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260426,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-239826A1,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260505,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FB39BE89,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260513,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-63C0CBF9,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260528,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BFDA2952,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260612,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6ABFE028,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260707,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2BD3EF81,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260801,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7952E571,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260830,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-524BBC7D,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260914,1.0,Requires Budget Data,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-72972844,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20260922,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F5267D32,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261105,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D743D49B,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261111,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-756CB371,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261130,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F0CFB484,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_001-20261227,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0357A445,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260109,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-17BD3425,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260126,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B81A4AA3,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260219,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-ACD0E906,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260227,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-AF8178DC,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260305,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E1A04B61,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260315,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C2B45BA6,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260406,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6416CD91,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260422,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E81614A9,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260429,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E716F6B1,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260522,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-09DCF374,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260530,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D2B0980B,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260615,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-42C8C3A9,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260630,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4AC3ABAF,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260718,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A2566D54,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260818,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A0EA66C7,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20260911,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0141AEB9,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261014,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-60EF9F9B,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261019,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D598F889,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261026,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A7BFA3D6,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261118,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4D242698,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261129,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-99EDD5A2,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261207,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-AFF87871,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261213,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FDFD59BB,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261217,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-36095C1A,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_002-20261231,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DBAEFE9F,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260107,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1A6A731D,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260121,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A3F69075,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260128,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-277A518D,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260202,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4D151F2E,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260208,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-40888AA2,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260218,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-35212107,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260307,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D4732F79,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260322,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F9E53EEB,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260326,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A17F77AB,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260415,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F4B9F631,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260428,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-02D0F81B,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260527,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6BA0AFB4,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260604,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1150EEE1,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260620,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-27DEE2A6,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260708,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CE130802,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260804,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BAAA5914,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260821,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-81DC9E63,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260828,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-AADB49E6,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260901,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6ECB6FCB,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260912,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-255290B4,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20260926,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A267C165,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261001,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CE1C04C6,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261007,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-480D33F0,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261020,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5C9302CB,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261025,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-357E9C8C,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261101,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D5046CF9,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261109,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FE052FCD,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261125,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-18A81B6B,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261202,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-126C5F38,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261211,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6EC0B7F8,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261215,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CDD14FE1,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261219,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1A3D89C6,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_003-20261224,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DC485BDA,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260215,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D211C6BF,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260403,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1CCBD362,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260411,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3F54F87C,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260509,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2A2F4592,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260515,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CCA7FC50,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260603,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EFBC3A95,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260619,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D334FAA1,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260623,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-53FB5B27,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260628,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FD262BC0,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260716,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-AB659F5A,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260725,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A6EE80A6,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260730,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CB7A3374,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260809,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A408F5F5,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260824,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D9E265E8,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260903,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A98C3108,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20260910,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-86F2A30A,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261012,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5E5F99A9,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261022,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-74B18763,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261112,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FBA441B2,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261117,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E823FBDE,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261126,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F6A70366,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261205,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-43926227,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261216,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-826B6046,DPKG-PKG-EP-HOSP-001-DEPT-ICU-kpi_006-20261220,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F243B83E,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260116,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C2258E68,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260208,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E4201B87,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260330,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-62FE96A9,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260408,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4D501224,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260421,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6C5FCE83,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260502,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-00DA1EBB,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260605,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-19BC555E,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260616,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B985AB6A,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260717,1.0,Requires Benefit Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C1DB8739,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260723,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C6A92425,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260728,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-9094A3D9,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20260916,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-ACFF3FCD,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261008,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BE9B6628,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261102,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E1C7226D,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261107,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-745147C8,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261219,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DA60E626,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_001-20261228,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2C71344D,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260128,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-ACF51F78,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260209,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-39B50BFB,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260222,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-13ED92C9,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260322,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-01C6669D,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260403,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F03B151C,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260411,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A622DD8B,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260505,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A51C2876,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260601,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8E8942EB,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260608,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A691FC7E,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260617,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EE00CB20,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260624,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7245D857,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260701,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7D48E46F,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260709,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C6EF5F52,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20260802,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E5967F0B,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_002-20261111,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-11B785F5,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260405,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D25EF817,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260412,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-387B05FC,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260429,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CE1A0B7B,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260506,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-88D0815E,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260510,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-89D417D2,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260519,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DA171AD3,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260527,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-70E5F52D,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260621,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FC04B031,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260626,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-AE399EAF,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260704,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-06FD0C18,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260711,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FEAB0207,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260715,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-9752B3B4,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260722,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-21999A98,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_003-20260731,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EB01BDA7,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260224,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CECE646D,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260313,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2918AE09,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260410,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4B5C12C7,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260418,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B905B661,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260428,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-46D92888,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260503,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BF3E6DA0,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260522,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-72578838,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260603,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E40F47CB,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260619,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1DC9A044,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260629,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CD79A811,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260703,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4E7CCC1C,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260710,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D3FB8E48,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260719,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A7E08F45,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260726,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B582268A,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20260903,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-9AF1E757,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261001,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E826A7E2,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261012,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2656CFD5,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261025,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-092396A6,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261120,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-96C7A4B6,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261125,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E3B413FF,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261129,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-86A48A0A,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261212,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D4E1C17D,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261216,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4EFF31E5,DPKG-PKG-EP-HOSP-001-DEPT-MED-kpi_006-20261226,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C7515D44,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260107,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-761FB9CC,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260122,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4E028227,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260305,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F7AFC0A6,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260314,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3E27F114,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260325,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7242D063,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260331,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8B9821A0,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260405,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2C6A2571,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260417,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-48CC351E,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260423,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-75242A2E,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260428,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6A80B78D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260517,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B2E00525,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260530,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B0F762AF,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260616,1.0,Requires Budget Data,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BFC50988,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260622,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-281177D4,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260706,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2250B85C,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260815,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8F5CECC0,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260823,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D063F193,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260830,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D51DDEA3,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20260929,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3721071F,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261008,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B279B61C,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261017,1.0,Requires Budget Data,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-60FD582A,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261029,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7099E51D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261110,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-13FEB09D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261116,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1CA7BDBF,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261128,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-9F4F5F9F,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261203,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F432E3FC,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261209,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4EE63CD8,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261214,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0245497D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261219,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4E82C798,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_001-20261223,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-26891847,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260118,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-787EBEF1,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260319,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7BC18366,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260404,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-343170E0,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260414,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DA31249A,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260421,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C36D2027,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260504,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-29796794,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260704,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5321BAAD,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260826,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-870E210D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20260926,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3E85EBA5,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261009,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3FCD5697,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261030,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BE97E39D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261112,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2790FE99,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261121,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DDE8DAC0,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_002-20261226,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1CBF93BD,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260402,1.0,Requires Budget Data,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E07C513A,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260410,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-010136D2,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260420,1.0,Non-Quantitative,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-859AC634,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260430,1.0,Non-Quantitative,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-528D9C01,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260505,1.0,Non-Quantitative,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6ED548F3,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260509,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CB03D008,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260602,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-71DC99B7,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260619,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-09989BC8,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260629,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F4CB5D96,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260709,1.0,Not Suitable for Decision Use,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-85F53FD9,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260716,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EF3627C4,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_004-20260721,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CE1CCC0F,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260518,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0381E009,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260526,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EC4BEF34,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260624,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3639DF1E,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260728,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F5673056,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260808,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6AC66533,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20260921,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-92FE1141,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20261002,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E6FB6FB6,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_005-20261225,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0C3321BD,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260119,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C835EA50,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260129,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1FA4673C,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260211,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F4014A0D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260401,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FF7FA27D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260415,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6113C791,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260425,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2B143687,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260523,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F611B923,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260601,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6A77874D,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260606,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A3B1819B,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260715,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A13D3DDA,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260719,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4E1BD4C1,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260802,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4C9FDEA2,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20260818,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-9306D571,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261020,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4667C923,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261102,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-873C82F9,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261117,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-72A44D8E,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261204,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-82766D70,DPKG-PKG-EP-HOSP-001-DEPT-OPC-kpi_006-20261215,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-26212CFC,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260111,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2A16FA54,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260115,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D95A60D0,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260203,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BE56E7E8,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260207,1.0,Requires Financial Input,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-38759B23,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260212,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-332F16AF,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260326,1.0,Requires Benefit Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6983AA05,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260413,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7FDCEB51,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260421,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BA1CB137,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260502,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FA2AF820,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260510,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-767F4699,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260515,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CF7ED4AD,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260521,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3038C102,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260623,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8415F325,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260710,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DD9CDD52,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260727,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-45A98C6D,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260813,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FF9ABE62,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20260915,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-34BCE88C,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261024,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D1EEE455,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261110,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FE11FF40,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_001-20261229,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1A0EFE8F,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260103,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4B5FA6D9,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260209,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E6688E78,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260221,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D40FA7F1,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260302,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C3466B69,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260328,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-31DC4D80,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260406,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5285CC8E,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260416,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-26D4D462,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260424,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3F32DEF4,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260430,1.0,Requires Benefit Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-903D8E18,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260519,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-880BD718,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260529,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E88EBF58,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260603,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3BBF3DD3,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260613,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-744557F8,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260704,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E4191B54,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260708,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F29EFA0A,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260719,1.0,Requires Financial Input,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-673EDDF7,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260728,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8E61F5AE,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260911,1.0,Requires Budget Data,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8476F9E7,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20260925,1.0,Not Suitable for Decision Use,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-64E78D33,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261010,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0C4C1FC6,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261018,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-35CAC90A,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261025,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8BB08125,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261104,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7093CEA2,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_002-20261214,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EF1C3823,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260121,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-558BECDB,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260202,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-CCF48CE0,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260215,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5D989AA2,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260301,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EADC9450,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260306,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2A97D98B,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260314,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4A0AF174,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260321,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FB39A0DB,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260401,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EB99C586,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260417,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EE4E111B,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260422,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C1A4ACB5,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260427,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-25D985B9,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260506,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7EAF892A,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260522,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-9F8A8EA4,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260604,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-47BBC7DF,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260609,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-9BE1282E,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260702,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B8563ED5,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260805,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-873DC16E,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260811,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E4881138,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20260823,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-75618725,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261003,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-54E81592,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261028,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FC8458BD,DPKG-PKG-EP-HOSP-001-DEPT-PEX-kpi_006-20261231,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-63E75D56,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260127,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-04A60433,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260131,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-18849847,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260209,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A105E33D,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260301,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2D1D332B,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260305,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7FBFDADD,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260311,1.0,Requires Budget Data,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-81472F44,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260401,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F339A84B,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260411,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7691FEDA,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260415,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FF3ED425,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260429,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DDDD1736,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260504,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-625F2CD5,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260517,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5C70B122,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260521,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-32B611C9,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260529,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F92260BB,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260606,1.0,Requires Baseline Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-10A3BC4F,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260613,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-34195C3E,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260618,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-0F994B1D,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260702,1.0,Requires Evidence Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B5BA4BBE,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260709,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FD49A0FD,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260726,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2D2C078A,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260802,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BFC7E803,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260822,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2EEEDBCE,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260903,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-924BE0A8,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260916,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C14259A8,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20260929,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7EC1C005,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261020,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-04333A2F,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261026,1.0,Requires Assumption Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-7D7F7778,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261111,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-47635388,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261127,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-A885ED11,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_001-20261203,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-45E6156D,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260120,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-DF8FFE8D,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260125,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4BF31853,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260214,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1C370DE6,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260226,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4D39979C,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260304,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FE2A6DD7,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260314,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-277EE903,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260319,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B98CD83C,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260422,1.0,Requires Additional Scenario Analysis,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-FCC51482,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260502,1.0,Not Suitable for Decision Use,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3CD5EB4A,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260509,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-63774E50,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260602,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-956D9B81,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260621,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-E36F4EB9,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260704,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5058924D,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260724,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-72B38DAC,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260824,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D2CA5DB7,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260908,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F5CBC0C7,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20260912,1.0,Requires Stakeholder Validation,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B2AF8FDF,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261004,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1B77B184,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261018,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-8DFC0234,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261030,1.0,Ready for Integrated Management Review,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-70655768,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261219,1.0,Requires Lineage Completion,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6C6F3545,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_002-20261230,1.0,Ready with Conditions,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D1D85828,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260407,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-15DE1F80,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260516,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4FD67075,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260526,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-D7B9E2BB,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260530,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-89A1B13B,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260604,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-00CEDFC6,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260608,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-14E4C6A2,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260623,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C476AE91,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260627,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-2333DBB9,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260708,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-23CECF86,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260714,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-82FC1FEA,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_003-20260730,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-9B6EC1E7,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260217,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-969E23C9,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260223,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-115CC7E5,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260414,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F1EB112F,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260428,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-1364DF86,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260609,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-3406712C,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260701,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C0AAD232,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260705,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C4D8A58E,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260727,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-534435FB,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260731,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EB49CEFB,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260814,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B1C653D8,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260906,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-6C49F226,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260914,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-F4774794,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20260927,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-EDA641EA,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261005,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-BD61DFE6,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261009,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-B95801A5,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261105,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-92D83863,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261117,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-5E2E1942,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261121,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-4F5A39CA,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261202,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-975D00E0,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261208,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-26E95736,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261214,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented
+HST-C0620063,DPKG-PKG-EP-HOSP-001-DEPT-SURG-kpi_006-20261226,1.0,Monitoring Only,,General Queue,Pending Management Review,,,,,,,,,,Initial Governed State,No historical decisions invented

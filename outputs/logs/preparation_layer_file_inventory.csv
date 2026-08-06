@@ -1,0 +1,17 @@
+file_name,status
+processed_hospital_master.csv,Present
+processed_department_master.csv,Present
+processed_staff_role_master.csv,Present
+processed_staff_master.csv,Present
+processed_staff_roster.csv,Present
+processed_staff_attendance.csv,Present
+processed_staffing_requirement.csv,Present
+processed_workforce_daily.csv,Present
+processed_patient_encounters.csv,Present
+processed_patient_queue.csv,Present
+processed_bed_capacity.csv,Present
+processed_service_schedule.csv,Present
+processed_patient_flow_daily.csv,Present
+processed_patient_complaints.csv,Present
+processed_patient_surveys.csv,Present
+processed_patient_experience_daily.csv,Present

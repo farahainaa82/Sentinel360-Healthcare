@@ -1,0 +1,7 @@
+card_id,card_name,count_field,percentage_field,status_label,status
+CARD_01,Packages Requiring Attention,management_attention_level,percentage,Attention,Active
+CARD_02,Critical and High Risk,risk_tier,percentage,Risk,Active
+CARD_03,Ready for Management Review,readiness_status,percentage,Ready,Active
+CARD_04,Ready with Conditions,readiness_status,percentage,Conditional,Active
+CARD_05,Monitoring Only,readiness_status,percentage,Monitoring,Active
+CARD_06,Pending Management Review,approval_status,percentage,Pending,Active

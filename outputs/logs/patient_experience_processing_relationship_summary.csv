@@ -1,0 +1,7 @@
+relationship,total_records,valid_count,invalid_count,orphan_count,relationship_status
+complaints_to_hospital,1465,1465,0,0,OK
+complaints_to_department,1465,1465,0,0,OK
+surveys_to_hospital,5244,5244,0,0,OK
+surveys_to_department,5244,5244,0,0,OK
+daily_to_complaints,2621,1166,0,0,OK
+daily_to_surveys,2621,2441,0,0,OK

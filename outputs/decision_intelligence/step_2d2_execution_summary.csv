@@ -1,0 +1,40 @@
+metric,value
+Authoritative files verified,15
+Frozen checksum result,PASS
+Integrated decisions processed,646
+Decision packages created,646
+Package Ready with Conditions,311
+Package Monitoring Only,280
+Package Requires Assumption Validation,46
+Package Non-Quantitative,9
+Package Not Suitable,0
+Package Rejected,0
+Complete packages,0
+Complete with Conditions packages,311
+Partial packages,46
+Monitoring packages,280
+Non-Quantitative packages,9
+Management questions created,1695
+Blocking questions created,1268
+Required confirmations created,1314
+Management actions created,7106
+Monitoring requirements created,637
+Package narratives created,646
+Priority-view records created,646
+Export contracts created,3876
+Evidence records created,646
+Lineage records created,646
+Governance issues logged,0
+Decision issues logged,0
+No preferred scenario selected,True
+No approved recommendation recorded,True
+No management action selected,True
+No management approval recorded,True
+Scenario values unchanged,True
+Financial values unchanged,True
+Recommendation values unchanged,True
+causality_status remains Not Confirmed,True
+Output counts reconcile,True
+Manifest checksums complete,True
+Step 2D-2 status,COMPLETE
+Total execution time seconds,1.69

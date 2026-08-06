@@ -1,0 +1,64 @@
+config_id,config_type,kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+RW_kpi_001_THR,COMPONENT_WEIGHT,kpi_001,threshold_component_weight,1.0,multiplier,Weight for threshold severity component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_001_BRH,COMPONENT_WEIGHT,kpi_001,breach_component_weight,1.0,multiplier,Weight for breach component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_001_WCH,COMPONENT_WEIGHT,kpi_001,watch_component_weight,1.0,multiplier,Weight for watch condition component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_001_PER,COMPONENT_WEIGHT,kpi_001,persistence_component_weight,1.0,multiplier,Weight for persistence component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_001_TRD,COMPONENT_WEIGHT,kpi_001,trend_component_weight,1.0,multiplier,Weight for trend component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_001_SUS,COMPONENT_WEIGHT,kpi_001,sustained_movement_weight,1.0,multiplier,Weight for sustained movement component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_001_SIG,COMPONENT_WEIGHT,kpi_001,statistical_signal_weight,1.0,multiplier,Weight for statistical signal component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_001_CNF,COMPONENT_WEIGHT,kpi_001,confidence_adjustment_weight,1.0,multiplier,Weight for confidence adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_001_GOV,COMPONENT_WEIGHT,kpi_001,governance_adjustment_weight,1.0,multiplier,Weight for governance adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_002_THR,COMPONENT_WEIGHT,kpi_002,threshold_component_weight,1.0,multiplier,Weight for threshold severity component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_002_BRH,COMPONENT_WEIGHT,kpi_002,breach_component_weight,1.0,multiplier,Weight for breach component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_002_WCH,COMPONENT_WEIGHT,kpi_002,watch_component_weight,1.0,multiplier,Weight for watch condition component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_002_PER,COMPONENT_WEIGHT,kpi_002,persistence_component_weight,1.0,multiplier,Weight for persistence component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_002_TRD,COMPONENT_WEIGHT,kpi_002,trend_component_weight,1.0,multiplier,Weight for trend component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_002_SUS,COMPONENT_WEIGHT,kpi_002,sustained_movement_weight,1.0,multiplier,Weight for sustained movement component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_002_SIG,COMPONENT_WEIGHT,kpi_002,statistical_signal_weight,1.0,multiplier,Weight for statistical signal component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_002_CNF,COMPONENT_WEIGHT,kpi_002,confidence_adjustment_weight,1.0,multiplier,Weight for confidence adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_002_GOV,COMPONENT_WEIGHT,kpi_002,governance_adjustment_weight,1.0,multiplier,Weight for governance adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_003_THR,COMPONENT_WEIGHT,kpi_003,threshold_component_weight,1.0,multiplier,Weight for threshold severity component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_003_BRH,COMPONENT_WEIGHT,kpi_003,breach_component_weight,1.0,multiplier,Weight for breach component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_003_WCH,COMPONENT_WEIGHT,kpi_003,watch_component_weight,1.0,multiplier,Weight for watch condition component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_003_PER,COMPONENT_WEIGHT,kpi_003,persistence_component_weight,1.0,multiplier,Weight for persistence component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_003_TRD,COMPONENT_WEIGHT,kpi_003,trend_component_weight,1.0,multiplier,Weight for trend component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_003_SUS,COMPONENT_WEIGHT,kpi_003,sustained_movement_weight,1.0,multiplier,Weight for sustained movement component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_003_SIG,COMPONENT_WEIGHT,kpi_003,statistical_signal_weight,1.0,multiplier,Weight for statistical signal component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_003_CNF,COMPONENT_WEIGHT,kpi_003,confidence_adjustment_weight,1.0,multiplier,Weight for confidence adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_003_GOV,COMPONENT_WEIGHT,kpi_003,governance_adjustment_weight,1.0,multiplier,Weight for governance adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_004_THR,COMPONENT_WEIGHT,kpi_004,threshold_component_weight,1.0,multiplier,Weight for threshold severity component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_004_BRH,COMPONENT_WEIGHT,kpi_004,breach_component_weight,1.0,multiplier,Weight for breach component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_004_WCH,COMPONENT_WEIGHT,kpi_004,watch_component_weight,1.0,multiplier,Weight for watch condition component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_004_PER,COMPONENT_WEIGHT,kpi_004,persistence_component_weight,1.0,multiplier,Weight for persistence component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_004_TRD,COMPONENT_WEIGHT,kpi_004,trend_component_weight,1.0,multiplier,Weight for trend component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_004_SUS,COMPONENT_WEIGHT,kpi_004,sustained_movement_weight,1.0,multiplier,Weight for sustained movement component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_004_SIG,COMPONENT_WEIGHT,kpi_004,statistical_signal_weight,1.0,multiplier,Weight for statistical signal component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_004_CNF,COMPONENT_WEIGHT,kpi_004,confidence_adjustment_weight,1.0,multiplier,Weight for confidence adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_004_GOV,COMPONENT_WEIGHT,kpi_004,governance_adjustment_weight,1.0,multiplier,Weight for governance adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_005_THR,COMPONENT_WEIGHT,kpi_005,threshold_component_weight,1.0,multiplier,Weight for threshold severity component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_005_BRH,COMPONENT_WEIGHT,kpi_005,breach_component_weight,1.0,multiplier,Weight for breach component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_005_WCH,COMPONENT_WEIGHT,kpi_005,watch_component_weight,1.0,multiplier,Weight for watch condition component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_005_PER,COMPONENT_WEIGHT,kpi_005,persistence_component_weight,1.0,multiplier,Weight for persistence component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_005_TRD,COMPONENT_WEIGHT,kpi_005,trend_component_weight,1.0,multiplier,Weight for trend component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_005_SUS,COMPONENT_WEIGHT,kpi_005,sustained_movement_weight,1.0,multiplier,Weight for sustained movement component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_005_SIG,COMPONENT_WEIGHT,kpi_005,statistical_signal_weight,1.0,multiplier,Weight for statistical signal component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_005_CNF,COMPONENT_WEIGHT,kpi_005,confidence_adjustment_weight,1.0,multiplier,Weight for confidence adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_005_GOV,COMPONENT_WEIGHT,kpi_005,governance_adjustment_weight,1.0,multiplier,Weight for governance adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_006_THR,COMPONENT_WEIGHT,kpi_006,threshold_component_weight,1.0,multiplier,Weight for threshold severity component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_006_BRH,COMPONENT_WEIGHT,kpi_006,breach_component_weight,1.0,multiplier,Weight for breach component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_006_WCH,COMPONENT_WEIGHT,kpi_006,watch_component_weight,1.0,multiplier,Weight for watch condition component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_006_PER,COMPONENT_WEIGHT,kpi_006,persistence_component_weight,1.0,multiplier,Weight for persistence component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_006_TRD,COMPONENT_WEIGHT,kpi_006,trend_component_weight,1.0,multiplier,Weight for trend component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_006_SUS,COMPONENT_WEIGHT,kpi_006,sustained_movement_weight,1.0,multiplier,Weight for sustained movement component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_006_SIG,COMPONENT_WEIGHT,kpi_006,statistical_signal_weight,1.0,multiplier,Weight for statistical signal component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_006_CNF,COMPONENT_WEIGHT,kpi_006,confidence_adjustment_weight,1.0,multiplier,Weight for confidence adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_kpi_006_GOV,COMPONENT_WEIGHT,kpi_006,governance_adjustment_weight,1.0,multiplier,Weight for governance adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_ALL_THR,COMPONENT_WEIGHT,ALL,threshold_component_weight,1.0,multiplier,Weight for threshold severity component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_ALL_BRH,COMPONENT_WEIGHT,ALL,breach_component_weight,1.0,multiplier,Weight for breach component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_ALL_WCH,COMPONENT_WEIGHT,ALL,watch_component_weight,1.0,multiplier,Weight for watch condition component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_ALL_PER,COMPONENT_WEIGHT,ALL,persistence_component_weight,1.0,multiplier,Weight for persistence component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_ALL_TRD,COMPONENT_WEIGHT,ALL,trend_component_weight,1.0,multiplier,Weight for trend component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_ALL_SUS,COMPONENT_WEIGHT,ALL,sustained_movement_weight,1.0,multiplier,Weight for sustained movement component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_ALL_SIG,COMPONENT_WEIGHT,ALL,statistical_signal_weight,1.0,multiplier,Weight for statistical signal component,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_ALL_CNF,COMPONENT_WEIGHT,ALL,confidence_adjustment_weight,1.0,multiplier,Weight for confidence adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+RW_ALL_GOV,COMPONENT_WEIGHT,ALL,governance_adjustment_weight,1.0,multiplier,Weight for governance adjustment,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design

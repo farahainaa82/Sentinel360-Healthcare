@@ -1,0 +1,52 @@
+profile_id,assumption_set_id,scenario_template_id,comparator_type,assumption_name,assumption_value,unit,value_source,hard_limit_check,soft_warning_check,stakeholder_validation_required,version,active_flag,notes
+PROF-STAFF-CONS,ASSUM-STAFF-001,SCEN-STAFF-001,Conservative,additional_staff_count,1,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Low-regret trial: minimal additional staff
+PROF-STAFF-CONS,ASSUM-STAFF-001,SCEN-STAFF-001,Conservative,temporary_staff_count,1,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Single temporary staff member
+PROF-STAFF-CONS,ASSUM-STAFF-001,SCEN-STAFF-001,Conservative,staff_reassignment_count,0,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,No reassignment to minimize disruption
+PROF-STAFF-CONS,ASSUM-STAFF-001,SCEN-STAFF-001,Conservative,uncovered_shift_reduction_pct,0,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,No targeted shift reduction
+PROF-STAFF-CONS,ASSUM-STAFF-001,SCEN-STAFF-001,Conservative,intervention_duration_days,7,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Short one-week trial
+PROF-STAFF-EXP,ASSUM-STAFF-001,SCEN-STAFF-001,Expected,additional_staff_count,2,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Moderate staffing increase
+PROF-STAFF-EXP,ASSUM-STAFF-001,SCEN-STAFF-001,Expected,temporary_staff_count,2,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Two temporary staff members
+PROF-STAFF-EXP,ASSUM-STAFF-001,SCEN-STAFF-001,Expected,staff_reassignment_count,1,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,One reassigned staff member
+PROF-STAFF-EXP,ASSUM-STAFF-001,SCEN-STAFF-001,Expected,uncovered_shift_reduction_pct,10,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Moderate uncovered-shift reduction
+PROF-STAFF-EXP,ASSUM-STAFF-001,SCEN-STAFF-001,Expected,intervention_duration_days,14,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Standard two-week period
+PROF-STAFF-HIGH,ASSUM-STAFF-001,SCEN-STAFF-001,Higher Intensity,additional_staff_count,4,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Strong staffing increase
+PROF-STAFF-HIGH,ASSUM-STAFF-001,SCEN-STAFF-001,Higher Intensity,temporary_staff_count,3,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Three temporary staff members
+PROF-STAFF-HIGH,ASSUM-STAFF-001,SCEN-STAFF-001,Higher Intensity,staff_reassignment_count,2,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Two reassigned staff members
+PROF-STAFF-HIGH,ASSUM-STAFF-001,SCEN-STAFF-001,Higher Intensity,uncovered_shift_reduction_pct,20,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Significant uncovered-shift reduction
+PROF-STAFF-HIGH,ASSUM-STAFF-001,SCEN-STAFF-001,Higher Intensity,intervention_duration_days,30,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Extended one-month trial
+PROF-ABS-CONS,ASSUM-ABS-001,SCEN-ABS-001,Conservative,assumed_absenteeism_reduction_pct,10,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Modest absenteeism reduction target
+PROF-ABS-CONS,ASSUM-ABS-001,SCEN-ABS-001,Conservative,replacement_coverage_pct,30,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Partial replacement coverage
+PROF-ABS-CONS,ASSUM-ABS-001,SCEN-ABS-001,Conservative,contingency_roster_activation_pct,25,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Quarter contingency activation
+PROF-ABS-CONS,ASSUM-ABS-001,SCEN-ABS-001,Conservative,absence_duration_reduction_days,1,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Minimal absence reduction
+PROF-ABS-CONS,ASSUM-ABS-001,SCEN-ABS-001,Conservative,intervention_duration_days,7,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Short one-week trial
+PROF-ABS-EXP,ASSUM-ABS-001,SCEN-ABS-001,Expected,assumed_absenteeism_reduction_pct,20,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Moderate absenteeism reduction target
+PROF-ABS-EXP,ASSUM-ABS-001,SCEN-ABS-001,Expected,replacement_coverage_pct,50,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Half replacement coverage
+PROF-ABS-EXP,ASSUM-ABS-001,SCEN-ABS-001,Expected,contingency_roster_activation_pct,50,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Half contingency activation
+PROF-ABS-EXP,ASSUM-ABS-001,SCEN-ABS-001,Expected,absence_duration_reduction_days,2,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Moderate absence reduction
+PROF-ABS-EXP,ASSUM-ABS-001,SCEN-ABS-001,Expected,intervention_duration_days,14,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Standard two-week period
+PROF-ABS-HIGH,ASSUM-ABS-001,SCEN-ABS-001,Higher Intensity,assumed_absenteeism_reduction_pct,35,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Aggressive absenteeism reduction target
+PROF-ABS-HIGH,ASSUM-ABS-001,SCEN-ABS-001,Higher Intensity,replacement_coverage_pct,75,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Strong replacement coverage
+PROF-ABS-HIGH,ASSUM-ABS-001,SCEN-ABS-001,Higher Intensity,contingency_roster_activation_pct,75,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Strong contingency activation
+PROF-ABS-HIGH,ASSUM-ABS-001,SCEN-ABS-001,Higher Intensity,absence_duration_reduction_days,4,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Significant absence reduction
+PROF-ABS-HIGH,ASSUM-ABS-001,SCEN-ABS-001,Higher Intensity,intervention_duration_days,30,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Extended one-month trial
+PROF-FLOW-CONS,ASSUM-FLOW-001,SCEN-FLOW-001,Conservative,service_capacity_change_pct,5,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Small capacity increase
+PROF-FLOW-CONS,ASSUM-FLOW-001,SCEN-FLOW-001,Conservative,throughput_change_pct,2,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Minimal throughput improvement
+PROF-FLOW-CONS,ASSUM-FLOW-001,SCEN-FLOW-001,Conservative,arrival_change_pct,0,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,No arrival change
+PROF-FLOW-CONS,ASSUM-FLOW-001,SCEN-FLOW-001,Conservative,routing_efficiency_change_pct,5,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Small routing improvement
+PROF-FLOW-CONS,ASSUM-FLOW-001,SCEN-FLOW-001,Conservative,temporary_resource_change,1,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Minimal temporary resource
+PROF-FLOW-CONS,ASSUM-FLOW-001,SCEN-FLOW-001,Conservative,intervention_duration_days,7,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Short one-week trial
+PROF-FLOW-EXP,ASSUM-FLOW-001,SCEN-FLOW-001,Expected,service_capacity_change_pct,10,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Moderate capacity increase
+PROF-FLOW-EXP,ASSUM-FLOW-001,SCEN-FLOW-001,Expected,throughput_change_pct,5,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Moderate throughput improvement
+PROF-FLOW-EXP,ASSUM-FLOW-001,SCEN-FLOW-001,Expected,arrival_change_pct,0,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,No arrival change
+PROF-FLOW-EXP,ASSUM-FLOW-001,SCEN-FLOW-001,Expected,routing_efficiency_change_pct,10,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Moderate routing improvement
+PROF-FLOW-EXP,ASSUM-FLOW-001,SCEN-FLOW-001,Expected,temporary_resource_change,3,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Moderate temporary resource
+PROF-FLOW-EXP,ASSUM-FLOW-001,SCEN-FLOW-001,Expected,intervention_duration_days,14,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Standard two-week period
+PROF-FLOW-HIGH,ASSUM-FLOW-001,SCEN-FLOW-001,Higher Intensity,service_capacity_change_pct,20,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Strong capacity increase
+PROF-FLOW-HIGH,ASSUM-FLOW-001,SCEN-FLOW-001,Higher Intensity,throughput_change_pct,12,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Strong throughput improvement
+PROF-FLOW-HIGH,ASSUM-FLOW-001,SCEN-FLOW-001,Higher Intensity,arrival_change_pct,0,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,No arrival change
+PROF-FLOW-HIGH,ASSUM-FLOW-001,SCEN-FLOW-001,Higher Intensity,routing_efficiency_change_pct,18,Percent,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Strong routing improvement
+PROF-FLOW-HIGH,ASSUM-FLOW-001,SCEN-FLOW-001,Higher Intensity,temporary_resource_change,6,Count,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Significant temporary resource
+PROF-FLOW-HIGH,ASSUM-FLOW-001,SCEN-FLOW-001,Higher Intensity,intervention_duration_days,30,Days,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Extended one-month trial
+PROF-COMB-CONS,ASSUM-COMB-001,SCEN-COMB-001,Conservative,interaction_adjustment_factor,0.6,Ratio,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Conservative cross-domain interaction
+PROF-COMB-EXP,ASSUM-COMB-001,SCEN-COMB-001,Expected,interaction_adjustment_factor,0.75,Ratio,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Moderate cross-domain interaction
+PROF-COMB-HIGH,ASSUM-COMB-001,SCEN-COMB-001,Higher Intensity,interaction_adjustment_factor,0.9,Ratio,fixed_profile,PASS,PASS,True,2C-2E-CORR-1.0,True,Higher cross-domain interaction

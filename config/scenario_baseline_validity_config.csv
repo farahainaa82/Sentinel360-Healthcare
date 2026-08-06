@@ -1,0 +1,9 @@
+config_id,config_name,threshold_type,threshold_value,allowed_values,action_if_failed,description
+BASE-001,Baseline Status Allowlist,categorical,,Available;Available with Conditions,reject,Baseline must not be Blocked
+BASE-002,Baseline Data Completeness Minimum,numeric,0.5,,flag,Baseline data completeness must be >= 50%
+BASE-003,Baseline Observation Count Minimum,numeric,1,,flag,Baseline must have at least 1 observation
+BASE-004,Baseline Confidence Minimum,categorical,,Low;Moderate;High,flag,Baseline confidence must not be Insufficient Evidence
+BASE-005,Baseline Provisional Flag,boolean,FALSE,,flag,Provisional baselines require review
+BASE-006,Baseline Contradiction Threshold,categorical,,None;Low;Moderate,flag,High baseline contradiction severity triggers review
+BASE-007,Baseline Reference Date Recency,days,365,,flag,Baseline reference date must be within 1 year
+BASE-008,Baseline Window Validity,boolean,TRUE,,reject,Baseline window start must precede end

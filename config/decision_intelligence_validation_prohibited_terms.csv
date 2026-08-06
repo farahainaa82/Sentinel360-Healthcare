@@ -1,0 +1,17 @@
+term,severity,context_check
+Best scenario,Critical,all_text
+Optimal action,Critical,all_text
+AI recommendation,Critical,all_text
+Approved,Critical,all_text
+Guaranteed outcome,Critical,all_text
+Proven cause,Critical,all_text
+Will improve,Critical,all_text
+Will save,Critical,all_text
+Crisis,High,all_text
+Failure,High,all_text
+Disaster,High,all_text
+Recommended action,High,action_fields
+Pre-approved,High,all_text
+Auto-approved,High,all_text
+Machine decision,Critical,all_text
+Algorithmic approval,Critical,all_text

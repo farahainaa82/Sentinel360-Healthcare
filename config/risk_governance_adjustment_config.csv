@@ -1,0 +1,7 @@
+config_id,config_type,kpi_id,parameter_name,parameter_value,parameter_unit,description,enabled,version,status,effective_date,review_date,source_reference
+GOV_PRV_MUL,GOVERNANCE,ALL,provisional_multiplier,0.9,multiplier,Score multiplier for provisional thresholds,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+GOV_PRV_FLG,GOVERNANCE,ALL,provisional_flag_warning,True,boolean,Flag provisional in outputs,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+GOV_REV_DUE,GOVERNANCE,ALL,review_due_warning_days,30,days,Days before review to trigger warning,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+GOV_DUE_SOON,GOVERNANCE,ALL,review_due_soon_adjustment,0.95,multiplier,Multiplier when review due soon,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Technical Design
+GOV_MAT_THR,GOVERNANCE,ALL,provisional_materiality_threshold,15.0,score_points,Normalized score threshold above which provisional contribution is Material,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Governance Refinement
+GOV_MAT_MIN,GOVERNANCE,ALL,provisional_minor_threshold,5.0,score_points,Normalized score threshold below which provisional contribution is Minor,True,v1.0-draft,Technical Rule,2026-07-27,2026-12-31,Step 2B-3 Governance Refinement

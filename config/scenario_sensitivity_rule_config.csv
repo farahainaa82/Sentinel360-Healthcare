@@ -1,0 +1,6 @@
+rule_id,rule_name,rule_description,stable_condition,magnitude_variation_condition,sensitive_condition,reversal_condition,insufficient_condition,version,active_flag
+SENS-DIRECTION,Direction Stability,Outcome direction remains stable across comparators,all comparator directions are the same,,,,comparator count < 2,v1.0,True
+SENS-MAGNITUDE,Magnitude Variation,Impact magnitude changes materially across comparators,,max(abs_change) - min(abs_change) > 10% of baseline,,,comparator count < 2,v1.0,True
+SENS-ASSUMPTION,Assumption Sensitivity,Higher intensity triggers new trade-offs,,,warning count increases with intensity OR confidence decreases with intensity,,comparator count < 2,v1.0,True
+SENS-REVERSAL,Direction Reversal,Outcome direction reverses across comparators,,,,direction changes from improvement to adverse or vice versa,comparator count < 2,v1.0,True
+SENS-COVERAGE,Insufficient Comparator Coverage,Not enough comparators to assess sensitivity,,,,,comparator count < 3,v1.0,True

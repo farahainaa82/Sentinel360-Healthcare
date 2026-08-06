@@ -1,0 +1,361 @@
+hospital,department,department_code,year,month,kpi_id,kpi_name,period_type,chart_value,card_value,values_match,source_file,source_record_id,forecast_quality,warning_level,validation_note
+HOSP-001,DEPT-ED,DEPT-ED,2026,1,kpi_001,kpi_001,ACTUAL,92.8,92.8,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_001_2026_01,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,2,kpi_001,kpi_001,ACTUAL,92.9,92.9,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_001_2026_02,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,3,kpi_001,kpi_001,ACTUAL,89.5,89.5,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_001_2026_03,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,4,kpi_001,kpi_001,ACTUAL,90.2,90.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_001_2026_04,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,5,kpi_001,kpi_001,ACTUAL,89.3,89.3,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_001_2026_05,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,6,kpi_001,kpi_001,ACTUAL,88.2,88.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_001_2026_06,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,7,kpi_001,kpi_001,ACTUAL,87.3,87.3,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_001_2026_07,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,8,kpi_001,kpi_001,FORECAST,86.3,86.3,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_001_2026_08,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,9,kpi_001,kpi_001,FORECAST,85.4,85.4,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_001_2026_09,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,10,kpi_001,kpi_001,FORECAST,84.4,84.4,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_001_2026_10,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,11,kpi_001,kpi_001,FORECAST,83.5,83.5,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_001_2026_11,VERY LOW INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,12,kpi_001,kpi_001,FORECAST,82.6,82.6,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_001_2026_12,VERY LOW INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,1,kpi_002,kpi_002,ACTUAL,4.8,4.8,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_002_2026_01,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,2,kpi_002,kpi_002,ACTUAL,4.4,4.4,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_002_2026_02,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,3,kpi_002,kpi_002,ACTUAL,6.2,6.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_002_2026_03,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,4,kpi_002,kpi_002,ACTUAL,8.5,8.5,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_002_2026_04,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,5,kpi_002,kpi_002,ACTUAL,10.5,10.5,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_002_2026_05,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,6,kpi_002,kpi_002,ACTUAL,14.0,14.0,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_002_2026_06,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,7,kpi_002,kpi_002,ACTUAL,12.5,12.5,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_002_2026_07,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,8,kpi_002,kpi_002,FORECAST,12.5,12.5,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_002_2026_08,LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,9,kpi_002,kpi_002,FORECAST,12.5,12.5,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_002_2026_09,LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,10,kpi_002,kpi_002,FORECAST,12.5,12.5,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_002_2026_10,LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,11,kpi_002,kpi_002,FORECAST,12.5,12.5,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_002_2026_11,VERY LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,12,kpi_002,kpi_002,FORECAST,12.5,12.5,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_002_2026_12,VERY LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,1,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,2,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,3,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,4,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,5,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,6,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,7,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,8,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ED,DEPT-ED,2026,9,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ED,DEPT-ED,2026,10,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ED,DEPT-ED,2026,11,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ED,DEPT-ED,2026,12,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ED,DEPT-ED,2026,1,kpi_004,kpi_004,ACTUAL,32.0,32.0,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_004_2026_01,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,2,kpi_004,kpi_004,ACTUAL,32.0,32.0,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_004_2026_02,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,3,kpi_004,kpi_004,ACTUAL,36.6,36.6,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_004_2026_03,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,4,kpi_004,kpi_004,ACTUAL,44.8,44.8,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_004_2026_04,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,5,kpi_004,kpi_004,ACTUAL,45.0,45.0,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_004_2026_05,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,6,kpi_004,kpi_004,ACTUAL,54.2,54.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_004_2026_06,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,7,kpi_004,kpi_004,ACTUAL,54.5,54.5,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_004_2026_07,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,8,kpi_004,kpi_004,FORECAST,59.9,59.9,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_004_2026_08,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,9,kpi_004,kpi_004,FORECAST,64.2,64.2,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_004_2026_09,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,10,kpi_004,kpi_004,FORECAST,68.5,68.5,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_004_2026_10,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,11,kpi_004,kpi_004,FORECAST,72.8,72.8,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_004_2026_11,VERY LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,12,kpi_004,kpi_004,FORECAST,77.1,77.1,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_004_2026_12,VERY LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,1,kpi_005,kpi_005,ACTUAL,3.5,3.5,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_005_2026_01,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,2,kpi_005,kpi_005,ACTUAL,6.0,6.0,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_005_2026_02,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,3,kpi_005,kpi_005,ACTUAL,5.6,5.6,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_005_2026_03,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,4,kpi_005,kpi_005,ACTUAL,3.8,3.8,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_005_2026_04,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,5,kpi_005,kpi_005,ACTUAL,4.4,4.4,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_005_2026_05,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,6,kpi_005,kpi_005,ACTUAL,7.4,7.4,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_005_2026_06,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,7,kpi_005,kpi_005,ACTUAL,7.2,7.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_005_2026_07,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,8,kpi_005,kpi_005,FORECAST,7.2,7.2,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_005_2026_08,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,9,kpi_005,kpi_005,FORECAST,7.7,7.7,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_005_2026_09,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,10,kpi_005,kpi_005,FORECAST,8.2,8.2,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_005_2026_10,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,11,kpi_005,kpi_005,FORECAST,8.6,8.6,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_005_2026_11,VERY LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,12,kpi_005,kpi_005,FORECAST,9.1,9.1,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_005_2026_12,VERY LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,1,kpi_006,kpi_006,ACTUAL,3.4,3.4,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_006_2026_01,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,2,kpi_006,kpi_006,ACTUAL,3.6,3.6,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_006_2026_02,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,3,kpi_006,kpi_006,ACTUAL,3.0,3.0,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_006_2026_03,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,4,kpi_006,kpi_006,ACTUAL,3.2,3.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_006_2026_04,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,5,kpi_006,kpi_006,ACTUAL,3.2,3.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_006_2026_05,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,6,kpi_006,kpi_006,ACTUAL,2.8,2.8,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_006_2026_06,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,7,kpi_006,kpi_006,ACTUAL,2.9,2.9,True,kpi_daily (monthly actual),monthly_actual_DEPT-ED_kpi_006_2026_07,,,actual period
+HOSP-001,DEPT-ED,DEPT-ED,2026,8,kpi_006,kpi_006,FORECAST,2.7,2.7,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_006_2026_08,MODERATE INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,9,kpi_006,kpi_006,FORECAST,2.6,2.6,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_006_2026_09,MODERATE INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,10,kpi_006,kpi_006,FORECAST,2.5,2.5,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_006_2026_10,MODERATE INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,11,kpi_006,kpi_006,FORECAST,2.4,2.4,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_006_2026_11,VERY LOW INDICATIVE CONFIDENCE,High Early Warning,forecast period eligible
+HOSP-001,DEPT-ED,DEPT-ED,2026,12,kpi_006,kpi_006,FORECAST,2.3,2.3,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ED_kpi_006_2026_12,VERY LOW INDICATIVE CONFIDENCE,High Early Warning,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,1,kpi_001,kpi_001,ACTUAL,93.9,93.9,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_001_2026_01,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,2,kpi_001,kpi_001,ACTUAL,91.3,91.3,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_001_2026_02,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,3,kpi_001,kpi_001,ACTUAL,93.0,93.0,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_001_2026_03,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,4,kpi_001,kpi_001,ACTUAL,89.6,89.6,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_001_2026_04,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,5,kpi_001,kpi_001,ACTUAL,88.4,88.4,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_001_2026_05,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,6,kpi_001,kpi_001,ACTUAL,89.7,89.7,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_001_2026_06,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,7,kpi_001,kpi_001,ACTUAL,89.2,89.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_001_2026_07,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,8,kpi_001,kpi_001,FORECAST,87.6,87.6,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_001_2026_08,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,9,kpi_001,kpi_001,FORECAST,86.8,86.8,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_001_2026_09,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,10,kpi_001,kpi_001,FORECAST,86.0,86.0,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_001_2026_10,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,11,kpi_001,kpi_001,FORECAST,85.3,85.3,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_001_2026_11,VERY LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,12,kpi_001,kpi_001,FORECAST,84.5,84.5,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_001_2026_12,VERY LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,1,kpi_002,kpi_002,ACTUAL,6.2,6.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_002_2026_01,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,2,kpi_002,kpi_002,ACTUAL,5.8,5.8,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_002_2026_02,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,3,kpi_002,kpi_002,ACTUAL,7.2,7.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_002_2026_03,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,4,kpi_002,kpi_002,ACTUAL,9.8,9.8,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_002_2026_04,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,5,kpi_002,kpi_002,ACTUAL,9.3,9.3,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_002_2026_05,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,6,kpi_002,kpi_002,ACTUAL,11.3,11.3,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_002_2026_06,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,7,kpi_002,kpi_002,ACTUAL,9.6,9.6,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_002_2026_07,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,8,kpi_002,kpi_002,FORECAST,11.8,11.8,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_002_2026_08,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,9,kpi_002,kpi_002,FORECAST,12.6,12.6,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_002_2026_09,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,10,kpi_002,kpi_002,FORECAST,13.4,13.4,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_002_2026_10,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,11,kpi_002,kpi_002,FORECAST,14.3,14.3,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_002_2026_11,VERY LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,12,kpi_002,kpi_002,FORECAST,15.1,15.1,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_002_2026_12,VERY LOW INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,1,kpi_003,kpi_003,ACTUAL,81.6,81.6,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_003_2026_01,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,2,kpi_003,kpi_003,ACTUAL,82.3,82.3,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_003_2026_02,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,3,kpi_003,kpi_003,ACTUAL,86.9,86.9,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_003_2026_03,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,4,kpi_003,kpi_003,ACTUAL,95.3,95.3,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_003_2026_04,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,5,kpi_003,kpi_003,ACTUAL,94.2,94.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_003_2026_05,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,6,kpi_003,kpi_003,ACTUAL,104.6,104.6,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_003_2026_06,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,7,kpi_003,kpi_003,ACTUAL,104.5,104.5,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_003_2026_07,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,8,kpi_003,kpi_003,FORECAST,104.8,104.8,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_003_2026_08,MODERATE INDICATIVE CONFIDENCE,Escalating Warning,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,9,kpi_003,kpi_003,FORECAST,104.8,104.8,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_003_2026_09,MODERATE INDICATIVE CONFIDENCE,Escalating Warning,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,10,kpi_003,kpi_003,FORECAST,104.8,104.8,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_003_2026_10,MODERATE INDICATIVE CONFIDENCE,Escalating Warning,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,11,kpi_003,kpi_003,FORECAST,104.8,104.8,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_003_2026_11,VERY LOW INDICATIVE CONFIDENCE,Escalating Warning,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,12,kpi_003,kpi_003,FORECAST,104.8,104.8,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_003_2026_12,VERY LOW INDICATIVE CONFIDENCE,Escalating Warning,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,1,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,2,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,3,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,4,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,5,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,6,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,7,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,8,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,9,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,10,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,11,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,12,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,1,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,2,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,3,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,4,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,5,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,6,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,7,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,8,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,9,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,10,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,11,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,12,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,1,kpi_006,kpi_006,ACTUAL,3.7,3.7,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_006_2026_01,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,2,kpi_006,kpi_006,ACTUAL,3.6,3.6,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_006_2026_02,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,3,kpi_006,kpi_006,ACTUAL,3.4,3.4,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_006_2026_03,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,4,kpi_006,kpi_006,ACTUAL,3.3,3.3,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_006_2026_04,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,5,kpi_006,kpi_006,ACTUAL,3.3,3.3,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_006_2026_05,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,6,kpi_006,kpi_006,ACTUAL,2.9,2.9,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_006_2026_06,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,7,kpi_006,kpi_006,ACTUAL,2.9,2.9,True,kpi_daily (monthly actual),monthly_actual_DEPT-ICU_kpi_006_2026_07,,,actual period
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,8,kpi_006,kpi_006,FORECAST,2.7,2.7,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_006_2026_08,MODERATE INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,9,kpi_006,kpi_006,FORECAST,2.6,2.6,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_006_2026_09,MODERATE INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,10,kpi_006,kpi_006,FORECAST,2.4,2.4,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_006_2026_10,MODERATE INDICATIVE CONFIDENCE,High Early Warning,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,11,kpi_006,kpi_006,FORECAST,2.3,2.3,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_006_2026_11,VERY LOW INDICATIVE CONFIDENCE,High Early Warning,forecast period eligible
+HOSP-001,DEPT-ICU,DEPT-ICU,2026,12,kpi_006,kpi_006,FORECAST,2.2,2.2,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ICU_kpi_006_2026_12,VERY LOW INDICATIVE CONFIDENCE,High Early Warning,forecast period eligible
+HOSP-001,DEPT-MW,DEPT-MW,2026,1,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,2,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,3,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,4,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,5,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,6,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,7,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,8,kpi_001,kpi_001,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,9,kpi_001,kpi_001,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,10,kpi_001,kpi_001,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,11,kpi_001,kpi_001,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,12,kpi_001,kpi_001,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,1,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,2,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,3,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,4,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,5,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,6,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,7,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,8,kpi_002,kpi_002,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,9,kpi_002,kpi_002,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,10,kpi_002,kpi_002,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,11,kpi_002,kpi_002,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,12,kpi_002,kpi_002,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,1,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,2,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,3,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,4,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,5,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,6,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,7,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,8,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,9,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,10,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,11,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,12,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,1,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,2,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,3,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,4,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,5,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,6,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,7,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,8,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,9,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,10,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,11,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,12,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,1,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,2,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,3,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,4,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,5,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,6,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,7,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,8,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,9,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,10,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,11,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,12,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,1,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,2,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,3,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,4,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,5,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,6,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,7,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-MW,DEPT-MW,2026,8,kpi_006,kpi_006,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,9,kpi_006,kpi_006,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,10,kpi_006,kpi_006,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,11,kpi_006,kpi_006,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-MW,DEPT-MW,2026,12,kpi_006,kpi_006,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,1,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,2,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,3,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,4,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,5,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,6,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,7,kpi_001,kpi_001,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,8,kpi_001,kpi_001,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,9,kpi_001,kpi_001,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,10,kpi_001,kpi_001,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,11,kpi_001,kpi_001,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,12,kpi_001,kpi_001,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,1,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,2,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,3,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,4,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,5,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,6,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,7,kpi_002,kpi_002,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,8,kpi_002,kpi_002,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,9,kpi_002,kpi_002,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,10,kpi_002,kpi_002,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,11,kpi_002,kpi_002,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,12,kpi_002,kpi_002,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,1,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,2,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,3,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,4,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,5,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,6,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,7,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,8,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,9,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,10,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,11,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,12,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,1,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,2,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,3,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,4,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,5,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,6,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,7,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,8,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,9,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,10,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,11,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,12,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,1,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,2,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,3,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,4,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,5,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,6,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,7,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,8,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,9,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,10,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,11,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,12,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,1,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,2,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,3,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,4,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,5,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,6,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,7,kpi_006,kpi_006,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-OP,DEPT-OP,2026,8,kpi_006,kpi_006,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,9,kpi_006,kpi_006,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,10,kpi_006,kpi_006,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,11,kpi_006,kpi_006,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-OP,DEPT-OP,2026,12,kpi_006,kpi_006,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: 
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,1,kpi_001,kpi_001,ACTUAL,90.8,90.8,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_001_2026_01,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,2,kpi_001,kpi_001,ACTUAL,92.0,92.0,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_001_2026_02,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,3,kpi_001,kpi_001,ACTUAL,92.5,92.5,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_001_2026_03,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,4,kpi_001,kpi_001,ACTUAL,88.6,88.6,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_001_2026_04,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,5,kpi_001,kpi_001,ACTUAL,91.3,91.3,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_001_2026_05,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,6,kpi_001,kpi_001,ACTUAL,89.2,89.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_001_2026_06,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,7,kpi_001,kpi_001,ACTUAL,87.9,87.9,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_001_2026_07,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,8,kpi_001,kpi_001,FORECAST,88.1,88.1,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_001_2026_08,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,9,kpi_001,kpi_001,FORECAST,87.6,87.6,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_001_2026_09,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,10,kpi_001,kpi_001,FORECAST,87.0,87.0,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_001_2026_10,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,11,kpi_001,kpi_001,FORECAST,86.5,86.5,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_001_2026_11,VERY LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,12,kpi_001,kpi_001,FORECAST,85.9,85.9,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_001_2026_12,VERY LOW INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,1,kpi_002,kpi_002,ACTUAL,5.1,5.1,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_002_2026_01,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,2,kpi_002,kpi_002,ACTUAL,8.0,8.0,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_002_2026_02,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,3,kpi_002,kpi_002,ACTUAL,7.0,7.0,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_002_2026_03,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,4,kpi_002,kpi_002,ACTUAL,11.1,11.1,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_002_2026_04,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,5,kpi_002,kpi_002,ACTUAL,9.2,9.2,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_002_2026_05,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,6,kpi_002,kpi_002,ACTUAL,11.5,11.5,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_002_2026_06,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,7,kpi_002,kpi_002,ACTUAL,12.5,12.5,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_002_2026_07,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,8,kpi_002,kpi_002,FORECAST,13.7,13.7,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_002_2026_08,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,9,kpi_002,kpi_002,FORECAST,14.8,14.8,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_002_2026_09,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,10,kpi_002,kpi_002,FORECAST,15.9,15.9,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_002_2026_10,MODERATE INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,11,kpi_002,kpi_002,FORECAST,17.1,17.1,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_002_2026_11,VERY LOW INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,12,kpi_002,kpi_002,FORECAST,18.2,18.2,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_002_2026_12,VERY LOW INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,1,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,2,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,3,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,4,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,5,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,6,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,7,kpi_003,kpi_003,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,8,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,9,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,10,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,11,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,12,kpi_003,kpi_003,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,1,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,2,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,3,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,4,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,5,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,6,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,7,kpi_004,kpi_004,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,8,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,9,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,10,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,11,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,12,kpi_004,kpi_004,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,1,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,2,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,3,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,4,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,5,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,6,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,7,kpi_005,kpi_005,ACTUAL,,,False,kpi_daily (monthly actual),,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,8,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,9,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,10,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,11,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,12,kpi_005,kpi_005,FORECAST,,,True,outputs/forecasting/kpi_forecast_eligibility_audit.csv,,,Not Assessable,ineligible: Below minimum daily observation or month count
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,1,kpi_006,kpi_006,ACTUAL,3.4,3.4,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_006_2026_01,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,2,kpi_006,kpi_006,ACTUAL,3.5,3.5,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_006_2026_02,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,3,kpi_006,kpi_006,ACTUAL,3.4,3.4,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_006_2026_03,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,4,kpi_006,kpi_006,ACTUAL,3.1,3.1,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_006_2026_04,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,5,kpi_006,kpi_006,ACTUAL,3.3,3.3,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_006_2026_05,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,6,kpi_006,kpi_006,ACTUAL,2.9,2.9,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_006_2026_06,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,7,kpi_006,kpi_006,ACTUAL,3.0,3.0,True,kpi_daily (monthly actual),monthly_actual_DEPT-ADM_kpi_006_2026_07,,,actual period
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,8,kpi_006,kpi_006,FORECAST,2.9,2.9,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_006_2026_08,MODERATE INDICATIVE CONFIDENCE,Monitoring,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,9,kpi_006,kpi_006,FORECAST,2.8,2.8,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_006_2026_09,MODERATE INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,10,kpi_006,kpi_006,FORECAST,2.7,2.7,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_006_2026_10,MODERATE INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,11,kpi_006,kpi_006,FORECAST,2.6,2.6,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_006_2026_11,VERY LOW INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible
+HOSP-001,DEPT-ADM,DEPT-ADM,2026,12,kpi_006,kpi_006,FORECAST,2.5,2.5,True,outputs/forecasting/analytical_kpi_monthly_forecast.csv,HOSP-001_DEPT-ADM_kpi_006_2026_12,VERY LOW INDICATIVE CONFIDENCE,Emerging Warning,forecast period eligible

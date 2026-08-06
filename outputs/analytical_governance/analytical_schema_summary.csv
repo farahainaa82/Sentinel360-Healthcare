@@ -1,0 +1,10 @@
+schema_name,defined,required_field_count
+analytical_kpi_audit,True,5
+analytical_kpi_daily,True,5
+analytical_kpi_evidence,True,5
+analytical_kpi_exclusions,True,5
+analytical_kpi_issues,True,5
+analytical_kpi_lineage,True,5
+analytical_kpi_monthly,True,5
+analytical_kpi_readiness,True,5
+analytical_kpi_run_manifest,True,5

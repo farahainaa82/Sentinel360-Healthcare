@@ -1,0 +1,12 @@
+queue_id,queue_name,readiness_criteria,attention_criteria,status
+Q_01,Integrated Management Review Queue,Ready for Integrated Management Review,Standard Management Review,Active
+Q_02,Conditional Review Queue,Ready with Conditions,Conditional Review,Active
+Q_03,Assumption Validation Queue,Requires Assumption Validation,Conditional Review,Active
+Q_04,Financial Input Queue,Requires Financial Input,Conditional Review,Active
+Q_05,Budget Information Queue,Requires Budget Information,Conditional Review,Active
+Q_06,Stakeholder Validation Queue,Requires Stakeholder Validation,Conditional Review,Active
+Q_07,Additional Scenario Queue,Requires Additional Scenario Analysis,Conditional Review,Active
+Q_08,Monitoring Queue,Monitoring Only,Standard Management Review,Active
+Q_09,Non-Quantitative Review Queue,Non-Quantitative,Conditional Review,Active
+Q_10,Evidence Completion Queue,Requires Evidence Completion,Conditional Review,Active
+Q_11,Lineage Completion Queue,Requires Lineage Completion,Conditional Review,Active

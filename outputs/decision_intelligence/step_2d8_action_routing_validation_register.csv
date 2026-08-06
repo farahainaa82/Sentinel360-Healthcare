@@ -1,0 +1,6 @@
+validation_id,check,expected,actual,status,detail
+VA-AR-001,no_action_selected,0,0,PASS,
+VA-AR-002,no_scenario_selected,0,0,PASS,
+VA-AR-003,all_approval_pending,True,True,PASS,
+VA-AR-004,primary_not_recommended,0,0,PASS,
+VA-AR-005,action_routing_upstream_match,0,,PASS,Upstream action routing not available

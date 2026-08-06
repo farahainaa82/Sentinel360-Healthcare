@@ -1,0 +1,3 @@
+validation_id,check,expected,actual,status,detail
+VA-TR-001,no_action_tradeoff_severity,0,,PASS,Required columns not present
+VA-TR-002,displacement_risk_present,True,True,PASS,

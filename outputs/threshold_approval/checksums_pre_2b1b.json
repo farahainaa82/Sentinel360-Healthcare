@@ -1,0 +1,19 @@
+{
+  "config/kpi_threshold_config.csv": "da2bd8b93c7737a772f741de146a457aee21e3431e1e4e61d1e32ce979fde54f",
+  "data/analytical/analytical_six_kpi_daily.csv": "32bf96724283c015ac478198528a6ffa05ef6538bc63fe8c66739342935650d7",
+  "data/analytical/analytical_kpi_trend_signals.csv": "60cf1bf721d203ee566fdfe285ef832fd44cc1f795001b5b7f3ee247de712a1a",
+  "outputs/threshold_calibration/checksums_pre_2b1a.json": "ffbce611b007e7fa7ac95c6396702fa94ab9413f9351a2d3433302eccf84120a",
+  "outputs/threshold_calibration/threshold_audit_records.csv": "539d02c0f6f85ee5d7f9ddb8ef45dae8e7e9538ef320d014f9b64e701bc2504b",
+  "outputs/threshold_calibration/threshold_burden_results.csv": "757fa4f7fa40b9fe5a65170c4c463b9e384b36ec6c6f47f365cc4b76b5a1f02c",
+  "outputs/threshold_calibration/threshold_calibration_manifest.json": "05b1d27723a42ac9eca9c01a6dfab8cb8d8435a6e910fd66d6fd822a8594a107",
+  "outputs/threshold_calibration/threshold_candidates_all.csv": "93050c8fa3b74271d1906550cb329177efceb4d051f334643f71a12756c190d1",
+  "outputs/threshold_calibration/threshold_candidates_shortlisted.csv": "23039fdbd029c60a579b98718ddf3ae27b98a7e8e0a94b493ddb0908b26f8511",
+  "outputs/threshold_calibration/threshold_classification_results.csv": "fe83162e17443e8a32e7d1ac52991a9e7312b0618886701a06c6476e0cdc3cd9",
+  "outputs/threshold_calibration/threshold_distribution_profiles.csv": "08f83aae458bbf2f0f43e8da7ec9cfaf9623508a7e1c9fd2db9d3b6d8a2cf4e6",
+  "outputs/threshold_calibration/threshold_evidence_records.csv": "c70677bfd852c5693d7d046a773d6a50230ca9c330b785b6cb4817b0b5084f20",
+  "outputs/threshold_calibration/threshold_issue_records.csv": "69b13335ead736605b1bf8420f574a770a6a0d34141241cce186dd739e66773c",
+  "outputs/threshold_calibration/threshold_recommendations.csv": "ee52cdcfcff417f84a1345235927b251ee8dc7e09d50ac21eafd324452a22883",
+  "outputs/threshold_calibration/threshold_stability_results.csv": "538b36d4951ec81d805a7e5d93a62f63de28930c9480a82e8838522762b2b0c6",
+  "outputs/threshold_calibration/threshold_trend_alignment.csv": "27e9cd12eac2d93ec16db5a566c8159a0fdcfadd75f95369da81fdd7ba3bd317",
+  "outputs/threshold_calibration/threshold_validation_report.json": "df2dc41698d33021c622195179a3a47c0ce1225e9bd2c1b527de4350a9cbb644"
+}
