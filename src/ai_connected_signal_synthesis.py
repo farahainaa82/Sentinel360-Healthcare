@@ -26,6 +26,8 @@ from __future__ import annotations
 import os
 import re
 from dataclasses import dataclass, field, asdict
+
+from .runtime_secrets import get_runtime_secret
 from typing import Any, Dict, List, Optional
 
 from src._ai_tokenhub_transport import (
@@ -197,15 +199,30 @@ class AIConnectedSignalSynthesisService:
         if provider is not None:
             self.provider = provider
         else:
-            self.provider = os.getenv(_ENV_PROVIDER) or "tencent_hunyuan"
+            # Cloud-safe resolution: prefer st.secrets (Community Cloud),
+            # fall back to OS env var, finally the canonical default.
+            self.provider = get_runtime_secret(
+                "SENTINEL360_AI_PROVIDER",
+                default="tencent_hunyuan",
+            )
 
         if model is not None:
             self.model = model
         else:
-            self.model = os.getenv(_ENV_MODEL) or "hy3"
+            # Cloud-safe resolution: prefer st.secrets, fall back to env,
+            # finally the canonical default model.
+            self.model = get_runtime_secret(
+                "SENTINEL360_AI_MODEL",
+                default="hy3",
+            )
 
+        # No default: api_key remains None if neither st.secrets nor
+        # the OS env var is set, which triggers the deterministic
+        # fallback in the synthesis service.
         self.api_key = (
-            api_key if api_key is not None else os.getenv(_ENV_API_KEY)
+            api_key
+            if api_key is not None
+            else get_runtime_secret("SENTINEL360_AI_API_KEY")
         )
         self.timeout = float(timeout)
         self.temperature = float(temperature)

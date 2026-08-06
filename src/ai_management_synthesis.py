@@ -51,6 +51,8 @@ import json
 import os
 import re
 import time
+
+from .runtime_secrets import get_runtime_secret
 from dataclasses import dataclass, field, asdict
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
@@ -464,19 +466,30 @@ class AIManagementSynthesisService:
         if provider is not None:
             self.provider = provider
         else:
-            self.provider = (
-                os.getenv("SENTINEL360_AI_PROVIDER") or _DEFAULT_PROVIDER
+            # Cloud-safe resolution: prefer st.secrets (Community Cloud),
+            # fall back to OS env var, finally the canonical default.
+            self.provider = get_runtime_secret(
+                "SENTINEL360_AI_PROVIDER",
+                default=_DEFAULT_PROVIDER,
             )
 
         if model is not None:
             self.model = model
         else:
-            self.model = _DEFAULT_MODEL
+            # Cloud-safe resolution: prefer st.secrets, fall back to env,
+            # finally the canonical default model.
+            self.model = get_runtime_secret(
+                "SENTINEL360_AI_MODEL",
+                default=_DEFAULT_MODEL,
+            )
 
         if api_key is not None:
             self.api_key = api_key
         else:
-            self.api_key = os.getenv("SENTINEL360_AI_API_KEY") or None
+            # Cloud-safe resolution: prefer st.secrets, fall back to env.
+            # No default: api_key remains None if neither source is set,
+            # which already triggers the deterministic fallback.
+            self.api_key = get_runtime_secret("SENTINEL360_AI_API_KEY")
 
         self.timeout = timeout
         self.temperature = temperature
