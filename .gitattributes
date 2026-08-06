@@ -1,1 +1,2 @@
+outputs/log/patient_encounter_processing_lineage.csv filter=lfs diff=lfs merge=lfs -text
 outputs/logs/patient_encounter_processing_lineage.csv filter=lfs diff=lfs merge=lfs -text
